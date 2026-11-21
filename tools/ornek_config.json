@@ -1,0 +1,32 @@
+{
+ "bg": "#010923",
+ "fg": "#FFFFFF",
+ "accent": "#E3B33F",
+ "handle": "@teperealestate",
+ "out": "/home/claude/reels/teperealestate_reel1.mp4",
+ "slides": [
+  {
+   "title": "Evini satmak istiyorsun ama 6 aydır alıcı yok mu?",
+   "size": 96
+  },
+  {
+   "title": "Sorun genelde ev değil.",
+   "sub": "Yanlış fiyat, kötü fotoğraf ve doğru alıcıya ulaşmayan ilan."
+  },
+  {
+   "title": "Biz ne yapıyoruz?",
+   "sub": "Ücretsiz değerleme\nProfesyonel çekim\nHazır alıcı portföyümüze sunum"
+  },
+  {
+   "title": "Mülkünü bize listele, gerisini biz halledelim.",
+   "size": 84
+  },
+  {
+   "title": "Ücretsiz değerleme için DM at",
+   "sub": "veya ara: 0533 192 83 73\n0850 305 40 19",
+   "size": 88
+  }
+ ],
+ "logo": "/home/claude/reels/logos/realestate.png",
+ "logo_w": 520
+}

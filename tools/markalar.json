@@ -1,0 +1,6 @@
+{
+ "tepeosgb": {"logo": "logos/osgb.png", "renkler": ["#0B3D7E", "#F28C0F", "#FFFFFF"], "web": "tepeosgb.com", "tel": ["0216 434 83 73", "0850 305 40 19"], "whatsapp": "0532 138 51 54", "mail": "info@tepeosgb.com", "adres": "Kavacık Mah. Yedek Reis Sk. No:8 İç Kapı No:3 Beykoz/İstanbul", "slogan": "İş Güvenliğinin Tepe Noktası", "ek_markalar": ["Nexumix", "OSGB.com.tr"]},
+ "tepe.danismanlik": {"logo": "logos/danismanlik.png", "renkler": ["#0B3D7E", "#F28C0F", "#FFFFFF"], "web": "tepedanismanlik.com.tr", "tel": ["0216 434 83 73", "0850 305 40 19"], "whatsapp": "0532 138 51 54", "mail": "info@tepedanismanlik.com.tr", "adres": "Mimaran Plaza, Kağıthane/İstanbul"},
+ "teperealestate": {"logo": "logos/realestate.png", "renkler": ["#010923", "#E3B33F"], "tel": ["0533 192 83 73", "0850 305 40 19"], "hedef": "İlan verecek mülk sahipleri (portföy toplama)"},
+ "kural": "Sadece verilen logolar kullanılacak, yeni logo üretilmeyecek. Her paylaşım öncesi kullanıcı onayı."
+}
