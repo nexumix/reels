@@ -58,3 +58,19 @@ Her akşam slotunda: son 7 günün reels metriklerini (izlenme/erişim, beğeni,
 - Türkçe sesler: Real Estate → Aylin (kadın, sıcak) bb2347fe-69e9-4810-873f-ffd759fe8420; OSGB → Emre (erkek, net) 39f753ef-b0eb-41cd-aa53-2f3c284f948f; Danışmanlık → Aykut (erkek, samimi) 91e91d74-8eb4-43cd-97d3-7466c21db00d veya Azra (kadın) 0f95596c-09c4-4418-99fe-5c107e0713c0.
 - Konuşma metni ekrandaki yazının doğal, akıcı söylenişi olsun; telefon numaralarını okuma, "numaralarımız ekranda" de. Fiyat söyleme.
 - Speko hata verirse seslendirmesiz (sadece müzik) devam et ve raporla.
+
+## VİDEO FORMATI v3 — PREMIUM (kullanıcı onayladı, 22.11.2026) — ARTIK ANA YÖNTEM BU
+Kullanıcı: "görseller premium, gerçekçi fotoğraf, ilgi çekici olmalı". İllüstrasyonlu make_reel/narrate.py artık SADECE Orshot çalışmazsa yedek.
+Orshot bağlayıcısı ile gerçek stok fotoğraflı "film" üret:
+- Referans şablon: Orshot template **46579** "Tepe Real Estate – Portföy Reels 1 (premium)". 5 sahne, 1080x1920, her sahne: tam ekran stok foto (kenBurns, panX yön değiştirerek) + alttan lacivert gradyan scrim + Schibsted Grotesk 800 başlık (textReveal) + Lato gövde/pill'ler; push-up geçişler; film.grade punchy + wash; logo film "layers" track'inde sol üstte (200x166, radius 24); film audio track'leri: "voice" (seslendirme mp3) + "music" (Orshot müzik kütüphanesi, volume 0.32, duck).
+- Marka şablonları: Real Estate = 46579 (lacivert #010923 / altın #E3B33F). OSGB ve Danışmanlık için ilk çalışmada orshot_duplicate_template ile 46579'u kopyala, adını değiştir, renkleri uyarla (ground/scrim lacivert #0B3D7E→#08295A tonları, vurgu/pill turuncu #F28C0F, pill yazısı beyaz/lacivert), logo URL'sini değiştir; şablon ID'sini bu dosyaya "Marka şablon ID'leri" altına yaz ve push et ki sonraki çalışmalar yeniden kullansın.
+- Logo URL'leri (public): https://raw.githubusercontent.com/nexumix/reels/main/tools/logos/{realestate.png|osgb.png|danismanlik.png} — OSGB/Danışmanlık logoları beyaz zeminli: beyaz yuvarlatılmış kutu içinde kullan.
+- Her yeni reels için akış:
+  1. Konu/hizmet + 5 sahnelik metin (her sahne: başlık ≤6 kelime, gövde ≤14 kelime; son sahne CTA + telefon pill'i).
+  2. Her sahne için orshot_search_stock_media (orientation vertical, konunun kendisi; cami/dini yapı, kişi yüzü yakın planı, marka logosu olan foto KULLANMA) → ref'i page@photo'ya koy.
+  3. Speko ile 5 sahne seslendirmesi (marka sesi), her birini atempo ile gerekirse hızlandır; tek mp3'e birleştir: sahne başlangıçları = önceki sahne süreleri toplamı − 1.0 sn × geçiş sayısı; her ses sahne başından +0.4 sn. Önce her klibe ayrı atempo uygula (wav), SONRA adelay+amix (aynı zincirde atempo+adelay mp3 bozuluyor). mp3'ü v/YYYY-MM-DD/ altına push et.
+  4. videoDuration toplamı ≤ 30 sn (Orshot planı sınırı); her sahne ≥ ses süresi + 0.8.
+  5. Şablonu güncelle: orshot_update_template_design film bloğu (voice src = raw.githubusercontent.com/nexumix/reels/<COMMIT_SHA>/... ), page_operations ile videoDuration, orshot_patch_template_elements data ile metinler ve photo (stock ref veya orshot_use_stock_media URL'si). includeThumbnails ile kareleri kontrol et (taşma, okunabilirlik, fiyat yok).
+  6. orshot_render_template format mp4, background:true → orshot_get_render_job (waitSeconds 45) → storage.orshot.com URL'si.
+  7. Windsor create_video_post video_url = Orshot URL'si (GitHub'a video koymaya gerek yok).
+- Yabancı dil: metin, seslendirme ve caption o dilde; Arapça/Farsça RTL metinde textAlign "right".
