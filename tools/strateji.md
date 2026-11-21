@@ -74,3 +74,9 @@ Orshot bağlayıcısı ile gerçek stok fotoğraflı "film" üret:
   6. orshot_render_template format mp4, background:true → orshot_get_render_job (waitSeconds 45) → storage.orshot.com URL'si.
   7. Windsor create_video_post video_url = Orshot URL'si (GitHub'a video koymaya gerek yok).
 - Yabancı dil: metin, seslendirme ve caption o dilde; Arapça/Farsça RTL metinde textAlign "right".
+
+### Marka şablon ID'leri (Orshot) — HAZIR, kopyalamaya gerek yok
+- Real Estate: 46579 (lacivert/altın, Aylin sesi, müzik stock://orshot/music/3305)
+- OSGB: 46587 (lacivert #08295A / turuncu #F28C0F, Emre sesi, müzik stock://orshot/music/3261)
+- Danışmanlık: 46588 (lacivert #08295A / turuncu #F28C0F, Aykut sesi, müzik stock://orshot/music/3276)
+Her şablon 5 sahne: hook / problem / offer / proof(veya manage) / cta. Yeni içerikte bu şablonu güncelle (metin, photo, videoDuration, film voice src) ve render et.
