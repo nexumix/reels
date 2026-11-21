@@ -9,7 +9,7 @@
 | 2026-11-22 | v2 | tepeosgb | TR | 1 İş Güvenliği Uzmanı (seslendirmeli) | "Çalışanın varsa iş güvenliği uzmanı ZORUNLU" | 17917123125492067 |
 | 2026-11-22 | v2 | tepe.danismanlik | TR | 1 ISO 9001 (seslendirmeli) | "ISO 9001 yoksa bu ihaleleri kaçırıyor olabilirsin" | 18402251170200971 |
 
-Not: test/siftah paylaşımları (eski format) kullanıcı tarafından silinecek; Windsor'da silme izni yok.
+Not: test/siftah paylaşımları (18108466928373654, 17918582214494174, 18129776602914001) kullanıcı tarafından silindi. Windsor Instagram girişiyle bağlı: silme yok, yorum yanıtı var. Silinmesi gereken paylaşım olursa kullanıcıya bildir.
 
 ## ÖĞRENİLENLER
 (henüz veri yok)
