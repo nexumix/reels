@@ -46,3 +46,12 @@ Windsor get_fields(instagram) ile yorum alanlarını bul, son 24 saatin yanıtla
 
 ## Performans döngüsü
 Her akşam slotunda: son 7 günün reels metriklerini (izlenme/erişim, beğeni, yorum, kaydetme, paylaşım) get_data ile çek; en iyi 3 hook tipini log.md'ye "ÖĞRENİLENLER" başlığıyla yaz. Sonraki içerikler en iyi performanslı hook tiplerine ağırlık versin.
+
+## Video formatı v2 (kullanıcı geri bildirimi: yazılar hızlı geçiyordu, düz yazı istemiyor)
+- tools/make_reel.py artık illüstrasyonlu sahne + yavaş yakınlaşma + metin kartı üretir. Slayt süresi metin uzunluğuna göre otomatik (3,5–7 sn); toplam ~20–30 sn. Bir slayta en fazla 1 başlık + 3 kısa satır.
+- Her slayta "scene" ver: city (İstanbul silüeti), house, key, chart, safety (baret+kalkan), doc (sertifika), globe (yurt dışı). Aynı videoda en az 3 farklı sahne.
+- Marka config şablonları:
+  - Real Estate: tools/ornek_config.json (lacivert gradyan #010923→#1B2F5A, altın #E3B33F, koyu kart #050D24D9, beyaz yazı, logo_bg #010923, logo_w 300).
+  - OSGB / Danışmanlık: "bg":"#0B3D7E","bg2":"#1D5FB8","fg":"#08295A","accent":"#F28C0F","card":"#FFFFFFEE","card_fg":"#0B3D7E","logo_bg":"#FFFFFF","logo_w":380 (OSGB sahneleri: safety, doc, city, chart; Danışmanlık: doc, chart, globe, key).
+- Müzik süresi videodan uzun olsun (make_music2.py süre argümanı = video süresi + 2), afade out son 1,4 sn.
+- Seslendirme: şu an ortamda TTS yok; seslendirme bağlayıcısı eklenirse kullanılacak.

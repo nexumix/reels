@@ -1,32 +1,9 @@
-{
- "bg": "#010923",
- "fg": "#FFFFFF",
- "accent": "#E3B33F",
- "handle": "@teperealestate",
- "out": "/home/claude/reels/teperealestate_reel1.mp4",
- "slides": [
-  {
-   "title": "Evini satmak istiyorsun ama 6 aydır alıcı yok mu?",
-   "size": 96
-  },
-  {
-   "title": "Sorun genelde ev değil.",
-   "sub": "Yanlış fiyat, kötü fotoğraf ve doğru alıcıya ulaşmayan ilan."
-  },
-  {
-   "title": "Biz ne yapıyoruz?",
-   "sub": "Ücretsiz değerleme\nProfesyonel çekim\nHazır alıcı portföyümüze sunum"
-  },
-  {
-   "title": "Mülkünü bize listele, gerisini biz halledelim.",
-   "size": 84
-  },
-  {
-   "title": "Ücretsiz değerleme için DM at",
-   "sub": "veya ara: 0533 192 83 73\n0850 305 40 19",
-   "size": 88
-  }
- ],
- "logo": "/home/claude/reels/logos/realestate.png",
- "logo_w": 520
-}
+{"bg":"#010923","bg2":"#1B2F5A","fg":"#0E1C3D","accent":"#E3B33F","card":"#050D24D9","card_fg":"#FFFFFF","logo_bg":"#010923",
+"handle":"@teperealestate","logo":"/home/claude/reels-repo/tools/logos/realestate.png","logo_w":300,"out":"/home/claude/out/teperealestate.mp4",
+"slides":[
+ {"title":"Evin aylardır satılmıyor mu?","scene":"city","size":92},
+ {"title":"Sorun genelde ev değil","sub":"Yanlış fiyatlama, kötü fotoğraf ve doğru alıcıya ulaşmayan ilan.","scene":"house"},
+ {"title":"Tepe Real Estate ile","sub":"Ücretsiz değerleme\nProfesyonel çekim\nHazır alıcı portföyü","scene":"key"},
+ {"title":"Kiralık mülkün mü var?","sub":"Kiracı bulma, kira takibi, DASK ve sigorta: hepsini biz yönetelim.","scene":"chart"},
+ {"title":"Hemen ara, mülkünü konuşalım","sub":"0533 192 83 73\n0850 305 40 19","scene":"city","size":80}
+]}
