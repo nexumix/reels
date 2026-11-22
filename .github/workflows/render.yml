@@ -1,0 +1,46 @@
+name: Render reels
+on:
+  push:
+    paths: ["jobs/**.json"]
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "jobs/xxx.json (boş = son committeki tüm yeni joblar)"
+        required: false
+permissions:
+  contents: write
+concurrency:
+  group: render
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Install tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-dejavu-core > /dev/null
+          pip install -q pillow
+          mkdir -p .fonts
+          base=https://github.com/google/fonts/raw/main/ofl
+          curl -sL -o .fonts/SchibstedGrotesk.ttf "$base/schibstedgrotesk/SchibstedGrotesk%5Bwght%5D.ttf"
+          for f in Lato-Regular Lato-Bold Lato-Black; do curl -sL -o .fonts/$f.ttf "$base/lato/$f.ttf"; done
+          ls -la .fonts
+      - name: Render
+        run: |
+          if [ -n "${{ github.event.inputs.job }}" ]; then JOBS="${{ github.event.inputs.job }}";
+          else JOBS=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'jobs/*.json'); fi
+          echo "Jobs: $JOBS"
+          for j in $JOBS; do FONT_DIR=.fonts python3 tools/gh_render.py "$j" || echo "FAILED $j" >> render_errors.txt; done
+          test ! -f render_errors.txt || cat render_errors.txt
+      - name: Commit videos
+        run: |
+          git config user.name "reels-bot"
+          git config user.email "reels-bot@users.noreply.github.com"
+          git add out
+          git diff --cached --quiet && exit 0
+          git commit -m "Render reels [skip ci]"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
