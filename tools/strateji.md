@@ -48,6 +48,15 @@ Paylaşımlardan sonra kullanıcıya Türkçe, kısa rapor: (1) bugün paylaşı
 ## ÖNEMLİ GÜNLER / BAYRAMLAR (kullanıcı talebi — ATLANMAZ)
 tools/ozel_gunler.md takvimine göre: akşam slotu ertesi gün özel günse kutlama reels'lerini hazırlar (tools/ozel_kuyruk.json), "Özel gün 00:01" görevi gece 00:01'de paylaşır. post_time "09:05" olan öğeleri (10 Kasım anma) SABAH slotu, saat 09:05 geçtikten sonra paylaşır ve kuyrukta "posted" işaretler.
 
+## SESLENDİRME KREDİSİ KURALI (kullanıcı: "ihtiyaç olursa DERHAL söyle")
+- HER slotta seslendirmeden önce Speko credits_balance_get çağır. Bakiye < 1.50 USD ise o anda PushNotification gönder: "Speko seslendirme kredisi azaldı: X USD (yaklaşık N video). Yükleme gerekli." Bakiye < 0.10 USD veya 402 hatası: videoyu seslendirmesiz (müzik + yazı) üret, paylaş ve aynı bildirimi "kredi bitti" diye gönder.
+- Maliyet: ~0.03 USD / reels (5 sahne ~600 karakter). 15 reels/gün ≈ 0.45 USD/gün.
+- Ücretsiz yedek planı (kullanıcı kurulum yaparsa): Google Cloud Text-to-Speech — aylık 1M karakter Chirp 3 HD / Neural2 ücretsiz (bizim kullanım ~270 bin/ay). API anahtarı GitHub secret GOOGLE_TTS_KEY olarak eklenince render workflow'una TTS adımı eklenecek.
+
+## CTA — PROFİLDEKİ WHATSAPP BUTONU (22.11.2026: profillerde WhatsApp bağlantısı var)
+- Reels'e tıklanabilir buton eklenemez (organik reels/API sınırı). Bu yüzden son sahnede ve caption'da yönlendirme: "Profildeki WhatsApp butonuna dokun" (EN: "Tap the WhatsApp button on our profile"). Telefon numaraları da kalır.
+- Caption ilk 2 satırda kısa "👉 WhatsApp: profildeki butona dokun" eklenebilir (en güçlü CTA).
+
 ## Viral format kuralları
 - İlk 1,5 sn: soru / hata / şok edici gerçek hook (yazı büyük). Örnekler: "Bu hatayı yapan ev sahibi aylarca kiracı bulamıyor", "İşyerinizde bu belge yoksa…", "ISO belgesi olmadan bu ihaleye giremezsiniz".
 - 4-6 slayt, 12-16 sn, her slayt tek fikir, kısa cümle. Döngü hissi: son slayt ilk slayda bağlansın.
