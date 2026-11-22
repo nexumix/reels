@@ -125,3 +125,8 @@ Kullanım: OSGB ve Danışmanlık'ta "nasıl yapılır / X adımda / kontrol lis
 
 ## YAPAY ZEKA KLİPLERİ (Kaggle ücretsiz GPU, LTX-Video image-to-video) — DENEME AŞAMASI
 clips/queue.json'a [{id, image_url, prompt (İngilizce, kamera hareketi + sahne), frames 97, steps 30}] yaz → push → "AI clips (Kaggle GPU)" workflow Kaggle'da çalıştırır (~10 dk + klip başı ~2,5 dk) → clips/out/<id>.mp4 (512x768, 4 sn). Haftalık kota ~30 saat GPU. İlk test (22.11): çalışıyor ama hareket çok hafif; prompt'larda daha belirgin kamera hareketi iste. Kullanıcı onayı gelmeden günlük reels'e otomatik koyma.
+
+## LINKEDIN (Windsor connector: linkedin_organic) — eklendi 22.11.2026
+Sayfalar: TEPE YATIRIM PROJE DANIŞMANLIK = 14013284 (Danışmanlık içerikleri) · DENEYİMLİ ORTAK SAĞLIK GÜVENLİK BİRİMİ = 6448347 (OSGB içerikleri, Tepe OSGB iletişim bilgileri) · SİS Uluslararası Belgelendirme = 2749032 (ayrı marka; logo/iletişim bilgisi kullanıcıdan bekleniyor — gelene kadar paylaşım YOK).
+Windsor LinkedIn'de VİDEO YOK: sadece create_post (metin/link) ve create_image_post (image_url). Görsel = o günün reels'inden 1080x1350 kare (ffmpeg crop) veya tasarlanmış kart; repo'ya linkedin/ altına koy, raw.githubusercontent URL'si ver.
+Sıklık: hafta içi her sayfaya günde 1 gönderi (10:xx). Ton: profesyonel, B2B, karar vericiye hitap (işveren, İK, kalite müdürü, yatırımcı). Yapı: güçlü ilk satır (soru/istatistik değil, gerçek bir sorun) → 3-5 kısa paragraf/madde, somut fayda → net CTA (telefon/e-posta/web) → 3-5 hashtag. Emoji az. Fiyat yok, siyaset/din yok. Instagram'da tutan konuları LinkedIn'e uyarlayarak taşı.
