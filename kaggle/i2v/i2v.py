@@ -1,6 +1,6 @@
 # Kaggle GPU: fotoğraftan yapay zeka video klip (image-to-video) — LTX-Video, v2 (daha güçlü hareket)
 import subprocess, sys, json, os, urllib.request, time, traceback, gc
-subprocess.run([sys.executable, "-m", "pip", "install", "-q", "-U", "diffusers>=0.33", "transformers", "accelerate", "sentencepiece", "imageio[ffmpeg]"], check=True)
+subprocess.run([sys.executable, "-m", "pip", "install", "-q", "-U", "diffusers>=0.33", "transformers<5", "accelerate", "sentencepiece", "imageio[ffmpeg]"], check=True)
 import torch
 from diffusers import LTXImageToVideoPipeline
 from diffusers.utils import export_to_video, load_image
@@ -13,9 +13,15 @@ NEG = "worst quality, static, frozen, still image, inconsistent motion, blurry, 
 pipes = {}
 def get_pipe(name):
     if name in pipes: return pipes[name]
-    for k in list(pipes): del pipes[k]
+    for k in list(pipes):
+        try: pipes[k].remove_all_hooks()
+        except Exception: pass
+        del pipes[k]
     gc.collect(); torch.cuda.empty_cache()
-    p = LTXImageToVideoPipeline.from_pretrained(name, torch_dtype=torch.float16)
+    from transformers import T5EncoderModel
+    te = T5EncoderModel.from_pretrained(name, subfolder="text_encoder", torch_dtype=torch.float16, low_cpu_mem_usage=True)
+    gc.collect()
+    p = LTXImageToVideoPipeline.from_pretrained(name, text_encoder=te, torch_dtype=torch.float16, low_cpu_mem_usage=True)
     p.enable_model_cpu_offload()
     try: p.vae.enable_tiling()
     except Exception: pass
