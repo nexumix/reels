@@ -1,0 +1,239 @@
+{
+ "out": "out/2026-11-22/sabah_teperealestate_en.mp4",
+ "scrim": "#010923",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/realestate.png",
+  "x": 64,
+  "y": 96,
+  "w": 200,
+  "h": 166,
+  "radius": 24
+ },
+ "voice": "v/2026-11-22/vo_sabah_teperealestate_en.mp3",
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/e775bb75-6a4f-45ba-b7cd-59ddd62e6f85.m4a",
+  "volume": 0.15
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1771287490603-fbf9b6211cc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 4.33,
+   "elements": [
+    {
+     "text": "ISTANBUL · PROPERTY MANAGEMENT",
+     "x": 96,
+     "y": 1000,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.2,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Your Istanbul flat is empty. Again?",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 112,
+     "font": "head",
+     "color": "#F9F5EC",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1719082993979-c4a36d62efad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 8.25,
+   "elements": [
+    {
+     "text": "Managing from abroad is hard.",
+     "x": 72,
+     "y": 1000,
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#F9F5EC",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Viewings, tenant checks, rent follow-up — all from another time zone.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#F2ECDD",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1729855637715-99192904aac5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7.34,
+   "elements": [
+    {
+     "text": "We find your tenant.",
+     "x": 72,
+     "y": 900,
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#E3B33F",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Careful tenant screening",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Professional photos & listing",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Contract & smooth move-in",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1585128792103-0b591f96512e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7.83,
+   "elements": [
+    {
+     "text": "FULL MANAGEMENT",
+     "x": 96,
+     "y": 880,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Rent tracked. Home cared for.",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#F9F5EC",
+     "at": 0.6,
+     "anim": "up"
+    },
+    {
+     "text": "Rent follow-up, insurance (DASK) reminders and regular updates — wherever you live.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#F2ECDD",
+     "at": 2.2
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1653549882026-4c92d25bee4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6.04,
+   "elements": [
+    {
+     "text": "Let's talk about your property.",
+     "x": 72,
+     "y": 880,
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#F9F5EC",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Call  +90 533 192 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 52,
+     "font": "bold",
+     "color": "#010923",
+     "at": 1.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "+90 850 305 40 19",
+     "x": 72,
+     "y": "auto",
+     "w": 700,
+     "size": 48,
+     "font": "semi",
+     "color": "#F9F5EC",
+     "at": 1.9
+    },
+    {
+     "text": "Message us via WhatsApp or DM today",
+     "x": 72,
+     "y": "auto",
+     "w": 860,
+     "size": 40,
+     "font": "body",
+     "color": "#E3B33F",
+     "at": 2.4,
+     "anim": "fade"
+    }
+   ]
+  }
+ ]
+}
