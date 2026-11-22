@@ -1,0 +1,231 @@
+{
+ "out": "out/2026-11-22/teperealestate_balat_kafe.mp4",
+ "scrim": "#010923",
+ "transition": 1.0,
+ "scrim_top": 900,
+ "logo": {
+  "src": "tools/logos/realestate.png",
+  "x": 64,
+  "y": 96,
+  "w": 200,
+  "h": 166,
+  "radius": 24
+ },
+ "voice": "v/2026-11-22/vo_balat_kafe.mp3",
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/e775bb75-6a4f-45ba-b7cd-59ddd62e6f85.m4a",
+  "volume": 0.15
+ },
+ "scenes": [
+  {
+   "photo": "foto/balat/on.jpg",
+   "dur": 4.4,
+   "photo_y": 0.16,
+   "elements": [
+    {
+     "text": "KİRALIK · BALAT",
+     "x": 96,
+     "y": 1180,
+     "size": 34,
+     "font": "bold",
+     "color": "#010923",
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ],
+     "at": 0.2
+    },
+    {
+     "text": "Balat'ın kalbinde hazır kafe!",
+     "x": 72,
+     "y": 1270,
+     "w": 936,
+     "size": 112,
+     "font": "head",
+     "color": "#F9F5EC",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "foto/balat/sokak.jpg",
+   "dur": 7.4,
+   "photo_y": 0.16,
+   "elements": [
+    {
+     "text": "Vodina Caddesi'ne sadece 10 metre",
+     "x": 72,
+     "y": 1180,
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#F9F5EC",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Balat'ın en canlı sokaklarında, yoğun yaya trafiği.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#F2ECDD",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "foto/balat/ic.jpg",
+   "dur": 5.8,
+   "photo_y": 0.16,
+   "elements": [
+    {
+     "text": "80 m² · 2 bölüm",
+     "x": 72,
+     "y": 1160,
+     "w": 936,
+     "size": 108,
+     "font": "head",
+     "color": "#E3B33F",
+     "at": 0.4,
+     "anim": "up"
+    },
+    {
+     "text": "Mutfak",
+     "x": 96,
+     "y": "auto",
+     "size": 48,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18,
+     "at": 1.2,
+     "gap": 20
+    },
+    {
+     "text": "WC",
+     "x": 96,
+     "y": "auto",
+     "size": 48,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18,
+     "at": 1.8,
+     "gap": 20
+    },
+    {
+     "text": "Depo",
+     "x": 96,
+     "y": "auto",
+     "size": 48,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18,
+     "at": 2.4,
+     "gap": 20
+    }
+   ]
+  },
+  {
+   "photo": "foto/balat/mutfak.jpg",
+   "dur": 6.4,
+   "photo_y": 0.16,
+   "elements": [
+    {
+     "text": "Kullanıma hazır mutfak",
+     "x": 72,
+     "y": 1180,
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#F9F5EC",
+     "at": 0.4,
+     "anim": "up"
+    },
+    {
+     "text": "Kafe, pastane, restoran veya market için ideal. Kat mülkiyetli.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#F2ECDD",
+     "at": 1.6
+    }
+   ]
+  },
+  {
+   "photo": "foto/balat/kose.jpg",
+   "dur": 6.0,
+   "photo_y": 0.16,
+   "elements": [
+    {
+     "text": "Yerinde görelim.",
+     "x": 72,
+     "y": 1150,
+     "w": 936,
+     "size": 108,
+     "font": "head",
+     "color": "#F9F5EC",
+     "at": 0.4,
+     "anim": "up"
+    },
+    {
+     "text": "Hemen ara  0533 192 83 73",
+     "x": 96,
+     "y": "auto",
+     "size": 54,
+     "font": "bold",
+     "color": "#010923",
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ],
+     "at": 1.2,
+     "gap": 36
+    },
+    {
+     "text": "0850 305 40 19",
+     "x": 96,
+     "y": "auto",
+     "w": 700,
+     "size": 48,
+     "font": "semi",
+     "color": "#F9F5EC",
+     "at": 1.8,
+     "gap": 24
+    },
+    {
+     "text": "Tepe Real Estate · İlan no 1352788148",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 36,
+     "font": "body",
+     "color": "#E3B33F",
+     "at": 2.3,
+     "anim": "fade",
+     "gap": 20
+    }
+   ]
+  }
+ ]
+}

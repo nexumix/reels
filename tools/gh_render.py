@@ -99,6 +99,17 @@ def scrim_png(color, path, top=700):
 
 def render_scene(sc, i, tmp, scrim):
     photo = fetch(sc["photo"], tmp, f"p{i}.jpg")
+    im = Image.open(photo).convert("RGB")
+    if sc.get("fit") == "blur" or (sc.get("fit") != "cover" and im.width > im.height * 0.75):
+        from PIL import ImageFilter, ImageEnhance
+        CW, CH = int(W * 1.25), int(H * 1.25)
+        sc_ = max(CW / im.width, CH / im.height)
+        bg = im.resize((int(im.width * sc_) + 1, int(im.height * sc_) + 1)).crop((0, 0, CW, CH))
+        bg = ImageEnhance.Brightness(bg.filter(ImageFilter.GaussianBlur(40))).enhance(0.55)
+        fw = CW; fh = int(im.height * fw / im.width)
+        fg = im.resize((fw, fh), Image.LANCZOS)
+        bg.paste(fg, (0, int(sc.get("photo_y", 0.2) * CH)))
+        photo = os.path.join(tmp, f"pc{i}.jpg"); bg.save(photo, quality=94)
     dur = float(sc["dur"]); frames = int(dur * FPS); pan = sc.get("pan", 1 if i % 2 == 0 else -1)
     cmd = ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-t", f"{dur}", "-i", photo, "-loop", "1", "-t", f"{dur}", "-i", scrim]
     els = []; last_bottom = None
