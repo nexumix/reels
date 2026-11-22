@@ -12,6 +12,7 @@
 | 2026-11-22 | premium | tepeosgb | TR | 1 İş Güvenliği Uzmanı (Orshot premium) | "Çalışanın varsa iş güvenliği uzmanı zorunlu" | 18116446688156598 |
 | 2026-11-22 | premium | tepe.danismanlik | TR | 1 ISO 9001 (Orshot premium) | "ISO 9001 yoksa bu ihaleleri kaçırıyor olabilirsin" | 18181678393449174 |
 | 2026-11-22 | premium-fix | tepe.danismanlik | TR | 1 ISO 9001 (ses düzeltildi) | "ISO 9001 yoksa bu ihaleleri kaçırıyor olabilirsin" | 18027689441943699 |
+| 2026-11-22 | ilan | teperealestate | TR | İlan: Balat kiralık kafe (gerçek fotoğraf, GitHub render) | "Balat'ın kalbinde hazır kafe!" | 18124896431069886 |
 
 Not: Danışmanlık premium ilk sürüm (18181678393449174) sesi kısık; kullanıcı silmeli.
 Not: v2 OSGB (17917123125492067) ve Danışmanlık (18402251170200971) kullanıcı tarafından silindi.

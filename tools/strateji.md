@@ -96,3 +96,7 @@ Akış (her reels):
    Müzik URL'leri: emlak https://cdn.orshot.com/library/music/e775bb75-6a4f-45ba-b7cd-59ddd62e6f85.m4a ; diğerleri için orshot_use_stock_media("stock://orshot/music/3261" veya "3276") ile al.
 4. commit + push → GitHub Actions "Render reels" otomatik çalışır (~2 dk). Bekle: `gh run list -R nexumix/reels -L 1` / `gh run watch <id> -R nexumix/reels`. Sonra git pull; out/... dosyasını kontrol et (ffmpeg ile 3-4 kare çıkar, Read ile bak: yazı taşması/çakışma yok, fiyat yok; volumedetect mean -14..-20 dB).
 5. Windsor create_video_post video_url = https://raw.githubusercontent.com/nexumix/reels/<COMMIT_SHA>/out/YYYY-MM-DD/<ad>.mp4 (render commit'inin SHA'sı).
+
+### İLAN REELS'LERİ
+Kullanıcı ilan fotoğrafı/ekran görüntüsü verirse: fotoları foto/<ilan>/ altına koy, job'da kullan (yatay foto otomatik bulanık arka planla tam gösterilir; photo_y 0.16, scrim_top 900, başlık y≈1180). Örnek: jobs/2026-11-22_teperealestate_balat_kafe.json. Fiyat ASLA yazılmaz; ilan no yazılabilir.
+Haftada 2-3 kez öğle/akşam slotunda foto/ klasöründeki henüz paylaşılmamış ilanlar varsa onlara öncelik ver.
