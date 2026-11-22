@@ -122,3 +122,6 @@ Amaç: 3 hesap birbirini büyütsün.
 ## ANİMASYONLU (MOTION GRAPHICS) REELS — GPU gerektirmez
 Örnek: tools/anim_osgb_risk.py (kodla çizilmiş ikonlar, kelime kelime yazı, sayaç/matris/onay animasyonları). Job: {"script": "tools/<script>.py", "out": ..., "voice": ..., "music": {"src": ...}} → GitHub Actions render eder.
 Kullanım: OSGB ve Danışmanlık'ta "nasıl yapılır / X adımda / kontrol listesi" konularında haftada 3-4 kez, fotoğraflı reels ile dönüşümlü. Yeni konu için örnek script'i kopyalayıp sahneleri uyarla (SCENES süreleri = seslendirmeye göre; marka renkleri; logo; @hesap).
+
+## YAPAY ZEKA KLİPLERİ (Kaggle ücretsiz GPU, LTX-Video image-to-video) — DENEME AŞAMASI
+clips/queue.json'a [{id, image_url, prompt (İngilizce, kamera hareketi + sahne), frames 97, steps 30}] yaz → push → "AI clips (Kaggle GPU)" workflow Kaggle'da çalıştırır (~10 dk + klip başı ~2,5 dk) → clips/out/<id>.mp4 (512x768, 4 sn). Haftalık kota ~30 saat GPU. İlk test (22.11): çalışıyor ama hareket çok hafif; prompt'larda daha belirgin kamera hareketi iste. Kullanıcı onayı gelmeden günlük reels'e otomatik koyma.
