@@ -101,9 +101,12 @@ def render_scene(sc, i, tmp, scrim):
     photo = fetch(sc["photo"], tmp, f"p{i}.jpg")
     dur = float(sc["dur"]); frames = int(dur * FPS); pan = sc.get("pan", 1 if i % 2 == 0 else -1)
     cmd = ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-t", f"{dur}", "-i", photo, "-loop", "1", "-t", f"{dur}", "-i", scrim]
-    els = []
+    els = []; last_bottom = None
     for j, el in enumerate(sc.get("elements", [])):
         p = os.path.join(tmp, f"e{i}_{j}.png"); bw, bh = element_png(el, p)
+        if (el.get("y") in (None, "auto")) and last_bottom is not None:
+            el = dict(el, y=last_bottom + int(el.get("gap", 28)))
+        last_bottom = int(el.get("y", 1000)) + bh
         cmd += ["-loop", "1", "-t", f"{dur}", "-i", p]; els.append((el, bw, bh))
     zx = f"(iw-iw/zoom)/2+{pan}*(iw-iw/zoom)/2*on/{frames}"
     fc = [f"[0:v]scale={int(W*1.25)}:{int(H*1.25)}:force_original_aspect_ratio=increase,crop={int(W*1.25)}:{int(H*1.25)},"
