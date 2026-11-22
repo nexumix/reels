@@ -9,26 +9,47 @@ Amaç: milyonlarca izlenme, takip + yorum, yeni müşteri (telefon / WhatsApp / 
 4. Sadece tools/logos içindeki logolar. Yeni logo yok.
 5. Uydurma istatistik, sahte referans, "garanti", yasal kesinlik iddiası yok. Mevzuat konularında genel ve doğru ifade kullan ("yasal yükümlülükleriniz için bizi arayın").
 
-## Takvim (İstanbul saati) — her slotta her hesaba 1 reels = hesap başına günde 3
-| Slot | Saat | Dil kuralı |
-|---|---|---|
-| Sabah | 08:47 | Emlak: yabancı dil (sırayla EN → AR → RU → FA). Danışmanlık: yabancı dil (sırayla EN → AR → DE). OSGB: Türkçe (haftada 1 gün EN: İstanbul'daki yabancı şirketler). |
-| Öğle | 12:17 | Türkçe |
-| Akşam | 20:17 | Türkçe (en yüksek etkileşim slotu: en güçlü hook burada) |
-Dil sırası günün tarihine göre: (gün_numarası mod dil_sayısı).
+## Takvim (İstanbul saati) — hesap başına GÜNDE 5 reels (22.11.2026 kullanıcı talebi: ücretsiz render olduğu için adet artırıldı)
+| Slot | Saat | İçerik | Dil |
+|---|---|---|---|
+| Sabah | 08:47 | Hizmet rotasyonu, yabancı müşteri açısı | Emlak & Danışmanlık: İNGİLİZCE. OSGB: Türkçe (pazartesi İngilizce: İstanbul'daki yabancı şirketler) |
+| Gündem | 10:47 | O günün sektör haberi (aşağıdaki GÜNDEM REELS kuralları) | Türkçe |
+| Öğle | 12:17 | Hizmet rotasyonu / ilan | Türkçe |
+| Trend | 16:47 | Günün arama trendi konusu (aşağıdaki TREND REELS kuralları) | Türkçe |
+| Akşam | 20:17 | En güçlü hook + performans analizi + KULLANICIYA GÜNLÜK RAPOR ve ERTESİ GÜN PLANI | Türkçe |
+
+## DİL KURALI (kullanıcı, 22.11.2026 — KESİN)
+Sadece TÜRKÇE ve İNGİLİZCE. Arapça, Rusça, Farsça, Almanca veya başka hiçbir dilde içerik, seslendirme, caption, hashtag YOK. (Eski AR/RU/FA/DE sırası iptal.) Yabancı dildeki yorumlara yanıt da İngilizce verilir.
+
+## GÜNDEM REELS (10:47 slotu, her gün, her hesaba 1)
+O günün (yoksa son 72 saatin) gerçek, doğrulanmış sektör haberi. WebSearch ile resmi/güvenilir kaynaktan doğrula (Resmî Gazete, TÜİK, Yargıtay, ÇSGB/İSGGM, KOSGEB, Sanayi ve Teknoloji Bakanlığı, Ticaret Bakanlığı, AA, büyük gazeteler). Haber yoksa UYDURMA: yürürlükteki güncel bir düzenlemeyi "Hatırlatma" olarak işle. Kaynak adını caption'a yaz ("Kaynak: TÜİK"). Hukuki konularda kesin hüküm verme, "detay için bizi arayın".
+- Emlak: kira artış oranı / TÜFE açıklaması, Yargıtay kira kararları, tapu-harç-kentsel dönüşüm düzenlemeleri, konut satış istatistikleri (TÜİK), kredi/konut piyasası haberleri.
+- OSGB: İSGGM/ÇSGB duyuruları, yeni yönetmelik/tebliğ, İSG sınav duyuruları, iş kazası haberleri (aşağıdaki İŞ KAZASI kuralı).
+- Danışmanlık: KOSGEB destekleri, yatırım teşvik belgesi/HIT-30/bölgesel teşvikler, Eximbank/kredi destekleri, AB/uluslararası hibe programları, yeni yatırım duyuruları, ihracat destekleri.
+- RAKAM KURALI: Resmî istatistik ORANLARI (ör. TÜİK'in açıkladığı kira artış/TÜFE oranı) kaynakla birlikte yazılabilir. TL/USD/EUR tutar, kredi/hibe limiti, ücret, fiyat ASLA yazılmaz ("üst limit için bizi arayın").
+- Siyasi yorum, parti/kişi övme-eleştirme YOK; sadece bilgi + işletmeye/mülk sahibine etkisi.
+
+## İŞ KAZASI REELS KURALI (OSGB)
+Ülke genelinde yaşanmış bir iş kazası haberi işlenirse: saygılı, ticari OLMAYAN ton. Logo YOK, telefon/WhatsApp/e-posta YOK, "bizi arayın" YOK, hizmet tanıtımı YOK (kural 3'ün tek istisnası). Kişi adı, fotoğraf, kaza görüntüsü, şirket adı, suçlama YOK. İlk sahne: başsağlığı ("Hayatını kaybeden çalışanlarımızı saygıyla anıyoruz"). Sonraki sahneler: bu tür kazalarda alınması gereken genel önlemler (ör. yüksekte çalışma: korkuluk, emniyet kemeri, eğitim). Görsel: nötr/sakin stok foto (güvenlik ekipmanı), müzik sakin ve düşük (volume 0.10). Caption: anma + önlem listesi + 2-3 nötr hashtag (#işgüvenliği #işsağlığıvegüvenliği). Çapraz tanıtım yok.
+
+## TREND REELS (16:47 slotu, her gün, her hesaba 1)
+Google Trends'e doğrudan erişim YOK (ağ engelli). WebSearch ile "Google Trends Türkiye bugün", "en çok aranan" + sektör kelimeleri, haber siteleri ve arama önerilerinden günün şirketlerimizi ilgilendiren EN TREND konusunu bul (ör. kira artışı, deprem/DASK, asgari ücret sonrası İSG, kış lastiği değil — ilgili sektör). Gündem slotunda işlenen haberle aynı olmasın; aynı konuysa farklı açı (soru-cevap, "bilmen gereken 3 şey"). Trend kelimesini ilk sahne, caption ilk satırı ve hashtag'te kullan. Kural 1-6 geçerli.
+
+## GÜNLÜK RAPOR (akşam slotu, her gün, PushNotification ile)
+Paylaşımlardan sonra kullanıcıya Türkçe, kısa rapor: (1) bugün paylaşılan tüm reels'ler (hesap · slot · konu), (2) son 7 gün öne çıkan metrikler ve varsa tutan içerik, (3) yorumlar/aksiyon gerekenler (collab daveti, silinecek video vb.), (4) YARININ PLANI: her slot × hesap için planlanan konu (gündem/trend slotları için "sabah haberine göre belirlenecek" + aday konular). Yarının planını log.md'ye "YARIN PLANI (tarih)" başlığıyla yaz; ertesi gün slotlar bu plana uyar (gündem/trend hariç).
 
 ## Viral format kuralları
 - İlk 1,5 sn: soru / hata / şok edici gerçek hook (yazı büyük). Örnekler: "Bu hatayı yapan ev sahibi aylarca kiracı bulamıyor", "İşyerinizde bu belge yoksa…", "ISO belgesi olmadan bu ihaleye giremezsiniz".
 - 4-6 slayt, 12-16 sn, her slayt tek fikir, kısa cümle. Döngü hissi: son slayt ilk slayda bağlansın.
 - Etkileşim CTA'sı: "Yorumlara 'DEĞERLEME' / 'ISO' / 'OSGB' yaz, sana dönelim" + "Kaydet, lazım olacak" + "Paylaş".
-- Caption: ilk satır hook (SEO anahtar kelimesiyle), 2-4 kısa satır fayda, iletişim, 5-8 hashtag (2 geniş + 3-4 niş + 1-2 konum). Yabancı dilde caption o dilde, iletişim satırı her zaman var.
+- Caption: ilk satır hook (SEO anahtar kelimesiyle), 2-4 kısa satır fayda, iletişim, 5-8 hashtag (2 geniş + 3-4 niş + 1-2 konum). İngilizce içerikte caption İngilizce, iletişim satırı her zaman var (iş kazası reels'i hariç).
 - Müzik: make_music2.py, enerjik (house/phonk/pop/ibiza/trap), her reels farklı seed.
 
 ## SEO / arama kelimeleri (Türkiye arama davranışı: "gayrimenkul" yerine "emlak" daha çok aranıyor)
 Her çalışmada WebSearch ile ilgili kelime için güncel ilgi/haber kontrol et (Google Trends'e doğrudan API erişimi yok; arama sonuçlarındaki trend sinyallerini kullan). Kelimeyi ilk slayt, caption ilk satırı ve hashtag'te kullan.
-- Emlak: emlak, satılık daire, kiralık daire, satılık arsa, kiralık ev istanbul, evimi satmak istiyorum, ev değerleme, emlak yönetimi, kira takibi, kiracı bulma, DASK, konut sigortası, kentsel dönüşüm, depreme dayanıklı bina. EN: apartment for sale istanbul, property management istanbul, rent in istanbul. AR: شقق للبيع في اسطنبول, عقارات اسطنبول. RU: недвижимость в Стамбуле, квартира в Стамбуле. FA: خرید آپارتمان در استانبول.
+- Emlak: emlak, satılık daire, kiralık daire, satılık arsa, kiralık ev istanbul, evimi satmak istiyorum, ev değerleme, emlak yönetimi, kira takibi, kiracı bulma, DASK, konut sigortası, kentsel dönüşüm, depreme dayanıklı bina. EN: apartment for sale istanbul, property management istanbul, rent in istanbul.
 - OSGB: OSGB istanbul, iş güvenliği uzmanı, işyeri hekimi, risk değerlendirmesi, iş güvenliği eğitimi, acil durum planı, ortam ölçümü, gürültü ölçümü, tehlike sınıfı, İSG-KÂTİP, iş kazası.
-- Danışmanlık: ISO 9001 belgesi, ISO 14001, ISO 45001, ISO 27001, ISO 13485, ISO 22301, ISO 50001, ISO 10002, helal belgesi, marka tescili, patent başvurusu, yatırım teşvik belgesi, kalibrasyon, periyodik kontrol, gizli müşteri, tedarikçi denetimi, mesleki eğitim, kurumsal kimlik, web tasarım. EN: ISO certification Turkey, halal certification Turkey, trademark registration Turkey. AR: شهادة حلال تركيا, شهادة ايزو. DE: ISO Zertifizierung Türkei, Markenanmeldung Türkei.
+- Danışmanlık: ISO 9001 belgesi, ISO 14001, ISO 45001, ISO 27001, ISO 13485, ISO 22301, ISO 50001, ISO 10002, helal belgesi, marka tescili, patent başvurusu, yatırım teşvik belgesi, kalibrasyon, periyodik kontrol, gizli müşteri, tedarikçi denetimi, mesleki eğitim, kurumsal kimlik, web tasarım. EN: ISO certification Turkey, halal certification Turkey, trademark registration Turkey.
 
 ## Hizmet rotasyonu (her slot sıradaki hizmet; log.md'den son kullanılanı bul, bir sonrakine geç)
 ### Tepe Danışmanlık (coğrafi sınır yok, tüm Türkiye + yurt dışı)
@@ -73,7 +94,7 @@ Orshot bağlayıcısı ile gerçek stok fotoğraflı "film" üret:
   5. Şablonu güncelle: orshot_update_template_design film bloğu (voice src = raw.githubusercontent.com/nexumix/reels/<COMMIT_SHA>/... ), page_operations ile videoDuration, orshot_patch_template_elements data ile metinler ve photo (stock ref veya orshot_use_stock_media URL'si). includeThumbnails ile kareleri kontrol et (taşma, okunabilirlik, fiyat yok).
   6. orshot_render_template format mp4, background:true → orshot_get_render_job (waitSeconds 45) → storage.orshot.com URL'si.
   7. Windsor create_video_post video_url = Orshot URL'si (GitHub'a video koymaya gerek yok).
-- Yabancı dil: metin, seslendirme ve caption o dilde; Arapça/Farsça RTL metinde textAlign "right".
+- Yabancı dil: SADECE İngilizce (DİL KURALI).
 
 ### Marka şablon ID'leri (Orshot) — HAZIR, kopyalamaya gerek yok
 - Real Estate: 46579 (lacivert/altın, Aylin sesi, müzik stock://orshot/music/3305)

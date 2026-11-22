@@ -32,7 +32,8 @@ Not: foto/ altında paylaşılmamış ilan yok (sadece balat, paylaşıldı).
 
 ## ÖĞRENİLENLER
 - 22.11 sabah kontrolü: 14 günlük veri çok az (hesap başı 1-3 reels, reach 100-210). Henüz "tutan içerik" yok. En yüksek reach: Balat kafe ilanı (212, gerçek ilan). Yorum yok.
-- Sabah dil sırası: Emlak EN→(sonraki AR), Danışmanlık EN→(sonraki AR), OSGB TR (pazartesi EN).
+- DİL: kullanıcı kararı (22.11) — sadece TR + EN. Sabah: Emlak & Danışmanlık EN, OSGB TR (pazartesi EN).
+- 22.11 akşam: günlük adet 3→5 (yeni slotlar: 10:47 GÜNDEM, 16:47 TREND). Akşam slotu günlük rapor + yarın planı verir.
 - 22.11 öğle: son 3 günde yorum yok. Ses: seslendirme ~-14 LUFS, video mean -16..-17 dB.
 - 22.11 AKŞAM performans (14 gün, Windsor cache): En iyi reach = kullanıcının kendi Balat ilan reels'i (375 reach/406 izlenme, 2 paylaşım) + bizim Balat ilan reels'i (240). Gerçek ilan/somut yer > genel hizmet videosu. Emlak premium "Evin aylardır satılmıyor mu?" 111 reach, 3 paylaşım (paylaşım alan tek hizmet videosu).
 - OSGB reels'leri ~150-185 reach ama skip rate %80-89, ort. izlenme ~3 sn → ilk 1 sn'de görsel şok + soru şart; ilk sahnede yazı daha erken (at 0), daha karanlık/dramatik foto denendi (akşam: yanan EXIT tabelası). Sonuç sabah kontrol edilecek.
