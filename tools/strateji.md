@@ -38,6 +38,16 @@ Google Trends'e doğrudan erişim YOK (ağ engelli). WebSearch ile "Google Trend
 ## GÜNLÜK RAPOR (akşam slotu, her gün, PushNotification ile)
 Paylaşımlardan sonra kullanıcıya Türkçe, kısa rapor: (1) bugün paylaşılan tüm reels'ler (hesap · slot · konu), (2) son 7 gün öne çıkan metrikler ve varsa tutan içerik, (3) yorumlar/aksiyon gerekenler (collab daveti, silinecek video vb.), (4) YARININ PLANI: her slot × hesap için planlanan konu (gündem/trend slotları için "sabah haberine göre belirlenecek" + aday konular). Yarının planını log.md'ye "YARIN PLANI (tarih)" başlığıyla yaz; ertesi gün slotlar bu plana uyar (gündem/trend hariç).
 
+## LOGO KULLANIMI — ENTEGRE (kullanıcı geri bildirimi 22.11.2026: "logo eğreti, sonradan eklenmiş gibi")
+- gh_render.py artık VARSAYILAN olarak logoyu kutusuz, arka planı kaldırılmış (şeffaf), yumuşak gölge/hale ile videoya yedirir: köşede küçük imza (fade-in, hafif kayma) + SON SAHNEDE büyük marka kapanışı (ortada, CTA'nın üstünde). Eski beyaz/lacivert kutu YOK ("style":"box" sadece istisna).
+- Job'da: "logo": {"src": "tools/logos/<marka>.png", "x": 64, "y": 84, "w": <köşe genişliği>, "end_w": <kapanış genişliği>, "end_y": 330}. Önerilen: Emlak w 190 / end_w 380; OSGB w 230 / end_w 440; Danışmanlık w 300 / end_w 560.
+- Son sahnede metin y ≥ 780 başlasın ki kapanış logosuyla çakışmasın (end_y 330 + logo yüksekliği).
+- OSGB/Danışmanlık logosundaki lacivert yazı koyu zeminde otomatik beyaza çevrilir (negatif kullanım; renk/şekil değiştirilmez, yeni logo değildir).
+- İş kazası ve anma reels'lerinde logo yok (veya sadece küçük köşe, end: false).
+
+## ÖNEMLİ GÜNLER / BAYRAMLAR (kullanıcı talebi — ATLANMAZ)
+tools/ozel_gunler.md takvimine göre: akşam slotu ertesi gün özel günse kutlama reels'lerini hazırlar (jobs/ozel/kuyruk.json), "Özel gün 00:01" görevi gece 00:01'de paylaşır.
+
 ## Viral format kuralları
 - İlk 1,5 sn: soru / hata / şok edici gerçek hook (yazı büyük). Örnekler: "Bu hatayı yapan ev sahibi aylarca kiracı bulamıyor", "İşyerinizde bu belge yoksa…", "ISO belgesi olmadan bu ihaleye giremezsiniz".
 - 4-6 slayt, 12-16 sn, her slayt tek fikir, kısa cümle. Döngü hissi: son slayt ilk slayda bağlansın.

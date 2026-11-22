@@ -97,6 +97,37 @@ def scrim_png(color, path, top=700):
             pr, pg, pb, pa = px[xx, yy]; px[xx, yy] = (r, g, b, max(pa, a))
     img.save(path)
 
+def logo_cutout(src_path, out_path, width, on_dark=True):
+    """Arka planı (düz renk) kaldırır, logoyu sahneye 'yedirir': şeffaf zemin + yumuşak gölge.
+    Beyaz zeminli logolarda koyu lacivert yazı koyu sahnede kaybolmasın diye beyaza çevrilir (negatif kullanım)."""
+    from PIL import ImageFilter
+    im = Image.open(src_path).convert("RGB")
+    bg = im.getpixel((2, 2)); light_bg = sum(bg) > 600
+    px = im.load(); out = Image.new("RGBA", im.size); po = out.load()
+    for yy in range(im.height):
+        for xx in range(im.width):
+            r, g, b = px[xx, yy]
+            d = max(abs(r - bg[0]), abs(g - bg[1]), abs(b - bg[2]))
+            a = max(0.0, min(1.0, (d - 14) / 70.0))
+            if a <= 0: po[xx, yy] = (0, 0, 0, 0); continue
+            c = [max(0, min(255, int((v - bv * (1 - a)) / a))) for v, bv in zip((r, g, b), bg)]
+            if light_bg and on_dark and c[2] > c[0] + 25 and c[0] < 140:  # lacivert -> beyaz
+                c = [255, 255, 255]
+            po[xx, yy] = (c[0], c[1], c[2], int(a * 255))
+    bb = out.getbbox(); out = out.crop(bb) if bb else out
+    h = int(out.height * width / out.width); out = out.resize((width, h), Image.LANCZOS)
+    pad = max(18, width // 7)
+    canvas = Image.new("RGBA", (width + 2 * pad, h + 2 * pad), (0, 0, 0, 0))
+    sh = Image.new("RGBA", canvas.size, (0, 0, 0, 0)); alpha = out.split()[3].point(lambda v: int(v * 0.55))
+    sh.paste((0, 0, 0, 255), (pad + 2, pad + 4), alpha)
+    sh = sh.filter(ImageFilter.GaussianBlur(pad / 2.5))
+    halo = Image.new("RGBA", canvas.size, (0, 0, 0, 0)); ha = Image.new("L", canvas.size, 0); ha.paste(out.split()[3], (pad, pad))
+    ha = ha.filter(ImageFilter.MaxFilter(9)).filter(ImageFilter.GaussianBlur(pad / 1.6)).point(lambda v: int(v * 0.38))
+    halo.putalpha(ha)  # yumuşak koyu hale: kutu değil, logonun okunurluğu için
+    canvas = Image.alpha_composite(halo, sh)
+    canvas.alpha_composite(out, (pad, pad)); canvas.save(out_path)
+    return canvas.size, pad
+
 def render_scene(sc, i, tmp, scrim):
     photo = fetch(sc["photo"], tmp, f"p{i}.jpg")
     im = Image.open(photo).convert("RGB")
@@ -156,12 +187,30 @@ def main(job_path):
         fc.append(f"{prev}[{k}:v]xfade=transition={job.get('xfade', 'slideup')}:duration={tr}:offset={off:.3f}[x{k}]"); prev = f"[x{k}]"
     total = sum(d for _, d in parts) - tr * (len(parts) - 1)
     lg = job.get("logo"); idx = len(parts)
-    if lg:
+    if lg and lg.get("style") == "box":
         lp = fetch(lg["src"], tmp, "logo.png"); im = Image.open(lp).convert("RGBA").resize((lg["w"], lg["h"]), Image.LANCZOS)
         m = Image.new("L", im.size, 0); ImageDraw.Draw(m).rounded_rectangle([0, 0, im.size[0]-1, im.size[1]-1], lg.get("radius", 24), fill=255)
         im.putalpha(m); im.save(os.path.join(tmp, "logo_r.png"))
         cmd += ["-loop", "1", "-t", f"{total}", "-i", os.path.join(tmp, "logo_r.png")]
         fc.append(f"{prev}[{idx}:v]overlay={lg['x']}:{lg['y']}[vl]"); prev = "[vl]"; idx += 1
+    elif lg:
+        # ENTEGRE LOGO: kutusuz, şeffaf, gölgeli; köşede küçük imza + son sahnede büyük marka kapanışı
+        lp = fetch(lg["src"], tmp, "logo.png")
+        cw = int(lg.get("corner_w", lg.get("w", 220))); ew = int(lg.get("end_w", min(520, cw * 2)))
+        (cW, cH), cpad = logo_cutout(lp, os.path.join(tmp, "logo_c.png"), cw)
+        (eW, eH), epad = logo_cutout(lp, os.path.join(tmp, "logo_e.png"), ew)
+        last_start = total - parts[-1][1]
+        cx = int(lg.get("x", 64)) - cpad; cy = int(lg.get("y", 84)) - cpad
+        c_out = last_start + 0.1
+        cmd += ["-loop", "1", "-t", f"{total}", "-i", os.path.join(tmp, "logo_c.png")]
+        fc.append(f"[{idx}:v]format=rgba,colorchannelmixer=aa={lg.get('opacity', 0.92)},fade=t=in:st=0.15:d=0.7:alpha=1,fade=t=out:st={c_out:.2f}:d=0.5:alpha=1[lgc]")
+        fc.append(f"{prev}[lgc]overlay=x={cx}:y='{cy}+12*max(0\\,1-t/0.85)':eval=frame[vl]"); prev = "[vl]"; idx += 1
+        if lg.get("end", True):
+            ey = int(lg.get("end_y", 330)) - epad; ex = (W - eW) // 2 if lg.get("end_align", "center") == "center" else int(lg.get("x", 64)) - epad
+            e_in = last_start + float(lg.get("end_at", 0.35))
+            cmd += ["-loop", "1", "-t", f"{total}", "-i", os.path.join(tmp, "logo_e.png")]
+            fc.append(f"[{idx}:v]format=rgba,fade=t=in:st={e_in:.2f}:d=0.8:alpha=1[lge]")
+            fc.append(f"{prev}[lge]overlay=x={ex}:y='{ey}+30*max(0\\,1-(t-{e_in:.2f})/0.8)':eval=frame[ve]"); prev = "[ve]"; idx += 1
     fc.append(f"{prev}format=yuv420p[v]")
     amap = []
     if job.get("voice"):
