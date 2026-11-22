@@ -1,0 +1,64 @@
+{
+ "out": "out/2026-11-23/tts_test_teperealestate.mp4",
+ "scrim": "#010923",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/realestate.png",
+  "x": 64,
+  "y": 84,
+  "w": 190,
+  "end_w": 380,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/cf166bed-0030-451e-bc35-3660e24a92c0.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "en-US",
+  "gender": "FEMALE",
+  "rate": 1.05,
+  "lines": [
+   "Living abroad? Your Istanbul apartment is in good hands with us.",
+   "Tap the WhatsApp button on our profile and let's talk."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "foto/balat/sokak.jpg",
+   "fit": "cover",
+   "dur": 3.5,
+   "elements": [
+    {
+     "text": "Living abroad?",
+     "x": 72,
+     "y": 1000,
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "foto/balat/on.jpg",
+   "fit": "cover",
+   "dur": 3.5,
+   "elements": [
+    {
+     "text": "Tap the WhatsApp button on our profile",
+     "x": 72,
+     "y": 820,
+     "w": 936,
+     "size": 90,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.4,
+     "anim": "up"
+    }
+   ]
+  }
+ ]
+}
