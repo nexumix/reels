@@ -1,6 +1,11 @@
 name: AI clips (Kaggle GPU)
 on:
   workflow_dispatch:
+    inputs:
+      download_only:
+        description: "Sadece son Kaggle çıktısını indir"
+        type: boolean
+        default: false
   push:
     paths: ["clips/queue.json"]
 permissions:
@@ -23,10 +28,12 @@ jobs:
           kaggle --version
           test -n "$KAGGLE_USERNAME" && test -n "$KAGGLE_API_TOKEN" || (echo "SECRETS MISSING"; exit 1)
       - name: Push kernel
+        if: ${{ !inputs.download_only }}
         run: |
           sed -i "s/KAGGLE_USER/$KAGGLE_USERNAME/" kaggle/i2v/kernel-metadata.json
           kaggle kernels push -p kaggle/i2v
       - name: Wait for kernel
+        if: ${{ !inputs.download_only }}
         run: |
           K="$KAGGLE_USERNAME/tepe-i2v"
           for i in $(seq 1 300); do
@@ -45,6 +52,7 @@ jobs:
       - name: Commit
         run: |
           git config user.name "reels-bot"; git config user.email "reels-bot@users.noreply.github.com"
+          git checkout -- kaggle
           git add clips/out
           git diff --cached --quiet && exit 0
           git commit -m "AI clips [skip ci]"
