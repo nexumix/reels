@@ -1,5 +1,8 @@
 # Tepe Grup Instagram Reels Stratejisi (Kasım–Aralık 2026 yoğun dönem)
 
+> **GÜNCEL ÖNCELİK (23.11.2026, kullanıcı onaylı):** Görev metninde "Speko seslendirme → normalize mp3" yazsa bile seslendirme artık **Google TTS** ile yapılır: job'a "tts" alanı eklenir (bkz. SESLENDİRME KREDİSİ KURALI → GOOGLE TTS), render sırasında GitHub Actions'ta otomatik üretilir ve normalize edilir. Speko yalnızca Google TTS başarısız olursa yedek. Logo entegre (kutusuz), CTA "Profildeki WhatsApp butonuna dokun", dil sadece TR/EN.
+
+
 Amaç: milyonlarca izlenme, takip + yorum, yeni müşteri (telefon / WhatsApp / e-posta).
 
 ## KESİN KURALLAR (ihlal = paylaşma)
