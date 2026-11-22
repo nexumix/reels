@@ -80,3 +80,7 @@ Orshot bağlayıcısı ile gerçek stok fotoğraflı "film" üret:
 - OSGB: 46587 (lacivert #08295A / turuncu #F28C0F, Emre sesi, müzik stock://orshot/music/3261)
 - Danışmanlık: 46588 (lacivert #08295A / turuncu #F28C0F, Aykut sesi, müzik stock://orshot/music/3276)
 Her şablon 5 sahne: hook / problem / offer / proof(veya manage) / cta. Yeni içerikte bu şablonu güncelle (metin, photo, videoDuration, film voice src) ve render et.
+
+### SES SEVİYESİ KURALI (kullanıcı şikayeti: müzik konuşmayı bastırdı)
+- Birleştirilmiş seslendirme mp3'ünü MUTLAKA normalize et: `ffmpeg -i mix.wav -af "loudnorm=I=-14:TP=-1.5:LRA=11" -ar 44100 mix_n.wav` sonra mp3. Ölç: `-af loudnorm=print_format=summary` → Input Integrated -15 ile -13 LUFS arası olmalı. (Aykut sesi çok kısık geliyor: -35 LUFS idi.)
+- Film müzik klibi: volume 0.15, duck strength 0.85. Seslendirme klibi volume 1.
