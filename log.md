@@ -11,7 +11,9 @@
 | 2026-11-22 | premium | teperealestate | TR | 1 Satılık + 5 Mülk yönetimi (Orshot premium, gerçek foto) | "Evin aylardır satılmıyor mu?" | 18038714078892195 |
 | 2026-11-22 | premium | tepeosgb | TR | 1 İş Güvenliği Uzmanı (Orshot premium) | "Çalışanın varsa iş güvenliği uzmanı zorunlu" | 18116446688156598 |
 | 2026-11-22 | premium | tepe.danismanlik | TR | 1 ISO 9001 (Orshot premium) | "ISO 9001 yoksa bu ihaleleri kaçırıyor olabilirsin" | 18181678393449174 |
+| 2026-11-22 | premium-fix | tepe.danismanlik | TR | 1 ISO 9001 (ses düzeltildi) | "ISO 9001 yoksa bu ihaleleri kaçırıyor olabilirsin" | 18027689441943699 |
 
+Not: Danışmanlık premium ilk sürüm (18181678393449174) sesi kısık; kullanıcı silmeli.
 Not: v2 OSGB (17917123125492067) ve Danışmanlık (18402251170200971) kullanıcı tarafından silindi.
 Not: test/siftah paylaşımları (18108466928373654, 17918582214494174, 18129776602914001) kullanıcı tarafından silindi. Windsor Instagram girişiyle bağlı: silme yok, yorum yanıtı var. Silinmesi gereken paylaşım olursa kullanıcıya bildir.
 
