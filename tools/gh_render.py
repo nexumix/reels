@@ -139,6 +139,12 @@ def render_scene(sc, i, tmp, scrim):
 
 def main(job_path):
     job = json.load(open(job_path)); tmp = tempfile.mkdtemp()
+    if job.get("script"):
+        out = os.path.join(ROOT, job["out"]); os.makedirs(os.path.dirname(out), exist_ok=True)
+        args = ["python3", os.path.join(ROOT, job["script"]), out]
+        if job.get("voice"): args.append(fetch(job["voice"], tmp, "voice.mp3"))
+        if job.get("music"): args.append(fetch(job["music"]["src"], tmp, "music" + os.path.splitext(job["music"]["src"].split("?")[0])[1]))
+        subprocess.run(args, check=True); return
     scrim = os.path.join(tmp, "scrim.png"); scrim_png(job.get("scrim", "#010923"), scrim, job.get("scrim_top", 700))
     parts = [render_scene(sc, i, tmp, scrim) for i, sc in enumerate(job["scenes"])]
     tr = float(job.get("transition", 0.8))
