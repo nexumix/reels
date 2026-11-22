@@ -1,0 +1,233 @@
+{
+ "out": "out/2026-11-22/teperealestate_free_test.mp4",
+ "scrim": "#010923",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/realestate.png",
+  "x": 64,
+  "y": 96,
+  "w": 200,
+  "h": 166,
+  "radius": 24
+ },
+ "voice": "v/2026-11-22/vo_teperealestate_1.mp3",
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/e775bb75-6a4f-45ba-b7cd-59ddd62e6f85.m4a",
+  "volume": 0.15
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1736299297877-15c49d8a8a1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 3.6,
+   "elements": [
+    {
+     "text": "İSTANBUL · EMLAK",
+     "x": 96,
+     "y": 1000,
+     "size": 34,
+     "font": "bold",
+     "color": "#010923",
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ],
+     "at": 0.2
+    },
+    {
+     "text": "Evin aylardır satılmıyor mu?",
+     "x": 72,
+     "y": 1090,
+     "w": 936,
+     "size": 120,
+     "font": "head",
+     "color": "#F9F5EC",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1674758979141-4e3521ba7321?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6.6,
+   "elements": [
+    {
+     "text": "Sorun genelde ev değil.",
+     "x": 72,
+     "y": 1000,
+     "w": 936,
+     "size": 112,
+     "font": "head",
+     "color": "#F9F5EC",
+     "at": 0.6,
+     "anim": "up"
+    },
+    {
+     "text": "Yanlış fiyat, zayıf fotoğraf ve doğru alıcıya ulaşmayan ilan.",
+     "x": 72,
+     "y": 1280,
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#F2ECDD",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://storage.orshot.com/stock/pixabay/photo/8260412.jpg",
+   "dur": 6.8,
+   "elements": [
+    {
+     "text": "Tepe Real Estate ile",
+     "x": 72,
+     "y": 920,
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#E3B33F",
+     "at": 0.6,
+     "anim": "up"
+    },
+    {
+     "text": "Ücretsiz değerleme",
+     "x": 96,
+     "y": 1090,
+     "size": 48,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18,
+     "at": 1.6
+    },
+    {
+     "text": "Profesyonel çekim",
+     "x": 96,
+     "y": 1210,
+     "size": 48,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18,
+     "at": 2.6
+    },
+    {
+     "text": "Hazır alıcı portföyü",
+     "x": 96,
+     "y": 1330,
+     "size": 48,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18,
+     "at": 3.6
+    }
+   ]
+  },
+  {
+   "photo": "https://storage.orshot.com/stock/pixabay/photo/4780574.jpg",
+   "dur": 7.3,
+   "elements": [
+    {
+     "text": "MÜLK YÖNETİMİ",
+     "x": 96,
+     "y": 880,
+     "size": 34,
+     "font": "bold",
+     "color": "#010923",
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ],
+     "at": 0.3
+    },
+    {
+     "text": "Kiralık mülkün mü var?",
+     "x": 72,
+     "y": 960,
+     "w": 936,
+     "size": 112,
+     "font": "head",
+     "color": "#F9F5EC",
+     "at": 0.6,
+     "anim": "up"
+    },
+    {
+     "text": "Kiracı bulma, kira takibi, DASK ve sigorta.\nA'dan Z'ye mülk yönetimi bizde.",
+     "x": 72,
+     "y": 1240,
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#F2ECDD",
+     "at": 2.0
+    }
+   ]
+  },
+  {
+   "photo": "https://storage.orshot.com/stock/pixabay/photo/4956773.jpg",
+   "dur": 5.6,
+   "elements": [
+    {
+     "text": "Mülkünü konuşalım.",
+     "x": 72,
+     "y": 900,
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#F9F5EC",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Hemen ara  0533 192 83 73",
+     "x": 96,
+     "y": 1090,
+     "size": 54,
+     "font": "bold",
+     "color": "#010923",
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ],
+     "at": 1.3
+    },
+    {
+     "text": "0850 305 40 19",
+     "x": 96,
+     "y": 1230,
+     "w": 700,
+     "size": 48,
+     "font": "semi",
+     "color": "#F9F5EC",
+     "at": 1.9
+    },
+    {
+     "text": "DM'den ücretsiz değerleme iste",
+     "x": 96,
+     "y": 1320,
+     "w": 860,
+     "size": 40,
+     "font": "body",
+     "color": "#E3B33F",
+     "at": 2.4,
+     "anim": "fade"
+    }
+   ]
+  }
+ ]
+}
