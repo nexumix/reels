@@ -118,3 +118,7 @@ Amaç: 3 hesap birbirini büyütsün.
 - REMIX: Haftada en az 2 kez bir hesapta tutan/güçlü bir reels'in konusunu diğer hesabın bakış açısıyla yeniden üret (ör. OSGB'de "risk değerlendirmesi" tuttuysa → Danışmanlık'ta "ISO 45001 ile risk yönetimi", Emlak'ta "işyeri kiralarken güvenlik kontrol listesi"). Videonun son sahnesine/caption'a küçük grup notu: "Tepe Grup: @tepeosgb · @tepe.danismanlik · @teperealestate".
 - STORY ÇAPRAZ PAYLAŞIM: Her yeni reels paylaşıldıktan sonra, ilgili diğer hesaplardan 1'inde create_story ile aynı videoyu (≤60 sn) paylaş; story'ye user_tags ile asıl hesabı etiketle.
 - Caption sonuna 1 satır çapraz tanıtım (ilgili kardeş hesabı @ ile), her seferinde değil, yaklaşık 2 paylaşımda 1.
+
+## ANİMASYONLU (MOTION GRAPHICS) REELS — GPU gerektirmez
+Örnek: tools/anim_osgb_risk.py (kodla çizilmiş ikonlar, kelime kelime yazı, sayaç/matris/onay animasyonları). Job: {"script": "tools/<script>.py", "out": ..., "voice": ..., "music": {"src": ...}} → GitHub Actions render eder.
+Kullanım: OSGB ve Danışmanlık'ta "nasıl yapılır / X adımda / kontrol listesi" konularında haftada 3-4 kez, fotoğraflı reels ile dönüşümlü. Yeni konu için örnek script'i kopyalayıp sahneleri uyarla (SCENES süreleri = seslendirmeye göre; marka renkleri; logo; @hesap).
