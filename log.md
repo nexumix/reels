@@ -17,11 +17,17 @@
 | 2026-11-22 | sabah | teperealestate | EN | 2 Kiralık mülk sahibi + 10 Yurt dışındaki ev sahipleri (GitHub render v4, Tessa sesi) | "Your Istanbul flat is empty. Again?" | 18031927172923394 |
 | 2026-11-22 | sabah | tepe.danismanlik | EN | 2 ISO 14001 Çevre (ihracatçılar/AB alıcıları, Kyle sesi) | "Exporting to Europe? Buyers will ask this." | 17950433484370336 |
 | 2026-11-22 | sabah | tepeosgb | TR | 4 İSG Eğitimleri (yıl sonu + kış riskleri, Emre sesi) | "Yıl bitiyor: İSG eğitimlerin tamam mı?" | 18102809594455152 |
+| 2026-11-22 | öğle | tepeosgb | TR | 5 Ortam Ölçümleri (kış/kapalı alan, Emre sesi, v4) | "Gürültüyü ve havayı ölçtün mü?" | 18103835384552810 |
+| 2026-11-22 | öğle | tepe.danismanlik | TR | 3 ISO 45001 (2027 ihaleleri, @tepeosgb etiketli, Aykut sesi, v4) | "ISO 45001 belgen hazır mı?" | 18023702081959298 |
+| 2026-11-22 | öğle | teperealestate | TR | 3 Arsa/tarla sahibi (yılbaşı öncesi, Aylin sesi, v4) | "Arsan yıllardır boş mu duruyor?" | 18008993909978299 |
 
 Not: Danışmanlık premium ilk sürüm (18181678393449174) sesi kısık; kullanıcı silmeli.
 Not: v2 OSGB (17917123125492067) ve Danışmanlık (18402251170200971) kullanıcı tarafından silindi.
 Not: test/siftah paylaşımları (18108466928373654, 17918582214494174, 18129776602914001) kullanıcı tarafından silindi. Windsor Instagram girişiyle bağlı: silme yok, yorum yanıtı var. Silinmesi gereken paylaşım olursa kullanıcıya bildir.
+Not (22.11 öğle): Windsor create_video_post 'collaborators' parametresini KABUL ETMİYOR → collab yerine user_tags kullanıldı. create_story otomatik izin sınıflandırıcısı tarafından reddedildi (story çapraz paylaşım yapılamadı). OSGB öğle caption'ında hashtag yazım hatası: #risktdeğerlendirmesi (API ile düzenlenemiyor).
+Not: foto/ altında paylaşılmamış ilan yok (sadece balat, paylaşıldı).
 
 ## ÖĞRENİLENLER
 - 22.11 sabah kontrolü: 14 günlük veri çok az (hesap başı 1-3 reels, reach 100-210). Henüz "tutan içerik" yok. En yüksek reach: Balat kafe ilanı (212, gerçek ilan). Yorum yok.
 - Sabah dil sırası: Emlak EN→(sonraki AR), Danışmanlık EN→(sonraki AR), OSGB TR (pazartesi EN).
+- 22.11 öğle: son 3 günde yorum yok. Ses: seslendirme ~-14 LUFS, video mean -16..-17 dB.
