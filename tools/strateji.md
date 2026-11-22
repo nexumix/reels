@@ -84,3 +84,15 @@ Her şablon 5 sahne: hook / problem / offer / proof(veya manage) / cta. Yeni iç
 ### SES SEVİYESİ KURALI (kullanıcı şikayeti: müzik konuşmayı bastırdı)
 - Birleştirilmiş seslendirme mp3'ünü MUTLAKA normalize et: `ffmpeg -i mix.wav -af "loudnorm=I=-14:TP=-1.5:LRA=11" -ar 44100 mix_n.wav` sonra mp3. Ölç: `-af loudnorm=print_format=summary` → Input Integrated -15 ile -13 LUFS arası olmalı. (Aykut sesi çok kısık geliyor: -35 LUFS idi.)
 - Film müzik klibi: volume 0.15, duck strength 0.85. Seslendirme klibi volume 1.
+
+## VİDEO FORMATI v4 — ÜCRETSİZ GITHUB RENDER (22.11.2026; Orshot kredisi bitti) — ANA YÖNTEM BU
+Orshot render KULLANMA (kredi yok). Orshot'tan SADECE ücretsiz olanlar: orshot_search_stock_media + orshot_use_stock_media (foto URL'si; müzik URL'si). Video, GitHub Actions'ta tools/gh_render.py ile render edilir.
+Akış (her reels):
+1. 5 sahne metni + her sahne için stok foto: orshot_search_stock_media (orientation vertical) → orshot_use_stock_media(ref) → URL. Unsplash URL'sinde w=1080'i w=1600 yap. Dini yapı / yakın yüz / logo içeren foto yok.
+2. Speko seslendirme (marka sesi) → her klibe atempo (gerekirse) → adelay+amix → loudnorm I=-14 → mp3 → v/YYYY-MM-DD/ altına.
+3. jobs/YYYY-MM-DD_<slot>_<hesap>.json yaz (örnek: jobs/2026-11-22_teperealestate_free_test2.json). Alanlar: out (out/YYYY-MM-DD/<ad>.mp4), scrim (marka koyu rengi), transition 1.0, logo {src: tools/logos/<marka>.png, x 64, y 96, w/h, radius 24}, voice (repo yolu), music {src: Orshot cdn m4a URL, volume 0.15}, scenes[{photo, dur, elements[...]}]. Element: text, x, y (ilki sayı; sonrakiler "auto" = üsttekinin altına dizilir), w, size, font head|body|bold|semi, color, at (sn), anim up|fade|none, pill (arka plan rengi, #RRGGBBAA olabilir), pad, radius.
+   Marka değerleri: Real Estate scrim #010923, vurgu #E3B33F, pill yazısı #010923, logo realestate.png w200 h166. OSGB/Danışmanlık scrim #08295A, vurgu #F28C0F, pill yazısı #08295A, logo osgb.png w240 h160 / danismanlik.png w300 h200. Satır pill'leri: "#E3B33F38" (emlak) / "#F28C0F40" (diğer).
+   Süre: sahne dur toplamı − (sahne sayısı−1)×1.0 = video süresi; seslendirme zamanlaması buna göre (her ses sahne başı +0.4 sn). 20-28 sn hedef.
+   Müzik URL'leri: emlak https://cdn.orshot.com/library/music/e775bb75-6a4f-45ba-b7cd-59ddd62e6f85.m4a ; diğerleri için orshot_use_stock_media("stock://orshot/music/3261" veya "3276") ile al.
+4. commit + push → GitHub Actions "Render reels" otomatik çalışır (~2 dk). Bekle: `gh run list -R nexumix/reels -L 1` / `gh run watch <id> -R nexumix/reels`. Sonra git pull; out/... dosyasını kontrol et (ffmpeg ile 3-4 kare çıkar, Read ile bak: yazı taşması/çakışma yok, fiyat yok; volumedetect mean -14..-20 dB).
+5. Windsor create_video_post video_url = https://raw.githubusercontent.com/nexumix/reels/<COMMIT_SHA>/out/YYYY-MM-DD/<ad>.mp4 (render commit'inin SHA'sı).
