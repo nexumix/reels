@@ -100,3 +100,21 @@ Akış (her reels):
 ### İLAN REELS'LERİ
 Kullanıcı ilan fotoğrafı/ekran görüntüsü verirse: fotoları foto/<ilan>/ altına koy, job'da kullan (yatay foto otomatik bulanık arka planla tam gösterilir; photo_y 0.16, scrim_top 900, başlık y≈1180). Örnek: jobs/2026-11-22_teperealestate_balat_kafe.json. Fiyat ASLA yazılmaz; ilan no yazılabilir.
 Haftada 2-3 kez öğle/akşam slotunda foto/ klasöründeki henüz paylaşılmamış ilanlar varsa onlara öncelik ver.
+
+## SÜREKLİ ANALİZ + "TUTAN İÇERİK" KURALI (kullanıcı talebi 22.11.2026)
+Her çalışmada (her slotta) paylaşım öncesi:
+1. Windsor get_fields(instagram) ile reels metrik alanlarını bul; get_data ile 3 hesabın son 14 günlük reels'lerini çek (izlenme/reach, beğeni, yorum, kaydetme, paylaşım, ortalama izlenme süresi varsa).
+2. Her hesap için ortalama izlenmeyi hesapla. Bir reels hesabın ortalamasının ≥2 katıysa veya kaydetme/paylaşımı belirgin yüksekse = "TUTAN İÇERİK". log.md "ÖĞRENİLENLER" altına yaz (konu, hook tipi, dil, saat, müzik, ilk sahne fotoğrafı türü).
+3. Tutan içerik varsa sonraki 2-3 gün o konunun ÜSTÜNE GİT: "Bölüm 2" devam serisi, daha detaylı versiyon (adım adım, sık yapılan hatalar, kontrol listesi), aynı hook kalıbıyla farklı hizmet, diğer dillerde versiyonu. Tutmayan hook/konu tiplerini azalt.
+4. Akşam slotunda kısa haftalık trend özeti kullanıcıya (en iyi 3 reels + neden).
+
+## HESAPLAR ARASI DESTEK / REMIX (kullanıcı talebi)
+Amaç: 3 hesap birbirini büyütsün.
+- COLLAB: Konu ortak olduğunda create_video_post'a "collaborators" ekle (en fazla 3 kullanıcı adı). Kullanıcı adları: tepeosgb, tepe.danismanlik, teperealestate. Eşleşmeler:
+  - OSGB ↔ Danışmanlık: ISO 45001, İSG eğitimleri, risk değerlendirmesi, ISO 14001, yıl sonu denetim, ihale belgeleri.
+  - Danışmanlık ↔ Emlak: yatırım teşvikleri, mimari hizmetler, yatırım/finans danışmanlığı, ticari mülk/fabrika/ofis arayan firmalar.
+  - Emlak ↔ OSGB: kiralık işyeri/dükkan/depo ilanları ("yeni işyerinize İSG desteği"), deprem/acil durum hazırlığı, bina güvenliği.
+  Collab daveti diğer hesapta Instagram uygulamasından KABUL edilmeli; kullanıcıya özet mesajında "X hesabında collab davetini kabul et" diye hatırlat.
+- REMIX: Haftada en az 2 kez bir hesapta tutan/güçlü bir reels'in konusunu diğer hesabın bakış açısıyla yeniden üret (ör. OSGB'de "risk değerlendirmesi" tuttuysa → Danışmanlık'ta "ISO 45001 ile risk yönetimi", Emlak'ta "işyeri kiralarken güvenlik kontrol listesi"). Videonun son sahnesine/caption'a küçük grup notu: "Tepe Grup: @tepeosgb · @tepe.danismanlik · @teperealestate".
+- STORY ÇAPRAZ PAYLAŞIM: Her yeni reels paylaşıldıktan sonra, ilgili diğer hesaplardan 1'inde create_story ile aynı videoyu (≤60 sn) paylaş; story'ye user_tags ile asıl hesabı etiketle.
+- Caption sonuna 1 satır çapraz tanıtım (ilgili kardeş hesabı @ ile), her seferinde değil, yaklaşık 2 paylaşımda 1.
