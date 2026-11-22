@@ -20,6 +20,9 @@
 | 2026-11-22 | öğle | tepeosgb | TR | 5 Ortam Ölçümleri (kış/kapalı alan, Emre sesi, v4) | "Gürültüyü ve havayı ölçtün mü?" | 18103835384552810 |
 | 2026-11-22 | öğle | tepe.danismanlik | TR | 3 ISO 45001 (2027 ihaleleri, @tepeosgb etiketli, Aykut sesi, v4) | "ISO 45001 belgen hazır mı?" | 18023702081959298 |
 | 2026-11-22 | öğle | teperealestate | TR | 3 Arsa/tarla sahibi (yılbaşı öncesi, Aylin sesi, v4) | "Arsan yıllardır boş mu duruyor?" | 18008993909978299 |
+| 2026-11-22 | akşam | tepe.danismanlik | TR | 4 ISO 27001 Bilgi Güvenliği (KVKK, yıl sonu, Aykut sesi, v4) | "Müşteri verin sızarsa ne olur?" | 18120722899803791 |
+| 2026-11-22 | akşam | tepeosgb | TR | 6 Acil Durum Planı & tatbikat (kış riskleri, Emre sesi, v4) | "Alarm çalsa ekibin ne yapar?" | 17875069803643199 |
+| 2026-11-22 | akşam | teperealestate | TR | 4 Ticari mülk/dükkan/ofis (yeni yıl öncesi, @tepeosgb etiketli, Aylin sesi, v4) | "Dükkanın aylardır boş mu?" | 18030425966700576 |
 
 Not: Danışmanlık premium ilk sürüm (18181678393449174) sesi kısık; kullanıcı silmeli.
 Not: v2 OSGB (17917123125492067) ve Danışmanlık (18402251170200971) kullanıcı tarafından silindi.
@@ -31,3 +34,8 @@ Not: foto/ altında paylaşılmamış ilan yok (sadece balat, paylaşıldı).
 - 22.11 sabah kontrolü: 14 günlük veri çok az (hesap başı 1-3 reels, reach 100-210). Henüz "tutan içerik" yok. En yüksek reach: Balat kafe ilanı (212, gerçek ilan). Yorum yok.
 - Sabah dil sırası: Emlak EN→(sonraki AR), Danışmanlık EN→(sonraki AR), OSGB TR (pazartesi EN).
 - 22.11 öğle: son 3 günde yorum yok. Ses: seslendirme ~-14 LUFS, video mean -16..-17 dB.
+- 22.11 AKŞAM performans (14 gün, Windsor cache): En iyi reach = kullanıcının kendi Balat ilan reels'i (375 reach/406 izlenme, 2 paylaşım) + bizim Balat ilan reels'i (240). Gerçek ilan/somut yer > genel hizmet videosu. Emlak premium "Evin aylardır satılmıyor mu?" 111 reach, 3 paylaşım (paylaşım alan tek hizmet videosu).
+- OSGB reels'leri ~150-185 reach ama skip rate %80-89, ort. izlenme ~3 sn → ilk 1 sn'de görsel şok + soru şart; ilk sahnede yazı daha erken (at 0), daha karanlık/dramatik foto denendi (akşam: yanan EXIT tabelası). Sonuç sabah kontrol edilecek.
+- Danışmanlık reach düşük (8-72); EN sabah reels 72 reach. Skip en düşük ISO 45001 (%57). Danışmanlık'ta "kayıp/risk" hook'u (akşam: veri sızıntısı) deneniyor.
+- Henüz TUTAN İÇERİK yok (ort. 2x üstü yok, yorum 0). Öneri: foto/ klasörüne yeni ilan gelirse öncelik ver; emlak'ta somut semt + ilan formatı tekrar edilmeli.
+- Akşam: Instagram ve YouTube'da yanıtlanacak yorum yok. Ses: seslendirme -13.0..-14.5 LUFS (loudnorm sonrası seyrek seste ek gain düzeltmesi gerekti), video mean -15.7..-16.8 dB.
