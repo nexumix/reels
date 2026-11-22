@@ -46,7 +46,7 @@ Paylaşımlardan sonra kullanıcıya Türkçe, kısa rapor: (1) bugün paylaşı
 - İş kazası ve anma reels'lerinde logo yok (veya sadece küçük köşe, end: false).
 
 ## ÖNEMLİ GÜNLER / BAYRAMLAR (kullanıcı talebi — ATLANMAZ)
-tools/ozel_gunler.md takvimine göre: akşam slotu ertesi gün özel günse kutlama reels'lerini hazırlar (jobs/ozel/kuyruk.json), "Özel gün 00:01" görevi gece 00:01'de paylaşır.
+tools/ozel_gunler.md takvimine göre: akşam slotu ertesi gün özel günse kutlama reels'lerini hazırlar (tools/ozel_kuyruk.json), "Özel gün 00:01" görevi gece 00:01'de paylaşır.
 
 ## Viral format kuralları
 - İlk 1,5 sn: soru / hata / şok edici gerçek hook (yazı büyük). Örnekler: "Bu hatayı yapan ev sahibi aylarca kiracı bulamıyor", "İşyerinizde bu belge yoksa…", "ISO belgesi olmadan bu ihaleye giremezsiniz".

@@ -1,8 +1,8 @@
 # Önemli Gün / Hafta / Bayram Takvimi (kullanıcı talebi 22.11.2026 — ATLANMAZ)
 
 KURAL: Takvimdeki gün geldiğinde ilgili hesap(lar)ın kutlama/anma reels'i **gece 00:01'de** yayında olur.
-- Hazırlık: bir önceki gün AKŞAM slotu (20:17) yarın özel gün mü bakar → kutlama reels'lerini render eder, `jobs/ozel/kuyruk.json`'a yazar ve push eder (video_url = render commit SHA'lı raw URL, caption, hesap id).
-- Yayın: "Özel gün 00:01" görevi kuyruktaki o tarihe ait videoları hemen paylaşır, kuyruğu "posted" işaretler. Kuyruk boşsa sessizce biter.
+- Hazırlık: bir önceki gün AKŞAM slotu (20:17) yarın özel gün mü bakar → kutlama reels'lerini render eder, `tools/ozel_kuyruk.json`'a yazar ve push eder (video_url = render commit SHA'lı raw URL, caption, hesap id).
+- Render job dosyaları normal jobs/YYYY-MM-DD_ozel_<hesap>.json olarak push edilir (render otomatik). Yayın: "Özel gün 00:01" görevi kuyruktaki o tarihe ait videoları hemen paylaşır, kuyruğu "posted" işaretler. Kuyruk boşsa sessizce biter.
 - Dini bayram tarihleri hazırlık günü WebSearch ile (Diyanet) TEYİT edilir.
 - Görsel/ton: zarif, sade, premium. Dini bayramlarda sadece "Bayramınız kutlu olsun" tarzı tebrik; dini yapı fotoğrafı, ayet/dua, dini sembol YOK (kural 1). Siyasi mesaj, kişi/parti YOK. Milli günlerde Türk bayrağı fotoğrafı kullanılabilir (saygılı, temiz kompozisyon).
 - Kutlama reels'i: logo entegre, satış/CTA yok; caption sonunda tek satır iletişim olabilir. ANMA günleri (10 Kasım vb.): logo küçük, müzik yok/çok sakin, CTA ve iletişim YOK.
