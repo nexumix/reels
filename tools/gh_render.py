@@ -176,6 +176,13 @@ def main(job_path):
         if job.get("voice"): args.append(fetch(job["voice"], tmp, "voice.mp3"))
         if job.get("music"): args.append(fetch(job["music"]["src"], tmp, "music" + os.path.splitext(job["music"]["src"].split("?")[0])[1]))
         subprocess.run(args, check=True); return
+    if job.get("tts"):
+        try:
+            sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))); from tts_google import build_voice
+            v = build_voice(job, tmp)
+            if v: job["voice"] = v
+            else: print("TTS atlandı (anahtar yok); job voice kullanılacak:", job.get("voice"))
+        except Exception as e: print("TTS HATASI, job voice ile devam:", e)
     scrim = os.path.join(tmp, "scrim.png"); scrim_png(job.get("scrim", "#010923"), scrim, job.get("scrim_top", 700))
     parts = [render_scene(sc, i, tmp, scrim) for i, sc in enumerate(job["scenes"])]
     tr = float(job.get("transition", 0.8))

@@ -30,6 +30,8 @@ jobs:
           for f in Lato-Regular Lato-Bold Lato-Black; do curl -sL -o .fonts/$f.ttf "$base/lato/$f.ttf"; done
           ls -la .fonts
       - name: Render
+        env:
+          GOOGLE_TTS_KEY: ${{ secrets.GOOGLE_TTS_KEY }}
         run: |
           if [ -n "${{ github.event.inputs.job }}" ]; then JOBS="${{ github.event.inputs.job }}";
           else JOBS=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'jobs/*.json'); fi

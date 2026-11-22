@@ -51,11 +51,20 @@ tools/ozel_gunler.md takvimine göre: akşam slotu ertesi gün özel günse kutl
 ## SESLENDİRME KREDİSİ KURALI (kullanıcı: "ihtiyaç olursa DERHAL söyle")
 - HER slotta seslendirmeden önce Speko credits_balance_get çağır. Bakiye < 1.50 USD ise o anda PushNotification gönder: "Speko seslendirme kredisi azaldı: X USD (yaklaşık N video). Yükleme gerekli." Bakiye < 0.10 USD veya 402 hatası: videoyu seslendirmesiz (müzik + yazı) üret, paylaş ve aynı bildirimi "kredi bitti" diye gönder.
 - Maliyet: ~0.03 USD / reels (5 sahne ~600 karakter). 15 reels/gün ≈ 0.45 USD/gün.
-- Ücretsiz yedek planı (kullanıcı kurulum yaparsa): Google Cloud Text-to-Speech — aylık 1M karakter Chirp 3 HD / Neural2 ücretsiz (bizim kullanım ~270 bin/ay). API anahtarı GitHub secret GOOGLE_TTS_KEY olarak eklenince render workflow'una TTS adımı eklenecek.
+- GOOGLE TTS (ücretsiz, aylık 1M karakter Chirp 3 HD): DURUM = BEKLEMEDE (kullanıcı API anahtarını GitHub secret GOOGLE_TTS_KEY olarak ekleyince test edilip AKTİF yapılacak).
+  AKTİF olduğunda: Speko KULLANMA; job'a "tts": {"lang": "tr-TR"|"en-US", "gender": "MALE"|"FEMALE", "rate": 1.08, "lines": [sahne başına konuşma metni]} ekle. Render (tools/tts_google.py) sesleri Actions'ta üretir, sahne sürelerini sese göre uzatır, loudnorm I=-14 yapar. "voice" alanı gerekmez. Marka sesleri: Emlak FEMALE, OSGB MALE, Danışmanlık MALE (EN: Emlak FEMALE en-US, Danışmanlık MALE en-US). Render log'unda "TTS voice:" satırını ve videoda sesi kontrol et; ses yoksa Speko ile yeniden üret.
 
 ## CTA — PROFİLDEKİ WHATSAPP BUTONU (22.11.2026: profillerde WhatsApp bağlantısı var)
 - Reels'e tıklanabilir buton eklenemez (organik reels/API sınırı). Bu yüzden son sahnede ve caption'da yönlendirme: "Profildeki WhatsApp butonuna dokun" (EN: "Tap the WhatsApp button on our profile"). Telefon numaraları da kalır.
 - Caption ilk 2 satırda kısa "👉 WhatsApp: profildeki butona dokun" eklenebilir (en güçlü CTA).
+
+## EMLAK İNGİLİZCE AÇILARI (sabah slotu rotasyonu, kullanıcı talebi 22.11.2026)
+Sırayla dön (log.md'den son kullanılanı bul):
+1. **Citizenship by investment (property route)** — Türkiye'de "golden visa" olarak bilinen uygulama: 5901 sayılı Türk Vatandaşlığı Kanunu m.12 kapsamında yatırım yoluyla istisnai vatandaşlık. Anlatım: "Thinking about Turkish citizenship through property? We handle the property side end to end": doğru mülk seçimi, SPK lisanslı değerleme raporu, tapu işlemleri ve tapuya 3 yıl satılmama şerhi, yabancı para/döviz satış belgesi süreçleri, başvuru için lisanslı avukat partnerleriyle koordinasyon. Resmi kaynak: Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü yabancı yatırımcı rehberi. ⚠️ YATIRIM TUTARI/EŞİK (USD) YAZILMAZ ve SÖYLENMEZ (kural 2) → "Ask us about the current minimum investment requirement". "Garanti", "kesin vatandaşlık", süre vaadi YOK; başvuru kararı resmi makamlarındır.
+2. **Expats & Turkish citizens living abroad (gurbetçi)** — Türkiye'deki mülkünü/kiracısını uzaktan takip edemeyenler: kiracı bulma ve eleme, kira takibi, aidat/DASK/sigorta, bakım-onarım, düzenli rapor. "You live abroad, we take care of your home in Istanbul."
+3. **Buying property in Istanbul as a foreigner** — adımlar: bölge/mülk seçimi, değerleme, tapu süreci, vergi numarası, ekspertiz; fiyat yok.
+4. **Renting out / short & long-term letting for foreign owners** — profesyonel çekim, ilan, kiracı eleme, sözleşme.
+Hashtag örnekleri: #turkishcitizenship #citizenshipbyinvestment #istanbulrealestate #propertyinturkey #buyhouseinistanbul #expatsinturkey #propertymanagementistanbul
 
 ## Viral format kuralları
 - İlk 1,5 sn: soru / hata / şok edici gerçek hook (yazı büyük). Örnekler: "Bu hatayı yapan ev sahibi aylarca kiracı bulamıyor", "İşyerinizde bu belge yoksa…", "ISO belgesi olmadan bu ihaleye giremezsiniz".
