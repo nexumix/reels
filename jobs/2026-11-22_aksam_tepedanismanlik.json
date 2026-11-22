@@ -1,0 +1,249 @@
+{
+ "out": "out/2026-11-22/aksam_tepedanismanlik_tr.mp4",
+ "scrim": "#08295A",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/danismanlik.png",
+  "x": 64,
+  "y": 96,
+  "w": 300,
+  "h": 200,
+  "radius": 24
+ },
+ "voice": "v/2026-11-22/vo_aksam_tepedanismanlik_tr.mp3",
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/bc6720a7-d15c-4800-9743-100aca812a13.m4a",
+  "volume": 0.15
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1763128516808-785e80c1dd68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7.09,
+   "elements": [
+    {
+     "text": "BİLGİ GÜVENLİĞİ · ISO 27001",
+     "x": 96,
+     "y": 1000,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Müşteri verin sızarsa ne olur?",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 108,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7.01,
+   "elements": [
+    {
+     "text": "Büyük firmalar artık soruyor",
+     "x": 72,
+     "y": 1000,
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Kurumsal müşteriler ve ihaleler tedarikçiden bilgi güvenliği kanıtı istiyor.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/flagged/photo-1579274216947-86eaa4b00475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 8.87,
+   "elements": [
+    {
+     "text": "ISO 27001 ile sistem kur",
+     "x": 72,
+     "y": 880,
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#F28C0F",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Risk analizi & varlık envanteri",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Erişim ve yedekleme kuralları",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "KVKK ile uyumlu süreçler",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1592572225169-ccfa15221550?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6.14,
+   "elements": [
+    {
+     "text": "2027'YE HAZIR",
+     "x": 96,
+     "y": 880,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Yıl bitmeden açığını kapat",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.6,
+     "anim": "up"
+    },
+    {
+     "text": "Açıkları birlikte tespit edelim, yeni yıla belgenle gir.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 2.0
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1762429648253-b8bc921c8b30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7.79,
+   "elements": [
+    {
+     "text": "Bilgi güvenliğini birlikte kuralım.",
+     "x": 72,
+     "y": 740,
+     "w": 936,
+     "size": 92,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ara  +90 216 434 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 50,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 1.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "WhatsApp  +90 532 138 51 54",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.8
+    },
+    {
+     "text": "+90 850 305 40 19 · info@tepedanismanlik.com.tr",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 38,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.2
+    },
+    {
+     "text": "Yorumlara “GÜVENLİK” yaz, sana dönelim",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "body",
+     "color": "#F28C0F",
+     "at": 2.6,
+     "anim": "fade"
+    }
+   ]
+  }
+ ]
+}
