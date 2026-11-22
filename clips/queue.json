@@ -1,6 +1,26 @@
 [
- {"id": "balat_on_push", "image_url": "https://raw.githubusercontent.com/nexumix/reels/main/foto/balat/on.jpg",
-  "prompt": "A slow cinematic camera push-in toward a charming pink cafe storefront with green framed windows on a cobblestone street in Balat, Istanbul. Soft natural daylight, leaves of the small tree gently moving in the breeze, realistic, high detail."},
- {"id": "balat_mutfak_pan", "image_url": "https://raw.githubusercontent.com/nexumix/reels/main/foto/balat/mutfak.jpg",
-  "prompt": "A slow smooth camera pan across a small cafe kitchen counter with warm yellow pendant lamps gently glowing, wooden bar top, realistic interior, soft light, high detail."}
+ {
+  "id": "v2_on_ltx091",
+  "image_url": "https://raw.githubusercontent.com/nexumix/reels/main/foto/balat/on.jpg",
+  "prompt": "The camera slowly dollies forward along a sunny cobblestone street toward a pink corner cafe with large green-framed windows in Balat, Istanbul. The camera moves steadily closer and slightly to the right, revealing more of the storefront. The leaves of the small green tree sway in the wind, soft sunlight flickers across the pink wall. Cinematic real estate video, smooth stabilized camera motion, realistic, sharp details.",
+  "model": "Lightricks/LTX-Video",
+  "decode_timestep": 0.05,
+  "decode_noise_scale": 0.025
+ },
+ {
+  "id": "v2_on_ltx095",
+  "image_url": "https://raw.githubusercontent.com/nexumix/reels/main/foto/balat/on.jpg",
+  "prompt": "The camera slowly dollies forward along a sunny cobblestone street toward a pink corner cafe with large green-framed windows in Balat, Istanbul. The camera moves steadily closer and slightly to the right, revealing more of the storefront. The leaves of the small green tree sway in the wind, soft sunlight flickers across the pink wall. Cinematic real estate video, smooth stabilized camera motion, realistic, sharp details.",
+  "model": "Lightricks/LTX-Video-0.9.5",
+  "decode_timestep": 0.05,
+  "decode_noise_scale": 0.025
+ },
+ {
+  "id": "v2_mutfak_ltx095",
+  "image_url": "https://raw.githubusercontent.com/nexumix/reels/main/foto/balat/mutfak.jpg",
+  "prompt": "The camera glides smoothly from left to right across a small cafe kitchen. Two warm yellow industrial pendant lamps hang from the ceiling and gently sway, their light glowing softly. A polished wooden bar counter in the foreground, mosaic tile backsplash behind. Cinematic interior real estate video, steady tracking shot, realistic, warm natural light.",
+  "model": "Lightricks/LTX-Video-0.9.5",
+  "decode_timestep": 0.05,
+  "decode_noise_scale": 0.025
+ }
 ]

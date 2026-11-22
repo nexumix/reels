@@ -49,11 +49,20 @@ jobs:
           ls -la clips/out
           cat clips/out/log.json || true
           rm -f clips/out/*.log
+      - name: Upscale to 1080x1920 30fps
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          mkdir -p clips/hd
+          for f in clips/out/*.mp4; do
+            b=$(basename "$f" .mp4); [ -f "clips/hd/$b.mp4" ] && continue
+            ffmpeg -y -loglevel error -i "$f" -vf "minterpolate=fps=30:mi_mode=mci:mc_mode=aobmc:vsbmc=1,scale=1080:1920:flags=lanczos,unsharp=5:5:0.6" -c:v libx264 -crf 18 -preset medium -pix_fmt yuv420p "clips/hd/$b.mp4"
+          done
+          ls -la clips/hd
       - name: Commit
         run: |
           git config user.name "reels-bot"; git config user.email "reels-bot@users.noreply.github.com"
           git checkout -- kaggle
-          git add clips/out
+          git add clips/out clips/hd
           git diff --cached --quiet && exit 0
           git commit -m "AI clips [skip ci]"
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
