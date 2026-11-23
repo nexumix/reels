@@ -37,6 +37,7 @@ log = []
 for j in jobs:
     t0 = time.time(); model = j.get("model", "Lightricks/LTX-Video")
     try:
+        pipe = None; gc.collect()
         pipe = get_pipe(model)
         W, H = j.get("width", 544), j.get("height", 960)
         img = fit(load_image(j["image_url"]).convert("RGB"), W, H)
@@ -52,5 +53,6 @@ for j in jobs:
     except Exception as e:
         traceback.print_exc(); log.append({"id": j["id"], "model": model, "ok": False, "err": str(e)[:300]})
     print(log[-1], flush=True)
+    json.dump(log, open(os.path.join(OUT, "log.json"), "w"), indent=1)
     gc.collect(); torch.cuda.empty_cache()
 json.dump(log, open(os.path.join(OUT, "log.json"), "w"), indent=1)

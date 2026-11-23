@@ -1,14 +1,5 @@
 [
  {
-  "id": "v2_on_ltx091",
-  "image_url": "https://raw.githubusercontent.com/nexumix/reels/main/foto/balat/on.jpg",
-  "prompt": "The camera slowly dollies forward along a sunny cobblestone street toward a pink corner cafe with large green-framed windows in Balat, Istanbul. The camera moves steadily closer and slightly to the right, revealing more of the storefront. The leaves of the small green tree sway in the wind, soft sunlight flickers across the pink wall. Cinematic real estate video, smooth stabilized camera motion, realistic, sharp details.",
-  "model": "Lightricks/LTX-Video",
-  "decode_timestep": 0.05,
-  "decode_noise_scale": 0.025,
-  "seed": 11
- },
- {
   "id": "v2_on_ltx095",
   "image_url": "https://raw.githubusercontent.com/nexumix/reels/main/foto/balat/on.jpg",
   "prompt": "The camera slowly dollies forward along a sunny cobblestone street toward a pink corner cafe with large green-framed windows in Balat, Istanbul. The camera moves steadily closer and slightly to the right, revealing more of the storefront. The leaves of the small green tree sway in the wind, soft sunlight flickers across the pink wall. Cinematic real estate video, smooth stabilized camera motion, realistic, sharp details.",
