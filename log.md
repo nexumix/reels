@@ -29,6 +29,9 @@
 | 2026-11-23 | gündem | teperealestate | TR | Yargıtay 3. HD: yeni kira sözleşmesi 5 yıllık süreyi her durumda sıfırlamıyor (kira tespit). Kaynak: Yargıtay / Ekonomi Politikası 22.11 (Google TTS Achernar) | "Yeni kira kontratı 5 yılı sıfırlar mı?" | 17890000509624052 |
 | 2026-11-23 | gündem | tepe.danismanlik | TR | KOSGEB Yeşil Sanayi – Sanayide Temiz ve Döngüsel Ekonomi Teklif Çağrısı, ön başvuru 16.11–9.12 (tutar/limit yazılmadı). Kaynak: KOSGEB (Charon) | "Üreticiye yeşil dönüşüm desteği" | 17974298961178007 |
 | 2026-11-23 | gündem | tepeosgb | TR | İŞ KAZASI anma: 21.11 inşaatta yüksekten düşme (isim/yer/şirket yok, logo/iletişim yok, müzik 0.10) + yüksekte çalışma önlemleri. Kaynak: DHA/Yeni Şafak (Achird) | "Bir çalışanımızı daha kaybettik" | 18095796407491062 |
+| 2026-11-23 | öğle | tepe.danismanlik | TR | 6 ISO 22301 İş Sürekliliği (kış kesintileri, 2027 ihaleleri, Google TTS Charon, v4) | "Elektrik kesildi. Sistem çöktü. Şimdi ne olacak?" | 18114523931627462 |
+| 2026-11-23 | öğle | tepeosgb | TR | 9 Sektör: Sağlık (biyolojik risk, kesici-delici; 8 İnşaat gündemdeki iş kazasıyla çakışmasın diye ertelendi, Achird) | "Hastanede en büyük risk kimin?" | 18105051263456303 |
+| 2026-11-23 | öğle | teperealestate | TR | 5 Mülk Yönetimi A'dan Z'ye (kış: kombi/kira/aidat/DASK, Achernar) | "Ev sahibi olmak seni yoruyor mu?" | 17931414567184709 |
 
 Not: Danışmanlık premium ilk sürüm (18181678393449174) sesi kısık; kullanıcı silmeli.
 Not: v2 OSGB (17917123125492067) ve Danışmanlık (18402251170200971) kullanıcı tarafından silindi.
@@ -37,6 +40,7 @@ Not (22.11 öğle): Windsor create_video_post 'collaborators' parametresini KABU
 Not: foto/ altında paylaşılmamış ilan yok (sadece balat, paylaşıldı).
 
 ## ÖĞRENİLENLER
+- 23.11 öğle: 3 render sorunsuz (~9 dk), süre 29.8-33.4 sn, mean -15.5..-17.9 dB. Danışmanlık kapanış fotoğrafında (gece şehir silüeti) bina tabelasında marka adı görüldü → foto değiştirilip yeniden render edildi; şehir silüeti fotolarında tabela kontrolü yap. OSGB rotasyonda 8 İnşaat sırada (sonraki TR slotta işlenecek). Yorum yok.
 - 23.11 gündem: 3 reels render+paylaşım sorunsuz (render ~8 dk). Süre 36-41 sn (TTS sahneleri uzattı), mean -15.5..-17.4 dB. Yorum yok.
 - 23.11 sabah: Google TTS (Chirp3-HD) ile ilk canlı render sorunsuz; video mean -15.8..-16.3 dB, süre 29.6-34.2 sn. OSGB ilk create_video_post denemesi 'container ERROR' verdi, 2. denemede yayınlandı. Son 3 günde yorum yok.
 - 22.11 sabah kontrolü: 14 günlük veri çok az (hesap başı 1-3 reels, reach 100-210). Henüz "tutan içerik" yok. En yüksek reach: Balat kafe ilanı (212, gerçek ilan). Yorum yok.
