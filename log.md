@@ -32,6 +32,9 @@
 | 2026-11-23 | öğle | tepe.danismanlik | TR | 6 ISO 22301 İş Sürekliliği (kış kesintileri, 2027 ihaleleri, Google TTS Charon, v4) | "Elektrik kesildi. Sistem çöktü. Şimdi ne olacak?" | 18114523931627462 |
 | 2026-11-23 | öğle | tepeosgb | TR | 9 Sektör: Sağlık (biyolojik risk, kesici-delici; 8 İnşaat gündemdeki iş kazasıyla çakışmasın diye ertelendi, Achird) | "Hastanede en büyük risk kimin?" | 18105051263456303 |
 | 2026-11-23 | öğle | teperealestate | TR | 5 Mülk Yönetimi A'dan Z'ye (kış: kombi/kira/aidat/DASK, Achernar) | "Ev sahibi olmak seni yoruyor mu?" | 17931414567184709 |
+| 2026-11-23 | trend | teperealestate | TR | TREND: "fırtına uyarısı / sarı kodlu uyarı" — ev sahibi 3 kontrol (balkon, oluk, sızıntı) + hasar/konut sigortası; mülk yönetimi CTA (Achernar, v4) | "Fırtına geliyor: evin hazır mı?" | 18152066362567735 |
+| 2026-11-23 | trend | tepeosgb | TR | TREND: "fırtına uyarısı / sarı kod" — iskele/yüksekte çalışma, vinç & gevşek malzeme, kaygan zemin/elektrik; acil durum planı CTA (Achird, v4) | "Fırtına geliyor: işyerin hazır mı?" | 17934620790164875 |
+| 2026-11-23 | trend | tepe.danismanlik | TR | TREND: "fırtına uyarısı / sarı kod" — 17 Periyodik Kontrol (çatı/tabela, forklift-vinç, topraklama & paratoner) (Charon, v4) | "Periyodik kontrolün güncel mi?" | 17928811350199549 |
 
 Not: Danışmanlık premium ilk sürüm (18181678393449174) sesi kısık; kullanıcı silmeli.
 Not: v2 OSGB (17917123125492067) ve Danışmanlık (18402251170200971) kullanıcı tarafından silindi.
@@ -40,6 +43,7 @@ Not (22.11 öğle): Windsor create_video_post 'collaborators' parametresini KABU
 Not: foto/ altında paylaşılmamış ilan yok (sadece balat, paylaşıldı).
 
 ## ÖĞRENİLENLER
+- 23.11 trend: Seçilen trend = "23 Kasım hava durumu / sarı kodlu uyarı / İstanbul fırtına (lodos) uyarısı" (Meteoroloji + İstanbul Valiliği uyarıları, haber sitelerinde günün en çok işlenen/aranan konusu; 3 sektörü de doğrudan ilgilendiriyor, siyasi değil). Elenenler: 2027 asgari ücret (tutar/siyasi tartışma), kira artış oranı (aralık oranı henüz açıklanmadı, gündem slotunda kira işlendi). Render: emlak ilk denemede ffmpeg SIGSEGV (Actions) → job'a küçük değişiklik yapıp yeniden push ile düzeldi; OSGB ıslak zemin fotoğrafında arka planda mağaza tabelası + indirim yazısı görüldü → foto değişti, yeniden render. Süre 31.9-35.5 sn, mean -15.6..-16.8 dB. Yorum yok.
 - 23.11 öğle: 3 render sorunsuz (~9 dk), süre 29.8-33.4 sn, mean -15.5..-17.9 dB. Danışmanlık kapanış fotoğrafında (gece şehir silüeti) bina tabelasında marka adı görüldü → foto değiştirilip yeniden render edildi; şehir silüeti fotolarında tabela kontrolü yap. OSGB rotasyonda 8 İnşaat sırada (sonraki TR slotta işlenecek). Yorum yok.
 - 23.11 gündem: 3 reels render+paylaşım sorunsuz (render ~8 dk). Süre 36-41 sn (TTS sahneleri uzattı), mean -15.5..-17.4 dB. Yorum yok.
 - 23.11 sabah: Google TTS (Chirp3-HD) ile ilk canlı render sorunsuz; video mean -15.8..-16.3 dB, süre 29.6-34.2 sn. OSGB ilk create_video_post denemesi 'container ERROR' verdi, 2. denemede yayınlandı. Son 3 günde yorum yok.
