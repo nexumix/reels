@@ -11,7 +11,7 @@ import base64, json, os, re, subprocess, urllib.request
 # Harf harf okunması gereken yerleşik kısaltmalar Türkçe harf adlarıyla yazılır.
 # Job'da "tts": {"say": {"XYZ": "okunuş"}} ile ek/özel okunuş verilebilir.
 SAY = {
-    "tr-TR": {"NACE": "Nace", "DASK": "Dask", "KOSGEB": "Kosgeb", "TÜİK": "Tüik", "TÜFE": "Tüfe", "ÜFE": "Üfe",
+    "tr-TR": {"NACE": "Nase", "DASK": "Dask", "KOSGEB": "Kosgeb", "TÜİK": "Tüik", "TÜFE": "Tüfe", "ÜFE": "Üfe",
               "KOBİ": "Kobi", "KOBİ'ler": "Kobiler", "ISO": "İso", "İSO": "İso", "HIT": "Hit", "EnPI": "Enpi",
               "İSG-KÂTİP": "i se ge kâtip", "İSGGM": "i se ge ge me", "ÇSGB": "çe se ge be", "İSG": "i se ge", "OSGB": "o se ge be", "SGK": "se ge ka",
               "KVKK": "ka ve ka ka", "SPK": "se pe ka", "AB": "a be", "CE": "se e", "TL": "te le"},

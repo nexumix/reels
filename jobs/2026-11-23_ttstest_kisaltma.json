@@ -20,8 +20,8 @@
   "voice": "tr-TR-Chirp3-HD-Achird",
   "rate": 1.0,
   "lines": [
-   "Tehlike sınıfı NACE koduna göre belirlenir. Evinin DASK poliçesi güncel mi?",
-   "ISO 50001, KOSGEB ve TÜİK. OSGB olarak İSG eğitimi veriyoruz."
+   "Tehlike sınıfı NACE koduna göre belirlenir.",
+   "NACE kodun hangi sınıfta? DASK poliçen güncel mi?"
   ]
  },
  "scenes": [
