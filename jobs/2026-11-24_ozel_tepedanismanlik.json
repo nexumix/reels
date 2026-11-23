@@ -1,0 +1,106 @@
+{
+ "out": "out/2026-11-24/ozel_ogretmenler_tepedanismanlik.mp4",
+ "scrim": "#08295A",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/danismanlik.png",
+  "x": 64,
+  "y": 84,
+  "w": 300,
+  "end_w": 560,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/b5aba838-dc69-49a0-aada-d2536a1b886e.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "tr-TR",
+  "gender": "MALE",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "rate": 1.0,
+  "lines": [
+   "Yirmi dört Kasım, Öğretmenler Günü.",
+   "Hayatımıza ilk standardı koyan tüm öğretmenlerimize,",
+   "Teşekkürler, iyi ki varsınız. Öğretmenler Gününüz kutlu olsun."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1598620616337-cb8f766489bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 4.5,
+   "elements": [
+    {
+     "text": "24 KASIM",
+     "x": 96,
+     "y": 1040,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Öğretmenler Günü",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 120,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1678221895477-5eb594f6aa4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 5.0,
+   "elements": [
+    {
+     "text": "Hayatımıza ilk standardı koyan tüm öğretmenlerimize",
+     "x": 72,
+     "y": 1000,
+     "w": 936,
+     "size": 88,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1593171333952-6a8da72d1877?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 5.5,
+   "elements": [
+    {
+     "text": "Teşekkürler, iyi ki varsınız.",
+     "x": 72,
+     "y": 820,
+     "w": 936,
+     "size": 92,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Öğretmenler Günü kutlu olsun.",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 48,
+     "font": "semi",
+     "color": "#F28C0F",
+     "at": 1.4
+    }
+   ]
+  }
+ ]
+}
