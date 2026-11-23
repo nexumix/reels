@@ -44,14 +44,14 @@ for j in jobs:
         kw = dict(image=img, prompt=j["prompt"], negative_prompt=NEG, width=W, height=H,
                   num_frames=j.get("frames", 121), num_inference_steps=j.get("steps", 40),
                   guidance_scale=j.get("guidance", 3.5),
-                  generator=torch.Generator("cpu").manual_seed(j.get("seed", 7)))
+                  generator=torch.Generator("cuda").manual_seed(j.get("seed", 7)))
         for extra in ("decode_timestep", "decode_noise_scale"):
             if extra in j: kw[extra] = j[extra]
         frames = pipe(**kw).frames[0]
         export_to_video(frames, os.path.join(OUT, j["id"] + ".mp4"), fps=24)
         log.append({"id": j["id"], "model": model, "ok": True, "sec": round(time.time() - t0)})
     except Exception as e:
-        traceback.print_exc(); log.append({"id": j["id"], "model": model, "ok": False, "err": str(e)[:300]})
+        e_tb = None; traceback.print_exc(); log.append({"id": j["id"], "model": model, "ok": False, "err": str(e)[:300]})
     print(log[-1], flush=True)
     json.dump(log, open(os.path.join(OUT, "log.json"), "w"), indent=1)
     gc.collect(); torch.cuda.empty_cache()

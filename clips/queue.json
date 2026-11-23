@@ -6,7 +6,8 @@
   "model": "Lightricks/LTX-Video-0.9.5",
   "decode_timestep": 0.05,
   "decode_noise_scale": 0.025,
-  "seed": 11
+  "seed": 11,
+  "frames": 97
  },
  {
   "id": "v2_mutfak_ltx095",
@@ -15,6 +16,7 @@
   "model": "Lightricks/LTX-Video-0.9.5",
   "decode_timestep": 0.05,
   "decode_noise_scale": 0.025,
-  "seed": 11
+  "seed": 11,
+  "frames": 97
  }
 ]
