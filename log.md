@@ -35,6 +35,10 @@
 | 2026-11-23 | trend | teperealestate | TR | TREND: "fırtına uyarısı / sarı kodlu uyarı" — ev sahibi 3 kontrol (balkon, oluk, sızıntı) + hasar/konut sigortası; mülk yönetimi CTA (Achernar, v4) | "Fırtına geliyor: evin hazır mı?" | 18152066362567735 |
 | 2026-11-23 | trend | tepeosgb | TR | TREND: "fırtına uyarısı / sarı kod" — iskele/yüksekte çalışma, vinç & gevşek malzeme, kaygan zemin/elektrik; acil durum planı CTA (Achird, v4) | "Fırtına geliyor: işyerin hazır mı?" | 17934620790164875 |
 | 2026-11-23 | trend | tepe.danismanlik | TR | TREND: "fırtına uyarısı / sarı kod" — 17 Periyodik Kontrol (çatı/tabela, forklift-vinç, topraklama & paratoner) (Charon, v4) | "Periyodik kontrolün güncel mi?" | 17928811350199549 |
+| 2026-11-23 | akşam | teperealestate | TR | 6 Kira takibi & tahsilat (yeni yıl kira dönemi, Achernar, v4) | "Kiracın kirayı yine mi geciktirdi?" | 18082513532390991 |
+| 2026-11-23 | akşam | tepeosgb | TR | 12 Tehlike sınıfları (NACE; uzman/hekim/eğitim süresi; 8 İnşaat bugünkü kaza+fırtına ile çakışmasın diye yine ertelendi, Achird, v4) | "İşyerin hangi tehlike sınıfında?" | 18149113708567416 |
+| 2026-11-23 | akşam | tepe.danismanlik | TR | 7 ISO 50001 Enerji (kış enerji faturası, Charon, v4) | "Kış geldi, enerji faturan uçtu mu?" | 17998336490841274 |
+| 2026-11-24 | özel 00:01 (kuyrukta) | 3 hesap | TR | Öğretmenler Günü kutlama (3 sahne ~13 sn, lo-fi müzik, logo entegre) | "Öğretmenler Günü" | (00:01 görevi paylaşacak) |
 
 Not: Danışmanlık premium ilk sürüm (18181678393449174) sesi kısık; kullanıcı silmeli.
 Not: v2 OSGB (17917123125492067) ve Danışmanlık (18402251170200971) kullanıcı tarafından silindi.
@@ -43,6 +47,8 @@ Not (22.11 öğle): Windsor create_video_post 'collaborators' parametresini KABU
 Not: foto/ altında paylaşılmamış ilan yok (sadece balat, paylaşıldı).
 
 ## ÖĞRENİLENLER
+- 23.11 AKŞAM performans (7 gün, Windsor cache — bugünkü paylaşımlar henüz birikmedi): OSGB'de en iyi = öğle "Hastanede en büyük risk kimin?" (sektör + soru hook'u) 240 reach, skip %70 (OSGB ort. ~%85, reach ort. ~160) → SEKTÖR SORUSU hook'u OSGB'de tekrar edilecek. Emlak'ta hâlâ en iyi gerçek ilan reels'leri (Balat: bizim 480, kullanıcının 417 reach). Danışmanlık reach çok düşük (3-119; en iyi EN sabah ISO 14001 = 119). Emlak/Danışmanlık TR hizmet reels'lerinde reach düşük ama izleme süresi yüksek (9-11 sn) → hook iyi, dağıtım zayıf; ilk karede soru + somut nesne (anahtar, fatura) denendi. Henüz TUTAN İÇERİK (2x) yok, yorum 0 (IG + YouTube).
+- 23.11 akşam render: 6 job tek commit'te (3 akşam + 3 Öğretmenler Günü) ~17 dk, hepsi sorunsuz. Süre 32.8-35.2 sn (özel 13 sn), mean -15.6..-17.7 dB. Danışmanlık kapanış (gece ofis binası) fotoğrafında okunmayan bulanık neon tabela var — sonraki seçimlerde farklı kapanış fotoğrafı kullan.
 - 23.11 trend: Seçilen trend = "23 Kasım hava durumu / sarı kodlu uyarı / İstanbul fırtına (lodos) uyarısı" (Meteoroloji + İstanbul Valiliği uyarıları, haber sitelerinde günün en çok işlenen/aranan konusu; 3 sektörü de doğrudan ilgilendiriyor, siyasi değil). Elenenler: 2027 asgari ücret (tutar/siyasi tartışma), kira artış oranı (aralık oranı henüz açıklanmadı, gündem slotunda kira işlendi). Render: emlak ilk denemede ffmpeg SIGSEGV (Actions) → job'a küçük değişiklik yapıp yeniden push ile düzeldi; OSGB ıslak zemin fotoğrafında arka planda mağaza tabelası + indirim yazısı görüldü → foto değişti, yeniden render. Süre 31.9-35.5 sn, mean -15.6..-16.8 dB. Yorum yok.
 - 23.11 öğle: 3 render sorunsuz (~9 dk), süre 29.8-33.4 sn, mean -15.5..-17.9 dB. Danışmanlık kapanış fotoğrafında (gece şehir silüeti) bina tabelasında marka adı görüldü → foto değiştirilip yeniden render edildi; şehir silüeti fotolarında tabela kontrolü yap. OSGB rotasyonda 8 İnşaat sırada (sonraki TR slotta işlenecek). Yorum yok.
 - 23.11 gündem: 3 reels render+paylaşım sorunsuz (render ~8 dk). Süre 36-41 sn (TTS sahneleri uzattı), mean -15.5..-17.4 dB. Yorum yok.
@@ -56,3 +62,14 @@ Not: foto/ altında paylaşılmamış ilan yok (sadece balat, paylaşıldı).
 - Danışmanlık reach düşük (8-72); EN sabah reels 72 reach. Skip en düşük ISO 45001 (%57). Danışmanlık'ta "kayıp/risk" hook'u (akşam: veri sızıntısı) deneniyor.
 - Henüz TUTAN İÇERİK yok (ort. 2x üstü yok, yorum 0). Öneri: foto/ klasörüne yeni ilan gelirse öncelik ver; emlak'ta somut semt + ilan formatı tekrar edilmeli.
 - Akşam: Instagram ve YouTube'da yanıtlanacak yorum yok. Ses: seslendirme -13.0..-14.5 LUFS (loudnorm sonrası seyrek seste ek gain düzeltmesi gerekti), video mean -15.7..-16.8 dB.
+
+## YARIN PLANI (2026-11-24, Salı)
+| Slot | teperealestate | tepeosgb | tepe.danismanlik |
+|---|---|---|---|
+| 00:01 özel | Öğretmenler Günü (kuyrukta, hazır) | Öğretmenler Günü (kuyrukta, hazır) | Öğretmenler Günü (kuyrukta, hazır) |
+| 08:47 sabah | EN açı 4: Renting out for foreign owners (çekim, ilan, kiracı eleme, sözleşme) | TR · 8 Sektör: İnşaat (kış: buzlanma, kısa gün/aydınlatma; ertelenen konu) | EN · 8 ISO 10002 Customer satisfaction / complaints handling |
+| 10:47 gündem | Sabah haberine göre — aday: Yargıtay kira kararları, kentsel dönüşüm/tapu düzenlemesi, TÜİK konut istatistiği | Sabah haberine göre — aday: İSGGM/ÇSGB duyurusu, yönetmelik/tebliğ, İSG sınav duyurusu (iş kazası olursa anma kuralı) | Sabah haberine göre — aday: KOSGEB çağrıları, yatırım teşvik/HIT-30, ihracat destekleri |
+| 12:17 öğle | 7 Kiracı bulma ve eleme (foto/'ya yeni ilan gelirse ilan öncelikli) | 10 Sektör: Üretim/Sanayi (kış: karbonmonoksit, ısıtıcı, forklift) | 9 Helal Gıda Belgesi (ihracat) |
+| 16:47 trend | Günün trendi — aday: soğuk hava/kar uyarısı (kombi, donma, DASK), kira/konut gündemi | Günün trendi — aday: soğuk hava/kar (kaygan zemin, ısıtma), iş kazası gündemi | Günün trendi — aday: enerji/doğalgaz, teşvik gündemi |
+| 20:17 akşam (güçlü hook) | 8 Kiracı çıkış / yeni kiracı giriş — "Kiracın çıkıyor: ev kaç ay boş kalacak?" | 11 Sektör: Teknoloji/Ofis — sektör sorusu hook'u: "Ofiste en büyük risk ne?" | 10 Marka Tescili — kayıp hook'u: "Markanı başkası tescil ettirirse?" (yeni yıl öncesi) |
+
