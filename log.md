@@ -38,7 +38,9 @@
 | 2026-11-23 | akşam | teperealestate | TR | 6 Kira takibi & tahsilat (yeni yıl kira dönemi, Achernar, v4) | "Kiracın kirayı yine mi geciktirdi?" | 18082513532390991 |
 | 2026-11-23 | akşam | tepeosgb | TR | 12 Tehlike sınıfları (NACE; uzman/hekim/eğitim süresi; 8 İnşaat bugünkü kaza+fırtına ile çakışmasın diye yine ertelendi, Achird, v4) | "İşyerin hangi tehlike sınıfında?" | 18149113708567416 |
 | 2026-11-23 | akşam | tepe.danismanlik | TR | 7 ISO 50001 Enerji (kış enerji faturası, Charon, v4) | "Kış geldi, enerji faturan uçtu mu?" | 17998336490841274 |
-| 2026-11-24 | özel 00:01 (kuyrukta) | 3 hesap | TR | Öğretmenler Günü kutlama (3 sahne ~13 sn, lo-fi müzik, logo entegre) | "Öğretmenler Günü" | (00:01 görevi paylaşacak) |
+| 2026-11-24 | özel gün 00:01 | teperealestate | TR | Öğretmenler Günü kutlama | "Öğretmenler Günü kutlu olsun" | 18135105974491249 |
+| 2026-11-24 | özel gün 00:01 | tepeosgb | TR | Öğretmenler Günü kutlama | "Öğretmenler Günü kutlu olsun" | 17913862368584539 |
+| 2026-11-24 | özel gün 00:01 | tepe.danismanlik | TR | Öğretmenler Günü kutlama | "Öğretmenler Günü kutlu olsun" | 18117380591522253 |
 
 Not: Danışmanlık premium ilk sürüm (18181678393449174) sesi kısık; kullanıcı silmeli.
 Not: v2 OSGB (17917123125492067) ve Danışmanlık (18402251170200971) kullanıcı tarafından silindi.
