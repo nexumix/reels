@@ -1,12 +1,14 @@
 [
  {
-  "id": "balat_on_push",
-  "ok": true,
-  "sec": 147
+  "id": "v2_on_ltx095",
+  "model": "Lightricks/LTX-Video-0.9.5",
+  "ok": false,
+  "err": "Expected a 'cuda' device type for generator but found 'cpu'"
  },
  {
-  "id": "balat_mutfak_pan",
-  "ok": true,
-  "sec": 133
+  "id": "v2_mutfak_ltx095",
+  "model": "Lightricks/LTX-Video-0.9.5",
+  "ok": false,
+  "err": "CUDA out of memory. Tried to allocate 160.00 MiB. GPU 0 has a total capacity of 14.56 GiB of which 54.81 MiB is free. Including non-PyTorch memory, this process has 14.51 GiB memory in use. Of the allocated memory 13.89 GiB is allocated by PyTorch, and 496.19 MiB is reserved by PyTorch but unallocat"
  }
 ]
