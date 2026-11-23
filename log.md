@@ -23,6 +23,9 @@
 | 2026-11-22 | akşam | tepe.danismanlik | TR | 4 ISO 27001 Bilgi Güvenliği (KVKK, yıl sonu, Aykut sesi, v4) | "Müşteri verin sızarsa ne olur?" | 18120722899803791 |
 | 2026-11-22 | akşam | tepeosgb | TR | 6 Acil Durum Planı & tatbikat (kış riskleri, Emre sesi, v4) | "Alarm çalsa ekibin ne yapar?" | 17875069803643199 |
 | 2026-11-22 | akşam | teperealestate | TR | 4 Ticari mülk/dükkan/ofis (yeni yıl öncesi, @tepeosgb etiketli, Aylin sesi, v4) | "Dükkanın aylardır boş mu?" | 18030425966700576 |
+| 2026-11-23 | sabah | teperealestate | EN | EN açı 3: Buying property in Istanbul as a foreigner (v4 + Google TTS Achernar) | "Buying a home in Istanbul?" | 18119637182107129 |
+| 2026-11-23 | sabah | tepeosgb | EN (pazartesi) | 7 Hizmet Süresi Hesaplama aracı — İstanbul'daki yabancı şirketler, 6331 (Google TTS Charon) | "Opened an office in Istanbul?" | 18109409519570473 |
+| 2026-11-23 | sabah | tepe.danismanlik | EN | 5 ISO 13485 Tıbbi Cihaz (ihracat/CE, Google TTS Charon) | "Making medical devices in Türkiye?" | 18112476845268060 |
 
 Not: Danışmanlık premium ilk sürüm (18181678393449174) sesi kısık; kullanıcı silmeli.
 Not: v2 OSGB (17917123125492067) ve Danışmanlık (18402251170200971) kullanıcı tarafından silindi.
@@ -31,6 +34,7 @@ Not (22.11 öğle): Windsor create_video_post 'collaborators' parametresini KABU
 Not: foto/ altında paylaşılmamış ilan yok (sadece balat, paylaşıldı).
 
 ## ÖĞRENİLENLER
+- 23.11 sabah: Google TTS (Chirp3-HD) ile ilk canlı render sorunsuz; video mean -15.8..-16.3 dB, süre 29.6-34.2 sn. OSGB ilk create_video_post denemesi 'container ERROR' verdi, 2. denemede yayınlandı. Son 3 günde yorum yok.
 - 22.11 sabah kontrolü: 14 günlük veri çok az (hesap başı 1-3 reels, reach 100-210). Henüz "tutan içerik" yok. En yüksek reach: Balat kafe ilanı (212, gerçek ilan). Yorum yok.
 - DİL: kullanıcı kararı (22.11) — sadece TR + EN. Sabah: Emlak & Danışmanlık EN, OSGB TR (pazartesi EN).
 - 22.11 akşam: günlük adet 3→5 (yeni slotlar: 10:47 GÜNDEM, 16:47 TREND). Akşam slotu günlük rapor + yarın planı verir.
