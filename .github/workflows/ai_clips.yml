@@ -48,7 +48,7 @@ jobs:
           kaggle kernels output "$KAGGLE_USERNAME/tepe-i2v" -p clips/out
           ls -la clips/out
           cat clips/out/log.json || true
-          rm -f clips/out/*.log
+          tail -c 3000 clips/out/*.log || true; rm -f clips/out/*.log
       - name: Upscale to 1080x1920 30fps
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
