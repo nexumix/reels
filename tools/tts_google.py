@@ -4,7 +4,26 @@ GitHub Actions'ta GOOGLE_TTS_KEY secret'ı ile çalışır. Job alanı:
  "tts": {"lang": "tr-TR" | "en-US", "gender": "MALE"|"FEMALE", "voice": "<opsiyonel tam ad>",
          "rate": 1.0, "lines": ["sahne 1 konuşma", "sahne 2", ...]}   (lines sayısı = sahne sayısı)
 Sahne süreleri seslendirmeye göre otomatik uzatılır; karışık ses loudnorm I=-14 ile normalize edilir."""
-import base64, json, os, subprocess, urllib.request
+import base64, json, os, re, subprocess, urllib.request
+
+# TELAFFUZ (kullanıcı 23.11: "kısaltmaları yanlış okuyorlar, tek parça okumalı: NACE, DASK gibi")
+# Kelime gibi okunan kısaltmalar TEK PARÇA yazılır (büyük harf TTS'te harf harf okunuyor).
+# Harf harf okunması gereken yerleşik kısaltmalar Türkçe harf adlarıyla yazılır.
+# Job'da "tts": {"say": {"XYZ": "okunuş"}} ile ek/özel okunuş verilebilir.
+SAY = {
+    "tr-TR": {"NACE": "Nace", "DASK": "Dask", "KOSGEB": "Kosgeb", "TÜİK": "Tüik", "TÜFE": "Tüfe", "ÜFE": "Üfe",
+              "KOBİ": "Kobi", "KOBİ'ler": "Kobiler", "ISO": "İso", "İSO": "İso", "HIT": "Hit", "EnPI": "Enpi",
+              "İSG-KÂTİP": "i se ge kâtip", "İSGGM": "i se ge ge me", "ÇSGB": "çe se ge be", "İSG": "i se ge", "OSGB": "o se ge be", "SGK": "se ge ka",
+              "KVKK": "ka ve ka ka", "SPK": "se pe ka", "AB": "a be", "CE": "se e", "TL": "te le"},
+    "en-US": {"NACE": "Nace", "DASK": "Dask", "KOSGEB": "Kosgeb", "TÜİK": "Tooik", "İSG": "OHS"},
+}
+_L = "A-Za-zÇĞİÖŞÜçğıöşü"
+
+def say(text, lang, extra=None):
+    m = dict(SAY.get(lang, {})); m.update(extra or {})
+    for k in sorted(m, key=len, reverse=True):
+        text = re.sub(rf"(?<![{_L}]){re.escape(k)}(?![{_L}])", m[k], text)
+    return text
 
 API = "https://texttospeech.googleapis.com/v1"
 PREF = ["Chirp3-HD", "Neural2", "Wavenet", "Standard"]
@@ -34,6 +53,7 @@ def build_voice(job, tmp):
     print("TTS voice:", voice)
     rate = float(t.get("rate", 1.0)); lens = []
     for i, line in enumerate(t["lines"]):
+        line = say(line, lang, t.get("say")); print("TTS line:", line)
         body = {"input": {"text": line}, "voice": {"languageCode": lang, "name": voice},
                 "audioConfig": {"audioEncoding": "LINEAR16", "sampleRateHertz": 44100, "speakingRate": rate}}
         if "Chirp3" in voice: body["audioConfig"].pop("speakingRate")  # Chirp 3 HD hız ayarını desteklemeyebilir

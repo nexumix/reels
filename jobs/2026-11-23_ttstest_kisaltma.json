@@ -1,0 +1,39 @@
+{
+ "out": "out/2026-11-23/tts_kisaltma_test.mp4",
+ "scrim": "#08295A",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/osgb.png",
+  "x": 64,
+  "y": 84,
+  "w": 230,
+  "end_w": 440,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/b5aba838-dc69-49a0-aada-d2536a1b886e.m4a",
+  "volume": 0.0
+ },
+ "tts": {
+  "lang": "tr-TR",
+  "gender": "MALE",
+  "voice": "tr-TR-Chirp3-HD-Achird",
+  "rate": 1.0,
+  "lines": [
+   "Tehlike sınıfı NACE koduna göre belirlenir. Evinin DASK poliçesi güncel mi?",
+   "ISO 50001, KOSGEB ve TÜİK. OSGB olarak İSG eğitimi veriyoruz."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1593171333952-6a8da72d1877?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 4.5,
+   "elements": []
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1678221895477-5eb594f6aa4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 5.0,
+   "elements": []
+  }
+ ]
+}
