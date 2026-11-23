@@ -57,6 +57,11 @@ tools/ozel_gunler.md takvimine göre: akşam slotu ertesi gün özel günse kutl
 - GOOGLE TTS (ücretsiz, aylık 1M karakter Chirp 3 HD): DURUM = AKTİF (23.11.2026 test edildi: tr-TR ve en-US Chirp 3 HD sesleri çalışıyor). Tüm slotlarda varsayılan seslendirme budur; Speko sadece yedek.
   AKTİF olduğunda: Speko KULLANMA; job'a "tts": {"lang": "tr-TR"|"en-US", "gender": "MALE"|"FEMALE", "rate": 1.08, "lines": [sahne başına konuşma metni]} ekle. Render (tools/tts_google.py) sesleri Actions'ta üretir, sahne sürelerini sese göre uzatır, loudnorm I=-14 yapar. "voice" alanı gerekmez. Marka sesleri ("voice" alanına yaz, tutarlılık için): Emlak TR tr-TR-Chirp3-HD-Achernar (FEMALE), Emlak EN en-US-Chirp3-HD-Achernar (FEMALE), OSGB tr-TR-Chirp3-HD-Achird (MALE), Danışmanlık TR tr-TR-Chirp3-HD-Charon (MALE), Danışmanlık EN en-US-Chirp3-HD-Charon (MALE). Ad bulunamazsa sistem aynı cinsiyette Chirp3-HD seçer. Render log'unda "TTS voice:" satırını ve videoda sesi kontrol et; ses yoksa Speko ile yeniden üret.
 
+## TELAFFUZ / KISALTMALAR (kullanıcı 23.11: "kısaltmaları yanlış okuyorlar, tek parça okumalı: NACE, DASK gibi")
+- tools/tts_google.py seslendirmeden önce kısaltmaları otomatik düzeltir (SAY sözlüğü): kelime gibi okunanlar TEK PARÇA (NACE→Nace, DASK→Dask, KOSGEB→Kosgeb, TÜİK→Tüik, TÜFE→Tüfe, KOBİ→Kobi, ISO→İso); harf harf okunan yerleşik kısaltmalar Türkçe harf adlarıyla (İSG→"i se ge", OSGB→"o se ge be", SGK→"se ge ka", KVKK→"ka ve ka ka").
+- Sözlükte olmayan yeni bir kısaltma kullanırsan job'a "tts": {"say": {"XYZ": "okunuş"}} ekle veya konuşma metnine doğrudan okunuşunu yaz. Ekrandaki yazı kısaltma olarak kalır; sadece ses metni değişir.
+- Render log'unda "TTS line:" satırlarını kontrol et.
+
 ## CTA — PROFİLDEKİ WHATSAPP BUTONU (22.11.2026: profillerde WhatsApp bağlantısı var)
 - Reels'e tıklanabilir buton eklenemez (organik reels/API sınırı). Bu yüzden son sahnede ve caption'da yönlendirme: "Profildeki WhatsApp butonuna dokun" (EN: "Tap the WhatsApp button on our profile"). Telefon numaraları da kalır.
 - Caption ilk 2 satırda kısa "👉 WhatsApp: profildeki butona dokun" eklenebilir (en güçlü CTA).
