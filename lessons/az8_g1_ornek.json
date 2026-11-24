@@ -3,7 +3,7 @@
   "course": "Temel İSG Eğitimi · Az Tehlikeli",
   "section": "1. Bölüm · Genel Konular",
   "title": "Çalışma mevzuatı",
-  "voice": {"lang": "tr-TR", "voice": "tr-TR-Chirp3-HD-Achird", "gender": "MALE"},
+  "voice": {"lang": "tr-TR", "voice": "tr-TR-Chirp3-HD-Charon", "gender": "MALE"},
   "scenes": [
     {"type": "cover", "photo": "https://images.unsplash.com/photo-1567954970774-58d6aa6c50dc?w=2400", "kicker": "1. Bölüm · Ders 1", "title": "Çalışma mevzuatı ile ilgili bilgiler", "subtitle": "İş sağlığı ve güvenliğinin hukuki temeli",
      "steps": ["Merhaba, hoş geldiniz. Ben bu eğitim boyunca size eşlik edeceğim. İlk dersimizde, iş sağlığı ve güvenliğinin hukuki temelini birlikte konuşacağız. Merak etmeyin; kanun maddelerini ezberletmeyeceğim. Amacım, hangi kuralın sizi neden koruduğunu anlamanız."]},

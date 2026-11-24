@@ -18,8 +18,8 @@ NAVY, NAVY2, ORANGE, IVORY, INK, MUTED, WHITE = (8, 41, 90), (14, 58, 118), (242
 FONT_DIR = os.environ.get("FONT_DIR", os.path.join(ROOT, ".fonts"))
 DV = "/usr/share/fonts/truetype/dejavu/"
 # Kısaltmalar kelime gibi, tek parça (kullanıcı 24.11: "NACE, DASK, TBMM, İSG kelime gibi okunsun")
-SAY = {"İSG": "İsge", "ISG": "İsge", "OSGB": "Osgebe", "NACE": "Nase", "DASK": "Dask", "TBMM": "Tebeme", "KKD": "Kakade", "SGK": "Esgeka", "ÇSGB": "Çesgebe",
-       "KOSGEB": "Kosgeb", "İSG-KÂTİP": "İsge Kâtip", "TS": "Tese", "CE": "Se", "AB": "Abe", "GBF": "Gebef"}
+SAY = {"İSG": "İ-Se-Ge", "ISG": "İ-Se-Ge", "OSGB": "Osgebe", "NACE": "Nace", "DASK": "Dask", "TBMM": "Tebeme", "KKD": "Kakade", "SGK": "Esgeka", "ÇSGB": "Çesgebe",
+       "KOSGEB": "Kosgeb", "İSG-KÂTİP": "İ-Se-Ge Kâtip", "TS": "Tese", "CE": "Se", "AB": "Abe", "GBF": "Gebef"}
 
 def font(kind, size):
     try:
