@@ -41,6 +41,9 @@
 | 2026-11-24 | özel gün 00:01 | teperealestate | TR | Öğretmenler Günü kutlama | "Öğretmenler Günü kutlu olsun" | 18135105974491249 |
 | 2026-11-24 | özel gün 00:01 | tepeosgb | TR | Öğretmenler Günü kutlama | "Öğretmenler Günü kutlu olsun" | 17913862368584539 |
 | 2026-11-24 | özel gün 00:01 | tepe.danismanlik | TR | Öğretmenler Günü kutlama | "Öğretmenler Günü kutlu olsun" | 18117380591522253 |
+| 2026-11-24 | sabah | teperealestate | EN | EN açı 4: Renting out for foreign owners (çekim/ilan, kiracı eleme, sözleşme; Google TTS Achernar, v4) | "Renting out your Istanbul flat?" | 18128796766917754 |
+| 2026-11-24 | sabah | tepeosgb | TR | 8 Sektör: İnşaat — kış riskleri (buzlanma, kısa gün/aydınlatma, soğuk/KKD/CO; sektör sorusu hook'u, Achird, v4) | "Kışın şantiyede en büyük risk ne?" | 17954734395049658 |
+| 2026-11-24 | sabah | tepe.danismanlik | EN | 8 ISO 10002 Customer complaints handling (ISO 9001 ile uyum, Charon, v4) | "Complaints piling up?" | 17979305991141285 |
 
 Not: Danışmanlık premium ilk sürüm (18181678393449174) sesi kısık; kullanıcı silmeli.
 Not: v2 OSGB (17917123125492067) ve Danışmanlık (18402251170200971) kullanıcı tarafından silindi.
@@ -49,6 +52,7 @@ Not (22.11 öğle): Windsor create_video_post 'collaborators' parametresini KABU
 Not: foto/ altında paylaşılmamış ilan yok (sadece balat, paylaşıldı).
 
 ## ÖĞRENİLENLER
+- 24.11 sabah: 3 render tek commit'te ~16 dk sorunsuz (render SHA 81d1384). Süre 29.3-35.9 sn, mean -15.6..-16.0 dB. Yorum yok (IG). OSGB caption'ındaki #işgüvenliğiuzmanı hashtag'inde görünmez yumuşak tire karakteri kaldı (API ile düzenlenemiyor; etiket kırık olabilir). Emlak 4. sahne imza fotoğrafı 23.11 sabah videosunda da kullanılmıştı — tekrar etme.
 - 23.11 gece (kullanıcı geri bildirimi): Google TTS kısaltmaları harf harf/yanlış okuyordu (NACE, DASK). tools/tts_google.py'ye SAY telaffuz sözlüğü eklendi (NACE→Nase, DASK→Dask, KOSGEB→Kosgeb, TÜİK→Tüik, ISO→İso; İSG/OSGB/SGK/KVKK Türkçe harf adlarıyla). Test render + transkripsiyonla doğrulandı ("Nace" yazımı İngilizce okunuyordu → "Nase"). Bugünkü akşam OSGB (NACE) ve öğle/akşam Emlak (DASK) videoları eski okunuşla yayında.
 - 23.11 AKŞAM performans (7 gün, Windsor cache — bugünkü paylaşımlar henüz birikmedi): OSGB'de en iyi = öğle "Hastanede en büyük risk kimin?" (sektör + soru hook'u) 240 reach, skip %70 (OSGB ort. ~%85, reach ort. ~160) → SEKTÖR SORUSU hook'u OSGB'de tekrar edilecek. Emlak'ta hâlâ en iyi gerçek ilan reels'leri (Balat: bizim 480, kullanıcının 417 reach). Danışmanlık reach çok düşük (3-119; en iyi EN sabah ISO 14001 = 119). Emlak/Danışmanlık TR hizmet reels'lerinde reach düşük ama izleme süresi yüksek (9-11 sn) → hook iyi, dağıtım zayıf; ilk karede soru + somut nesne (anahtar, fatura) denendi. Henüz TUTAN İÇERİK (2x) yok, yorum 0 (IG + YouTube).
 - 23.11 akşam render: 6 job tek commit'te (3 akşam + 3 Öğretmenler Günü) ~17 dk, hepsi sorunsuz. Süre 32.8-35.2 sn (özel 13 sn), mean -15.6..-17.7 dB. Danışmanlık kapanış (gece ofis binası) fotoğrafında okunmayan bulanık neon tabela var — sonraki seçimlerde farklı kapanış fotoğrafı kullan.
