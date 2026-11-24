@@ -1,0 +1,300 @@
+{
+ "out": "out/2026-11-24/gundem_tepedanismanlik.mp4",
+ "scrim": "#08295A",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/danismanlik.png",
+  "x": 64,
+  "y": 84,
+  "w": 300,
+  "end_w": 560,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/bc6720a7-d15c-4800-9743-100aca812a13.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "tr-TR",
+  "gender": "MALE",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "rate": 1.08,
+  "lines": [
+   "E-ihracat yapan ya da başlamak isteyen firmalar dikkat! Destek kurallarında yeni dönem başladı.",
+   "Ticaret Bakanlığı, e-ihracat desteklerine ilişkin genelgeyi on altı Kasım itibarıyla güncelledi.",
+   "Kullanılmayan destek yılları bir defaya mahsus süre sonuna eklenebiliyor. Pazaryerleri tüm desteklerden yararlanabiliyor. Değerlendirme beyanının son günü ise Şubat ayının son iş gününe çekildi.",
+   "Pazaryeri, tanıtım ve sipariş karşılama desteklerinde hakkınızı kaçırmayın. Uygunluk şartlarını birlikte kontrol edelim.",
+   "E-ihracat destek başvurunuz için profildeki WhatsApp butonuna dokunun ya da bizi arayın. Numaralarımız ekranda."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1670121180530-cfcba4438038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 5,
+   "elements": [
+    {
+     "text": "GÜNDEM · TİCARET BAKANLIĞI",
+     "x": 96,
+     "y": 980,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "E-ihracat desteklerinde yeni dönem",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 100,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1661870139279-95fecab7c53a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "NE OLDU?",
+     "x": 96,
+     "y": 940,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Destek genelgesi güncellendi",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ticaret Bakanlığı, e-ihracat destek genelgesini 16 Kasım itibarıyla değiştirdi.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1703585752869-0bffd1c7709b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 9,
+   "elements": [
+    {
+     "text": "NE DEĞİŞTİ?",
+     "x": 96,
+     "y": 820,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Öne çıkan 3 madde",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Kullanılmayan yıllar süre sonuna eklenebilir",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Pazaryerleri tüm desteklerden yararlanabilir",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Değerlendirme beyanı: Şubat sonu",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1643962579736-5efc730cbfe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6.5,
+   "elements": [
+    {
+     "text": "NE YAPMALI?",
+     "x": 96,
+     "y": 920,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Destek planını güncelle",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#F28C0F",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Pazaryeri, tanıtım ve sipariş karşılama desteklerinde hakkını kaçırma. Uygunluk ve üst limit için bizi ara.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1690944851207-3f288c8fcd0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7,
+   "elements": [
+    {
+     "text": "E-ihracat desteği için bize ulaş",
+     "x": 72,
+     "y": 800,
+     "w": 936,
+     "size": 88,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ara  0216 434 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 50,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 1.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "WhatsApp  0532 138 51 54",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.8
+    },
+    {
+     "text": "0850 305 40 19 · info@tepedanismanlik.com.tr",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 36,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.2
+    },
+    {
+     "text": "Profildeki WhatsApp butonuna dokun",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "semi",
+     "color": "#F28C0F",
+     "at": 2.6
+    },
+    {
+     "text": "Yorumlara “E-İHRACAT” yaz, sana dönelim",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 38,
+     "font": "body",
+     "color": "#FFFFFF",
+     "at": 3.0
+    }
+   ]
+  }
+ ]
+}

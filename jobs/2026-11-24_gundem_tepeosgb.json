@@ -1,0 +1,338 @@
+{
+ "out": "out/2026-11-24/gundem_tepeosgb.mp4",
+ "scrim": "#08295A",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/osgb.png",
+  "x": 64,
+  "y": 84,
+  "w": 230,
+  "end_w": 440,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/cf166bed-0030-451e-bc35-3660e24a92c0.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "tr-TR",
+  "gender": "MALE",
+  "voice": "tr-TR-Chirp3-HD-Achird",
+  "rate": 1.08,
+  "lines": [
+   "Yüksekte güvenli çalışma yeniden gündemde. Çalışma ve Sosyal Güvenlik Bakanlığı'ndan yeni bir duyuru var.",
+   "İş Sağlığı ve Güvenliği Genel Müdürlüğü, yirmi altı Kasım'da Ankara'da, sektör kuruluşlarıyla birlikte Yüksekte Güvenli Çalışma Farkındalık Buluşması düzenliyor.",
+   "Konu; iskele ve kalıp işleri, çatı ve cephe çalışmaları, bakım ve onarım gibi yüksekte iş yapılan tüm işyerlerini ilgilendiriyor.",
+   "Risk değerlendirmenizi güncelleyin. Toplu koruma önlemleri, emniyet kemeri ve yüksekte çalışma eğitimi eksiksiz olmalı.",
+   "İşyeriniz için iş güvenliği desteği almak isterseniz profildeki WhatsApp butonuna dokunun ya da bizi arayın. Numaralarımız ekranda."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1713593930871-e21d7f9ef4a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 5,
+   "elements": [
+    {
+     "text": "GÜNDEM · ÇSGB İSGGM",
+     "x": 96,
+     "y": 980,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Yüksekte güvenli çalışma gündemde",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 100,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1764471444363-e6dc0f9773bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7,
+   "elements": [
+    {
+     "text": "NE OLDU?",
+     "x": 96,
+     "y": 900,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "26 Kasım: farkındalık buluşması",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 92,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "İSG Genel Müdürlüğü, sektör kuruluşlarıyla Ankara'da “Yüksekte Güvenli Çalışma” buluşması düzenliyor.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1593313637552-29c2c0dacd35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7,
+   "elements": [
+    {
+     "text": "KİMİ İLGİLENDİRİR?",
+     "x": 96,
+     "y": 860,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Yüksekte iş yapan herkesi",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "İskele ve kalıp işleri",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Çatı ve cephe çalışmaları",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.4,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Bakım ve onarım işleri",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.2,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1561343228-e6a5c693d352?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7,
+   "elements": [
+    {
+     "text": "NE YAPMALI?",
+     "x": 96,
+     "y": 860,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Riskini bugün kontrol et",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#F28C0F",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Güncel risk değerlendirmesi",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Toplu koruma + emniyet kemeri",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.4,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Yüksekte çalışma eğitimi",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.2,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1649320316177-775fe2d67ca3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7,
+   "elements": [
+    {
+     "text": "İşyerin için İSG desteği al",
+     "x": 72,
+     "y": 800,
+     "w": 936,
+     "size": 88,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ara  0216 434 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 50,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 1.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "WhatsApp  0532 138 51 54",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.8
+    },
+    {
+     "text": "0850 305 40 19 · info@tepeosgb.com",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 36,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.2
+    },
+    {
+     "text": "Profildeki WhatsApp butonuna dokun",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "semi",
+     "color": "#F28C0F",
+     "at": 2.6
+    },
+    {
+     "text": "Yorumlara “İSG” yaz, sana dönelim",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 38,
+     "font": "body",
+     "color": "#FFFFFF",
+     "at": 3.0
+    }
+   ]
+  }
+ ]
+}
