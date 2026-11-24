@@ -231,7 +231,7 @@
     {
      "text": "Tesisin kışa hazır mı?",
      "x": 72,
-     "y": "auto",
+     "y": 800,
      "w": 936,
      "size": 88,
      "font": "head",
