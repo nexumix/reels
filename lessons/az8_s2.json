@@ -1,0 +1,489 @@
+{
+ "code": "az8_s2",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "2. Bölüm · Sağlık Konuları",
+ "title": "Hastalıktan korunma prensipleri ve korunma tekniklerinin uygulanması",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=2400",
+   "kicker": "2. Bölüm · Ders 2",
+   "title": "Hastalıktan korunma prensipleri",
+   "subtitle": "Korunma tekniklerini işyerinde nasıl uygularız?",
+   "steps": [
+    "Tekrar merhaba. Bir önceki derste meslek hastalıklarının sebeplerini konuştuk: gürültü, kimyasallar, mikroplar, yanlış çalışma duruşları ve stres. Bugün bunun devamını, yani bu hastalıklardan nasıl korunacağımızı konuşacağız.",
+    "Bu derste öğreneceğiniz prensipler aslında hayatın her alanında işe yarar. Bir riski görünce ilk ne yapmalı, en son ne yapmalı? Bu sıralamayı bildiğinizde, işyerinizdeki önlemlerin neden öyle alındığını da çok daha iyi anlayacaksınız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1758518730037-a16581a040e8?w=2400",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "bullets": [
+    "Korunma yöntemlerinde öncelik sırası",
+    "Ergonomik korunma teknikleri",
+    "Bulaşıcı hastalıklardan korunma ve el hijyeni",
+    "Sağlık gözetimi ve periyodik muayeneler"
+   ],
+   "steps": [
+    "Dersin yol haritasına bakalım. Dört ana başlığımız var ve her birinde az tehlikeli işyerlerinden örnekler vereceğim.",
+    "Önce korunma yöntemlerinde öncelik sırasını öğreneceğiz. Bu, dersin belki de en önemli kısmı. Çünkü yanlış sırayla alınan önlemler çoğu zaman işe yaramaz.",
+    "Sonra ergonomik korunma tekniklerine bakacağız: ekranın, sandalyenin ve masanın doğru ayarı, yük taşıma ve molalar.",
+    "Ardından bulaşıcı hastalıklardan korunmayı konuşacağız. El hijyeni, öksürük ve hapşırık adabı, havalandırma ve aşılar bu başlıkta.",
+    "Son olarak sağlık gözetimini, yani işe giriş ve periyodik sağlık muayenelerinin ne işe yaradığını ele alacağız."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1765894518274-f53145743a46?w=2400",
+   "kicker": "Korunmanın mantığı",
+   "title": "Zinciri nerede kırabiliriz?",
+   "bullets": [
+    "Kaynakta: tehlikeyi ortadan kaldır",
+    "Yolda: yayılmasını engelle",
+    "Kişide: çalışanı koru"
+   ],
+   "steps": [
+    "Korunmayı anlamak için şöyle bir zincir düşünün. Bir kaynak var; örneğin gürültülü bir makine ya da kokulu bir kimyasal. Etken havadan ya da temasla yayılıyor ve sonunda çalışana ulaşıyor. Bu zinciri üç noktada kırabiliriz.",
+    "En etkili yer kaynaktır. Tehlikeyi kaynağında ortadan kaldırırsak ya da azaltırsak, kimse ona maruz kalmaz. Üstelik bu önlem, çalışanın her seferinde doğru davranmasına bağlı değildir.",
+    "İkinci nokta yoldur. Kaynağı kaldıramıyorsak, etkenin yayılmasını engelleriz. Bir bölme, bir kapak ya da iyi bir havalandırma sistemi bunu sağlar.",
+    "Üçüncü ve son nokta kişidir. Kaynakta ve yolda alınan önlemler yetmezse, çalışanı korumaya çalışırız. Çalışma süresini kısaltmak ya da kişisel koruyucu donanım vermek bu gruptadır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Öncelik sırası",
+   "title": "Korunma yöntemlerinin sıralaması",
+   "items": [
+    {
+     "title": "Yok etme",
+     "text": "Tehlikeyi kaynağında tamamen ortadan kaldır"
+    },
+    {
+     "title": "İkame",
+     "text": "Tehlikeliyi, daha az tehlikeli olanla değiştir"
+    },
+    {
+     "title": "Mühendislik",
+     "text": "Havalandırma, yalıtım, koruyucu bölme gibi teknik önlemler"
+    },
+    {
+     "title": "İdari önlemler",
+     "text": "Talimat, eğitim, rotasyon, mola, uyarı levhası"
+    },
+    {
+     "title": "KKD",
+     "text": "En son çare: eldiven, maske, kulak koruyucu"
+    }
+   ],
+   "steps": [
+    "Bu zincir mantığı, korunma yöntemlerinde bir öncelik sırası oluşturur. Bu sırayı mutlaka öğrenin, dersin sonunda soracağım. Beş basamak var ve yukarıdan aşağı ilerliyoruz.",
+    "Birinci basamak, tehlikeyi kaynağında yok etmek. Örneğin koridordaki gereksiz uzatma kablosunu kaldırıp yeni bir priz yaptırmak. Tehlike yoksa, risk de yoktur.",
+    "İkinci basamak ikame, yani tehlikeli olanı daha az tehlikeli olanla değiştirmek. Sert bir kimyasal temizleyici yerine aynı işi gören daha zararsız bir ürünü kullanmak gibi.",
+    "Üçüncü basamak mühendislik önlemleri. Tehlike yerinde kalır ama çalışana ulaşması engellenir. Fotokopi makinesi için ayrı ve havalandırmalı bir oda, gürültülü bir cihaz için ses yalıtımlı bir kabin bunun örnekleridir.",
+    "Dördüncü basamak idari önlemler: talimatlar, eğitim, iş rotasyonu, düzenli molalar ve uyarı levhaları. Bu önlemler tehlikeyi değiştirmez; işi yapma biçimimizi ve maruz kalma süremizi düzenler.",
+    "Beşinci ve son basamak ise kişisel koruyucu donanım, yani KKD: eldiven, maske, kulak koruyucu, koruyucu gözlük. Sık yapılan hata, işe KKD ile başlamaktır. Oysa önce KKD değil; KKD en sondadır."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Uygulamada",
+   "title": "Öncelik sırası işyerinde nasıl görünür?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1795045245945-cd55a89c2237?w=1200",
+     "tag": "İkame",
+     "title": "Daha güvenli ürün",
+     "text": "Tahriş edici sprey yerine kokusuz, daha az zararlı temizlik ürünü seçilir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1761642119720-1ce47b16d09b?w=1200",
+     "tag": "Mühendislik",
+     "title": "Havalandırma",
+     "text": "Mutfak davlumbazı, yazıcı odası aspiratörü, bakımlı klima filtreleri."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758518731706-be5d5230e5a5?w=1200",
+     "tag": "İdari",
+     "title": "Düzen ve talimat",
+     "text": "Mola planı, iş rotasyonu, kimyasal kullanım talimatı ve eğitim."
+    }
+   ],
+   "steps": [
+    "Bu basamakların az tehlikeli bir işyerinde nasıl göründüğüne birkaç örnekle bakalım. Kendi işyerinizde benzerlerini görüp görmediğinizi düşünün.",
+    "İkame örneği: temizlikte göz ve solunum yolunu tahriş eden bir sprey kullanılıyorsa, aynı işi gören, daha az zararlı ve kokusuz bir ürüne geçilebilir. Ya da sprey yerine bezle uygulanan bir ürün seçilebilir.",
+    "Mühendislik örneği: kafe mutfağındaki davlumbaz, yoğun çalışan yazıcıların bulunduğu odadaki aspiratör ve filtreleri düzenli temizlenen klimalar. Hepsi etkeni çalışana ulaşmadan uzaklaştırır.",
+    "İdari örnek: ağır kolilerin taşınmasının çalışanlar arasında dönüşümlü yapılması, ekran başında çalışanlar için mola planı ve kimyasal kullanım talimatı. Bu önlemler işi yapma biçimimizi düzenler."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1766021736538-3208f2ad05f2?w=2400",
+   "kicker": "Neden en son?",
+   "value": "Son çare",
+   "title": "KKD tehlikeyi ortadan kaldırmaz; yalnızca çalışan ile tehlike arasına ince bir engel koyar",
+   "text": "Yanlış takılan, unutulan ya da yıpranmış bir KKD hiç koruma sağlamaz. Bu yüzden önce diğer önlemler alınır",
+   "steps": [
+    "Peki KKD neden en sonda? Eldiven, maske ya da kulak koruyucu çok önemlidir, yanlış anlaşılmasın. Ama KKD tehlikeyi ortadan kaldırmaz; sadece sizinle tehlike arasına ince bir engel koyar.",
+    "Bu engel de ancak doğru seçilir, doğru takılır ve sürekli kullanılırsa işe yarar. Burnu açıkta kalan bir maske, delinmiş bir eldiven ya da yarım takılan kulak tıkacı koruma sağlamaz. Bu yüzden önce kaynağa, sonra yola müdahale edilir; KKD en son ve tamamlayıcı önlem olarak kullanılır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Örnek olay",
+   "title": "Kafede gürültülü yeni makine",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1738566495571-80dd493b5f62?w=1200",
+     "ok": false,
+     "title": "Herkese kulak tıkacı",
+     "text": "Kaynak aynen kalır, tıkaç takılmaz ya da müşteriyi duymak için çıkarılır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1774978238513-4d9f22ae6e8e?w=1200",
+     "ok": true,
+     "title": "Kaynağında çözüm",
+     "text": "Daha sessiz model, ses yalıtımlı bölme, makinenin tezgâhtan uzağa alınması."
+    }
+   ],
+   "steps": [
+    "Bir örnek olay. Yoğun bir kafeye yeni ve çok gürültülü bir buz kırma makinesi alınıyor. Çalışanlar baş ağrısından ve kulak çınlamasından şikâyet edince işletme sahibi herkese kulak tıkacı dağıtıyor ve konuyu kapanmış sayıyor.",
+    "Ne oldu? Gürültünün kaynağı olduğu gibi kaldı. Çalışanlar siparişleri duyabilmek için tıkaçları sık sık çıkarıyor, çoğu zaman da hiç takmıyor. Yani bu önlem kâğıt üzerinde var, gerçekte yok.",
+    "Ne yapılmalıydı? Öncelik sırası uygulanmalıydı. Önce daha sessiz bir model araştırılmalı, olmuyorsa makine tezgâhtan uzak ve ses yalıtımlı bir bölmeye alınmalı, kullanım süreleri düzenlenmeliydi. Kulak koruyucu ancak bunlar yetmezse, son adım olarak devreye girmeliydi."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1560264280-88b68371db39?w=2400",
+   "kicker": "Mevzuat",
+   "title": "6331 sayılı Kanunda risklerden korunma ilkeleri",
+   "bullets": [
+    "Risklerden kaçınmak; kaçınılamayanı analiz etmek",
+    "Risklerle kaynağında mücadele etmek",
+    "İşi kişiye uygun hâle getirmek",
+    "Toplu korunmaya, kişisel korunmaya göre öncelik vermek",
+    "Çalışanlara uygun talimatlar vermek"
+   ],
+   "steps": [
+    "Az önce anlattığım öncelik sırası sadece iyi bir uygulama değil, aynı zamanda kanunun bir gereği. 6331 sayılı Kanun, işverenin uyması gereken risklerden korunma ilkelerini sayar. Önemli olanlara bakalım.",
+    "İlk ilke risklerden kaçınmaktır. Kaçınılması mümkün olmayan riskler ise analiz edilir, yani risk değerlendirmesi yapılır.",
+    "Risklerle kaynağında mücadele etmek de bir ilkedir. Gördüğünüz gibi, kanun da önce kaynağa bakmamızı ister.",
+    "İşin kişiye uygun hâle getirilmesi ilkesi ergonomiyle ilgilidir. İş yeri tasarımı, ekipman seçimi ve çalışma biçimi insana göre düzenlenir; tekdüze çalışmanın sağlığa etkileri azaltılır.",
+    "Toplu korunma önlemlerine, kişisel korunma önlemlerine göre öncelik verilir. Yani bütün ortamı koruyan havalandırma, tek kişiyi koruyan maskeden önce gelir. Tehlikeli olanı daha az tehlikeli olanla değiştirmek de bu ilkeler arasındadır.",
+    "Son olarak çalışanlara uygun talimatlar verilir. Bir kimyasalın nasıl kullanılacağını, bir makinenin nasıl temizleneceğini bilmeden güvenli çalışmak mümkün değildir. Talimatları okumak ve uygulamak da sizin görevinizdir."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Ergonomik korunma",
+   "title": "Bedenimizi koruyan üç teknik",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1504261473209-7ccd7f92b205?w=1200",
+     "title": "Doğru ekran ayarı",
+     "text": "Ekranın üst kenarı göz hizasında ya da biraz altında, kol boyu uzaklıkta."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1637580682028-411974cac26b?w=1200",
+     "title": "Hareket ve mola",
+     "text": "Uzun süre aynı pozisyonda kalmamak; kısa ve sık aralar vermek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1681726267024-04427f16ad45?w=1200",
+     "title": "Doğru taşıma",
+     "text": "Mümkünse araç kullanmak; yükü dizlerden bükerek ve vücuda yakın kaldırmak."
+    }
+   ],
+   "steps": [
+    "Şimdi az tehlikeli işyerlerinde en sık karşılaşılan sağlık sorunu olan kas ve iskelet sistemi rahatsızlıklarına karşı korunma tekniklerine geçelim. Üç temel teknik var.",
+    "Birincisi doğru ekran ayarı. Ekranın üst kenarı göz hizasında ya da biraz altında olmalı, ekran yaklaşık bir kol boyu uzakta durmalı. Pencere ekranın arkasında ya da tam karşısında değil, yanında kalmalı ki parlama olmasın.",
+    "İkincisi hareket ve mola. Vücudumuz uzun süre aynı pozisyonda kalmak için tasarlanmamıştır. Kısa ama sık aralar verin; ayağa kalkın, yürüyün, omuzlarınızı ve boynunuzu esnetin, gözlerinizi uzağa odaklayarak dinlendirin.",
+    "Üçüncüsü doğru taşıma. Mümkünse taşıma arabası kullanın. Elle taşımanız gerekiyorsa yükü belden eğilerek değil dizlerden bükülerek, vücudunuza yakın tutarak ve gövdenizi döndürmeden kaldırın. Çok ağır yükleri tek başınıza taşımayın."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1688578735972-b61ec274df7b?w=2400",
+   "kicker": "Kendinizi kontrol edin",
+   "title": "Masanızda doğru oturuş",
+   "bullets": [
+    "Ayaklar yere ya da ayak desteğine tam basar",
+    "Dirsekler yaklaşık dik açıda, omuzlar gevşek",
+    "Sırt, sandalyenin bel desteğine dayalı"
+   ],
+   "steps": [
+    "Şimdi küçük bir kontrol yapalım. Bu videoyu masa başında izliyorsanız, kendi oturuşunuzu benimle birlikte kontrol edin. Sadece birkaç saniye sürecek.",
+    "Ayaklarınız yere ya da bir ayak desteğine tam basıyor mu? Ayaklar havada kalıyorsa sandalyeyi alçaltın ya da bir ayak desteği isteyin.",
+    "Klavye kullanırken dirsekleriniz yaklaşık dik açıda mı, omuzlarınız gevşek mi? Omuzlarınız kulaklarınıza doğru kalkıyorsa masa ya da sandalye yüksekliği uygun değildir.",
+    "Sırtınız sandalyenin bel desteğine dayalı mı, yoksa öne doğru mu eğildiniz? Bu küçük ayarlar, yıllar içinde bel ve boyun ağrılarının önüne geçer. Sandalyeniz ayarlanamıyorsa bunu yöneticinize bildirin."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Ekran başında",
+   "title": "Göz ve beden için küçük molalar",
+   "items": [
+    {
+     "value": "Sık",
+     "unit": "kısa ara",
+     "label": "uzun ve seyrek moladan daha faydalı"
+    },
+    {
+     "value": "Uzak",
+     "unit": "bakış",
+     "label": "ara sıra uzağa bakarak gözleri dinlendirin"
+    },
+    {
+     "value": "Esne",
+     "unit": "boyun-omuz",
+     "label": "ayağa kalkın, birkaç basit hareket yapın"
+    }
+   ],
+   "steps": [
+    "Oturuşunuzu düzelttiniz; şimdi sıra molalarda. Ekran başında çalışan herkes için molanın ne sıklıkla ve nasıl verildiği önemlidir. Ekranlı araçlarla çalışmayı düzenleyen yönetmelik de çalışmanın düzenli aralarla bölünmesini ister.",
+    "Birincisi, kısa ve sık aralar, uzun ama seyrek bir moladan daha faydalıdır. Dört saat aralıksız çalışıp yarım saat dinlenmek yerine, gün içine yayılmış kısa aralar verin. Telefonla konuşurken ayağa kalkmak ya da yazıcıya yürümek bile küçük bir moladır.",
+    "İkincisi gözler. Ekrana uzun süre baktığımızda göz kırpma sayımız azalır ve göz kurur. Ara sıra pencereden uzağa bakarak ve bilinçli olarak göz kırparak gözlerinizi dinlendirin.",
+    "Üçüncüsü beden. Ayağa kalkın, birkaç adım atın, omuzlarınızı geriye doğru çevirin, boynunuzu yavaşça sağa ve sola esnetin. Bu birkaç dakika, gün sonundaki ağrıyı belirgin şekilde azaltır."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1758518731706-be5d5230e5a5?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar öğrendiklerimiz",
+   "bullets": [
+    "Önce tehlikeyi kaynağında yok et, sonra ikame et",
+    "Ardından mühendislik ve idari önlemler",
+    "KKD en son ve tamamlayıcı önlemdir",
+    "Doğru ekran, doğru oturuş, sık mola, doğru taşıma"
+   ],
+   "steps": [
+    "Burada kısa bir ara verip buraya kadar öğrendiklerimizi toparlayalım. Sonrasında bulaşıcı hastalıklardan korunmaya ve sağlık gözetimine geçeceğiz.",
+    "Korunma yöntemlerinde ilk adım tehlikeyi kaynağında yok etmektir. Bu mümkün değilse tehlikeli olan, daha az tehlikeli olanla değiştirilir.",
+    "Ardından mühendislik önlemleri, yani havalandırma ve yalıtım gibi teknik çözümler gelir. Sonra da talimat, eğitim, rotasyon ve mola gibi idari önlemler uygulanır.",
+    "Kişisel koruyucu donanım en son basamaktır. Diğer önlemlerin yerini tutmaz, onları tamamlar. Ama gerektiğinde mutlaka, doğru boyda ve doğru şekilde kullanılır. Yıpranan ya da hasar gören KKD hemen yenisiyle değiştirilir.",
+    "Ergonomide ise dört kuralımız var: doğru ekran ayarı, doğru oturuş, kısa ve sık molalar ve doğru yük taşıma tekniği."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1529386317747-0a2a51add902?w=2400",
+   "kicker": "Bulaşıcı hastalıklar",
+   "title": "Mikropların işyerinde yayılmasını önlemek",
+   "bullets": [
+    "El hijyeni: en basit ve en etkili yöntem",
+    "Öksürürken ve hapşırırken ağzı ve burnu kapatmak",
+    "Ortak bardak, havlu ve eşya kullanmamak",
+    "Ortamı düzenli havalandırmak",
+    "Hastayken hekime başvurmak, başkalarını korumak"
+   ],
+   "steps": [
+    "Şimdi bulaşıcı hastalıklara geçelim. Grip, soğuk algınlığı ya da mide enfeksiyonu gibi hastalıklar kalabalık ofislerde, mağazalarda ve okullarda çok hızlı yayılır. Peki nasıl önleriz?",
+    "Bulaşıcı hastalıklardan korunmada en basit ve en etkili yöntemlerden biri el hijyenidir. Mikropların büyük kısmı ellerimizle taşınır; kapı kolundan telefona, oradan da ağzımıza ve gözümüze ulaşır.",
+    "Öksürürken ya da hapşırırken ağzınızı ve burnunuzu bir mendille, mendil yoksa dirseğinizin iç kısmıyla kapatın. Elinizle kapatmayın; çünkü o el birazdan bir kapı koluna ya da klavyeye dokunacak.",
+    "Ortak bardak, havlu ve benzeri kişisel eşyaları paylaşmayın. Kendi bardağınızı kullanın, ortak kullanılan yüzeyleri düzenli temizleyin.",
+    "Ortamı düzenli havalandırın. Kapalı ve kalabalık bir odada havalandırmayı kapatmak, mikropların havada birikmesine yol açar. Kışın bile pencereleri belirli aralıklarla birkaç dakika açmak fark yaratır.",
+    "Ve hastayken hekime başvurun. Bulaşıcı bir hastalığınız varsa, hekimin önerisine uyarak dinlenmek ve iş arkadaşlarınızı korumak da bir sorumluluktur. Bunu biraz sonra bir örnek olayla konuşacağız."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1596290618848-fcda233549e3?w=2400",
+   "kicker": "El hijyeni",
+   "value": "20 saniye",
+   "title": "Ellerinizi su ve sabunla, tüm yüzeylerini ovarak en az 20 saniye yıkayın",
+   "text": "Su ve sabun yoksa alkol bazlı el antiseptiği kullanılabilir; gözle görülür kirde ise mutlaka yıkayın",
+   "steps": [
+    "El yıkamanın etkili olması için süresi önemlidir. Ellerinizi su ve sabunla, avuç içi, el sırtı, parmak araları ve tırnak dipleri dahil tüm yüzeylerini ovarak en az 20 saniye yıkayın. İçinizden yavaşça yirmiye kadar saymanız yeterli.",
+    "Su ve sabuna ulaşamıyorsanız alkol bazlı bir el antiseptiği kullanabilirsiniz. Ama elleriniz gözle görülür şekilde kirliyse ya da yağlıysa, antiseptik yetmez; mutlaka su ve sabunla yıkayın. Peki ne zaman yıkamalı? Yemekten önce, tuvaletten sonra, öksürüp hapşırdıktan sonra ve dışarıdan geldiğinizde."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Adım adım",
+   "title": "Doğru el yıkama",
+   "items": [
+    {
+     "title": "Islatın",
+     "text": "Ellerinizi akan suyla ıslatın"
+    },
+    {
+     "title": "Sabunlayın",
+     "text": "Tüm el yüzeyini kaplayacak kadar sabun alın"
+    },
+    {
+     "title": "Ovalayın",
+     "text": "Avuç, el sırtı, parmak araları, başparmak, tırnak dipleri"
+    },
+    {
+     "title": "Durulayın",
+     "text": "Sabunu akan suyla tamamen giderin"
+    },
+    {
+     "title": "Kurulayın",
+     "text": "Tek kullanımlık kâğıt havluyla kurulayın"
+    }
+   ],
+   "steps": [
+    "Basit gibi görünse de el yıkamayı çoğumuz eksik yaparız. Doğru el yıkamanın beş adımına birlikte bakalım.",
+    "Önce ellerinizi akan suyla ıslatın. Su ılık olabilir; çok sıcak su cildi kurutur ve sık yıkayanlarda çatlaklara yol açar.",
+    "Sonra ellerinizin tüm yüzeyini kaplayacak kadar sabun alın. Sıvı sabun, ortak kullanılan kalıp sabuna göre daha hijyeniktir.",
+    "Şimdi en önemli adım: ovalama. Avuç içlerinizi, el sırtlarınızı, parmak aralarınızı, başparmaklarınızı ve tırnak diplerinizi ovalayın. En sık atlanan yerler başparmak ve tırnak dipleridir.",
+    "Sabunu akan suyla tamamen durulayın. Sabun kalıntısı cildi tahriş edebilir; özellikle gün içinde ellerini sık yıkayan çalışanlar buna dikkat etmeli.",
+    "Son olarak ellerinizi tek kullanımlık kâğıt havluyla kurulayın; mümkünse musluğu da bu kâğıt havluyla kapatın. Ortak kumaş havlu mikrop taşıyabilir. Sık el yıkayanlar için gün sonunda nemlendirici krem kullanmak da cildi korur."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1604881988758-f76ad2f7aac1?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Bir ofiste grip salgını",
+   "bullets": [
+    "Ortak bardaklar ve kapalı pencereler",
+    "Hasta çalışan masasında öksürüyor",
+    "Bir haftada ekibin yarısı hasta"
+   ],
+   "steps": [
+    "Bir örnek olay anlatayım. Yirmi kişilik bir muhasebe ofisinde kış ayları. Çay ocağında herkes ortak bardakları kullanıyor, bardaklar sadece suyla çalkalanıyor. Soğuk olduğu için pencereler gün boyu hiç açılmıyor.",
+    "Çalışanlardan biri ateşli ve öksürüklü olmasına rağmen işe geliyor. Masasında sürekli öksürüyor, ağzını eliyle kapatıyor, sonra da ortak yazıcıyı ve kapı kolunu kullanıyor.",
+    "Bir hafta içinde ekibin neredeyse yarısı grip oluyor. İşler aksıyor, kalanlar fazla mesai yapıyor ve yorgunluktan onlar da hastalanıyor.",
+    "Ne yapılmalıydı? Herkes kendi bardağını kullanmalı, ortak alanlar düzenli temizlenmeli, ofis aralıklarla havalandırılmalıydı. Hasta çalışan ise hekime başvurmalı, öksürük adabına uymalı ve hekimin önerisine göre dinlenmeliydi."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru davranış",
+   "title": "Hastalık belirtileriniz varsa",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1529386317747-0a2a51add902?w=1200",
+     "ok": false,
+     "title": "Gizleyip çalışmak",
+     "text": "Ateşle işe gelmek, eliyle öksürmek, ortak eşyaları kullanmak."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1594718153856-41a79679d114?w=1200",
+     "ok": true,
+     "title": "Başkalarını korumak",
+     "text": "Hekime başvurmak, öneriye uymak, gerekirse maske takmak."
+    }
+   ],
+   "steps": [
+    "Bu örnekten şu dersi çıkarıyoruz: hastalık belirtileriniz olduğunda nasıl davrandığınız, tüm ekibin sağlığını etkiler. İki davranışı karşılaştıralım.",
+    "Yanlış olan, belirtileri gizleyip hiçbir şey yokmuş gibi çalışmak. Ateşle işe gelmek, ağzını eliyle kapatarak öksürmek ve ortak eşyaları kullanmaya devam etmek mikrobu herkese taşır. Bu fedakârlık değil, risktir.",
+    "Doğru olan, başkalarını korumak. Hekime başvurun ve önerisine uyun. İşyerinde bulunmanız gerekiyorsa maske takın, öksürük adabına dikkat edin, ellerinizi sık yıkayın ve ortak eşyaları kullanmayın. Yöneticinizi de bilgilendirin."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Bağışıklama",
+   "title": "Aşılar da bir korunma tekniğidir",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1611694449252-02453c27856a?w=1200",
+     "tag": "Risk grubu",
+     "title": "Hepatit B",
+     "text": "Kan veya vücut sıvısıyla temas riski olan işler, örneğin atık toplayan temizlikçiler."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1578308175085-444a1fbea0fe?w=1200",
+     "tag": "Yaralanma",
+     "title": "Tetanoz",
+     "text": "Toprak, paslı ve kirli malzemeyle çalışma; bahçe ve bakım işleri."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200",
+     "tag": "Mevsimsel",
+     "title": "Grip",
+     "text": "Kalabalık ortamlar, okul ve müşteri hizmetleri; hekim önerisine göre."
+    }
+   ],
+   "steps": [
+    "Bulaşıcı hastalıklardan korunmanın bir yolu da aşıdır. İşyeri hekimi, yapılan işin risklerine göre bazı çalışanlara aşı önerebilir. Birkaç örneğe bakalım; ama hangi aşının kime gerektiğine her zaman hekim karar verir.",
+    "Hepatit B, kan ve vücut sıvılarıyla bulaşır. Atık toplarken çöpe atılmış bir iğneye dokunma ihtimali olan temizlik çalışanları gibi risk taşıyan kişiler için önerilebilir.",
+    "Tetanoz, toprak ve kirli, paslı malzemelerle oluşan yaralanmalarda bulaşabilen ciddi bir hastalıktır. Bahçe, bakım ve onarım işlerinde çalışanlar için önemlidir.",
+    "Mevsimsel grip aşısı ise öğretmenler, müşteriyle yoğun temas eden çalışanlar ve kronik hastalığı olanlar için hekim önerisine göre yapılabilir. Aşı, diğer önlemlerin yerine geçmez; onlara ek bir korumadır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1666886573531-48d2e3c2b684?w=2400",
+   "kicker": "Sağlık gözetimi",
+   "title": "Periyodik sağlık muayenesinin amacı",
+   "bullets": [
+    "Çalışmanın sağlık üzerindeki etkilerini erken belirlemek",
+    "İşe giriş muayenesiyle başlangıç kaydı oluşturmak",
+    "İşe dönüşte ve iş değişikliğinde yeniden değerlendirmek",
+    "Maliyeti çalışana yansıtılamaz"
+   ],
+   "steps": [
+    "Korunmanın son ve çok önemli parçası sağlık gözetimidir. İşveren, çalışanların sağlık gözetimini sağlamakla yükümlüdür. Bunu en somut olarak sağlık muayenelerinde görürüz.",
+    "Periyodik sağlık muayenesinin amacı, çalışmanın sağlık üzerindeki etkilerini erken dönemde belirlemektir. Bunu aklınızda tutun, dersin sonunda soracağım. Amaç çalışanı işten çıkarmak değil; küçük bir değişikliği, kalıcı bir hastalığa dönüşmeden yakalamaktır.",
+    "Bu takip işe giriş muayenesiyle başlar. İşe girişte yapılan muayene, sonraki muayenelerde karşılaştırma yapılacak başlangıç kaydını oluşturur. Örneğin işe girişteki işitme testiyle yıllar sonraki test karşılaştırılır.",
+    "İş değişikliğinde ve iş kazası ya da meslek hastalığı nedeniyle tekrarlanan işten uzaklaşmalardan sonra işe dönüşte de, talep edilirse muayene yapılır.",
+    "Sağlık gözetiminin maliyeti çalışana yansıtılamaz. Muayenelere katılmak ve hekime şikâyetlerinizi açıkça anlatmak ise sizin sorumluluğunuzdur."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1758691461990-03b49d969495?w=2400",
+   "kicker": "Muayenede",
+   "title": "Hekiminize neleri anlatmalısınız?",
+   "bullets": [
+    "Yaptığınız iş ve kullandığınız malzemeler",
+    "İşte artıp tatilde azalan şikâyetler",
+    "Önceki işleriniz ve kronik hastalıklarınız"
+   ],
+   "steps": [
+    "Bir muayenenin faydası, hekime verdiğiniz bilgiyle doğru orantılıdır. Hekim sizi ancak anlattıklarınız kadar tanır. Peki muayenede hekiminize neleri anlatmalısınız?",
+    "Önce yaptığınız işi ve kullandığınız malzemeleri anlatın. Günde kaç saat ekran başındasınız, hangi temizlik ürünlerini kullanıyorsunuz, yük taşıyor musunuz? Bu bilgiler hekimin doğru tetkiki seçmesini sağlar.",
+    "İş günlerinde artıp hafta sonu ya da tatilde azalan şikâyetlerinizi mutlaka söyleyin. Bu durum, şikâyetin işle bağlantılı olabileceğinin önemli bir işaretidir.",
+    "Önceki işlerinizi, alerjilerinizi ve kronik hastalıklarınızı da paylaşın. Sağlık bilgileriniz gizlidir; işyeri hekimi bu bilgileri sizin sağlığınızı korumak için kullanır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1780838446048-4cdb6bf24090?w=2400",
+   "kicker": "Genel sağlık",
+   "title": "Bağışıklığı güçlü tutan günlük alışkanlıklar",
+   "bullets": [
+    "Yeterli ve düzenli uyku",
+    "Dengeli beslenme ve yeterli su",
+    "Düzenli fiziksel hareket",
+    "Tütünden uzak durmak"
+   ],
+   "steps": [
+    "İşyerindeki önlemlerin yanında, kendi sağlığımızı güçlü tutmak da korunmanın bir parçasıdır. Sağlıklı bir beden, hem bulaşıcı hastalıklara hem de iş yüküne karşı daha dayanıklıdır.",
+    "Yeterli ve düzenli uyku bağışıklık sisteminin en önemli destekçisidir. Uykusuz bir beden hastalıklara karşı daha savunmasızdır ve dikkat de azalır.",
+    "Dengeli beslenin ve gün içinde yeterli su için. Masa başında saatlerce su içmeyi unutmak, baş ağrısı ve yorgunluğun sık rastlanan bir sebebidir.",
+    "Düzenli fiziksel hareket kas ve iskelet sistemini korur, stresi azaltır. Öğle arasında kısa bir yürüyüş bile fark yaratır.",
+    "Ve tütün ürünlerinden uzak durun. Sigara solunum yolunu zayıflatır, enfeksiyonlara karşı direnci düşürür ve işyerindeki diğer etkenlerin zararını artırır."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1775642547173-559e304822f9?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Öncelik: yok etme, ikame, mühendislik, idari önlemler, en son KKD",
+    "El hijyeni en basit ve en etkili korunma yöntemlerindendir",
+    "Ergonomi: doğru ekran, doğru oturuş, mola, doğru taşıma",
+    "Periyodik muayene: işin sağlığa etkisini erken belirler"
+   ],
+   "steps": [
+    "Dersimizin sonuna geldik. Öğrendiklerimizi son bir kez özetleyelim; dersin sonundaki soruların cevapları bu özetin içinde, dikkatle dinleyin.",
+    "Korunma yöntemlerinde öncelik sırası şöyledir: tehlikeyi kaynağında yok etmek, ikame, mühendislik önlemleri, idari önlemler ve en son kişisel koruyucu donanım.",
+    "Bulaşıcı hastalıklardan korunmada en basit ve etkili yöntemlerden biri el hijyenine dikkat etmektir. Öksürük adabı, havalandırma ve ortak eşya kullanmamak da önemlidir.",
+    "Ergonomik korunmada doğru ekran ayarı, doğru oturuş, kısa ve sık molalar ve doğru yük taşıma tekniği temel kurallardır.",
+    "Periyodik sağlık muayenesinin amacı, çalışmanın sağlık üzerindeki etkilerini erken dönemde belirlemektir. Dersin sonunda birkaç kısa soru sizi bekliyor. Bir sonraki derste biyolojik ve psikososyal risk etmenlerini konuşacağız. Görüşmek üzere."
+   ]
+  }
+ ]
+}

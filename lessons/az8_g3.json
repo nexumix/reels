@@ -1,0 +1,580 @@
+{
+ "code": "az8_g3",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "1. Bölüm · Genel Konular",
+ "title": "İşyeri temizliği ve düzeni",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1577412647305-991150c7d163?w=2400",
+   "kicker": "1. Bölüm · Ders 3",
+   "title": "İşyeri temizliği ve düzeni",
+   "subtitle": "Düzenli işyeri, güvenli işyeridir",
+   "steps": [
+    "Merhaba, yeniden hoş geldiniz. Bu dersimizin konusu ilk bakışta çok sıradan görünebilir: işyeri temizliği ve düzeni. Ama size bir sır vereyim; az tehlikeli işyerlerinde yaşanan kazaların önemli bir kısmı, tam da bu sıradan konulardan çıkar.",
+    "Yerde unutulmuş bir kablo, koridora bırakılmış bir koli, silinmemiş bir su birikintisi. Hepsi birkaç saniyelik ihmal; ama sonucu bazen haftalarca süren bir iş göremezlik olabiliyor. Gelin, bunu nasıl önleyeceğimize birlikte bakalım."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Neden önemli?",
+     "text": "Düzensizliğin kazaya, yangına ve hastalığa etkisi"
+    },
+    {
+     "title": "Yollar ve çıkışlar",
+     "text": "Geçiş yolları ve acil çıkışlar neden hep açık kalmalı"
+    },
+    {
+     "title": "Temizlik",
+     "text": "Dökülmeler, temizlik kimyasalları ve atıklar"
+    },
+    {
+     "title": "Kalıcı düzen",
+     "text": "5S yöntemi ve her gün uygulanacak alışkanlıklar"
+    }
+   ],
+   "steps": [
+    "Bu derste dört ana başlıkla ilerleyeceğiz. Her başlıkta gerçek işyerlerinden örnekler vereceğim ve sizin işyerinize nasıl uyarlayabileceğinizi konuşacağız. Önce yol haritamıza kısaca bir bakalım.",
+    "İlk olarak, düzensizliğin neden bu kadar önemli olduğunu konuşacağız. Bir dağınıklığın nasıl kazaya, yangına, hatta hastalığa dönüşebildiğini göreceğiz.",
+    "Sonra geçiş yollarına ve acil çıkışlara odaklanacağız. Bunların önünün neden her zaman açık kalması gerektiğini örneklerle anlatacağım.",
+    "Üçüncü bölümde temizliği ele alacağız: yere dökülen sıvılar, temizlik kimyasallarının güvenli kullanımı ve atıkların ayrılması.",
+    "Son olarak da düzeni kalıcı hâle getirmenin yolunu, yani 5S yöntemini ve her gün uygulayabileceğiniz basit alışkanlıkları konuşacağız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1566699270403-3f7e3f340664?w=2400",
+   "kicker": "Neden önemli?",
+   "title": "Düzensizlik sessizce risk biriktirir",
+   "bullets": [
+    "Takılma, kayma ve düşme",
+    "Yangının büyümesi, müdahalenin gecikmesi",
+    "Acil durumda tahliyenin engellenmesi",
+    "Hijyen sorunları ve bulaşıcı hastalıklar",
+    "Zaman kaybı, stres ve verim düşüşü"
+   ],
+   "steps": [
+    "Dağınık bir işyeri kimseye bir anda zarar vermez. Risk sessizce birikir ve bir gün, en beklenmedik anda kendini gösterir. Peki düzensizlik tam olarak neye yol açar?",
+    "Birincisi ve en yaygını: takılma, kayma ve düşme. Ofislerde, mağazalarda ve depolarda en sık görülen kazalar bunlardır. Yerdeki bir eşya ya da ıslak bir zemin, burkulan bir bilekten kırılan bir kola kadar uzanan sonuçlar doğurabilir.",
+    "İkincisi yangın. Üst üste yığılmış karton, kâğıt ve ambalajlar yangının hızla büyümesine yol açar. Önü kapatılmış bir yangın söndürücüye ulaşmak da değerli saniyeleri kaybettirir.",
+    "Üçüncüsü tahliye. Acil bir durumda herkes aynı anda çıkışa yönelir. Koridorda duran tek bir sandalye bile bu akışı yavaşlatır, insanların birbirini itmesine ve düşmesine neden olabilir.",
+    "Dördüncüsü hijyen. Temizlenmeyen mutfaklar, lavabolar ve ortak kullanılan yüzeyler mikropların yayılması için uygun bir ortam oluşturur.",
+    "Ve son olarak verim. Aradığı belgeyi bulamayan, dağınık masada çalışan biri hem zaman kaybeder hem de daha stresli olur. Yani düzen, sadece güvenlik değil, iş kalitesi meselesidir."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Görev paylaşımı",
+   "title": "Düzen kimin işi?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1743385779431-45d26d9775b1?w=1200",
+     "title": "İşveren",
+     "text": "Düzenli temizliği sağlar, kayıt tutar, acil çıkışları her zaman kullanılabilir tutar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1749214317455-efbdd57df844?w=1200",
+     "title": "Temizlik görevlisi",
+     "text": "Planlı temizliği yapar, uyarı levhası kullanır, kimyasalları kurallara uygun saklar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1560131914-2e469a0e8607?w=1200",
+     "title": "Her çalışan",
+     "text": "Kendi alanını düzenli tutar, dökülmeyi hemen giderir, tehlikeyi bildirir."
+    }
+   ],
+   "steps": [
+    "Sık duyduğum bir cümle var: temizlik, temizlikçinin işidir. Bu doğru mu? Gelin görev paylaşımına birlikte bakalım.",
+    "Mevzuat, işyeri bina ve eklentilerinin düzenli olarak temizlenmesini ve bunun kayıt altına alınmasını işverenin yükümlülüğü olarak sayar. Acil çıkış yollarının ve kapılarının her zaman kullanılabilir durumda tutulması da işverenin görevidir.",
+    "Temizlik görevlileri bu işin uygulayıcısıdır. Planlı temizliği yaparlar, ıslak zemine uyarı levhası koyarlar ve kimyasalları talimatlara uygun kullanıp saklarlar.",
+    "Ama düzeni asıl sürdüren, her gün o ortamda çalışan sizlersiniz. Kendi masanızı ve alanınızı toparlamak, döktüğünüzü hemen gidermek ve gördüğünüz bir tehlikeyi bildirmek her çalışanın görevidir. Kısacası düzen, hepimizin işidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1631249008619-8be5db7b4995?w=2400",
+   "kicker": "Geçiş yolları",
+   "title": "Koridorlar yürümek içindir",
+   "bullets": [
+    "Geçiş yollarına malzeme bırakılmaz",
+    "Koli, sandalye, çanta yolda durmaz",
+    "Kapı önleri ve merdivenler boş kalır"
+   ],
+   "steps": [
+    "Şimdi bu dersin en önemli konularından birine geldik: geçiş yolları. Koridorlar, merdivenler, raf araları ve kapı önleri. Bunlar insanların güvenle yürüyebilmesi için vardır; depolama alanı değildir.",
+    "Geçiş yoluna bırakılan malzemenin en olası sonucu nedir? Cevap net: takılma ve düşme. Ve daha da önemlisi, acil bir durumda tahliyenin engellenmesi. Yani o koli, bir gün birinin dışarı çıkmasını geciktirebilir.",
+    "Gelen bir koli, toplantıdan kalan bir sandalye, yere bırakılan bir çanta. Hepsi küçük görünür ama yürüyen biri için, özellikle elinde bir şey taşırken ya da telefona bakarken, tam bir tuzaktır.",
+    "Kapı önleri ve merdivenler de her zaman boş olmalıdır. Merdiven basamağına konan bir dosya yığını, inen biri için çok ciddi bir düşme riski yaratır. Aynı kural raf araları ve mağazalardaki reyon geçişleri için de geçerlidir; müşterinin ya da çalışanın yürüdüğü her yol açık kalmalıdır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru mu, yanlış mı?",
+   "title": "Gelen koliler nereye?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1709804945989-c8be542e04db?w=1200",
+     "ok": false,
+     "title": "Koridora istiflemek",
+     "text": "Kısa süreliğine bile olsa yolu daraltır, takılmaya ve tahliyenin gecikmesine yol açar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1644079446600-219068676743?w=1200",
+     "ok": true,
+     "title": "Belirli depolama alanına",
+     "text": "Koliler hemen ayrılmış alana kaldırılır, boşalan ambalaj aynı gün atılır."
+    }
+   ],
+   "steps": [
+    "Bir örnekle pekiştirelim. Ofisinize kargo geldi; on tane koli var ve depo biraz uzakta. Ne yaparsınız?",
+    "Yanlış olan, kolileri şimdilik diyerek koridora istiflemektir. O şimdilik, çoğu zaman günlerce sürer. Koridor daralır, birileri takılır ve acil bir durumda o yol kullanılamaz hâle gelir.",
+    "Doğrusu ise kolileri hemen bunun için ayrılmış depolama alanına kaldırmak. Açılan kolilerin boş ambalajlarını da aynı gün katlayıp atık alanına götürmek. Kısa bir zahmet, büyük bir risk azalması demektir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1743698296692-60a3867ef2b4?w=2400",
+   "kicker": "Acil çıkışlar",
+   "title": "Acil çıkışın önü daima açık",
+   "bullets": [
+    "Her zaman açık ve engelsiz tutulur",
+    "Kilitli ya da bağlı olmaz",
+    "Önünde ve arkasında hiçbir engel olmaz"
+   ],
+   "steps": [
+    "Sıra geldi acil çıkışlara. Bu konuda pazarlık yok. Acil çıkış kapıları ve yolları, her zaman açık ve engelsiz tutulmalıdır. Mesai içinde de, mesai dışında da.",
+    "Mevzuat bu konuda çok açıktır. Acil çıkış kapıları kilitli ya da bağlı olmaz; içeriden kolayca ve hemen açılabilir olmalıdır. Yani mesai dışında kilitli tutmak da çözüm değildir; içeride kalan biri olabileceğini unutmayın.",
+    "Çıkışın önünde ya da arkasında, çıkışı önleyecek hiçbir engel bulunmaz. Geçici depolama için bile kullanılamaz. Ve şunu da bilin: sadece işaretlenmiş olması yetmez. Levha ne kadar parlak olursa olsun, kapının önü doluysa o çıkış işe yaramaz.",
+    "Ayrıca acil çıkış kapıları dışarıya doğru açılır; sürgülü ya da döner kapılar acil çıkış olarak kullanılmaz. İşyerinizdeki acil çıkışın yerini, oraya giden yolu bugün bir kez kontrol etmenizi öneririm."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Önü kapatılmaz",
+   "title": "Bu noktalar her zaman ulaşılabilir olmalı",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1731983587570-99567f02f910?w=1200",
+     "tag": "Tahliye",
+     "title": "Acil çıkış ve yolları",
+     "text": "Kapı, koridor ve merdiven hattı boş kalır; levhalar görünür olur."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1775893748979-a985524cfbaf?w=1200",
+     "tag": "Yangın",
+     "title": "Söndürücü ve dolaplar",
+     "text": "Önüne masa, koli ya da dolap konmaz; ilk saniyede ulaşılabilir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1576446470246-499c738d1c8e?w=1200",
+     "tag": "Elektrik",
+     "title": "Elektrik panosu",
+     "text": "Önü boş ve kapağı kapalı tutulur; üstüne ya da önüne malzeme yığılmaz."
+    }
+   ],
+   "steps": [
+    "Acil çıkışlar dışında da önü asla kapatılmaması gereken yerler var. Üç tanesini özellikle hatırlatmak istiyorum.",
+    "Birincisi acil çıkışlar ve oraya giden yollar. Sadece kapı değil; kapıya ulaşan koridor ve merdiven hattı da boş olmalı. Yönlendirme levhaları da bir rafın ya da afişin arkasında kalmamalı.",
+    "İkincisi yangın söndürücüler ve yangın dolapları. Yangın ilk saniyelerde küçüktür ve söndürülebilir. Ama söndürücünün önünde bir dolap varsa, o saniyeler kaybedilir.",
+    "Üçüncüsü elektrik panoları. Bir arıza ya da yangın anında panoya hızla ulaşıp elektriği kesmek gerekebilir. Bu yüzden panonun önü boş, kapağı kapalı olmalı; pano odaları asla depo gibi kullanılmamalıdır. Pano kapağının açık bırakılması ya da üzerine nem kaynağı olabilecek bir şey konması da ayrı bir elektrik tehlikesidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1672552226380-486fe900b322?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Mağaza deposunda sezon telaşı",
+   "bullets": [
+    "Koliler acil çıkış kapısının önüne yığıldı",
+    "Tatbikatta çıkış kullanılamadı",
+    "Çözüm: ayrılmış alan ve günlük kontrol"
+   ],
+   "steps": [
+    "Şimdi gerçek hayattan bir örnek olay. Bir giyim mağazası düşünün. Sezon başında yoğun mal girişi oluyor ve depo dolu. Personel, gelen kolileri geçici olarak arka taraftaki acil çıkış kapısının önüne yığıyor.",
+    "Birkaç gün sonra işyerinde bir tahliye tatbikatı yapılıyor. Arka bölümdeki çalışanlar en yakın çıkışa yöneliyor ama kapının önü kolilerle kapalı. Herkes geri dönüp mağazanın ön kapısına yürümek zorunda kalıyor.",
+    "Bu bir tatbikattı ve kimse zarar görmedi. Ama gerçek bir yangında, dumanla dolan bir depoda geri dönmek zorunda kalmak, hayati bir gecikme olabilirdi.",
+    "Peki ne yapılmalıydı? Sezon yoğunluğu önceden planlanıp kolilere ayrı bir alan ayrılmalıydı. Mağaza açılış ve kapanışında acil çıkışların önü kontrol edilmeli, sorun görülürse hemen giderilmeliydi."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1725550364000-a0df5b5abac4?w=2400",
+   "kicker": "Zemin",
+   "title": "Ayağınızın altındaki tehlikeler",
+   "bullets": [
+    "Kablolar duvar kenarından ya da kablo kanalından geçer",
+    "Çekmece ve dolap kapakları açık bırakılmaz",
+    "Kalkmış halı, kırık fayans hemen bildirilir",
+    "Merdivenlerde eşya bırakılmaz, tutunarak inilir"
+   ],
+   "steps": [
+    "Zeminlere biraz daha yakından bakalım. Mevzuata göre taban döşemeleri düz, kaymaz ve seviye farkı olmayacak şekilde olmalıdır. Ama zemini güvenli tutmak, bizim günlük davranışlarımıza da bağlıdır.",
+    "Ofislerde en sık karşılaştığım tehlike kablolar. Masanın altından koridora uzanan bir şarj kablosu ya da uzatma kablosu, takılıp düşmek için yeterlidir. Kablolar duvar kenarından ya da kablo kanalından geçirilmeli, yürüme yolunu kesmemelidir.",
+    "Açık bırakılan alt çekmeceler ve dolap kapakları da dikkatsiz bir anda takılmaya ya da çarpmaya neden olur. Kullandıktan sonra kapatmayı alışkanlık hâline getirin.",
+    "Kenarı kalkmış bir halı, kırılmış bir fayans ya da yerinden oynamış bir eşik gördüğünüzde bunu yöneticinize bildirin. Siz alışmış olabilirsiniz; ama yeni gelen biri ya da bir ziyaretçi o noktayı bilmez.",
+    "Merdivenler ise ayrı bir dikkat ister. Basamaklara eşya bırakmayın, tırabzana tutunarak inin ve merdivende telefonla ilgilenmeyin."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1637665637343-d497d345ed2f?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar neler öğrendik?",
+   "bullets": [
+    "Düzensizlik; düşme, yangın ve tahliye riskini artırır",
+    "Geçiş yollarına malzeme bırakılmaz",
+    "Acil çıkışlar her zaman açık ve engelsiz tutulur",
+    "Söndürücü ve pano önleri boş kalır"
+   ],
+   "steps": [
+    "Burada kısa bir mola verip buraya kadar öğrendiklerimizi toparlayalım. Bu maddeler, dersin sonundaki sorular için de önemli.",
+    "Düzensizlik sessizce risk biriktirir. Takılma, kayma ve düşme kazalarının yanında yangının büyümesine ve tahliyenin gecikmesine de yol açar.",
+    "Geçiş yolları yürümek içindir. Koridorlara, kapı önlerine ve merdivenlere malzeme bırakılmaz. Çünkü bunun en olası sonucu takılma, düşme ve acil durumda tahliyenin engellenmesidir.",
+    "Acil çıkış kapılarının önü her zaman açık ve engelsiz tutulur. Geçici depolama yapılmaz, mesai dışında kilitlenmez ve sadece işaretlemek yeterli değildir.",
+    "Yangın söndürücülerin, yangın dolaplarının ve elektrik panolarının önü de her zaman boş kalır. Şimdi temizlik konusuna geçiyoruz."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1628870571159-82001646505b?w=2400",
+   "kicker": "Dökülmeler",
+   "value": "Hemen",
+   "title": "Yere dökülen sıvı fark edildiği anda alan işaretlenir ve temizlenir",
+   "text": "Görmezden gelmek, üzerine karton koyup bırakmak ya da mesai bitimini beklemek kazaya davetiye çıkarır",
+   "steps": [
+    "Yere dökülen sıvı fark edildiğinde ilk yapılması gereken nedir? Bu sorunun tek bir doğru cevabı var: hemen harekete geçmek. Alanı bir uyarıyla işaretlemek ve hemen temizlemek ya da temizlenmesini sağlamak.",
+    "Peki yanlış olanlar neler? Görmezden gelmek, ben dökmedim demek, üzerine bir karton koyup bırakmak ya da temizliği mesai bitimine ertelemek. Karton bir süre sonra kayar ya da ıslanıp kendisi kaygan hâle gelir. Bekleyen her dakika, birinin o noktadan geçme ihtimalidir.",
+    "Unutmayın; ıslak zemin kazaları çoğu zaman saniyeler içinde olur ve çoğu zaman da tamamen önlenebilir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Adım adım",
+   "title": "Bir dökülme gördüğünüzde",
+   "items": [
+    {
+     "title": "Dur ve fark et",
+     "text": "Ne döküldüğüne bakın: su mu, yağ mı, kimyasal mı?"
+    },
+    {
+     "title": "İşaretle",
+     "text": "Islak zemin levhası koyun ya da başında durup uyarın"
+    },
+    {
+     "title": "Temizle veya bildir",
+     "text": "Kendiniz silin ya da sorumluya hemen haber verin"
+    },
+    {
+     "title": "Kurula ve kontrol et",
+     "text": "Zemin tamamen kuruyana kadar uyarı kalsın"
+    }
+   ],
+   "steps": [
+    "Bunu dört basit adıma dönüştürelim. Ofiste, mağazada ya da mutfakta fark etmez; bir dökülme gördüğünüzde bu sırayı izleyin.",
+    "Önce durun ve ne döküldüğüne bakın. Su ya da çay mı, yağlı bir sıvı mı, yoksa bir temizlik kimyasalı mı? Kimyasal ise çıplak elle dokunmayın; ürünün talimatına uygun temizlenmesini sağlayın.",
+    "Sonra alanı işaretleyin. Yakında bir ıslak zemin levhası varsa hemen koyun. Yoksa, biri gelene kadar başında durup gelenleri uyarın.",
+    "Üçüncü adım: temizleyin ya da bildirin. Küçük bir dökülmeyi kendiniz güvenle silebilirsiniz. Büyük bir dökülmede veya kimyasalda ise temizlik görevlisine ya da yöneticinize hemen haber verin.",
+    "Son adım: zemin tamamen kuruyana kadar uyarı levhası yerinde kalsın. Silinmiş ama hâlâ nemli bir zemin de kaygandır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1764584503115-3fca2f40700a?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Kafede yoğun bir sabah",
+   "bullets": [
+    "Tezgâh arkasına süt döküldü",
+    "Üzerine peçete konup bırakıldı",
+    "Bir çalışan kayarak düştü"
+   ],
+   "steps": [
+    "İkinci örnek olayımız bir kafeden. Sabahın en yoğun saati. Bir barista, tezgâhın arkasında süt kabını devirdi. Sipariş kuyruğu uzun olduğu için yere birkaç peçete atıp işine devam etti.",
+    "Birkaç dakika sonra, elinde tepsiyle hızlıca gelen bir çalışma arkadaşı ıslanmış peçetelerin üzerine bastı, kaydı ve düştü. Eli ve dizi yaralandı, birkaç gün işe gelemedi.",
+    "Burada kimse kötü niyetli değildi. Sadece yoğunluk, temizliği erteletti. Ama peçete bir çözüm değildi; tam tersine zemini daha da kaygan hâle getirdi.",
+    "Ne yapılmalıydı? Barista dökülmeyi yüksek sesle haber verip alanı işaretlemeli, tezgâh arkasında hazır duran paspasla hemen silmeliydi. Bu otuz saniyelik işti; kuyruk otuz saniye bekleyebilirdi."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru mu, yanlış mı?",
+   "title": "Dökülme karşısında iki tavır",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1578651714116-2a1645b70c0f?w=1200",
+     "ok": false,
+     "title": "Sonra bakarım",
+     "text": "Üzerine karton ya da peçete koyup bırakmak, mesai bitimini beklemek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1773526927906-e4f46086afb4?w=1200",
+     "ok": true,
+     "title": "İşaretle ve temizle",
+     "text": "Uyarı levhasını koymak, hemen silmek ve zemin kuruyana kadar levhayı bırakmak."
+    }
+   ],
+   "steps": [
+    "Bu olaydan çıkan dersi, aynı durum karşısında gösterilebilecek iki farklı tavırla özetleyelim. Hangisinin size daha tanıdık geldiğini düşünün.",
+    "Yanlış tavır: sonra bakarım demek. Üzerine karton ya da peçete koyup bırakmak, birinin nasılsa sileceğini düşünmek ya da mesai bitimini beklemek. Bu tavır, kazayı sadece ertelemekle kalmaz, davet eder.",
+    "Doğru tavır: alanı uyarı levhasıyla işaretlemek, hemen silmek ya da sildirmek ve zemin tamamen kuruyana kadar levhayı yerinde bırakmak. İşyerinizde paspas ve uyarı levhasının nerede durduğunu biliyor musunuz? Bilmiyorsanız bugün öğrenin."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?w=2400",
+   "kicker": "Temizlik kimyasalları",
+   "title": "Temizlerken zarar görmeyin",
+   "bullets": [
+    "Orijinal, etiketli kabında saklanır",
+    "Kimyasallar asla birbirine karıştırılmaz",
+    "Eldiven kullanılır, ortam havalandırılır",
+    "Su ya da içecek şişesine aktarılmaz",
+    "Gıdadan uzakta, kapalı dolapta durur"
+   ],
+   "steps": [
+    "Temizlik, sağlığımızı korumak için yapılır. Ama temizlik ürünleri yanlış kullanıldığında kendileri tehlike kaynağı olabilir. Az tehlikeli işyerlerinde en sık karşılaştığımız kimyasallar tam da bunlardır.",
+    "İlk kural: kimyasal her zaman orijinal ve etiketli kabında saklanır. Etiket, ürünün ne olduğunu, tehlikelerini ve nasıl kullanılacağını gösterir. Etiketi silinmiş bir kap, içinde ne olduğu bilinmeyen bir kaptır.",
+    "İkinci kural çok önemli: temizlik ürünlerini asla birbirine karıştırmayın. Örneğin çamaşır suyunu tuz ruhu ya da amonyaklı ürünlerle karıştırmak, solunduğunda ciddi zarar veren zehirli gazlar açığa çıkarır. Daha iyi temizler diye ürün karıştırmak çok tehlikelidir.",
+    "Üçüncüsü: ürünün talimatı gerektiriyorsa eldiven kullanın ve ortamı havalandırın. Özellikle küçük, penceresiz tuvaletlerde ve mutfaklarda bu daha da önemlidir.",
+    "Dördüncüsü: kimyasalı asla su ya da meşrubat şişesine aktarmayın. Bu, birinin yanlışlıkla içmesine yol açabilecek kadar ciddi bir hatadır.",
+    "Ve son olarak: kimyasallar yiyecek ve içeceklerden uzakta, kapalı bir dolapta saklanır. Ürünlerin güvenlik bilgi formları da işyerinde ulaşılabilir olmalıdır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1779345169505-be7319f62b97?w=2400",
+   "kicker": "Planlı temizlik",
+   "title": "Temizlik ne zaman ve nasıl yapılmalı?",
+   "bullets": [
+    "Islak temizlik yoğun olmayan saatlerde",
+    "Yolun bir yarısı silinir, diğeri açık kalır",
+    "Temizlik planlanır ve kayıt altına alınır"
+   ],
+   "steps": [
+    "Temizliğin kendisi de doğru planlanmazsa risk yaratabilir. Islak bir koridor, temizlik sırasında da kaymaya neden olur. Peki temizlik nasıl güvenli yapılır?",
+    "Islak temizlik mümkünse işyerinin en yoğun olmadığı saatlerde yapılır: mesai başlamadan önce, öğle arası dışında ya da mesai bittikten sonra. Mağaza ve kafelerde bu, müşterinin en az olduğu saatler demektir.",
+    "Bir koridoru gün içinde silmek gerekiyorsa tamamını aynı anda ıslatmak yerine bir yarısı silinir, diğer yarısı yürümek için açık bırakılır. Islak taraf, kuruyana kadar levhayla işaretlenir.",
+    "Mevzuat, işverenin bina ve eklentilerinin düzenli temizliğini yaptırmasını ve gerekli kayıtları tutmasını ister. Tuvaletlerin kapısında gördüğünüz temizlik çizelgeleri bu kaydın en bilinen örneğidir. Çizelgede imza var ama ortam kirliyse, bunu da bildirmekten çekinmeyin."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Atıklar",
+   "title": "Doğru atık, doğru kutuya",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=1200",
+     "tag": "Geri dönüşüm",
+     "title": "Kâğıt, karton, ambalaj",
+     "text": "Ayrı kutularda toplanır; kartonlar katlanır, yığın hâlinde bekletilmez."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1508935620299-047e0e35fbe3?w=1200",
+     "tag": "Kesici",
+     "title": "Kırık cam ve kesiciler",
+     "text": "Çöp poşetine atılmaz; sağlam bir kutuya konup üzeri işaretlenir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1722289016701-7661d52f38c5?w=1200",
+     "tag": "Özel atık",
+     "title": "Pil, toner, elektronik",
+     "text": "Normal çöpe atılmaz; işyerinde belirlenen toplama noktasına bırakılır."
+    }
+   ],
+   "steps": [
+    "Temizliğin bir parçası da atıkları doğru yönetmektir. Atıkları ayırmak hem çevreyi korur hem de işyerindeki riskleri azaltır.",
+    "Kâğıt, karton ve ambalaj atıkları ayrı kutularda toplanmalıdır. Kartonları katlayın ve bir köşede yığın hâlinde bekletmeyin. Unutmayın, karton yığını aynı zamanda bir yangın yüküdür.",
+    "Kırılan bir bardak ya da cam parçası asla doğrudan çöp poşetine atılmaz. Poşeti taşıyan kişinin eli kesilebilir. Parçalar dikkatle süpürülür, sağlam bir kutuya ya da kalın bir kâğıda sarılır ve üzerine kırık cam yazılır.",
+    "Pil, toner kartuşu ve elektronik atıklar da normal çöpe atılmamalıdır. Bunlar için işyerinizde belirlenmiş toplama noktası varsa oraya bırakın; yoksa yöneticinize sorun."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?w=2400",
+   "kicker": "Depolama",
+   "title": "Raflar ve dolaplar düzenli olsun",
+   "bullets": [
+    "Ağır malzeme alt rafa, hafif malzeme üst rafa",
+    "Raf ve dolap taşıma kapasitesi aşılmaz",
+    "Dolap üstlerine eşya yığılmaz",
+    "Yüksek yere uzanmak için sandalye değil, uygun basamak"
+   ],
+   "steps": [
+    "Depolama alanlarına geçelim. Bir arşiv odası, bir mağaza deposu ya da ofisteki bir malzeme dolabı. Hepsinde aynı temel kurallar geçerlidir.",
+    "Ağır malzemeler alt raflara, hafif malzemeler üst raflara konur. Böylece hem rafın devrilme riski azalır hem de ağır bir şeyi baş hizasından indirmek zorunda kalmazsınız.",
+    "Raf ve dolapların taşıyabileceği yükün bir sınırı vardır. Aşırı yüklenen raflar eğilir, kırılabilir ya da devrilebilir. Uzun ve dar dolapların devrilmemesi için duvara sabitlenmiş olması da önemlidir.",
+    "Dolapların üstü depolama yeri değildir. Oraya konan kutular, dolap kapağı açılırken ya da biri bir şey çekerken başınıza düşebilir.",
+    "Yüksekteki bir şeye ulaşmanız gerekiyorsa tekerlekli sandalyeye, koliye ya da masaya çıkmayın. Bunun için uygun, sağlam bir basamak ya da el merdiveni kullanın."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1637665691265-3d653ffd7c77?w=2400",
+   "kicker": "Ortak alanlar",
+   "title": "Mutfak ve dinlenme alanları",
+   "bullets": [
+    "Kullandığını temizle, yerine koy",
+    "Bozulan yiyecek bekletilmez",
+    "Lavabo ve tuvaletler düzenli temizlenir"
+   ],
+   "steps": [
+    "Ortak kullanım alanları, özellikle de mutfaklar, hijyen açısından işyerinin en hassas noktalarıdır. Burada herkesin küçük bir katkısı büyük fark yaratır.",
+    "Kural basit: kullandığını temizle, yerine koy. Lavaboda bırakılan bir fincan, bir süre sonra kirli bulaşık yığınına dönüşür. Tezgâha dökülen çayı hemen silmek, birkaç saniyenizi alır.",
+    "Buzdolabında unutulup bozulan yiyecekler hem koku hem de mikrop kaynağıdır. Ortak buzdolabını düzenli aralıklarla boşaltıp temizlemek için ekipçe bir düzen belirleyebilirsiniz.",
+    "Lavabolar ve tuvaletler de düzenli olarak temizlenmeli, sabun ve kâğıt havlu eksik olmamalıdır. Eksik ya da arızalı bir şey görürseniz, sorumlu kişiye haber verin."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru mu, yanlış mı?",
+   "title": "Gün sonunda masanız",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1566699270403-3f7e3f340664?w=1200",
+     "ok": false,
+     "title": "Dağınık bırakmak",
+     "text": "Kâğıt yığınları, açık çekmeceler, yerdeki çanta ve kablolar, masada yiyecek artıkları."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1606223226350-4cf4cd93a221?w=1200",
+     "ok": true,
+     "title": "Toparlayıp çıkmak",
+     "text": "Belgeler kaldırılır, cihazlar kapatılır, çekmeceler kapanır, zemin boş kalır."
+    }
+   ],
+   "steps": [
+    "Şimdi kendi masanıza, tezgâhınıza ya da çalışma alanınıza bir bakalım. Mesai bittiğinde orayı nasıl bırakıyorsunuz?",
+    "Yanlış örnek: kâğıt yığınları, açık çekmeceler, yerde duran çanta ve kablolar, masada kalmış yiyecek artıkları. Ertesi sabah hem siz hem de temizlik görevlisi bu dağınıklıkla uğraşır; üstelik gizli belgeler de ortada kalmış olur.",
+    "Doğru örnek: belgeleri yerine kaldırmak, gereksiz cihazları ve ısıtıcıları kapatmak, çekmeceleri kapatmak ve masanın çevresindeki zemini boş bırakmak. Buna temiz masa alışkanlığı diyoruz. Gün sonunda ayıracağınız beş dakika, ertesi gün size çok şey kazandırır."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1758640920659-0bb864175983?w=2400",
+   "kicker": "Küçük alışkanlık",
+   "value": "5 dakika",
+   "title": "Gün sonunda ayrılan birkaç dakikalık toparlama, ertesi günün kazasını önleyebilir",
+   "text": "Masanızı, tezgâhınızı ve çevrenizdeki zemini her gün kısa bir kontrolle toparlamayı alışkanlık hâline getirin",
+   "steps": [
+    "Büyük temizlik günleri güzeldir ama düzeni asıl koruyan, her gün tekrarlanan küçük alışkanlıklardır. Gün sonunda ayıracağınız birkaç dakika, bunun için çoğu zaman yeterlidir.",
+    "Bu birkaç dakikada neler yapabilirsiniz? Masanızı toparlayın, kullanmadığınız cihazları kapatın, yerdeki kabloları ve çantaları kaldırın, boşalan kolileri atık alanına götürün. Mağazada çalışıyorsanız raf aralarını ve reyon önlerini, kafede çalışıyorsanız tezgâh arkasını ve zemini kontrol edin.",
+    "Bunu bir ekip alışkanlığına dönüştürürseniz etkisi katlanır. Kimse başkasının dağınıklığını toplamak zorunda kalmaz; ertesi sabah herkes güvenli ve düzenli bir işyerine gelir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Kalıcı düzen",
+   "title": "5S: Düzeni alışkanlığa çevirmek",
+   "items": [
+    {
+     "title": "Ayıkla",
+     "text": "Gerekli olanı tut, gereksizi çıkar"
+    },
+    {
+     "title": "Düzenle",
+     "text": "Her şeyin bir yeri olsun, her şey yerinde olsun"
+    },
+    {
+     "title": "Temizle",
+     "text": "Alanı temizlerken arızaları da fark et"
+    },
+    {
+     "title": "Standartlaştır",
+     "text": "Kuralları yaz, etiketle, görünür kıl"
+    },
+    {
+     "title": "Sürdür",
+     "text": "Düzenli kontrol et, alışkanlık hâline getir"
+    }
+   ],
+   "steps": [
+    "Düzeni bir kerelik büyük temizlikle değil, kalıcı alışkanlıklarla sağlarız. Bunun için dünyada çok yaygın kullanılan bir yöntem var: 5S. Adını Japonca beş kelimenin baş harflerinden alır. Türkçesiyle anlatayım.",
+    "Birinci adım: ayıkla. Çalışma alanınızdaki her şeye bakın. Gerçekten ihtiyacınız olanı tutun; kullanılmayan, bozuk ya da fazla olanı çıkarın. Bir yıldır dokunmadığınız o kutu, gerçekten orada mı durmalı?",
+    "İkinci adım: düzenle. Her şeyin belirli bir yeri olsun ve her şey yerinde olsun. Sık kullandıklarınızı elinizin altına, az kullandıklarınızı uzağa koyun. Etiketli kutular ve raf işaretleri, her şeyin yerini herkesin bilmesini sağlar.",
+    "Üçüncü adım: temizle. Temizlik aynı zamanda bir kontroldür. Silerken sızıntı yapan bir musluğu, gevşemiş bir rafı ya da yıpranmış bir kabloyu fark edersiniz.",
+    "Dördüncü adım: standartlaştır. Kuralları yazılı hâle getirin; rafları, dolapları ve kutuları etiketleyin. Böylece yeni gelen biri de neyin nereye konacağını bilir.",
+    "Beşinci adım: sürdür. Kısa ve düzenli kontrollerle bu alışkanlığı canlı tutun. 5S'nin en zor adımı budur, ama düzeni kalıcı yapan da budur."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1650094980833-7373de26feb6?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Fotokopi odasındaki karton yığını",
+   "bullets": [
+    "Kâğıt ve kartonlar ısıtıcının yanına yığıldı",
+    "Bir öğleden sonra duman yükseldi",
+    "Çözüm: atık düzeni ve ısıtıcıdan uzak depolama"
+   ],
+   "steps": [
+    "Üçüncü örnek olayımız bir okulun idari bürosundan. Fotokopi odasında boş kâğıt kolileri ve kartonlar haftalardır birikiyordu. Kış olduğu için odaya küçük bir elektrikli ısıtıcı da konmuştu.",
+    "Bir öğleden sonra, yere yığılan kartonlardan biri ısıtıcıya fazla yaklaştı ve duman yükselmeye başladı. Neyse ki bir çalışan durumu hemen fark etti, ısıtıcının fişini çekti ve kartonları uzaklaştırdı.",
+    "Bu olay bir kazaya dönüşmedi; ama dönüşebilirdi. Ve bunun gibi olaylar, bir sonraki derste konuşacağımız ramak kala olaylarına çok iyi bir örnektir.",
+    "Ne yapılmalıydı? Boş koliler düzenli olarak atık alanına götürülmeli, kâğıt ve karton ısı kaynaklarından uzakta tutulmalı, ısıtıcı da çevresi boş bir yere konmalıydı. Olaydan sonra okulda bir atık toplama düzeni kuruldu."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1754548930574-6a995e5eb5a7?w=2400",
+   "kicker": "Sizin işyeriniz",
+   "title": "İşyerinizde bunu nasıl görürsünüz?",
+   "bullets": [
+    "Koridorlarda ve merdivenlerde yolu kesen bir şey var mı?",
+    "Acil çıkışın önü şu an açık mı?",
+    "Söndürücüye ve panoya hemen ulaşılabiliyor mu?",
+    "Kimyasallar etiketli ve kapalı dolapta mı?",
+    "Dökülme olunca paspas ve levha nerede?"
+   ],
+   "steps": [
+    "Şimdi sizden küçük bir şey isteyeceğim. Bu dersi bitirdikten sonra işyerinizde beş dakikalık bir tur atın ve kendinize şu soruları sorun.",
+    "Koridorlarda, merdivenlerde ve kapı önlerinde yolu kesen, takılabileceğiniz bir şey var mı? Kablolar, koliler, sandalyeler?",
+    "En yakın acil çıkış nerede? Şu an önü gerçekten açık mı ve kapı kolayca açılıyor mu?",
+    "Yangın söndürücüye ve elektrik panosuna hemen ulaşabiliyor musunuz, yoksa önlerinde bir dolap, koli ya da masa mı var?",
+    "Temizlik kimyasalları orijinal, etiketli kaplarında ve kapalı bir dolapta mı duruyor? Yiyeceklerin yanında olmadıklarından emin misiniz?",
+    "Ve son olarak: bir şey döküldüğünde paspas ve ıslak zemin levhası nerede, biliyor musunuz? Bu soruların herhangi birine olumsuz cevap verdiyseniz, ilk adımı atmak için doğru zaman şimdi."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1761558794306-466448dab4bc?w=2400",
+   "kicker": "Bildirim",
+   "value": "Bildirin",
+   "title": "Kendiniz gideremediğiniz bir düzensizliği yöneticinize veya İSG sorumlusuna bildirin",
+   "text": "Kilitli bir acil çıkış, kırık bir fayans ya da bozuk bir aydınlatma: bildirmek hem hakkınız hem görevinizdir",
+   "steps": [
+    "Her sorunu tek başınıza çözemezsiniz; bu normaldir. Kırık bir fayansı değiştirmek, bozuk bir lambayı onarmak ya da depo düzenini baştan kurmak sizin görevinizin dışında olabilir.",
+    "Ama böyle bir durumu fark ettiğinizde bildirmek hem hakkınız hem de görevinizdir. Yöneticinize, iş güvenliği uzmanına ya da çalışan temsilcisine haber verin. Özellikle kilitli ya da önü kapalı bir acil çıkış gördüğünüzde bunu beklemeden iletin.",
+    "Bir tehlikeyi bildirdiğiniz için şikâyetçi damgası yemekten çekinmeyin. Siz bildirmezseniz, o tehlike bir gün sizin ya da bir arkadaşınızın başına iş açabilir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1631193816258-28b44b21e78b?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Geçiş yollarına malzeme bırakılmaz: takılma ve tahliye riski",
+    "Dökülen sıvı: hemen işaretle ve temizle",
+    "Acil çıkışlar her zaman açık ve engelsiz",
+    "Kimyasallar etiketli kabında, asla karıştırılmaz",
+    "5S ile düzen alışkanlığa dönüşür"
+   ],
+   "steps": [
+    "Dersimizin sonuna geldik. Bugün konuştuğumuz en önemli noktaları son bir kez birlikte toparlayalım ve aklınızda kalmasını sağlayalım.",
+    "Geçiş yollarına, koridorlara ve merdivenlere malzeme bırakılmaz. Bunun en olası sonucu takılma, düşme ve acil durumda tahliyenin engellenmesidir.",
+    "Yere dökülen bir sıvıyı fark ettiğinizde ilk iş, alanı uyarıyla işaretleyip hemen temizlemek ya da temizlenmesini sağlamaktır. Üzerine karton koymak ya da mesai bitimini beklemek çözüm değildir.",
+    "Acil çıkış kapılarının önü her zaman açık ve engelsiz tutulur. Geçici depolama yapılmaz, mesai dışında kilitlenmez ve sadece işaretlenmesi yeterli değildir.",
+    "Temizlik kimyasalları orijinal, etiketli kaplarında ve gıdadan uzakta saklanır; asla birbirine karıştırılmaz ve içecek şişelerine aktarılmaz.",
+    "Ve düzeni kalıcı kılmak için 5S adımlarını hatırlayın: ayıkla, düzenle, temizle, standartlaştır, sürdür. Dersin sonunda birkaç kısa soru sizi bekliyor. Bir sonraki derste görüşmek üzere."
+   ]
+  }
+ ]
+}

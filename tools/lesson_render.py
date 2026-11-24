@@ -7,7 +7,7 @@ Fotoğraflar yavaş yakınlaşır (Ken Burns); sahne geçişlerinde yumuşak kar
 Ses: Google Chirp 3 HD (markup + [pause] ile doğal duraklama), kısaltmalar kelime gibi okunur (job 'say' ile genişletilebilir).
 Kullanım: python3 tools/lesson_render.py lessons/x.json  → out/lessons/<code>.mp4 (+ .json süre bilgisi)"""
 import base64, json, os, re, subprocess, sys, tempfile, urllib.request
-from PIL import Image, ImageDraw, ImageFilter, ImageFont
+from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageFont
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "tools"))
@@ -51,7 +51,7 @@ def fetch(url, tmp, name):
             req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"})
             open(p, "wb").write(urllib.request.urlopen(req, timeout=60).read())
         except Exception as e:
-            if not os.environ.get("LESSON_PREVIEW"): raise
+            print("UYARI fotoğraf alınamadı:", u, e, flush=True)
             ph = Image.new("RGB", (1600, 1000), (120, 132, 150)); dd = ImageDraw.Draw(ph)
             for i in range(0, 1600, 80): dd.line([(i, 0), (i - 400, 1000)], fill=(135, 147, 165), width=30)
             ph.save(p, "JPEG")
@@ -122,7 +122,6 @@ def scene_split(sc, job, tmp):
     frames = []; photo_w = 860 if sc.get("photo") else 0
     for k in range(len(sc["steps"])):
         im = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
-        d.rectangle([0, 0, W - photo_w, H], fill=IVORY + (255,))
         if photo_w: d.rectangle([W - photo_w - 8, 0, W - photo_w, H], fill=ORANGE)
         kicker(d, 110, 120, sc.get("kicker", job.get("title", "")))
         y = draw_title(d, 110, 168, sc["title"], W - photo_w - 220, 66)
@@ -141,7 +140,7 @@ def scene_split(sc, job, tmp):
 def scene_stats(sc, job, tmp):
     frames = []; items = sc["items"][:4]; n = len(items); gap = 40; cw = (W - 220 - gap * (n - 1)) // n
     for k in range(len(sc["steps"])):
-        im = Image.new("RGBA", (W, H), IVORY + (255,)); d = ImageDraw.Draw(im)
+        im = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
         kicker(d, 110, 120, sc.get("kicker", job.get("title", ""))); draw_title(d, 110, 168, sc["title"], W - 220, 64, NAVY, 1)
         for i, it in enumerate(items):
             if i > k - 1 and k > 0: break
@@ -152,7 +151,7 @@ def scene_stats(sc, job, tmp):
             d.text((x + cw // 2, 650), it.get("unit", ""), font=font("head", 40), fill=ORANGE, anchor="mm")
             for j, ln in enumerate(wrap(d, it.get("label", ""), font("body", 30), cw - 60)[:2]): d.text((x + cw // 2, 712 + j * 40), ln, font=font("body", 30), fill=MUTED, anchor="mm")
         if k == 0:  # giriş adımı: tüm öğeler soluk görünür, konuşmayla sırayla vurgulanır
-            veil = Image.new("RGBA", (W, 1000 - 280), IVORY + (150,)); im.alpha_composite(veil, (0, 280))
+            a = im.getchannel("A").point(lambda v: v * 0.38); im.putalpha(a)
         brand_bar(im, job); frames.append(im)
     return frames
 
@@ -160,7 +159,7 @@ def scene_cards(sc, job, tmp):
     frames = []; items = sc["items"][:3]; n = len(items); gap = 44; cw = (W - 220 - gap * (n - 1)) // n
     photos = [cover_crop(Image.open(fetch(it["photo"], tmp, f"c_{abs(hash(it['photo']))}.jpg")).convert("RGB"), cw, 400) for it in items]
     for k in range(len(sc["steps"])):
-        im = Image.new("RGBA", (W, H), IVORY + (255,)); d = ImageDraw.Draw(im)
+        im = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
         kicker(d, 110, 110, sc.get("kicker", job.get("title", ""))); draw_title(d, 110, 158, sc["title"], W - 220, 60, NAVY, 1)
         for i, it in enumerate(items):
             if i > k - 1 and k > 0: break
@@ -173,7 +172,7 @@ def scene_cards(sc, job, tmp):
             d.text((x + 34, 728), it["title"], font=font("head", 40), fill=NAVY)
             for j, ln in enumerate(wrap(d, it.get("text", ""), font("body", 28), cw - 68)[:4]): d.text((x + 34, 786 + j * 36), ln, font=font("body", 28), fill=INK)
         if k == 0:  # giriş adımı: tüm öğeler soluk görünür, konuşmayla sırayla vurgulanır
-            veil = Image.new("RGBA", (W, 1000 - 280), IVORY + (150,)); im.alpha_composite(veil, (0, 280))
+            a = im.getchannel("A").point(lambda v: v * 0.38); im.putalpha(a)
         brand_bar(im, job); frames.append(im)
     return frames
 
@@ -184,7 +183,7 @@ def scene_roles(sc, job, tmp):
         p = cover_crop(Image.open(fetch(it["photo"], tmp, f"r_{abs(hash(it['photo']))}.jpg")).convert("RGB"), 300, 300)
         m = Image.new("L", (300, 300), 0); ImageDraw.Draw(m).ellipse([0, 0, 299, 299], fill=255); p = p.convert("RGBA"); p.putalpha(m); photos.append(p)
     for k in range(len(sc["steps"])):
-        im = Image.new("RGBA", (W, H), IVORY + (255,)); d = ImageDraw.Draw(im)
+        im = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
         kicker(d, 110, 110, sc.get("kicker", job.get("title", ""))); draw_title(d, 110, 158, sc["title"], W - 220, 60, NAVY, 1)
         for i, it in enumerate(items):
             if i > k - 1 and k > 0: break
@@ -193,7 +192,7 @@ def scene_roles(sc, job, tmp):
             d.text((cx, 660), it["title"], font=font("head", 44), fill=NAVY, anchor="mm")
             for j, ln in enumerate(wrap(d, it.get("text", ""), font("body", 29), cw - 80)[:4]): d.text((cx, 720 + j * 38), ln, font=font("body", 29), fill=INK, anchor="mm")
         if k == 0:  # giriş adımı: tüm öğeler soluk görünür, konuşmayla sırayla vurgulanır
-            veil = Image.new("RGBA", (W, 1000 - 280), IVORY + (150,)); im.alpha_composite(veil, (0, 280))
+            a = im.getchannel("A").point(lambda v: v * 0.38); im.putalpha(a)
         brand_bar(im, job); frames.append(im)
     return frames
 
@@ -211,7 +210,92 @@ def scene_check(sc, job, tmp):
         brand_bar(im, job, dark=True); frames.append(im)
     return frames
 
-SCENES = {"cover": scene_cover, "split": scene_split, "stats": scene_stats, "cards": scene_cards, "roles": scene_roles, "check": scene_check}
+def scene_photo(sc, job, tmp):
+    """Tam ekran fotoğraf + alt bilgi kartı; maddeler konuşmayla açılır."""
+    frames = []
+    for k in range(len(sc["steps"])):
+        im = Image.new("RGBA", (W, H), (0, 0, 0, 0)); g = Image.new("L", (1, H))
+        for y in range(H): g.putpixel((0, y), int(225 * max(0.0, (y - H * 0.35) / (H * 0.65)) ** 1.3))
+        grad = Image.new("RGBA", (W, H), (6, 22, 48, 0)); grad.putalpha(g.resize((W, H))); im.alpha_composite(grad); d = ImageDraw.Draw(im)
+        bl = sc.get("bullets", []); shown = bl[:max(0, k)] if sc.get("intro_step", True) else bl[:k + 1]
+        y = H - 120 - 62 * len(shown[-3:]) - 130
+        kicker(d, 110, y, sc.get("kicker", job.get("title", "")), dark=True); y = draw_title(d, 110, y + 48, sc["title"], 1500, 64, WHITE, 1) + 18
+        for b in shown[-3:]:
+            d.rounded_rectangle([110, y + 12, 124, y + 26], 4, fill=ORANGE); d.text((146, y), b, font=font("body", 38), fill=WHITE); y += 62
+        brand_bar(im, job, dark=True); frames.append(im)
+    return frames
+
+def scene_fact(sc, job, tmp):
+    """Vurgu: koyu fotoğraf üzerinde büyük sayı/ifade."""
+    frames = []
+    for k in range(len(sc["steps"])):
+        im = Image.new("RGBA", (W, H), NAVY + (205,)); d = ImageDraw.Draw(im)
+        kicker(d, 110, 200, sc.get("kicker", "Önemli"), dark=True)
+        v = sc.get("value", ""); fv = font("display", 230 if len(v) <= 4 else 130)
+        if v: d.text((104, 250), v, font=fv, fill=ORANGE)
+        y = 530 if v else 290
+        for ln in wrap(d, sc["title"], font("display", 64), 1500)[:3]: d.text((110, y), ln, font=font("display", 64), fill=WHITE); y += 76
+        if k >= 1 and sc.get("text"):
+            for ln in wrap(d, sc["text"], font("body", 38), 1450)[:3]: d.text((112, y + 24), ln, font=font("body", 38), fill=(214, 224, 240)); y += 50
+        brand_bar(im, job, dark=True); frames.append(im)
+    return frames
+
+def scene_process(sc, job, tmp):
+    """Numaralı adımlar (yatay akış), sırayla belirir."""
+    frames = []; items = sc["items"][:5]; n = len(items); cw = (W - 220) // n
+    for k in range(len(sc["steps"])):
+        im = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
+        kicker(d, 110, 120, sc.get("kicker", job.get("title", ""))); draw_title(d, 110, 168, sc["title"], W - 220, 62, NAVY, 1)
+        d.line([(110 + cw // 2, 430), (110 + cw * (n - 1) + cw // 2, 430)], fill=(214, 210, 200), width=6)
+        for i, it in enumerate(items):
+            if i > k - 1 and k > 0: break
+            cx = 110 + i * cw + cw // 2; on = i == k - 1
+            if i > 0: d.line([(cx - cw, 430), (cx, 430)], fill=NAVY2, width=6)
+            d.ellipse([cx - 62, 368, cx + 62, 492], fill=ORANGE if on else NAVY, outline=WHITE, width=6)
+            d.text((cx, 430), str(i + 1), font=font("display", 56), fill=WHITE, anchor="mm")
+            tl = wrap(d, it["title"], font("head", 36), cw - 40)[:2]
+            for j, ln in enumerate(tl): d.text((cx, 550 + j * 44), ln, font=font("head", 36), fill=NAVY, anchor="mm")
+            for j, ln in enumerate(wrap(d, it.get("text", ""), font("body", 28), cw - 50)[:5]): d.text((cx, 560 + len(tl) * 44 + 16 + j * 38), ln, font=font("body", 28), fill=INK, anchor="mm")
+        if k == 0: im.putalpha(im.getchannel("A").point(lambda v: v * 0.38))
+        brand_bar(im, job); frames.append(im)
+    return frames
+
+def scene_dodont(sc, job, tmp):
+    """Doğru / Yanlış: iki fotoğraf yan yana."""
+    frames = []; cw = (W - 220 - 60) // 2; items = sc["items"][:2]
+    photos = [cover_crop(Image.open(fetch(it["photo"], tmp, f"d_{abs(hash(it['photo']))}.jpg")).convert("RGB"), cw, 470) for it in items]
+    for k in range(len(sc["steps"])):
+        im = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
+        kicker(d, 110, 100, sc.get("kicker", "Doğru mu, yanlış mı?")); draw_title(d, 110, 146, sc["title"], W - 220, 58, NAVY, 1)
+        for i, it in enumerate(items):
+            if i > k - 1 and k > 0: break
+            ok = it.get("ok", i == 0); col = (46, 160, 90) if ok else (214, 64, 52)
+            x = 110 + i * (cw + 60); box = (x, 270, x + cw, 950); shadow(im, box); d = ImageDraw.Draw(im)
+            d.rounded_rectangle(box, 26, fill=WHITE); im.alpha_composite(rounded(photos[i], 26), (x, 270)); d = ImageDraw.Draw(im)
+            d.rectangle([x, 720, x + cw, 740], fill=WHITE); d.rectangle([x, 730, x + cw, 740], fill=col)
+            d.ellipse([x + 30, 290, x + 120, 380], fill=col, outline=WHITE, width=5)
+            if ok: d.line([(x + 52, 336), (x + 70, 356), (x + 100, 314)], fill=WHITE, width=10)
+            else: d.line([(x + 55, 315), (x + 95, 355)], fill=WHITE, width=10); d.line([(x + 95, 315), (x + 55, 355)], fill=WHITE, width=10)
+            d.text((x + 34, 762), ("DOĞRU · " if ok else "YANLIŞ · ") + it["title"], font=font("head", 36), fill=col)
+            for j, ln in enumerate(wrap(d, it.get("text", ""), font("body", 30), cw - 68)[:3]): d.text((x + 34, 816 + j * 40), ln, font=font("body", 30), fill=INK)
+        if k == 0: im.putalpha(im.getchannel("A").point(lambda v: v * 0.38))
+        brand_bar(im, job); frames.append(im)
+    return frames
+
+_PAT = {}
+def pattern(tmp):
+    """Arka plan dokusu (açık zemin, yumuşak marka lekeleri, nokta ızgarası); videoda yavaşça kayar."""
+    if "p" in _PAT: return _PAT["p"]
+    im = Image.new("RGBA", (W + 480, H), IVORY + (255,)); bl = Image.new("RGBA", im.size, (0, 0, 0, 0)); d = ImageDraw.Draw(bl)
+    for (x, y, r, c) in [(260, 140, 360, ORANGE + (34,)), (1500, 900, 460, NAVY2 + (26,)), (2150, 160, 320, ORANGE + (26,)), (900, 1150, 380, NAVY2 + (20,))]:
+        d.ellipse([x - r, y - r, x + r, y + r], fill=c)
+    im.alpha_composite(bl.filter(ImageFilter.GaussianBlur(120))); d = ImageDraw.Draw(im)
+    for x in range(0, W + 480, 48):
+        for y in range(0, H, 48): d.ellipse([x, y, x + 3, y + 3], fill=(225, 221, 212))
+    p = os.path.join(tmp, "pattern.png"); im.convert("RGB").save(p); _PAT["p"] = p; return p
+
+SCENES = {"cover": scene_cover, "split": scene_split, "stats": scene_stats, "cards": scene_cards, "roles": scene_roles, "check": scene_check, "photo": scene_photo, "fact": scene_fact, "process": scene_process, "dodont": scene_dodont}
+FULL = ("cover", "check", "photo", "fact")
 
 # ---------------- Ses ----------------
 def say(text, extra=None):
@@ -258,24 +342,39 @@ def render_scene(job, sc, si, tmp):
         w = tts(job, stx, tmp, f"a{si}_{k}"); d = T._dur(w) + (0.55 if k < n - 1 else 1.1); wavs.append(w); durs.append(d)
     total = sum(durs) + 0.5
     # katman dizisi (concat, süreli kareler); her yeni katman 0.25 sn yarı saydam ara kareyle yumuşak belirir
-    lst = os.path.join(tmp, f"o{si}.txt"); lines = []; prev = None
+    lst = os.path.join(tmp, f"o{si}.txt"); lines = []; prev = None; TR = 6
     for k, (fr, d) in enumerate(zip(frames, durs)):
         p = os.path.join(tmp, f"f{si}_{k}.png"); fr.save(p)
         if prev is not None:
-            mid = Image.blend(prev, fr, 0.5); pm = os.path.join(tmp, f"f{si}_{k}m.png"); mid.save(pm); lines += [f"file '{pm}'", "duration 0.25"]; d -= 0.25
+            pa, fa = prev.getchannel("A"), fr.getchannel("A")
+            newm = ImageChops.multiply(pa.point(lambda v: 255 if v < 60 else 0), fa.point(lambda v: 255 if v > 60 else 0))
+            bb = newm.getbbox() or ImageChops.difference(prev, fr).getbbox()
+            for j in range(1, TR):
+                a = j / TR; e = 1 - (1 - a) ** 3; mid = Image.blend(prev, fr, e)
+                if bb:
+                    reg = fr.crop(bb); off = int((1 - e) * 46); mid.paste(prev.crop(bb), bb[:2])
+                    mid.alpha_composite(Image.blend(Image.new("RGBA", reg.size, (0, 0, 0, 0)), reg, e), (bb[0], min(H - reg.height, bb[1] + off)))
+                pm = os.path.join(tmp, f"f{si}_{k}m{j}.png"); mid.save(pm); lines += [f"file '{pm}'", f"duration {1 / FPS * 2:.4f}"]
+            d -= (TR - 1) * 2 / FPS
         lines += [f"file '{p}'", f"duration {d + (0.5 if k == 0 else 0):.3f}"]; prev = fr
     lines.append(f"file '{os.path.join(tmp, f'f{si}_{len(frames) - 1}.png')}'"); open(lst, "w").write("\n".join(lines) + "\n")
     frames_n = int(total * FPS) + 2; outv = os.path.join(tmp, f"s{si}.mp4")
+    pat = pattern(tmp); prog = os.path.join(tmp, "prog.png")
+    if not os.path.exists(prog): Image.new("RGB", (W, 4), ORANGE).save(prog)
+    sway = f"overlay=x='-240-240*sin(t/6+{si})':y=0"
+    pr = f"[pg]overlay=x='-W+W*t/{total:.2f}':y={H - 82}"
     if sc.get("photo"):
-        ph = fetch(sc["photo"], tmp, f"p{si}.jpg"); bgw = W if sc["type"] in ("cover", "check") else 860
-        bg = cover_crop(Image.open(ph).convert("RGB"), int(bgw * 1.15), int(H * 1.15)); bp = os.path.join(tmp, f"bg{si}.png"); bg.save(bp)
-        x0 = 0 if bgw == W else W - bgw
-        zp = f"zoompan=z='min(1+0.00035*on,1.12)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames_n}:s={bgw}x{H}:fps={FPS}"
-        fc = f"color=c=0x{IVORY[0]:02x}{IVORY[1]:02x}{IVORY[2]:02x}:s={W}x{H}:r={FPS}:d={total:.2f}[base];[0:v]{zp}[kb];[base][kb]overlay={x0}:0[b];[1:v]format=rgba,fps={FPS}[ov];[b][ov]overlay=0:0:shortest=1,fade=t=in:st=0:d=0.45,fade=t=out:st={total - 0.45:.2f}:d=0.45[v]"
-        ins = ["-loop", "1", "-framerate", str(FPS), "-i", bp, "-f", "concat", "-safe", "0", "-i", lst]
+        ph = fetch(sc["photo"], tmp, f"p{si}.jpg"); bgw = W if sc["type"] in FULL else 860
+        bg = cover_crop(Image.open(ph).convert("RGB"), int(bgw * 1.18), int(H * 1.18)); bp = os.path.join(tmp, f"bg{si}.png"); bg.save(bp)
+        x0 = 0 if bgw == W else W - bgw; m = si % 4
+        z = ["min(1+0.0004*on,1.15)", "max(1.15-0.0004*on,1.0)", "1.12", "1.12"][m]
+        px = ["iw/2-(iw/zoom/2)", "iw/2-(iw/zoom/2)", f"(iw-iw/zoom)*on/{frames_n}", f"(iw-iw/zoom)*(1-on/{frames_n})"][m]
+        zp = f"zoompan=z='{z}':x='{px}':y='ih/2-(ih/zoom/2)':d={frames_n}:s={bgw}x{H}:fps={FPS}"
+        fc = f"[2:v]fps={FPS}[pt];color=c=black:s={W}x{H}:r={FPS}:d={total:.2f}[k0];[k0][pt]{sway}[base];[0:v]{zp}[kb];[base][kb]overlay={x0}:0[b];[1:v]format=rgba,fps={FPS}[ov];[3:v]fps={FPS}[pg];[b][ov]overlay=0:0:shortest=1[b2];[b2]{pr},fade=t=in:st=0:d=0.45,fade=t=out:st={total - 0.45:.2f}:d=0.45[v]"
+        ins = ["-loop", "1", "-framerate", str(FPS), "-i", bp, "-f", "concat", "-safe", "0", "-i", lst, "-loop", "1", "-framerate", str(FPS), "-i", pat, "-loop", "1", "-framerate", str(FPS), "-i", prog]; ai = 4
     else:
-        fc = f"color=c=0x{IVORY[0]:02x}{IVORY[1]:02x}{IVORY[2]:02x}:s={W}x{H}:r={FPS}:d={total:.2f}[b];[0:v]format=rgba,fps={FPS}[ov];[b][ov]overlay=0:0:shortest=1,fade=t=in:st=0:d=0.45,fade=t=out:st={total - 0.45:.2f}:d=0.45[v]"
-        ins = ["-f", "concat", "-safe", "0", "-i", lst]
+        fc = f"[1:v]fps={FPS}[pt];color=c=black:s={W}x{H}:r={FPS}:d={total:.2f}[k0];[k0][pt]{sway}[b];[0:v]format=rgba,fps={FPS}[ov];[2:v]fps={FPS}[pg];[b][ov]overlay=0:0:shortest=1[b2];[b2]{pr},fade=t=in:st=0:d=0.45,fade=t=out:st={total - 0.45:.2f}:d=0.45[v]"
+        ins = ["-f", "concat", "-safe", "0", "-i", lst, "-loop", "1", "-framerate", str(FPS), "-i", pat, "-loop", "1", "-framerate", str(FPS), "-i", prog]; ai = 3
     # ses: adım sesleri arka arkaya, adım aralarında sessizlik
     alst = os.path.join(tmp, f"al{si}.txt"); al = []
     sil0 = os.path.join(tmp, f"sil{si}_0.wav"); run(["ffmpeg", "-y", "-v", "error", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=mono", "-t", "0.5", sil0]); al.append(f"file '{sil0}'")
@@ -284,8 +383,8 @@ def render_scene(job, sc, si, tmp):
         run(["ffmpeg", "-y", "-v", "error", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=mono", "-t", f"{gap:.3f}", s]); al.append(f"file '{s}'")
     open(alst, "w").write("\n".join(al) + "\n"); aw = os.path.join(tmp, f"aud{si}.wav")
     run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", alst, "-c", "copy", aw])
-    run(["ffmpeg", "-y", "-v", "error"] + ins + ["-i", aw, "-filter_complex", fc, "-map", "[v]", "-map", f"{2 if sc.get('photo') else 1}:a", "-t", f"{total:.2f}",
-         "-c:v", "libx264", "-preset", "medium", "-crf", "21", "-pix_fmt", "yuv420p", "-r", str(FPS), "-c:a", "aac", "-b:a", "128k", "-ar", "44100", "-ac", "1", outv])
+    run(["ffmpeg", "-y", "-v", "error"] + ins + ["-i", aw, "-filter_complex", fc, "-map", "[v]", "-map", f"{ai}:a", "-t", f"{total:.2f}",
+         "-c:v", "libx264", "-preset", os.environ.get("X264_PRESET", "veryfast"), "-crf", os.environ.get("X264_CRF", "26"), "-tune", "stillimage", "-pix_fmt", "yuv420p", "-r", str(FPS), "-c:a", "aac", "-b:a", "128k", "-ar", "44100", "-ac", "1", outv])
     print(f"sahne {si + 1}: {sc['type']} {total:.1f} sn", flush=True)
     return outv, total
 

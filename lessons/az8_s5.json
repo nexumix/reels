@@ -1,0 +1,499 @@
+{
+ "code": "az8_s5",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "2. Bölüm · Sağlık Konuları",
+ "title": "Bağımlılık yapıcı maddelerin zararları ve teknoloji bağımlılığı",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1585577517704-f3d6f8023665?w=2400",
+   "kicker": "2. Bölüm · Ders 5",
+   "title": "Bağımlılık yapıcı maddelerin zararları ve teknoloji bağımlılığı",
+   "subtitle": "Tütün, alkol, uyuşturucu ve ekran: sağlığınız ve güvenliğiniz için",
+   "steps": [
+    "Merhaba, yeniden hoş geldiniz. Bu derste hepimizin hayatına bir şekilde dokunan bir konuyu konuşacağız: bağımlılık. Sigara, alkol, uyuşturucu maddeler ve son yıllarda giderek büyüyen bir sorun olan teknoloji bağımlılığı.",
+    "Belki 'Bunun iş sağlığı ve güvenliğiyle ne ilgisi var?' diye düşünüyorsunuz. Aslında çok ilgisi var. Bağımlılık; dikkatimizi, reflekslerimizi, uykumuzu ve sağlığımızı doğrudan etkiler. Bu da işyerinde kaza riskini artırır. Hiç kimseyi yargılamadan, bilgi ve çözüm odaklı konuşacağız."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Bağımlılık nedir",
+     "text": "Madde ve davranış bağımlılığının ortak özellikleri"
+    },
+    {
+     "title": "Tütün ürünleri",
+     "text": "Sağlığa zararları, pasif etkilenim ve kapalı alan yasağı"
+    },
+    {
+     "title": "Alkol ve uyuşturucu",
+     "text": "Dikkat ve reflekslere etkisi, iş kazası riski"
+    },
+    {
+     "title": "Teknoloji bağımlılığı",
+     "text": "Belirtiler, iş güvenliğine etkisi ve dijital denge"
+    },
+    {
+     "title": "Yardım almak",
+     "text": "Danışma hatları ve destek yolları"
+    }
+   ],
+   "steps": [
+    "Önce bu dersin yol haritasına bakalım. Beş başlık altında, günlük hayattan ve işyerinden örneklerle adım adım ilerleyeceğiz.",
+    "İlk olarak bağımlılığın ne olduğunu ve madde ya da davranış fark etmeksizin ortak özelliklerini konuşacağız.",
+    "Sonra tütün ürünlerinin sağlığa zararlarını, sigara dumanından başkalarının nasıl etkilendiğini ve kapalı alanlardaki yasağı ele alacağız.",
+    "Üçüncü başlıkta alkol ve uyuşturucu maddelerin dikkat ve refleksler üzerindeki etkisini ve bunun iş kazası riskini nasıl artırdığını göreceğiz.",
+    "Dördüncü başlıkta teknoloji bağımlılığının belirtilerine, iş güvenliğine etkilerine ve dijital dengeyi günlük hayatta nasıl kurabileceğimize bakacağız.",
+    "Son olarak da kendiniz ya da bir yakınınız için yardım almak isterseniz başvurabileceğiniz destek yollarını paylaşacağım."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1637665637343-d497d345ed2f?w=2400",
+   "kicker": "Tanım",
+   "title": "Bağımlılık nedir?",
+   "bullets": [
+    "Kullanım ya da davranış üzerinde kontrolün kaybı",
+    "Zararını bildiği halde devam etme",
+    "Giderek daha fazlasına ihtiyaç duyma",
+    "Bırakınca huzursuzluk ve yoksunluk belirtileri"
+   ],
+   "steps": [
+    "Bağımlılık; kişinin bir maddeyi kullanma ya da bir davranışı yapma isteğini kontrol edememesi, bu yüzden sağlığına, işine ve ilişkilerine zarar gelse bile devam etmesi durumudur. Madde bağımlılığı da davranış bağımlılığı da bu ortak özellikleri taşır.",
+    "İlk özellik kontrol kaybıdır. Kişi 'Sadece bir tane' der ama duramaz; 'Beş dakika bakacağım' der, saatler geçer.",
+    "İkincisi, zararını bildiği halde devam etmektir. Sigara içen hemen herkes sigaranın zararlı olduğunu bilir; ama bilmek bırakmaya yetmez.",
+    "Üçüncüsü, zamanla aynı etkiyi almak için daha fazlasına ihtiyaç duyulmasıdır. Buna tolerans gelişimi denir; doz ya da süre giderek artar.",
+    "Dördüncüsü de bırakıldığında ya da azaltıldığında ortaya çıkan huzursuzluk, sinirlilik, dikkat dağınıklığı ve uyku sorunları gibi yoksunluk belirtileridir. Bağımlılık bir irade zayıflığı değil, desteğe ihtiyaç duyan bir sağlık sorunudur."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Türleri",
+   "title": "Bu derste ele aldığımız bağımlılıklar",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1531233860166-39482c9fe3e6?w=1200",
+     "tag": "Madde",
+     "title": "Tütün ürünleri",
+     "text": "Sigara, puro, nargile ve tütünü taklit eden ürünler."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1576181296166-53fc5c457fb4?w=1200",
+     "tag": "Madde",
+     "title": "Alkol ve uyuşturucu",
+     "text": "Merkezi sinir sistemini etkileyen, bağımlılık yapan maddeler."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1655952325939-24bfbbdaee98?w=1200",
+     "tag": "Davranış",
+     "title": "Teknoloji",
+     "text": "Telefon, sosyal medya, internet ve dijital oyunların kontrolsüz kullanımı."
+    }
+   ],
+   "steps": [
+    "Bağımlılık pek çok farklı biçimde karşımıza çıkabilir. Bu derste, işyeri açısından en önemli üç gruba odaklanacağız.",
+    "Birinci grup tütün ürünleri: sigara, puro, pipo, nargile ve tütün içermese de sigarayı taklit eden ürünler. Toplumda en yaygın bağımlılık türlerinden biridir.",
+    "İkinci grup alkol ve uyuşturucu maddeler. Bunlar beyni ve sinir sistemini etkileyerek algıyı, dikkati ve davranışı değiştirir.",
+    "Üçüncü grup ise bir madde değil, bir davranış bağımlılığı: teknoloji bağımlılığı. Akıllı telefon, sosyal medya, internet ve dijital oyunların kontrolsüz kullanımı da tıpkı maddeler gibi hayatımızı ele geçirebilir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1512067053627-3cb65e51a128?w=2400",
+   "kicker": "Dünya Sağlık Örgütü",
+   "value": "7 milyon+",
+   "title": "Tütün, dünyada her yıl 7 milyondan fazla insanın ölümüne yol açıyor",
+   "text": "Bunların 1,6 milyondan fazlası hiç sigara içmeyen, ama başkasının dumanına maruz kalan kişiler.",
+   "steps": [
+    "Tütünün zararlarını bir rakamla anlatmak gerekirse, Dünya Sağlık Örgütü'nün verilerine bakalım. Tütün kullanımı, dünyada her yıl 7 milyondan fazla insanın ölümüne yol açıyor.",
+    "Daha da düşündürücü olanı şu: bu kişilerin 1,6 milyondan fazlası hiç sigara içmemiş, yalnızca başkalarının dumanına maruz kalmış insanlar. Yani sigara sadece içeni değil, yanındakini de etkiliyor."
+   ]
+  },
+  {
+   "type": "split",
+   "kicker": "Sağlık etkileri",
+   "title": "Tütün ürünleri vücuda neler yapar?",
+   "bullets": [
+    "Kalp krizi, inme ve damar hastalıkları",
+    "Akciğer kanseri ve pek çok başka kanser türü",
+    "KOAH ve kronik solunum yolu hastalıkları",
+    "Kondisyon kaybı, sık hastalanma, yavaş iyileşme"
+   ],
+   "steps": [
+    "Peki tütün ürünleri vücudumuza tam olarak ne yapıyor? Sigara dumanında binlerce kimyasal madde bulunur ve bunların birçoğunun kanser yaptığı bilinmektedir. Bağımlılığı yapan madde ise nikotindir.",
+    "Tütün, kalp krizi ve inme gibi kalp ve damar hastalıklarının en önemli önlenebilir nedenlerinden biridir. Damarları daraltır, kalbin yükünü artırır.",
+    "Akciğer kanserinin yanı sıra ağız, gırtlak, yemek borusu, mide ve mesane gibi pek çok organda kanser riskini artırır.",
+    "KOAH, yani kronik obstrüktif akciğer hastalığı, büyük ölçüde sigarayla ilişkilidir. Merdiven çıkarken nefes nefese kalmak çoğu zaman ilk işarettir.",
+    "Günlük hayatta da etkisini görürsünüz: kondisyon düşer, sık hastalanırsınız, yaralar daha yavaş iyileşir. Bu da işe devamsızlık ve verim kaybı demektir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1702468025332-e23ca9075058?w=2400",
+   "kicker": "Pasif etkilenim",
+   "title": "Duman sadece içeni etkilemez",
+   "bullets": [
+    "Kapalı ortamda duman herkese ulaşır",
+    "Çocuklar ve hastalar daha çok etkilenir",
+    "Güvenli bir pasif içicilik düzeyi yoktur"
+   ],
+   "steps": [
+    "Bir iş arkadaşınız yanınızda sigara içtiğinde, siz de o dumanı solursunuz. Buna pasif içicilik ya da dumana pasif maruziyet denir.",
+    "Kapalı bir ortamda duman havada asılı kalır ve pencere açmak bile onu tamamen uzaklaştırmaz. Odadaki herkes, ister istemez aynı zararlı maddeleri solur.",
+    "Çocuklar, hamileler, kalp ve solunum hastaları bu dumandan çok daha fazla etkilenir. Eve sinmiş duman ve giysilerdeki koku da aile bireylerini etkilemeye devam eder.",
+    "Sağlık otoriteleri, pasif içicilik için güvenli bir düzey olmadığını vurgular. Bu yüzden çözüm, kapalı alanların tamamen dumansız olmasıdır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1531233860166-39482c9fe3e6?w=2400",
+   "kicker": "Yasal düzenleme",
+   "title": "Kapalı işyerlerinde tütün ürünü kullanımı yasaktır",
+   "bullets": [
+    "4207 sayılı Kanun ile düzenlenir",
+    "Birden çok kişinin girebildiği binaların kapalı alanları",
+    "Mola saatinde ya da işveren izniyle de serbest değil",
+    "Nargile ve sigarayı taklit eden ürünler de kapsamda"
+   ],
+   "steps": [
+    "Şimdi ders sonunda da soracağım çok net bir kurala geliyoruz: kapalı işyerlerinde tütün ürünü kullanımı yasaktır.",
+    "Bu yasak, 1996 yılında çıkarılan ve sonradan kapsamı genişletilen 4207 sayılı Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanun ile düzenlenmiştir.",
+    "Kanuna göre; eğitim, sağlık, üretim, ticaret, sosyal, kültürel ve benzeri amaçlarla kullanılan, özel kişilere ait olsa bile birden çok kişinin girebildiği binaların koridorlar dahil kapalı alanlarında tütün ürünü tüketilemez. Ofisiniz, mağazanız, deponuz, kafenizin kapalı alanı bu kapsamdadır.",
+    "Bu bir yasal yasaktır. Yani mola saatinde de geçerlidir ve işverenin izin vermesiyle ortadan kalkmaz. 'Patron izin verdi' ya da 'Mesai bitti' demek kuralı değiştirmez.",
+    "Kanun, tütün içermese bile tütün mamulünü taklit eder şekilde kullanılan nargile ve sigaraları da tütün ürünü sayar. Kapalı alanda bunları kullanmak da yasaktır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "İşyerinde",
+   "title": "Sigara molasında doğru ve yanlış",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1200",
+     "ok": true,
+     "title": "Dumansız kapalı alan",
+     "text": "Ofis, depo, mutfak, koridor ve tuvaletler dahil tüm kapalı alanlarda tütün kullanılmaz."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?w=1200",
+     "ok": false,
+     "title": "Depoda gizlice sigara",
+     "text": "Kapalı alanda, üstelik koli ve yanıcı maddelerin yanında sigara içmek yangına davetiyedir."
+    }
+   ],
+   "steps": [
+    "Şimdi işyerinde bu kuralın günlük hayatta nasıl uygulanması gerektiğine, doğru ve yanlış örneklerle birlikte bakalım.",
+    "Doğru olan; ofis, depo, mutfak, koridor, merdiven boşluğu ve tuvaletler dahil binanın tüm kapalı alanlarının dumansız olmasıdır. Sigara içen çalışanlar, kanuna uygun olarak binanın dışında içer ve izmaritleri yere değil, kendileri için ayrılmış küllüğe atarlar.",
+    "Yanlış olan ise 'Kimse görmez' diye depoda, arka odada ya da merdiven boşluğunda gizlice sigara içmektir. Bu hem yasağa aykırıdır hem de kolilerin, ambalajların ve temizlik kimyasallarının bulunduğu yerlerde ciddi bir yangın tehlikesi oluşturur. Söndürülmeden atılan tek bir izmarit, koca bir depoyu yakmaya yeter."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1573497491208-6b1acb260507?w=2400",
+   "kicker": "Bırakmak mümkün",
+   "title": "Tütünü bırakmak için destek yolları",
+   "bullets": [
+    "ALO 171 Sigara Bırakma Danışma Hattı",
+    "Sigara bırakma poliklinikleri ve aile hekiminiz",
+    "İşyeri hekiminizden destek isteyin",
+    "Tetikleyicileri tanıyın, bir bırakma günü belirleyin"
+   ],
+   "steps": [
+    "İyi haber şu: tütünü bırakmak her yaşta mümkündür ve bıraktığınız andan itibaren vücudunuz kendini onarmaya başlar. Üstelik bunu tek başınıza yapmak zorunda değilsiniz.",
+    "Sağlık Bakanlığı'nın ALO 171 Sigara Bırakma Danışma Hattı'nı arayarak, bırakma süreciniz boyunca uzmanlardan danışmanlık ve destek alabilirsiniz.",
+    "Sigara bırakma polikliniklerine başvurabilir ya da aile hekiminizle konuşabilirsiniz. Gerekirse hekim, bırakma sürecini kolaylaştıracak tedavi seçeneklerini sizinle değerlendirir.",
+    "İşyerinizde bir işyeri hekimi varsa, ondan da destek isteyebilirsiniz. İşyeri hekimi sizi yönlendirebilir ve süreci birlikte takip edebilirsiniz.",
+    "Kendinize de küçük bir plan yapın: hangi anlarda sigara içme isteğinizin arttığını fark edin, örneğin kahveyle ya da stresli bir telefondan sonra. Bir bırakma günü belirleyin ve çevrenizdekilere haber verin."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1512067053627-3cb65e51a128?w=2400",
+   "kicker": "Ara özet",
+   "title": "Şimdiye kadar öğrendiklerimiz",
+   "bullets": [
+    "Bağımlılık, desteğe ihtiyaç duyan bir sağlık sorunudur",
+    "Tütün; kalp, akciğer ve kanser riskini artırır",
+    "Pasif içicilik için güvenli bir düzey yoktur",
+    "Kapalı işyerlerinde tütün ürünü kullanımı yasaktır",
+    "Bırakmak için ALO 171'den destek alabilirsiniz"
+   ],
+   "steps": [
+    "Burada kısa bir mola verelim ve bu dersin ilk yarısında öğrendiklerimizi birlikte kısaca toparlayalım, sonra devam edelim.",
+    "Bağımlılık, kontrol kaybıyla giden ve bir irade zayıflığı değil, desteğe ihtiyaç duyan bir sağlık sorunudur.",
+    "Tütün ürünleri kalp ve damar hastalıkları, KOAH ve pek çok kanser türünün riskini belirgin şekilde artırır.",
+    "Sigara dumanı yalnızca içeni değil, çevresindekileri de etkiler; pasif içicilik için güvenli bir düzey yoktur.",
+    "Kapalı işyerlerinde tütün ürünü kullanımı kanunen yasaktır. Bu yasak mola saatinde de geçerlidir ve işveren izniyle kalkmaz.",
+    "Bırakmak isteyenler ALO 171'i arayabilir, sigara bırakma polikliniklerine başvurabilir. Şimdi alkol ve uyuşturucu maddelere geçiyoruz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1576181296166-53fc5c457fb4?w=2400",
+   "kicker": "Alkol ve uyuşturucu",
+   "title": "Alkol ve uyuşturucu iş güvenliğini nasıl etkiler?",
+   "bullets": [
+    "Dikkat ve konsantrasyon azalır",
+    "Refleksler ve tepki süresi yavaşlar",
+    "Denge ve koordinasyon bozulur",
+    "Risk algısı ve karar verme zayıflar"
+   ],
+   "steps": [
+    "Şimdi ders sonunda soracağım bir başka önemli konuya geliyoruz. Alkol ya da uyuşturucu etkisinde çalışmanın en önemli riski nedir? Cevap: dikkat ve reflekslerin azalmasıyla iş kazası riskinin artmasıdır. Bunu biraz açalım.",
+    "Alkol ve uyuşturucu maddeler beyni ve sinir sistemini etkiler. Dikkat dağılır, kişi bir işe uzun süre odaklanamaz, önündeki tehlikeyi fark etmekte gecikir.",
+    "Refleksler yavaşlar. Düşmek üzere olan bir kutuyu tutmak ya da önünüze çıkan bir engelden kaçmak için gereken tepki süresi uzar.",
+    "Denge ve el-göz koordinasyonu bozulur. Merdiven, seyyar merdiven, kaygan zemin, bıçak ya da bir makine; hepsi bu durumda çok daha tehlikeli hale gelir.",
+    "Ve belki de en sinsi etkisi: risk algısı zayıflar. Kişi kendini olduğundan daha becerikli ve güvende hisseder, normalde yapmayacağı riskleri alır. Kısacası; alkol ve uyuşturucu verimliliği ya da odaklanmayı artırmaz, kaza riskini artırır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1758876204313-f168b6f81abc?w=2400",
+   "kicker": "Gözden kaçan risk",
+   "title": "Etkisi ertesi sabah da sürebilir",
+   "bullets": [
+    "Alkolün vücuttan atılması zaman alır",
+    "Uykusuzluk ve baş ağrısı dikkati düşürür",
+    "Kahve ya da soğuk duş etkiyi gidermez"
+   ],
+   "steps": [
+    "Bir de çoğu zaman gözden kaçan bir durum var: 'Ben işte içmiyorum ki, dün akşam içtim' diyebilirsiniz. Ancak alkolün etkisi ertesi sabah da sürebilir.",
+    "Vücudun alkolü parçalayıp atması zaman alır ve bu süreyi hızlandırmanın bir yolu yoktur. Geç saatlere kadar içilen bir gecenin ardından, sabah işe gelen kişinin kanında hâlâ alkol bulunabilir.",
+    "Bunun üzerine bir de uykusuzluk, baş ağrısı, mide bulantısı ve halsizlik eklenir. Tüm bunlar dikkati ve tepki süresini olumsuz etkiler.",
+    "Sıkça duyduğumuz yöntemler, yani sert bir kahve, soğuk duş ya da temiz hava, kişiyi biraz daha uyanık hissettirebilir; ama alkolün etkisini ortadan kaldırmaz. Tek çözüm zamandır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?w=2400",
+   "kicker": "Örnek olay 1",
+   "title": "Depoda akşamdan kalma bir sabah",
+   "bullets": [
+    "Ne oldu: seyyar merdivenden düşüp bileğini kırdı",
+    "Neden: uykusuzluk ve alkolün süren etkisi",
+    "Doğrusu: riskli işi bırakıp yöneticisine söylemek"
+   ],
+   "steps": [
+    "Bir giyim mağazasının deposunda çalışan Kerem, bir arkadaşının doğum gününde gece geç saatlere kadar alkol aldı. Sadece birkaç saat uyuyup sabah işe geldi.",
+    "Gün başında yeni gelen kolileri üst raflara yerleştirmesi gerekiyordu. Seyyar merdivenin en üst basamağında uzanırken başı döndü, dengesini kaybetti ve düştü. Bileği kırıldı.",
+    "Kerem'in arkadaşları onun halsiz ve dalgın olduğunu fark etmişti ama kimse bir şey söylemedi. Kerem de 'Bir şey olmaz' diye düşündü.",
+    "Doğrusu, Kerem'in kendini iyi hissetmediğini yöneticisine söylemesi ve o gün yüksekte çalışma gibi riskli işlerden uzak durmasıydı. Arkadaşları da durumu fark ettiklerinde, suçlamadan, onun bu işi yapmasına engel olabilirdi. Sizce sizin işyerinizde böyle bir durumda insanlar konuşabilir mi?"
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Dikkat",
+   "title": "Etki altındayken asla",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1765996796562-ce301df337a0?w=1200",
+     "title": "İlaçlarınızı bilin",
+     "text": "Uyku hali yapan reçeteli ilaçlar da dikkati azaltabilir; hekiminize danışın."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1717386255773-1e3037c81788?w=1200",
+     "title": "Makine başında",
+     "text": "Kesici aletler ve makinelerle etki altındayken çalışılmaz."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1551952237-954a0e68786c?w=1200",
+     "title": "Direksiyonda",
+     "text": "Alkol ya da uyuşturucu etkisinde araç kullanmak hem yasak hem ölümcüldür."
+    }
+   ],
+   "steps": [
+    "Alkol ve uyuşturucu dışında, dikkatinizi etkileyebilecek başka maddeler de olabilir. Şimdi üç önemli noktaya birlikte bakalım.",
+    "Birincisi, ilaçlar. Bazı reçeteli ilaçlar, örneğin bazı alerji, ağrı ya da uyku ilaçları, uyku hali ve dikkat dağınıklığı yapabilir. Prospektüsü okuyun, hekiminize ya da eczacınıza danışın ve gerekiyorsa işyeri hekiminize bilgi verin. Size verilmeyen bir ilacı asla kullanmayın.",
+    "İkincisi, makine ve kesici aletler. Mutfakta bıçak, depoda transpalet ya da atölyede bir makine; etki altındayken bunlarla çalışmak kendinizi ve çevrenizdekileri ciddi tehlikeye atar.",
+    "Üçüncüsü, direksiyon. İşiniz gereği araç kullanıyorsanız ya da işe kendi aracınızla geliyorsanız, alkol ya da uyuşturucu etkisinde araç kullanmak hem yasal olarak yasaktır hem de ölümcül kazaların başlıca nedenlerindendir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1573497491208-6b1acb260507?w=2400",
+   "kicker": "Ne yapmalı?",
+   "title": "Bir iş arkadaşınızda bu durumu fark ederseniz",
+   "bullets": [
+    "Suçlamadan, sakin bir dille konuşun",
+    "Riskli bir işteyse işi durdurmasına yardım edin",
+    "Yöneticinize ya da işyeri hekimine bildirin",
+    "Destek almaya yönlendirin"
+   ],
+   "steps": [
+    "Peki bir iş arkadaşınızın alkol ya da madde etkisinde olduğunu düşünürseniz ne yapmalısınız? Görmezden gelmek, çoğu zaman en kolay ama en tehlikeli seçenektir.",
+    "Önce suçlamadan, sakin bir dille konuşmaya çalışın. 'Bugün iyi görünmüyorsun, iyi misin?' gibi bir soru, kapıyı aralamak için yeterli olabilir. Herkesin önünde değil, baş başa konuşun.",
+    "Kişi riskli bir iş yapıyorsa, örneğin yüksekte, makine başında ya da araç kullanıyorsa, bu işi durdurmasına yardım edin. Bu, hem onun hem de çevredekilerin güvenliği içindir.",
+    "Durumu yöneticinize ya da işyeri hekimine bildirin. Bu bir ispiyonculuk değil; bir kazayı önlemek ve arkadaşınızın yardım almasını sağlamak için atılan bir adımdır.",
+    "Son olarak, uygun bir zamanda onu profesyonel destek almaya teşvik edin. Az sonra paylaşacağım danışma hatları bu konuda iyi bir başlangıç olabilir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1503324010925-71cfe52dad2a?w=2400",
+   "kicker": "Destek hattı",
+   "value": "ALO 191",
+   "title": "Uyuşturucu ile Mücadele Danışma ve Destek Hattı",
+   "text": "Madde kullanan kişiler, risk altındakiler ve yakınları için 7 gün 24 saat danışmanlık. Acil durumlarda ise 112'yi arayın.",
+   "steps": [
+    "Madde kullanımıyla ilgili yardım almak isteyenler için Sağlık Bakanlığı'nın ALO 191 Uyuşturucu ile Mücadele Danışma ve Destek Hattı bulunuyor. Hat, 7 gün 24 saat hizmet veriyor.",
+    "Bu hattı yalnızca madde kullanan kişiler değil, risk altında olduğunu düşünenler ve aileleri de arayabilir. Görevliler bilgi verir, bırakmak isteyenleri motive eder ve gerektiğinde kişiyi uygun sağlık birimlerine yönlendirir.",
+    "Ancak hayati tehlike olan bir durumda, örneğin bilinç kaybı ya da nefes almada güçlük varsa, vakit kaybetmeden 112'yi arayın."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1655952325939-24bfbbdaee98?w=2400",
+   "kicker": "Davranış bağımlılığı",
+   "title": "Teknoloji bağımlılığı nedir?",
+   "bullets": [
+    "Telefonu sürekli, farkında olmadan kontrol etmek",
+    "Kullanımı azaltmaya çalışıp başaramamak",
+    "Uykudan, işten ve insanlardan çalması",
+    "Telefon uzaktayken huzursuzluk ve gerginlik"
+   ],
+   "steps": [
+    "Şimdi bir madde içermeyen ama giderek yaygınlaşan bir bağımlılık türüne geçelim: teknoloji bağımlılığı. Akıllı telefon, sosyal medya, internet ve dijital oyunların kontrolsüz ve aşırı kullanımı olarak tanımlayabiliriz.",
+    "İlk işaret, telefonu sürekli ve çoğu zaman farkında olmadan kontrol etmektir. Bir bildirim gelmese bile elimiz telefona gider.",
+    "İkinci işaret, kullanımı azaltmaya karar verip bunu başaramamaktır. 'Bu akşam erken yatacağım' denir, ama gece yarısı hâlâ ekrana bakılır.",
+    "Üçüncüsü, ekranın uykudan, işten, aileden ve arkadaşlardan zaman çalmaya başlamasıdır. Yemek masasında bile herkesin başı telefondadır.",
+    "Dördüncüsü de telefon yanınızda değilken ya da şarjı bittiğinde hissedilen huzursuzluk ve gerginliktir. Bu belirtilerden birkaçı size tanıdık geldiyse, kullanım alışkanlıklarınızı gözden geçirmenin zamanı gelmiş olabilir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "İş güvenliğine etkisi",
+   "title": "Ekran bağımlılığı kaza riskini artırır",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1585577517704-f3d6f8023665?w=1200",
+     "tag": "Dikkat",
+     "title": "Dikkatin dağılması",
+     "text": "İş sırasında telefona bakmak, tehlikeyi fark etmeyi geciktirir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758876204313-f168b6f81abc?w=1200",
+     "tag": "Uyku",
+     "title": "Uykusuzluk",
+     "text": "Gece geç saate kadar ekran, yorgun ve dalgın bir iş günü demektir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1551952237-954a0e68786c?w=1200",
+     "tag": "Yolda",
+     "title": "Yürürken ve araçta",
+     "text": "Yürürken ya da araç kullanırken telefona bakmak düşme ve kazaya yol açar."
+    }
+   ],
+   "steps": [
+    "Peki teknoloji bağımlılığının iş güvenliğiyle ne ilgisi var? Bu da ders sonunda soracağım bir konu. Kısa cevap: dikkatin dağılması ve uykusuzluk nedeniyle kaza riski artar.",
+    "Birincisi, dikkat dağınıklığı. Bir yandan telefona bakarken bıçakla çalışmak, yük taşımak ya da kasada para saymak, hata ve kaza ihtimalini ciddi şekilde artırır. Beynimiz aynı anda iki işe tam olarak odaklanamaz.",
+    "İkincisi, uykusuzluk. Gece geç saatlere kadar sosyal medyada gezinmek ya da oyun oynamak uyku süresini ve kalitesini düşürür. Ertesi gün yorgun, dalgın ve tepkileri yavaş bir çalışan ortaya çıkar.",
+    "Üçüncüsü, yürürken ve araç kullanırken telefon. Merdivenden inerken ekrana bakmak düşmelere, araç kullanırken mesaj yazmak ise ağır trafik kazalarına yol açabilir. Kısacası teknoloji bağımlılığı kaza riskini azaltmaz, artırır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1637665637343-d497d345ed2f?w=2400",
+   "kicker": "Örnek olay 2",
+   "title": "Ofis koridorunda ekrana dalmak",
+   "bullets": [
+    "Ne oldu: telefona bakarken ıslak zeminde kaydı",
+    "Neden: uykusuzluk ve sürekli ekran",
+    "Doğrusu: yürürken telefonu cebe koymak"
+   ],
+   "steps": [
+    "İkinci örnek olayımız bir ofiste geçiyor. Muhasebe çalışanı Selin, son haftalarda her gece saatlerce telefonda video izliyor, ancak gece yarısından çok sonra uyuyabiliyordu.",
+    "Bir sabah, elinde kahvesi, gözleri telefonunda koridorda yürürken, temizlik görevlisinin yeni sildiği ve uyarı levhası koyduğu ıslak zemini fark etmedi. Kaydı, düştü ve bileğini burktu.",
+    "Uyarı levhası oradaydı, ama Selin'in dikkati ekrandaydı. Uykusuzluk da tepki süresini yavaşlatmıştı; düşerken kendini toparlayamadı.",
+    "Doğrusu, yürürken telefonu cebe koymak, özellikle merdivenlerde ve koridorlarda önüne bakmaktı. Bir de gece ekran süresini sınırlayıp yeterince uyumak... Siz de yürürken ne sıklıkla ekrana bakıyorsunuz?"
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Dijital denge",
+   "title": "Teknolojiyi kontrol altında tutmak için",
+   "items": [
+    {
+     "title": "Bildirimleri azaltın",
+     "text": "Gerekli olmayan uygulama bildirimlerini kapatın"
+    },
+    {
+     "title": "Ekransız saatler",
+     "text": "Yatmadan önce ve yemekte telefonu bırakın"
+    },
+    {
+     "title": "Yürürken cepte",
+     "text": "Merdivende, koridorda ve yolda ekrana bakmayın"
+    },
+    {
+     "title": "Araçta asla",
+     "text": "Araç kullanırken telefonla mesajlaşmayın"
+    },
+    {
+     "title": "Molada hareket",
+     "text": "Ekran yerine kısa yürüyüş ve sohbet tercih edin"
+    }
+   ],
+   "steps": [
+    "Teknolojiyi hayatımızdan çıkaramayız, çıkarmamız da gerekmiyor. Önemli olan onu kontrol altında tutmak. İşte birkaç pratik öneri.",
+    "Gerekli olmayan uygulama bildirimlerini kapatın. Her titreşim, dikkatinizi işten koparır; bildirim azaldıkça telefona bakma isteği de azalır.",
+    "Kendinize ekransız saatler belirleyin. Özellikle yatmadan önce ve yemek sırasında telefonu bırakın; telefonu yatak odası dışında şarj etmek iyi bir başlangıç olabilir.",
+    "Yürürken, özellikle merdivende, koridorda ve karşıdan karşıya geçerken telefonu cebinize koyun. Mesajlar birkaç dakika bekleyebilir, ama bir düşme sizi haftalarca işten uzak tutabilir.",
+    "Araç kullanırken telefonla mesajlaşmayın, sosyal medyaya bakmayın. Bekleyemeyecek bir şey varsa güvenli bir yerde durun.",
+    "Molalarınızda da ekrana bakmak yerine kısa bir yürüyüş yapın ya da bir iş arkadaşınızla sohbet edin. Gözleriniz ve zihniniz gerçekten dinlenir. Kontrolü kaybettiğinizi düşünüyorsanız aile hekiminizden ya da işyeri hekiminizden destek isteyin."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Mola",
+   "title": "Molanızı nasıl geçiriyorsunuz?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1622050956578-94fd044a0ada?w=1200",
+     "ok": true,
+     "title": "Hareket ve temiz hava",
+     "text": "Kısa bir yürüyüş, esneme ya da sohbet; zihni ve gözleri gerçekten dinlendirir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1688578735972-b61ec274df7b?w=1200",
+     "ok": false,
+     "title": "Ekrandan ekrana",
+     "text": "Bilgisayardan kalkıp telefona geçmek molayı mola olmaktan çıkarır."
+    }
+   ],
+   "steps": [
+    "Son olarak, hepimizin her gün yaşadığı mola alışkanlıklarımıza bakalım. Çünkü bağımlılıkla mücadelede küçük günlük alışkanlıklar çok şey değiştirir.",
+    "Doğru olan; molada kalkıp kısa bir yürüyüş yapmak, temiz hava almak, biraz esnemek ya da bir iş arkadaşınızla yüz yüze sohbet etmektir. Bu hem zihninizi hem gözlerinizi dinlendirir, sigara ya da ekran isteğini de azaltır.",
+    "Yanlış olan ise bilgisayardan kalkıp hemen telefona geçmek, molayı da ekran başında geçirmektir. Bu durumda gözler ve zihin hiç dinlenmez; mola bittiğinde yine yorgun ve dalgın olursunuz."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=2400",
+   "kicker": "Kapanış",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Kapalı işyerlerinde tütün ürünü kullanımı yasaktır",
+    "Alkol ve uyuşturucu dikkat ve refleksleri azaltır, kaza riskini artırır",
+    "Teknoloji bağımlılığı dikkat dağınıklığı ve uykusuzlukla kazaya yol açar",
+    "Destek için: ALO 171, ALO 191, aile ve işyeri hekimi",
+    "Acil durumda: 112"
+   ],
+   "steps": [
+    "Dersimizin sonuna geldik. Akılda kalması gereken en önemli noktaları bir kez daha, kısaca birlikte hatırlayalım.",
+    "Kapalı işyerlerinde tütün ürünü kullanımı 4207 sayılı Kanun gereği yasaktır. Bu yasak mola saatinde de geçerlidir ve işverenin iznine bağlı değildir.",
+    "Alkol ya da uyuşturucu etkisinde çalışmanın en önemli riski, dikkat ve reflekslerin azalmasıyla iş kazası riskinin artmasıdır. Unutmayın, alkolün etkisi ertesi sabah da sürebilir.",
+    "Teknoloji bağımlılığı da dikkatin dağılmasına ve uykusuzluğa yol açarak kaza riskini artırır. Yürürken ve araç kullanırken telefonu bırakın.",
+    "Destek almak bir zayıflık değil, güçlü bir adımdır. Sigarayı bırakmak için ALO 171'i, madde kullanımıyla ilgili danışmanlık için ALO 191'i arayabilir, aile hekiminize ya da işyeri hekiminize başvurabilirsiniz.",
+    "Hayati tehlike olan durumlarda ise 112'yi arayın. Dersin sonunda birkaç kısa soru sizi bekliyor. Hepinize sağlıklı ve güvenli günler dilerim."
+   ]
+  }
+ ]
+}

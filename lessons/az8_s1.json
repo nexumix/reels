@@ -1,0 +1,513 @@
+{
+ "code": "az8_s1",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "2. Bölüm · Sağlık Konuları",
+ "title": "Meslek hastalıklarının sebepleri",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1758691461990-03b49d969495?w=2400",
+   "kicker": "2. Bölüm · Ders 1",
+   "title": "Meslek hastalıklarının sebepleri",
+   "subtitle": "İşin sağlığımızı sessizce nasıl etkilediğini tanıyalım",
+   "steps": [
+    "Merhaba, sağlık konularına hoş geldiniz. Bu ilk derste, işin sağlığımızı nasıl etkileyebildiğini konuşacağız. İş kazası bir anda olur ve herkes görür. Meslek hastalığı ise yavaş ilerler; çoğu zaman kimse fark etmez.",
+    "Bu yüzden meslek hastalıklarının sebeplerini bilmek çok önemli. Sebebi bilinen bir hastalığı önlemek mümkündür. Hazırsanız, ofisten mağazaya, depodan kafeye kadar her işyerinde karşımıza çıkabilecek riskleri birlikte tanıyalım."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Tanım",
+     "text": "Meslek hastalığı nedir, iş kazasından farkı ne?"
+    },
+    {
+     "title": "Sebepler",
+     "text": "Fiziksel, kimyasal, biyolojik, ergonomik, psikososyal etkenler"
+    },
+    {
+     "title": "Örnek olaylar",
+     "text": "Az tehlikeli işyerlerinden gerçekçi hikâyeler"
+    },
+    {
+     "title": "Erken fark etme",
+     "text": "Sağlık muayeneleri, tanı ve bildirim"
+    }
+   ],
+   "steps": [
+    "Önce dersin yol haritasına bakalım. Dört adımda ilerleyeceğiz ve her adımda kendi işyerinizi düşünmenizi isteyeceğim.",
+    "İlk olarak meslek hastalığının ne olduğunu ve iş kazasından nasıl ayrıldığını netleştireceğiz. Çünkü doğru tanımı bilmek, doğru önlemi almanın ilk adımıdır.",
+    "Sonra hastalıklara yol açan etkenleri beş başlıkta inceleyeceğiz: fiziksel, kimyasal, biyolojik, ergonomik ve psikososyal etkenler.",
+    "Ardından az tehlikeli işyerlerinden örnek olaylara bakacağız. Bir ofis, bir mağaza deposu ve bir kuaför salonu. Ne oldu, ne yapılmalıydı, birlikte değerlendireceğiz.",
+    "Son olarak da meslek hastalıklarının nasıl erken fark edildiğini, yani sağlık muayenelerini, tanı ve bildirim sürecini konuşacağız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=2400",
+   "kicker": "Tanım",
+   "title": "Meslek hastalığı nedir?",
+   "bullets": [
+    "Yapılan işin niteliğinden kaynaklanan hastalık",
+    "Ya da işin yürütüm koşullarından kaynaklanan hastalık",
+    "Mesleki risklere maruz kalmanın sonucudur"
+   ],
+   "steps": [
+    "İlk sorumuz şu: meslek hastalığı nedir? Basitçe söylemek gerekirse, işinizden kaynaklanan hastalıktır. Ama bunu biraz daha açalım, çünkü dersin sonunda bu tanımı soracağım.",
+    "Birinci olarak, yapılan işin niteliğinden kaynaklanan hastalık. Örneğin her gün saatlerce gürültülü bir ortamda çalışan birinin zamanla işitmesinin azalması.",
+    "İkinci olarak, işin yürütüm koşullarından kaynaklanan hastalık. Yani işin kendisi değil, yapılış biçimi sorun yaratır: kötü havalandırma, uygun olmayan çalışma masası ya da sürekli aynı hareketi tekrar etmek gibi.",
+    "6331 sayılı Kanun da meslek hastalığını, mesleki risklere maruziyet sonucu ortaya çıkan hastalık olarak tanımlar. Özetle: grip gibi mevsimsel bir hastalık ya da doğuştan gelen bir rahatsızlık meslek hastalığı değildir. Belirleyici olan, hastalıkla iş arasındaki bağdır."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Farkı bilelim",
+   "title": "Kaza, hastalık ve işle ilgili hastalık",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1681726267024-04427f16ad45?w=1200",
+     "tag": "Ani",
+     "title": "İş kazası",
+     "text": "Bir anda olur, etkisi hemen görülür. Örneğin kayıp düşme ya da elin kesilmesi."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1623376550339-24a8815405d0?w=1200",
+     "tag": "Yavaş",
+     "title": "Meslek hastalığı",
+     "text": "Aylar, yıllar içinde gelişir. Sebebi doğrudan işteki maruziyettir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758874572670-63042c5448c6?w=1200",
+     "tag": "Karma",
+     "title": "İşle ilgili hastalık",
+     "text": "Birçok sebebi vardır; iş koşulları onu başlatabilir ya da ağırlaştırabilir."
+    }
+   ],
+   "steps": [
+    "Peki meslek hastalığını iş kazasından ne ayırır? Burada üç kavramı yan yana koymak işimizi kolaylaştırır.",
+    "İş kazası ani bir olaydır. Merdivenden düşmek, elinizi kesmek ya da bir rafın devrilmesi gibi. Ne zaman ve nasıl olduğu bellidir, etkisi de hemen görülür.",
+    "Meslek hastalığı ise sinsidir. Aynı etkene her gün biraz biraz maruz kalırsınız; hastalık aylar, hatta yıllar içinde gelişir. Ne zaman başladığını çoğu kişi fark etmez.",
+    "Bir de işle ilgili hastalıklar vardır. Bel ağrısı ya da yüksek tansiyon gibi rahatsızlıkların birçok sebebi olabilir; ama kötü iş koşulları bu rahatsızlıkları başlatabilir veya ağırlaştırabilir. Yani işyerinde alınan önlemler bu hastalıkları da azaltır."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1758520145147-c30bc656f314?w=2400",
+   "kicker": "Sinsi ilerleyiş",
+   "value": "Yıllar",
+   "title": "Meslek hastalıklarının belirtileri bazen yıllar sonra, hatta işten ayrıldıktan sonra ortaya çıkar",
+   "text": "Bugün hiçbir şikâyetiniz olmaması, maruziyetin zararsız olduğu anlamına gelmez",
+   "steps": [
+    "Meslek hastalıklarının en tehlikeli yanı şu: belirtiler çoğu zaman yıllar sonra ortaya çıkar. Bazen kişi o işten ayrıldıktan, hatta emekli olduktan sonra hastalığını öğrenir.",
+    "Bu yüzden bugün hiçbir şikâyetinizin olmaması, maruz kaldığınız etkenin zararsız olduğu anlamına gelmez. İşitme kaybı, akciğer hastalıkları ya da bazı cilt hastalıkları sessizce ilerler. Önlemi, şikâyet başlamadan almak gerekir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1560264280-88b68371db39?w=2400",
+   "kicker": "Sebepler",
+   "title": "Meslek hastalıklarına yol açan 5 grup etken",
+   "bullets": [
+    "Fiziksel: gürültü, titreşim, aydınlatma, sıcak ve soğuk",
+    "Kimyasal: temizlik maddeleri, tozlar, buharlar",
+    "Biyolojik: bakteri, virüs, mantar",
+    "Ergonomik: duruş, tekrarlayan hareket, yük taşıma",
+    "Psikososyal: stres, aşırı iş yükü, mobbing"
+   ],
+   "steps": [
+    "Şimdi asıl konumuza geçelim: meslek hastalıklarına neler sebep olur? Etkenleri beş grupta toplayabiliriz. Her birini duyduğunuzda kendi işyerinizi düşünün.",
+    "Fiziksel etkenler: gürültü, titreşim, yetersiz ya da göz kamaştıran aydınlatma, aşırı sıcak veya soğuk ortamlar.",
+    "Kimyasal etkenler: temizlik maddeleri, dezenfektanlar, tozlar, boya ve yapıştırıcı buharları. Az tehlikeli işyerlerinde en sık temizlik kimyasallarıyla karşılaşırız.",
+    "Biyolojik etkenler: bakteri, virüs ve mantar gibi canlı kaynaklı etkenler. Bunları üçüncü dersimizde ayrıntılı konuşacağız.",
+    "Ergonomik etkenler: yanlış oturma, sürekli tekrarlanan hareketler ve uygun olmayan yük taşıma. Ofis ve mağaza çalışanlarının en sık yaşadığı sağlık sorunları bu gruptan gelir.",
+    "Psikososyal etkenler ise stres, aşırı iş yükü, belirsiz görevler ve mobbing gibi işin örgütlenmesinden doğan risklerdir. Gözle görülmezler ama etkileri en az diğerleri kadar gerçektir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1738566495571-80dd493b5f62?w=2400",
+   "kicker": "Fiziksel etkenler",
+   "title": "Gürültü: en yaygın fiziksel etken",
+   "bullets": [
+    "Uzun süreli yüksek gürültü işitmeyi bozar",
+    "Kulak çınlaması ilk uyarı olabilir",
+    "Stres, yorgunluk ve dikkat dağınıklığı yapar"
+   ],
+   "steps": [
+    "Fiziksel etkenlerin başında gürültü gelir. Bir kafede kahve değirmeni ve süt köpürtme makinesi, bir çağrı merkezinde gün boyu kulaklık, bir matbaada baskı makinesi. Bunlar az tehlikeli işyerlerinde de karşımıza çıkar.",
+    "Uzun süre yüksek gürültüye maruz kalmanın en tipik sonucu işitme kaybıdır. Bunu aklınızda tutun; dersin sonunda soracağım.",
+    "Gürültülü bir günün ardından kulaklarınızda çınlama oluyorsa ya da sesler boğuk geliyorsa, bu vücudunuzun ilk uyarısı olabilir. Bunu önemsemeyin demiyorum; tam tersine, işyeri hekiminize söyleyin.",
+    "Gürültü sadece kulağı etkilemez. Baş ağrısı, yorgunluk, sinirlilik ve dikkat dağınıklığı da yapar. Dikkatin dağılması ise iş kazası riskini artırır."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Gürültü Yönetmeliği",
+   "title": "Günlük gürültü maruziyetinde eşikler",
+   "items": [
+    {
+     "value": "80",
+     "unit": "dB(A)",
+     "label": "en düşük eylem değeri: bilgi, eğitim, KKD hazır"
+    },
+    {
+     "value": "85",
+     "unit": "dB(A)",
+     "label": "en yüksek eylem değeri: kulak koruyucu kullanılır"
+    },
+    {
+     "value": "87",
+     "unit": "dB(A)",
+     "label": "sınır değer: kulak koruyucuyla bile aşılamaz"
+    }
+   ],
+   "steps": [
+    "Gürültü ölçülebilir bir risktir. Gürültü Yönetmeliği, sekiz saatlik bir iş gününe göre hesaplanan maruziyet için üç eşik belirler. Bunlar desibel cinsinden ifade edilir.",
+    "80 desibel en düşük eylem değeridir. Bu düzeye ulaşıldığında işveren çalışanları bilgilendirir, eğitir ve kulak koruyucuları hazır bulundurur.",
+    "85 desibel en yüksek eylem değeridir. Bu düzeyde kulak koruyucu kullanılması zorunlu hâle gelir; işveren de gürültüyü azaltmak için teknik ve organizasyonel önlemler alır.",
+    "87 desibel ise maruziyet sınır değeridir. Kulak koruyucunun etkisi hesaba katıldığında bile bu değer aşılamaz. Bir fikir vermesi için söyleyeyim: yoğun bir trafik ya da güçlü bir saç kurutma makinesi bu düzeylere yaklaşabilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1623376550339-24a8815405d0?w=2400",
+   "kicker": "Gürültüye bağlı işitme kaybı",
+   "title": "Geri dönüşü olmayan bir kayıp",
+   "bullets": [
+    "Ağrısızdır, yavaş ilerler",
+    "Kalıcıdır, tedavisi yoktur",
+    "Önlenebilir: kaynağında azaltma ve koruma"
+   ],
+   "steps": [
+    "Gürültüye bağlı işitme kaybı neden bu kadar önemli? Çünkü kişi bunu çoğu zaman fark edemez. Önce yüksek frekanslı sesler kaybolur; kuş cıvıltısı, kapı zili ya da bazı ünsüz harfler.",
+    "Bu kayıp ağrı yapmaz ve çok yavaş ilerler. Kişi televizyonun sesini biraz daha açar, karşısındakinden sık sık tekrar etmesini ister ama sebebini düşünmez.",
+    "En kötüsü de şu: iç kulaktaki hasar kalıcıdır. Kaybedilen işitme ilaçla ya da ameliyatla geri gelmez. İşitme cihazı yardımcı olur ama eski işitmeyi geri vermez.",
+    "İyi haber şu ki bu hastalık tamamen önlenebilir. Gürültüyü kaynağında azaltmak, maruziyet süresini kısaltmak ve gerektiğinde kulak koruyucuyu doğru kullanmak yeterlidir."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Diğer fiziksel etkenler",
+   "title": "Işık, sıcaklık ve hava",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1504261473209-7ccd7f92b205?w=1200",
+     "title": "Aydınlatma",
+     "text": "Yetersiz ya da parlayan ışık göz yorgunluğu ve baş ağrısı yapar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1761642119720-1ce47b16d09b?w=1200",
+     "title": "Klima ve hava akımı",
+     "text": "Doğrudan üfleyen soğuk hava kas ağrısı, kuru hava göz ve boğaz şikâyeti yapar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1774978238513-4d9f22ae6e8e?w=1200",
+     "title": "Sıcak ortamlar",
+     "text": "Mutfak ve tezgâh arkasında sıcak; terleme, halsizlik ve sıvı kaybı yapar."
+    }
+   ],
+   "steps": [
+    "Gürültü dışındaki fiziksel etkenler de günlük işimizde sık karşımıza çıkar. Bunlar küçük görünür ama her gün tekrarlandığında sağlığımızı etkiler.",
+    "Aydınlatma bunlardan biri. Loş bir ortamda ya da ekrana ışık yansıyan bir masada çalışmak gözleri yorar, baş ağrısı yapar ve yanlış oturuşa neden olur.",
+    "Klimalar da dikkat ister. Doğrudan üzerinize üfleyen soğuk hava boyun ve sırtta kas ağrısı yapabilir. Çok kuru hava ise göz ve boğaz şikâyetlerini artırır.",
+    "Kafe mutfağı ya da fırın gibi sıcak ortamlarda terleme, halsizlik ve sıvı kaybı görülür. Burada düzenli su içmek, havalandırma ve serin bir alanda verilen kısa molalar önemlidir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1795045245945-cd55a89c2237?w=2400",
+   "kicker": "Kimyasal etkenler",
+   "title": "Temizlik maddeleri de kimyasaldır",
+   "bullets": [
+    "Solunum yoluyla: buhar, sprey, toz",
+    "Deri yoluyla: sıvıyla temas, sıçrama",
+    "Sindirim yoluyla: kirli el, etiketsiz kap"
+   ],
+   "steps": [
+    "Kimyasal etkenler denince aklımıza fabrikalar gelir. Ama çamaşır suyu, kireç çözücü, dezenfektan, yazıcı toneri ve saç boyası da kimyasaldır. Bir kimyasal vücuda üç yoldan girer.",
+    "Birincisi solunum yolu. Sprey hâlindeki ürünler, buharlaşan sıvılar ve tozlar akciğerlere ulaşır. Zamanla astım ve kronik bronşit gibi hastalıklara yol açabilir.",
+    "İkincisi deri yolu. Eldivensiz temizlik yapmak ya da kimyasalın cilde sıçraması; kaşıntı, kızarıklık, çatlama ve egzama dediğimiz kontakt dermatite neden olabilir.",
+    "Üçüncüsü sindirim yolu. Kimyasalla çalıştıktan sonra elleri yıkamadan yemek yemek ya da kimyasalı etiketsiz bir su şişesine koymak bu yolun en sık örnekleridir."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Örnek olay",
+   "title": "Temizlikte iki kimyasal karıştırılırsa",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1758273238741-f33ab240baa0?w=1200",
+     "ok": false,
+     "title": "Karıştırarak kullanmak",
+     "text": "Çamaşır suyu ile asitli bir temizleyici karışınca zehirli gaz çıkar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1748064716276-6fb0fc9da94a?w=1200",
+     "ok": true,
+     "title": "Etiketi okuyup tek ürün",
+     "text": "Ürünler ayrı kullanılır, ortam havalandırılır, eldiven takılır."
+    }
+   ],
+   "steps": [
+    "Bir örnek olay anlatayım. Küçük bir ofiste temizlik yapan Ayşe Hanım, lavabodaki inatçı lekeyi çıkarmak için çamaşır suyu ile kireç çözücüyü aynı anda kullanıyor. Penceresiz banyoda kısa süre içinde gözleri yanıyor, öksürük başlıyor.",
+    "Ne oldu? Çamaşır suyu ile asit içeren bir temizleyici karışınca zehirli bir gaz açığa çıkar. Daha güçlü temizler sanılan bu karışım, aslında solunum yollarına zarar verir. Tekrarlandığında kalıcı akciğer sorunlarına yol açabilir.",
+    "Ne yapılmalıydı? Ürünler asla karıştırılmamalı, etiketteki uyarılar ve güvenlik bilgi formu okunmalı, ortam havalandırılmalı ve eldiven kullanılmalıydı. Kimyasallar da her zaman orijinal, etiketli kaplarında saklanmalı."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1765894518274-f53145743a46?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar öğrendiklerimiz",
+   "bullets": [
+    "Meslek hastalığı: işin niteliğinden veya koşullarından kaynaklanır",
+    "Belirtiler yıllar sonra çıkabilir",
+    "Uzun süreli yüksek gürültü işitme kaybı yapar",
+    "Kimyasallar solunum, deri ve sindirim yoluyla girer"
+   ],
+   "steps": [
+    "Burada kısa bir mola verip buraya kadar öğrendiklerimizi toparlayalım. Sonrasında ergonomik, biyolojik ve psikososyal etkenlere geçeceğiz, ardından da erken fark etme yollarını konuşacağız.",
+    "Meslek hastalığı, yapılan işin niteliğinden veya iş koşullarından kaynaklanan hastalıktır. Belirleyici olan hastalıkla iş arasındaki bağdır.",
+    "Meslek hastalıkları sinsi ilerler. Belirtiler yıllar sonra, hatta işten ayrıldıktan sonra ortaya çıkabilir. Bu yüzden önlem, şikâyet başlamadan alınır.",
+    "Uzun süre yüksek gürültüye maruz kalmanın en tipik sonucu işitme kaybıdır ve bu kayıp kalıcıdır.",
+    "Kimyasallar vücuda solunum, deri ve sindirim yoluyla girer. Temizlik maddeleri de kimyasaldır ve asla birbirine karıştırılmaz."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Ergonomik etkenler",
+   "title": "Vücudumuzu zorlayan çalışma biçimleri",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1741707042010-4e00d878f5b8?w=1200",
+     "tag": "Yük",
+     "title": "Elle taşıma",
+     "text": "Ağır, sık ya da yanlış duruşla taşınan yükler bel ve boyun rahatsızlığı yapar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758520144775-2794c50baf4d?w=1200",
+     "tag": "Ekran",
+     "title": "Uzun süre ekran",
+     "text": "Göz yorgunluğu, kuruluk, baş ağrısı ve boyun-omuz ağrıları görülür."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1766066014237-00645c74e9c6?w=1200",
+     "tag": "Tekrar",
+     "title": "Tekrarlayan hareket",
+     "text": "Klavye, fare, kasa ve tarama işleri bilek ile dirsekte rahatsızlık yapar."
+    }
+   ],
+   "steps": [
+    "Az tehlikeli işyerlerinde en sık karşılaşılan sağlık sorunlarının başında kas ve iskelet sistemi rahatsızlıkları gelir. Bunların sebebi ergonomik etkenlerdir. Üç örneğe bakalım.",
+    "Birincisi elle yük taşıma. Mağazada koli indirmek, depoda raf doldurmak, kafede su damacanası taşımak. Belden eğilerek, yükü vücuttan uzak tutarak ve sık tekrarlanarak yapılan taşıma, bel fıtığına kadar giden sorunlara yol açabilir.",
+    "İkincisi uzun süre ekran başında çalışmak. Göz yorgunluğu, gözde kuruluk, baş ağrısı, boyun ve omuz ağrıları en sık şikâyetlerdir. Ekranın yüksekliği, mesafesi ve ışık yansıması burada çok önemlidir.",
+    "Üçüncüsü tekrarlayan hareketler. Saatlerce klavye ve fare kullanmak, kasada ürün okutmak. Bilekte uyuşma, karıncalanma ve ağrı görülebilir. Karpal tünel sendromu bunun bilinen bir örneğidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1681726267024-04427f16ad45?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Depoda her gün aynı hata",
+   "bullets": [
+    "Yükü belden eğilerek kaldırmak",
+    "Ağrıyı önemsemeyip bildirmemek",
+    "Çözüm: araç, doğru teknik, iş rotasyonu"
+   ],
+   "steps": [
+    "Bir örnek olay daha. Bir giyim mağazasının deposunda çalışan Mehmet Bey, her sabah sevkiyattan gelen kolileri yerden alıp üst raflara diziyor. Aceleyle, belini bükerek ve kolileri vücudundan uzakta tutarak çalışıyor.",
+    "Aylar içinde bel ağrısı başlıyor. Mehmet Bey bunu yorgunluğa veriyor ve kimseye söylemiyor. Bir gün ağrı bacağına vuruyor ve doktor bel fıtığı tanısı koyuyor.",
+    "Burada hata tek bir olay değil; aylarca tekrarlanan yanlış hareket. Ve ağrının ilk günlerde bildirilmemesi. Erken bildirilseydi hem işyeri hekimi müdahale edebilir hem de iş düzenlenebilirdi.",
+    "Ne yapılmalıydı? Taşıma arabası ve basamaklı merdiven sağlanmalı, yükler dizlerden bükülerek ve vücuda yakın tutularak kaldırılmalı, ağır işler çalışanlar arasında dönüşümlü paylaştırılmalıydı."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1688578735972-b61ec274df7b?w=2400",
+   "kicker": "Ofiste gizli riskler",
+   "title": "Masa başı çalışmanın sağlık bedeli",
+   "bullets": [
+    "Uzun süre hareketsiz oturmak",
+    "Göz hizasında olmayan ekran",
+    "Yetersiz aydınlatma ve parlama",
+    "Kötü havalandırma ve kuru hava"
+   ],
+   "steps": [
+    "Ofiste çalışanlar çoğu zaman kendilerini risksiz sanır. Oysa masa başı çalışmanın da bir sağlık bedeli vardır. Siz bugün kaç saat aralıksız oturdunuz? Bir düşünün.",
+    "Uzun süre hareketsiz oturmak bel ve boyun ağrısının yanında dolaşım sorunlarına da zemin hazırlar. Saatlerce aynı pozisyonda kalmak kasları yorar.",
+    "Ekran göz hizasında değilse başınızı sürekli öne eğer ya da yukarı kaldırırsınız. Bu da boyun ve omuz ağrısının en sık sebebidir.",
+    "Yetersiz aydınlatma, pencereden ya da tavan lambasından ekrana düşen parlama gözleri yorar, baş ağrısı yapar.",
+    "Kötü havalandırılan, kuru ve kalabalık ofislerde ise baş ağrısı, gözde kuruluk ve solunum yolu şikâyetleri artar. Bunların hepsi düzeltilebilir koşullardır."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Diğer etkenler",
+   "title": "Biyolojik ve psikososyal etkenler",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1727091506038-5451111dc2fb?w=1200",
+     "title": "Biyolojik etkenler",
+     "text": "Bakteri, virüs ve mantarlar; temizlik, mutfak, okul ve sağlık işlerinde öne çıkar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1752650735615-9829d8008a01?w=1200",
+     "title": "Psikososyal etkenler",
+     "text": "Aşırı iş yükü, belirsiz görevler, mobbing; ruh ve beden sağlığını bozar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1770832161810-04cff861da2b?w=1200",
+     "title": "Birlikte etki",
+     "text": "Etkenler çoğu zaman bir arada bulunur ve birbirinin etkisini artırır."
+    }
+   ],
+   "steps": [
+    "Beş grubun son ikisine kısaca değinelim. Bu ikisini üçüncü dersimizde ayrıntılı işleyeceğiz, şimdilik genel çerçeveyi çizelim.",
+    "Biyolojik etkenler bakteri, virüs ve mantar gibi canlılardır. Temizlik görevlileri, mutfak çalışanları, öğretmenler ve hastalarla temas eden çalışanlar bu etkenlerle daha sık karşılaşır.",
+    "Psikososyal etkenler ise işin nasıl örgütlendiğiyle ilgilidir. Aşırı iş yükü, belirsiz görev tanımları, sürekli zaman baskısı ve mobbing; uykusuzluk, kaygı, depresyon, hatta kalp ve mide rahatsızlıklarına yol açabilir.",
+    "Unutmayın, etkenler çoğu zaman bir aradadır. Yoğun bir restoran mutfağını düşünün: sıcak, gürültü, ayakta çalışma, kimyasal temizleyiciler ve zaman baskısı aynı anda bulunur. Her biri diğerinin etkisini artırır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Kuaförde ellerdeki kızarıklık",
+   "bullets": [
+    "Boya ve şampuana eldivensiz temas",
+    "Islak çalışma cildi zayıflatır",
+    "Çözüm: eldiven, havalandırma, nemlendirme"
+   ],
+   "steps": [
+    "Üçüncü örnek olayımız bir kuaför salonundan. Zeynep Hanım iki yıldır kuaförlük yapıyor. Saç boyası hazırlarken ve şampuanla yıkama yaparken eldiven kullanmıyor, çünkü eldivenle daha yavaş çalıştığını düşünüyor.",
+    "Önce ellerinde kuruluk, sonra kızarıklık ve çatlaklar başlıyor. Zamanla kaşıntılı yaralar oluşuyor. Doktor, boyadaki kimyasallara bağlı kontakt dermatit tanısı koyuyor. Kimyasala karşı alerji geliştiğinde, en küçük temas bile şikâyetleri yeniden başlatabiliyor.",
+    "Burada iki etken bir arada: hem kimyasal temas, hem de gün boyu ıslak çalışmak. Islak kalan cilt koruyucu tabakasını kaybeder ve kimyasallar daha kolay etki eder.",
+    "Ne yapılmalıydı? Boya ve yıkama işlerinde uygun eldiven kullanılmalı, boya karıştırılan alan havalandırılmalı ve eller düzenli olarak nemlendirilmeliydi. Kızarıklık ilk başladığında da hekime başvurulmalıydı."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1758520144775-2794c50baf4d?w=2400",
+   "kicker": "Neden herkes hastalanmaz?",
+   "value": "Doz × süre",
+   "title": "Hastalık riskini etkenin şiddeti, maruz kalma süresi ve kişinin duyarlılığı birlikte belirler",
+   "text": "Gebeler, gençler, kronik hastalığı olanlar gibi bazı çalışanlar daha duyarlıdır ve ek koruma gerekir",
+   "steps": [
+    "Aklınıza şu soru gelmiş olabilir: aynı ortamda çalışan herkes hastalanmıyor, neden? Çünkü risk tek bir şeye bağlı değildir. Etkenin şiddeti ve maruz kalma süresi, yani doz ve süre, en belirleyici iki unsurdur.",
+    "Bir de kişisel duyarlılık var. Gebe ve emziren çalışanlar, genç çalışanlar, kronik hastalığı ya da alerjisi olanlar bazı etkenlerden daha kolay etkilenir. Kanun bu grupları özel politika gerektiren gruplar olarak ele alır ve onlar için ek önlem alınmasını ister."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Tanı ve bildirim",
+   "title": "Meslek hastalığı nasıl tespit edilir?",
+   "items": [
+    {
+     "title": "Şüphe",
+     "text": "Çalışan, işyeri hekimi veya hekim işle bağlantıdan şüphelenir"
+    },
+    {
+     "title": "Yetkili hastane",
+     "text": "SGK'nın yetkilendirdiği sağlık kuruluşunda inceleme yapılır"
+    },
+    {
+     "title": "SGK kararı",
+     "text": "Rapor ve tıbbi belgeler SGK Sağlık Kurulunda incelenir"
+    },
+    {
+     "title": "Bildirim",
+     "text": "İşveren, öğrendiği tarihten itibaren 3 iş günü içinde SGK'ya bildirir"
+    }
+   ],
+   "steps": [
+    "Peki bir hastalığın meslek hastalığı olduğu nasıl anlaşılır? Bunun belirli bir süreci vardır. Adım adım bakalım.",
+    "Her şey bir şüpheyle başlar. Çalışanın şikâyetleri, işyeri hekiminin muayene bulguları ya da başka bir hekimin değerlendirmesi, hastalığın işle bağlantılı olabileceğini düşündürür.",
+    "Kişi, SGK'nın meslek hastalığı tanısı koymak için yetkilendirdiği sağlık kuruluşlarına yönlendirilir. Burada iş öyküsü ayrıntılı incelenir, gerekli tetkikler yapılır.",
+    "Düzenlenen sağlık kurulu raporu ve tıbbi belgeler, SGK Sağlık Kurulu tarafından incelenir. Hastalığın meslek hastalığı olup olmadığı bu incelemeyle kesinleşir.",
+    "İşveren de işyeri hekimi veya sağlık kuruluşları tarafından kendisine bildirilen meslek hastalığını, öğrendiği tarihten itibaren 3 iş günü içinde SGK'ya bildirmekle yükümlüdür."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1666886573531-48d2e3c2b684?w=2400",
+   "kicker": "Erken fark etme",
+   "title": "İşe giriş ve periyodik sağlık muayeneleri",
+   "bullets": [
+    "İşe girişte: işe uygun olup olmadığınız belirlenir",
+    "Periyodik olarak: işin sağlığa etkisi izlenir",
+    "İş değişikliğinde ve uzun hastalık sonrası dönüşte",
+    "Maliyeti çalışana yansıtılamaz"
+   ],
+   "steps": [
+    "Meslek hastalıklarının erken fark edilmesi için ne yapılır? Cevap: işe giriş ve periyodik sağlık muayeneleri. Bu da dersin sonunda karşınıza çıkacak bir soru.",
+    "İşe giriş muayenesi, siz işe başlamadan önce yapılır. Amaç, sağlık durumunuzun o işe uygun olup olmadığını görmek ve ileride karşılaştırma yapabilmek için bir başlangıç kaydı oluşturmaktır.",
+    "Periyodik muayeneler ise çalıştığınız süre boyunca, işin riskine göre belirlenen aralıklarla tekrarlanır. Örneğin gürültülü bir ortamda çalışan birine işitme testi yapılır. Böylece küçük bir değişiklik bile kalıcı hasara dönüşmeden yakalanır.",
+    "İş değişikliğinde ve iş kazası ya da meslek hastalığı nedeniyle tekrarlanan işten uzaklaşmalardan sonra işe dönüşte de, talep edilirse muayene yapılır.",
+    "Ve önemli bir hak: sağlık gözetiminin maliyeti çalışana yansıtılamaz. Muayeneler işverenin yükümlülüğüdür; size düşen ise bu muayenelere katılmak ve şikâyetlerinizi açıkça anlatmaktır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1758518731706-be5d5230e5a5?w=2400",
+   "kicker": "Sizin rolünüz",
+   "title": "Meslek hastalığını önlemede size düşenler",
+   "bullets": [
+    "Riskleri tanıyın ve işyerinizde arayın",
+    "KKD'yi doğru ve sürekli kullanın",
+    "Şikâyetlerinizi erken bildirin",
+    "Sağlık muayenelerine katılın"
+   ],
+   "steps": [
+    "Peki siz bu konuda ne yapabilirsiniz? Önlemlerin büyük bölümü işverenin sorumluluğunda. Ama sizin katkınız olmadan hiçbir önlem tam işe yaramaz.",
+    "Önce riskleri tanıyın. Bu derste öğrendiğiniz beş etken grubunu işyerinizde arayın. Gürültülü bir köşe, havasız bir oda, sürekli eğilerek yapılan bir iş var mı?",
+    "Size verilen kişisel koruyucu donanımı, yani KKD'yi doğru ve sürekli kullanın. Eldiveni sadece bazen takmak, hiç takmamaktan pek farklı değildir.",
+    "Kulak çınlaması, bilekte uyuşma, geçmeyen öksürük ya da ciltte kızarıklık gibi şikâyetleri erken bildirin. Erken bildirilen şikâyet, çoğu zaman basit bir düzenlemeyle çözülür.",
+    "Ve sağlık muayenelerine mutlaka katılın. Bu muayeneler sizi işten uzaklaştırmak için değil, sağlığınızı korumak için yapılır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1758874572670-63042c5448c6?w=2400",
+   "kicker": "Erken uyarılar",
+   "title": "Bu belirtileri önemseyin",
+   "bullets": [
+    "Kulak çınlaması, seslerin boğuklaşması",
+    "Bilekte uyuşma, sırt ve bel ağrısı",
+    "Geçmeyen öksürük, ciltte kızarıklık"
+   ],
+   "steps": [
+    "Kapanıştan önce, vücudunuzun size verdiği erken uyarıları bir kez daha hatırlatmak istiyorum. Bu belirtiler tek başına hastalık anlamına gelmez; ama dikkat etmeniz gerektiğini gösterir.",
+    "Gürültülü bir günün ardından kulak çınlaması ya da seslerin boğuk gelmesi, işitmenin zorlandığını gösterebilir. Bu durum tekrar ediyorsa işitme testi yaptırmanın zamanı gelmiş demektir.",
+    "Bilekte uyuşma ve karıncalanma, gün sonunda artan sırt ve bel ağrısı, ergonomik bir sorunun habercisi olabilir.",
+    "İş günlerinde artıp tatilde azalan öksürük, nefes darlığı ya da ciltte kızarıklık ise işyerindeki bir etkene bağlı olabilir. Bu belirtilerde işyeri hekiminize başvurun ve işinizi mutlaka anlatın."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Meslek hastalığı: işin niteliğinden veya iş koşullarından kaynaklanır",
+    "5 etken grubu: fiziksel, kimyasal, biyolojik, ergonomik, psikososyal",
+    "Uzun süreli yüksek gürültünün tipik sonucu işitme kaybıdır",
+    "Erken fark etmek için işe giriş ve periyodik muayeneler yapılır"
+   ],
+   "steps": [
+    "Dersimizin sonuna geldik. Öğrendiklerimizi son bir kez toparlayalım; dersin sonundaki soruların cevapları bu özetin içinde.",
+    "Meslek hastalığı, yapılan işin niteliğinden veya iş koşullarından kaynaklanan hastalıktır. Mevsimsel ya da doğuştan gelen hastalıklar meslek hastalığı değildir.",
+    "Meslek hastalıklarına yol açan etkenleri beş grupta topladık: fiziksel, kimyasal, biyolojik, ergonomik ve psikososyal etkenler.",
+    "Uzun süre yüksek gürültüye maruz kalmanın en tipik sonucu işitme kaybıdır ve bu kayıp geri dönmez.",
+    "Meslek hastalıklarını erken fark etmek için işe giriş ve periyodik sağlık muayeneleri yapılır. Dersin sonunda birkaç kısa soru sizi bekliyor. Bir sonraki derste de bu hastalıklardan nasıl korunacağımızı konuşacağız. Başarılar dilerim."
+   ]
+  }
+ ]
+}

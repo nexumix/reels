@@ -1,0 +1,480 @@
+{
+ "code": "az8_t2",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "3. Bölüm · Teknik Konular",
+ "title": "Parlama, patlama; yangın ve yangından korunma",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1712640379137-6d2532f887a7?w=2400",
+   "kicker": "3. Bölüm · Ders 2",
+   "title": "Parlama, patlama, yangın ve yangından korunma",
+   "subtitle": "Yangını tanımak, önlemek ve doğru müdahale etmek",
+   "steps": [
+    "Merhaba, yeni dersimize hoş geldiniz. Bu derste yangını konuşacağız. Yangın, ofis ya da mağaza gibi az tehlikeli sayılan işyerlerinde bile birkaç dakika içinde her şeyi değiştirebilen bir olaydır.",
+    "İyi haber şu: yangınların büyük kısmı önlenebilir. Ve küçükken fark edilen bir yangın, doğru bilgiyle çoğu zaman büyümeden kontrol altına alınabilir. Bugün tam olarak bunu öğreneceğiz."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Bu derste",
+   "title": "Neler öğreneceğiz?",
+   "items": [
+    {
+     "title": "Yanma nasıl olur",
+     "text": "Yangın üçgeni; parlama ve patlama farkı"
+    },
+    {
+     "title": "Yangın sınıfları",
+     "text": "Hangi yangına hangi söndürücü"
+    },
+    {
+     "title": "Önleme",
+     "text": "İşyerinde yangını başlamadan durdurmak"
+    },
+    {
+     "title": "Müdahale ve tahliye",
+     "text": "Söndürücü kullanımı, acil durum ve kaçış"
+    }
+   ],
+   "steps": [
+    "Önce dersin yol haritasına bakalım. Dört ana başlığımız var ve her biri bir öncekinin üzerine kurulu.",
+    "Birincisi, yanmanın nasıl gerçekleştiği. Yangın üçgenini ve parlama ile patlamanın yangından farkını birlikte ele alacağız.",
+    "İkincisi, yangın sınıfları. Çünkü her yangın aynı şekilde söndürülmez; yanlış söndürücü durumu daha da kötüleştirebilir.",
+    "Üçüncüsü, önleme. Yani yangını daha başlamadan durduracak ve her gün kolayca uygulayabileceğiniz birkaç basit alışkanlık.",
+    "Ve dördüncüsü, yangın anında ne yapacağımız: söndürücüyü doğru kullanmak, alarm vermek ve güvenle tahliye olmak."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1507048947301-7afc2aca0edc?w=2400",
+   "kicker": "Temel bilgi",
+   "title": "Yangın üçgeni",
+   "bullets": [
+    "Yanıcı madde: kâğıt, karton, kumaş, yağ, gaz",
+    "Oksijen: havada her zaman bulunur",
+    "Isı: kıvılcım, sigara, ısınan kablo, ocak"
+   ],
+   "steps": [
+    "Yanma bir kimyasal tepkimedir ve gerçekleşmesi için üç unsurun aynı anda bir araya gelmesi gerekir. Buna yangın üçgeni diyoruz. Bu üç unsur yanıcı madde, oksijen ve ısıdır. Bu bilgiyi lütfen aklınızda tutun.",
+    "Birinci unsur yanıcı madde. Ofiste kâğıt, karton, perde ve mobilya; mutfakta yağ; kazan dairesinde ya da mutfakta gaz. Etrafımız yanıcı maddeyle dolu.",
+    "İkinci unsur oksijen. Soluduğumuz havada her zaman bulunur. Bu yüzden yangın için hep hazır bekleyen bir unsurdur.",
+    "Üçüncü unsur ısı. Bir kıvılcım, yere atılmış bir sigara, aşırı yüklenip ısınan bir kablo ya da açık unutulan bir ocak bu ısıyı sağlayabilir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1513460587394-905bb175a04c?w=2400",
+   "kicker": "Söndürmenin mantığı",
+   "value": "1 kenar",
+   "title": "Üçgenden tek bir kenarı kaldırırsanız yanma durur",
+   "text": "Soğutmak ısıyı, boğmak oksijeni, yanıcıyı uzaklaştırmak yakıtı ortadan kaldırır",
+   "steps": [
+    "Yangın üçgenini bilmenin pratik bir faydası var. Üç unsurdan yalnızca birini ortadan kaldırırsanız yanma devam edemez. Bütün söndürme yöntemleri bu basit mantığa dayanır.",
+    "Su ile soğuttuğunuzda ısıyı alırsınız. Bir tavanın kapağını kapattığınızda ya da yangın battaniyesi örttüğünüzde oksijeni kesersiniz. Gaz vanasını kapattığınızda veya yanıcı malzemeyi uzaklaştırdığınızda ise yakıtı ortadan kaldırırsınız.",
+    "Bir örnekle düşünelim: çöp kutusunda küçük bir yangın başladı. Kutunun üzerini metal bir kapakla örtmek oksijeni keser. Yakınındaki kâğıt yığınını uzaklaştırmak yakıtı azaltır. Uygun söndürücü ise hem soğutur hem boğar. Hangi yöntemi seçerseniz seçin, mantık aynıdır."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Kavramlar",
+   "title": "Parlama, patlama ve yangın",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1490447519689-42dc651e8eb3?w=1200",
+     "tag": "Parlama",
+     "title": "Ani ve kısa alevlenme",
+     "text": "Yanıcı buharın bir kıvılcımla bir anda tutuşması. Örneğin açık bırakılmış tiner ya da alkol."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1661045683387-a58b92c4ac55?w=1200",
+     "tag": "Patlama",
+     "title": "Çok hızlı yanma ve basınç",
+     "text": "Gaz, buhar ya da toz bulutunun kapalı alanda tutuşması. Örneğin LPG ya da doğalgaz kaçağı."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1483968049578-867b9ad94034?w=1200",
+     "tag": "Yangın",
+     "title": "Kontrolsüz ve süren yanma",
+     "text": "Yanıcı madde, oksijen ve ısı oldukça yayılarak devam eden, kontrol dışı yanma."
+    }
+   ],
+   "steps": [
+    "Dersin başlığında üç kavram var: parlama, patlama ve yangın. Birbirine yakın görünseler de aralarında önemli farklar var.",
+    "Parlama, yanıcı bir sıvının havaya karışan buharının bir kıvılcımla bir anda tutuşmasıdır. Kısa sürer ama yakındaki kişiyi yakabilir. Kapağı açık bırakılan tiner, alkol ya da kolonya buna örnektir. Bu yüzden bu tür sıvılar ağzı kapalı, ısı kaynaklarından uzakta saklanır.",
+    "Patlama ise çok hızlı gerçekleşen bir yanmadır ve ani bir basınç oluşturur. Kapalı bir alanda biriken gaz, buhar ya da ince toz bulutu tutuşursa patlama olur. Az tehlikeli işyerlerinde en akla yakın örnek bir LPG ya da doğalgaz kaçağıdır.",
+    "Yangın ise yanıcı madde, oksijen ve ısı var olduğu sürece yayılarak devam eden, kontrolden çıkmış yanmadır. Parlama ve patlama çoğu zaman bir yangını da başlatır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1661045542820-e0e02836be15?w=2400",
+   "kicker": "Gaz kokusu alırsanız",
+   "title": "Kıvılcım çıkarmayın, gazı kesin",
+   "bullets": [
+    "Elektrik düğmesine ve prize dokunmayın",
+    "Vanayı kapatın, pencereleri açın",
+    "Ortamı boşaltın, dışarıdan haber verin"
+   ],
+   "steps": [
+    "Patlama konusunu bir adım daha somutlaştıralım. Diyelim ki işyerinizin mutfağına girdiniz ve gaz kokusu aldınız. Ne yaparsınız?",
+    "Önce, ışığı açmayın ya da kapatmayın; prize bir şey takıp çıkarmayın. Çünkü bir elektrik düğmesi bile, ortamdaki gazı tutuşturacak küçük bir kıvılcım çıkarabilir.",
+    "Güvenle ulaşabiliyorsanız gaz vanasını kapatın ve kapı ile pencereleri açarak ortamdaki gazın dışarı çıkmasını sağlayın.",
+    "Sonra herkesi ortamdan uzaklaştırın. Telefonla aramayı ve haber vermeyi de güvenli bir yere, dışarıya çıktıktan sonra yapın."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1649836215936-41c76a724233?w=2400",
+   "kicker": "Yangın sınıfları",
+   "title": "Her yangın aynı şekilde söndürülmez",
+   "bullets": [
+    "A sınıfı: katı maddeler (kâğıt, ahşap, kumaş)",
+    "B sınıfı: yanıcı sıvılar (benzin, tiner, boya)",
+    "C sınıfı: yanıcı gazlar (LPG, doğalgaz)",
+    "D sınıfı: yanıcı metaller",
+    "F sınıfı: yemeklik yağlar (mutfak yangınları)"
+   ],
+   "steps": [
+    "Yangınlar, yanan maddenin türüne göre sınıflara ayrılır. Söndürücülerin üzerindeki etiketlerde de bu harfleri görürsünüz. Böylece hangi söndürücünün hangi yangında kullanılacağını bilirsiniz.",
+    "A sınıfı yangınlar katı maddelerin yangınıdır: kâğıt, karton, ahşap, kumaş. Ofislerde en sık karşılaşılan tür budur.",
+    "B sınıfı, benzin, tiner, boya ve alkol gibi yanıcı sıvıların yangınıdır. Temizlik ve bakım malzemeleri arasında bunlara rastlayabilirsiniz.",
+    "C sınıfı, LPG ve doğalgaz gibi yanıcı gazların yangınıdır. Gaz yangınında ilk ve en etkili adım, mümkünse gazın kaynağını kesmektir.",
+    "D sınıfı, magnezyum gibi bazı yanıcı metallerin yangınıdır. Daha çok özel endüstriyel ortamlarda görülür ve özel söndürücüler gerektirir; ofis ya da mağazada pek karşılaşmazsınız.",
+    "F sınıfı ise mutfaklardaki yemeklik yağ yangınlarıdır. Kafe, restoran ve işyeri mutfaklarında özellikle önemlidir. Biraz sonra bir örnek olayla bu yangının neden ayrı bir sınıf olduğunu göreceksiniz."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Elektrik yangınları",
+   "title": "Elektrik yangınına su ile müdahale edilmez",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1709992263975-aa3134ea261f?w=1200",
+     "ok": false,
+     "title": "Su ile müdahale",
+     "text": "Su elektriği iletir. Müdahale eden kişi elektrik çarpması tehlikesiyle karşı karşıya kalır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1595306394931-b35768661692?w=1200",
+     "ok": true,
+     "title": "Önce enerjiyi kesmek",
+     "text": "Sigorta ya da şalterle elektriği kesin; uygun söndürücü kullanın, örneğin CO2 veya kuru kimyevi toz."
+    }
+   ],
+   "steps": [
+    "Şimdi çok önemli bir kurala geliyoruz: elektrik kaynaklı bir yangına asla su ile müdahale edilmez. Peki neden?",
+    "Çünkü su elektriği iletir. Prizden, bir cihazdan ya da kablodan çıkan bir yangına su attığınızda, elektrik suyun üzerinden size ulaşabilir. Yani yangın sizi değil, elektrik çarpması sizi yaralar. Yanlış olmasının nedeni budur: elektrik çarpması tehlikesi.",
+    "Doğrusu, güvenle yapabiliyorsanız önce sigortadan ya da ana şalterden elektriği kesmektir. Ardından elektrik yangınına uygun bir söndürücü kullanılır. Karbondioksit, yani CO2 söndürücüler ve kuru kimyevi tozlu söndürücüler bu amaçla kullanılır. Söndürücünün etiketini mutlaka okuyun."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1781331534854-c75885f01c01?w=2400",
+   "kicker": "Örnek olay · Ofis",
+   "title": "Akşam kapanmayan çoklu priz",
+   "bullets": [
+    "Prizler birbirine eklenmiş, üzerinde ısıtıcı var",
+    "Kâğıtlar ve karton kutular hemen yanında",
+    "Isınan priz, yakındaki kâğıtları tutuşturdu"
+   ],
+   "steps": [
+    "Bir örnek olayla devam edelim. Küçük bir muhasebe bürosunda, kış aylarında masanın altına bir elektrikli ısıtıcı konmuş.",
+    "Isıtıcı, bilgisayar ve yazıcı aynı çoklu prize takılı. Priz yetmeyince bir çoklu priz daha eklenmiş. Yani prizler birbirine zincir gibi bağlanmış.",
+    "Masanın altında arşiv kutuları ve kâğıtlar duruyor. Yani yanıcı madde ve oksijen zaten orada; eksik olan sadece ısı.",
+    "Bir akşam ısıtıcı açık unutuluyor. Aşırı yüklenen priz ısınıyor ve yanındaki kâğıtları tutuşturuyor. Neyse ki duman dedektörü öterek binadaki görevliyi uyarıyor. Ne yapılmalıydı? Isıtıcı doğrudan duvar prizine takılmalı, prizler birbirine eklenmemeli, yanıcı malzeme uzak tutulmalı ve çıkarken cihazlar kapatılmalıydı."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1712640379137-6d2532f887a7?w=2400",
+   "kicker": "Ara özet",
+   "title": "Şimdiye kadar öğrendiklerimiz",
+   "bullets": [
+    "Yangın üçgeni: yanıcı madde, oksijen ve ısı",
+    "Bir unsuru kaldırmak yanmayı durdurur",
+    "Gaz kokusunda kıvılcım yok: düğmeye dokunma",
+    "Elektrik yangınına su yok: önce enerjiyi kes"
+   ],
+   "steps": [
+    "Buraya kadar konuştuklarımızı kısaca toparlayalım. Bu dört bilgi, dersin ikinci yarısının da temelini oluşturuyor, o yüzden önemli.",
+    "Yanma için üç unsur aynı anda gerekir: yanıcı madde, oksijen ve ısı. Buna yangın üçgeni diyoruz.",
+    "Bu unsurlardan birini ortadan kaldırdığınızda yanma durur. Soğutmak, boğmak ya da yakıtı uzaklaştırmak bu yüzden işe yarar.",
+    "Gaz kokusu aldığınızda elektrik düğmelerine dokunmuyoruz. Güvenliyse vanayı kapatıp ortamı havalandırıyor ve oradan hemen uzaklaşıyoruz.",
+    "Ve elektrik kaynaklı yangına su ile müdahale etmiyoruz, çünkü elektrik çarpması tehlikesi var. Önce enerjiyi kesiyor, uygun söndürücüyü kullanıyoruz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?w=2400",
+   "kicker": "Önleme",
+   "title": "Yangını başlamadan durdurmak",
+   "bullets": [
+    "Prizleri aşırı yüklemeyin, çoklu prizleri birbirine eklemeyin",
+    "Isıtıcı ve ocakları gözetimsiz bırakmayın",
+    "Yanıcı malzemeyi düzenli ve ısı kaynaklarından uzak tutun",
+    "Sigarayı yalnızca belirlenen alanda içip tam söndürün",
+    "Kaçış yollarını ve söndürücülerin önünü boş tutun"
+   ],
+   "steps": [
+    "En iyi yangın, hiç çıkmayan yangındır. Şimdi işyerinde her gün uygulayabileceğiniz önleme kurallarına tek tek bakalım.",
+    "Prizleri aşırı yüklemeyin. Çoklu prizleri birbirine eklemeyin; ısıtıcı ve su ısıtıcısı gibi yüksek güç çeken cihazları mümkünse doğrudan duvar prizine takın.",
+    "Isıtıcıları, ocakları, kettle gibi cihazları açıkken gözetimsiz bırakmayın. Gün sonunda işyerinden çıkarken kapatıldığından emin olun.",
+    "Kâğıt, karton ve ambalaj gibi yanıcı malzemeleri düzenli tutun; ısı kaynaklarının ve elektrik panolarının yakınına yığmayın.",
+    "Sigara yalnızca belirlenen alanda içilmeli ve izmarit tamamen söndürülmeden çöpe atılmamalı. Kâğıt dolu bir çöp kutusuna atılan tek bir izmarit, saatler sonra bile yangın çıkarabilir.",
+    "Son olarak, kaçış yollarının, yangın dolaplarının ve söndürücülerin önünü asla kapatmayın. Bir yangında saniyeler önemlidir ve bu ekipmana ulaşmak hiçbir engelle gecikmemelidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1749197294336-8863979add71?w=2400",
+   "kicker": "Söndürücüyü tanıyın",
+   "title": "Kullanmadan önce bakmanız gerekenler",
+   "bullets": [
+    "Basınç göstergesi yeşil alanda mı",
+    "Pim ve mühür yerinde mi",
+    "Etiket: sınıf, son kontrol tarihi"
+   ],
+   "steps": [
+    "İşyerinizdeki yangın söndürücüleri hiç incelediniz mi? Bir dahaki sefere yanından geçerken birkaç saniye ayırıp bakmanızı öneririm.",
+    "Basınçlı söndürücülerin üzerinde küçük bir gösterge bulunur. İbre yeşil alandaysa söndürücü kullanıma hazırdır. Kırmızı alandaysa durumu hemen bildirin.",
+    "Pimin ve mührün yerinde olduğuna bakın. Mührü kopmuş bir söndürücü daha önce kullanılmış ya da kurcalanmış olabilir.",
+    "Etikette söndürücünün hangi yangın sınıflarına uygun olduğu ve son kontrol tarihi yazar. Söndürücülerin periyodik kontrol ve bakımı yetkili servislerce yapılır; size düşen, bir sorun gördüğünüzde bildirmektir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Müdahale",
+   "title": "Söndürücü nasıl kullanılır?",
+   "items": [
+    {
+     "title": "Pimi çekin",
+     "text": "Söndürücüyü dik tutun, emniyet pimini çekip çıkarın"
+    },
+    {
+     "title": "Hortumu tabana yöneltin",
+     "text": "Nozulu alevlere değil, ateşin tabanına doğrultun"
+    },
+    {
+     "title": "Kola basın",
+     "text": "Güvenli mesafeden tetiği sıkarak püskürtün"
+    },
+    {
+     "title": "Süpürür gibi tarayın",
+     "text": "Tabanı sağa sola tarayın, sönene kadar devam edin"
+    }
+   ],
+   "steps": [
+    "Küçük, başlangıç aşamasındaki bir yangına müdahale edeceksiniz ve kaçış yolunuz arkanızda açık. Söndürücüyü nasıl kullanırsınız? Dört adımda anlatalım.",
+    "Birinci adım: söndürücüyü dik tutun ve emniyet pimini çekip çıkarın. Pim çekilmeden tetik çalışmaz, bu yüzden ilk iş budur.",
+    "İkinci adım, en kritik olanı: hortumu ya da nozulu alevlerin üst kısmına değil, ateşin tabanına, yani yanan maddeye doğru yöneltin. Alevler sadece yanmanın görünen yüzüdür; yangın tabanda beslenir.",
+    "Üçüncü adım: yangına çok yaklaşmadan, güvenli bir mesafede durarak tetiğe basın. Açık havadaysanız rüzgârı arkanıza alın.",
+    "Dördüncü adım: püskürtmeyi süpürür gibi, yanan maddenin tabanında sağa sola tarayarak yapın. Yangın söndükten sonra da yeniden alevlenme ihtimaline karşı bir süre gözünüzü ayırmayın."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1513460587394-905bb175a04c?w=2400",
+   "kicker": "Akılda kalsın",
+   "value": "Tabana",
+   "title": "Püskürtme alevlere değil, ateşin tabanına yani yanan maddeye yapılır",
+   "text": "Dumana ya da havaya sıkılan söndürücü, saniyeler içinde boşalır ve yangın sürer",
+   "steps": [
+    "Bunu bir kez daha vurgulamak istiyorum, çünkü insanlar panik anında en çok burada hata yapıyor. Alevler göze çarpıcı göründüğü için söndürücü alevlerin üst kısmına ya da dumana sıkılıyor.",
+    "Oysa söndürücü sınırlı bir süre püskürtür. Havaya ya da dumana harcanan söndürücü kısa sürede biter ve yangın devam eder. Bu yüzden kural basit: püskürtme her zaman ateşin tabanına, yani yanan maddeye yapılır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Örnek olay · Kafe",
+   "title": "Tavadaki yağ alev aldığında",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1743333601396-9fc5cf8ec344?w=1200",
+     "ok": false,
+     "title": "Su dökmek",
+     "text": "Kızgın yağa dökülen su anında buharlaşır, yanan yağı etrafa sıçratır ve alevi büyütür."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1786218422360-f673957ee57f?w=1200",
+     "ok": true,
+     "title": "Ocağı kapat, üstünü ört",
+     "text": "Ocağı kapatın, tavanın kapağını ya da yangın battaniyesini örtün, soğuyana kadar açmayın."
+    }
+   ],
+   "steps": [
+    "İkinci örnek olayımız bir kafeden. Yoğun bir öğle saatinde, ocakta kızartma yapılan tavadaki yağ aşırı ısınıp alev alıyor. Yeni başlayan bir çalışan paniğe kapılıyor ve hemen musluktan bir kap su alıp tavaya döküyor.",
+    "Bu çok tehlikeli bir hatadır. Kızgın yağın içine düşen su anında buhara dönüşür ve yanan yağı bir top gibi etrafa savurur. Alev bir anda büyür ve çevredeki kişileri yakabilir. Yağ yangınına asla su dökülmez.",
+    "Doğrusu ne olmalıydı? Önce ocağı kapatmak. Sonra tavanın kapağını ya da varsa yangın battaniyesini üzerine örtüp oksijeni kesmek. Tavayı yerinden oynatmamak ve soğuyana kadar kapağı açmamak. Gerekirse mutfak yangınlarına uygun, F sınıfı söndürücü kullanılır."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Acil durum ekipleri",
+   "title": "Yangında herkesin bir görevi var",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1649836215936-41c76a724233?w=1200",
+     "title": "Yangınla mücadele",
+     "text": "Başlangıç yangınına uygun söndürücüyle müdahale eder."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1493852303730-955ff798ba12?w=1200",
+     "title": "Arama, kurtarma, tahliye",
+     "text": "Herkesin güvenle çıkmasını sağlar, toplanma yerinde sayım yapar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1624638760852-8ede1666ab07?w=1200",
+     "title": "İlk yardım",
+     "text": "Yaralananlara profesyonel yardım gelene kadar destek olur."
+    }
+   ],
+   "steps": [
+    "İşyerlerinde acil durumlara hazırlık için işveren, eğitimli destek elemanları görevlendirir. Az tehlikeli işyerlerinde 50 çalışana kadar, yangınla mücadele ile arama, kurtarma ve tahliye konularının her biri için en az birer destek elemanı bulunur. Çalışan sayısı arttıkça bu sayı da artar.",
+    "Yangınla mücadele ekibi, başlangıç aşamasındaki bir yangına uygun söndürücü ile müdahale eder ve yangının yayılmasını engellemeye çalışır.",
+    "Arama, kurtarma ve tahliye ekibi, binadaki herkesin güvenle dışarı çıkmasını sağlar ve toplanma yerinde sayım yapar. Kimsenin içeride kalmadığından emin olur.",
+    "İlk yardım görevlileri ise yaralananlara, sağlık ekipleri gelene kadar destek olur. Peki sizin işyerinizde bu kişiler kimler? Bilmiyorsanız bugün öğrenin."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Hazırlık",
+   "title": "Az tehlikeli işyerinde acil durum",
+   "items": [
+    {
+     "value": "1",
+     "unit": "tatbikat",
+     "label": "yılda en az"
+    },
+    {
+     "value": "6",
+     "unit": "yıl",
+     "label": "acil durum planı en geç bu sürede yenilenir"
+    },
+    {
+     "value": "112",
+     "unit": "",
+     "label": "acil çağrı numarası"
+    }
+   ],
+   "steps": [
+    "Acil durumlara hazırlığı bir de rakamlarla görelim. Bu üç rakam, az tehlikeli bir işyerinde çalışan herkesin bilmesi gerekenler.",
+    "İşyerlerinde yılda en az bir kez acil durum tatbikatı yapılır. Tatbikat bir formalite değildir; gerçek bir yangında nereden çıkacağınızı, toplanma yerinin neresi olduğunu ve kimin ne yapacağını bedeninizin hatırlamasını sağlar. Tatbikata ciddiyetle katılın.",
+    "Her işyerinin bir acil durum planı vardır. Az tehlikeli işyerlerinde bu plan en geç altı yılda bir yenilenir. İşyerinde acil durumları etkileyen bir değişiklik olursa daha önce de güncellenir.",
+    "Ve tüm acil durumlarda arayacağınız tek numara 112. Aradığınızda sakin olun; adresi, ne olduğunu ve içeride kimse kalıp kalmadığını net söyleyin."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yangın anında",
+   "title": "Adım adım ne yaparız?",
+   "items": [
+    {
+     "title": "Fark et ve alarm ver",
+     "text": "Yangın ihbar butonuna basın, çevrenizi yüksek sesle uyarın"
+    },
+    {
+     "title": "112'yi arayın",
+     "text": "Adres ve durumu net bildirin"
+    },
+    {
+     "title": "Küçükse müdahale",
+     "text": "Kaçış yolu arkanızdaysa uygun söndürücüyle"
+    },
+    {
+     "title": "Tahliye olun",
+     "text": "Merdiveni kullanın, asansöre binmeyin"
+    },
+    {
+     "title": "Toplanma yeri",
+     "text": "Toplanma alanına gidin, sayıma katılın"
+    }
+   ],
+   "steps": [
+    "Peki bir yangınla karşılaştığınızda ne yaparsınız? Panik yapmadan, adım adım ilerleyelim; çünkü burada sıralama gerçekten önemli.",
+    "Önce alarm verin. Yangın ihbar butonuna basın ve çevrenizdekileri yüksek sesle uyarın. Herkesin haberdar olması, ilk dakikalarda en değerli şeydir.",
+    "Ardından 112'yi arayın ya da yanınızdaki bir arkadaşınızdan aramasını isteyin. Herkes birinin aradığını varsayarsa kimse aramaz.",
+    "Yangın küçükse, söndürücüyü kullanmayı biliyorsanız ve kaçış yolunuz arkanızda açıksa müdahale edebilirsiniz. Ama yangın büyüyorsa, duman yoğunlaşıyorsa kahramanlık yapmayın; hemen uzaklaşın.",
+    "Tahliye sırasında merdivenleri kullanın, asansöre kesinlikle binmeyin. Asansör yangında durabilir, sizi dumanla dolu bir kata taşıyabilir. Eşyalarınızı toplamak için de zaman kaybetmeyin.",
+    "Toplanma yerine gidin ve sayıma katılın. Böylece ekipler içeride kimsenin kalıp kalmadığını anlar. İzin verilmeden asla binaya geri dönmeyin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1744663835766-0f9970e7aa65?w=2400",
+   "kicker": "Tahliye",
+   "title": "Dumanla karşılaşırsanız",
+   "bullets": [
+    "Eğilin, yere yakın ilerleyin",
+    "Kapıyı açmadan önce elinizin tersiyle yoklayın",
+    "Arkanızdan kapıları kapatın"
+   ],
+   "steps": [
+    "Yangınlarda insanların önemli bir kısmı alevden değil, dumandan etkilenir. Duman zehirlidir, görüşü kapatır ve çok hızlı yayılır. Peki dumanlı bir koridorda ne yaparsınız?",
+    "Eğilin ve yere yakın ilerleyin. Sıcak duman yukarıda toplanır; yere yakın yerde hava daha temizdir. Mümkünse ağzınızı ve burnunuzu bir kumaşla kapatın.",
+    "Bir kapıyı açmadan önce elinizin tersiyle kapıyı ve kolu yoklayın. Kapı sıcaksa arkasında yangın olabilir; açmayın, başka bir yol kullanın.",
+    "Geçtiğiniz kapıları arkanızdan kapatın, ama kilitlemeyin. Kapalı bir kapı, dumanın ve yangının yayılmasını belirgin şekilde yavaşlatır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1684695749267-233af13276d0?w=2400",
+   "kicker": "Örnek olay · Depo",
+   "title": "Kaçış kapısının önündeki koliler",
+   "bullets": [
+    "Yoğun sezonda koliler acil çıkış kapısının önüne yığıldı",
+    "Tatbikatta kapıya ulaşmak dakikalar aldı",
+    "Kaçış yolu her an kullanılabilir olmalı"
+   ],
+   "steps": [
+    "Son örnek olayımız bir mağazanın deposundan. Bayram öncesi yoğun sezonda, gelen ürün kolileri yer kalmadığı için depodaki acil çıkış kapısının önüne geçici olarak yığılıyor.",
+    "Geçici dediğimiz durum haftalarca sürüyor. Kimse kolilerin yerini sorgulamıyor, çünkü artık herkes bu görüntüye alışmış.",
+    "Tam bu dönemde yapılan bir tatbikatta, depodaki çalışanların acil çıkışa ulaşması kolilerin kaldırılması yüzünden dakikalar alıyor. Gerçek bir yangında bu dakikalar hayati olurdu. Üstelik koliler yanıcı maddedir; yangını da besler.",
+    "Ne yapılmalıydı? Acil çıkış kapıları, kaçış yolları ve söndürücülerin önü hiçbir gerekçeyle, geçici olarak bile kapatılmamalı. Bunu gören bir çalışan da durumu hemen amirine bildirmeliydi."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1770816307800-72ba937620fe?w=2400",
+   "kicker": "Sizin işyeriniz",
+   "title": "Bugün kendinize sorun",
+   "bullets": [
+    "En yakın söndürücü ve ihbar butonu nerede",
+    "İki farklı kaçış yolum hangisi",
+    "Toplanma yerimiz neresi"
+   ],
+   "steps": [
+    "Şimdi sizden küçük bir uygulama yapmanızı istiyorum. Bu dersi bitirdikten sonra işyerinizde kendinize üç soru sorun.",
+    "Birincisi: çalıştığım yere en yakın yangın söndürücü ve yangın ihbar butonu nerede? Gözünüz kapalı tarif edebiliyor musunuz?",
+    "İkincisi: bulunduğum yerden çıkabileceğim iki farklı kaçış yolu hangisi? Biri dumanla kapanırsa diğerini hiç düşünmeden kullanabilmelisiniz.",
+    "Üçüncüsü: toplanma yerimiz neresi? Bu sorulardan birinin cevabını bilmiyorsanız, amirinize ya da acil durum ekibine sorun. Bunu sormak kimseyi rahatsız etmez; aksine işyerinin güvenliğine katkıdır."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1749197294336-8863979add71?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Yangın üçgeni: yanıcı madde, oksijen ve ısı",
+    "Elektrik yangınına su ile müdahale edilmez",
+    "Söndürücü ateşin tabanına, yanan maddeye sıkılır",
+    "Yağ yangınına su yok: ocağı kapat, üstünü ört",
+    "Alarm, 112, merdiven, toplanma yeri"
+   ],
+   "steps": [
+    "Dersimizi özetleyelim. Bu beş bilgiyi bir yangın anında hatırlamanız, sizin ve çevrenizdekilerin güvenliği için yeterli bir başlangıçtır.",
+    "Yanma için üç unsur gerekir: yanıcı madde, oksijen ve ısı. Biri ortadan kalkarsa yanma durur.",
+    "Elektrik kaynaklı yangına su ile müdahale edilmez, çünkü elektrik çarpması tehlikesi vardır. Önce enerji kesilir, uygun söndürücü kullanılır.",
+    "Söndürücü kullanırken püskürtme alevlerin üst kısmına ya da dumana değil, ateşin tabanına, yani yanan maddeye yapılır.",
+    "Yağ yangınına asla su dökülmez; ocak kapatılır ve tavanın üstü bir kapak ya da yangın battaniyesiyle örtülür.",
+    "Yangın anında alarm verin, 112'yi arayın, merdiveni kullanın ve toplanma yerine gidin. Dersin sonunda birkaç kısa soru sizi bekliyor. Başarılar dilerim."
+   ]
+  }
+ ]
+}

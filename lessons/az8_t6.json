@@ -1,0 +1,451 @@
+{
+ "code": "az8_t6",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "3. Bölüm · Teknik Konular",
+ "title": "İSG genel kuralları ve güvenlik kültürü; acil durumlar, tahliye ve kurtarma",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1573167507387-6b4b98cb7c13?w=2400",
+   "kicker": "3. Bölüm · Ders 6",
+   "title": "İSG genel kuralları ve güvenlik kültürü; acil durumlar",
+   "subtitle": "Her gün güvenli çalışmak, zor anda doğru davranmak",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste iki konuyu birlikte ele alacağız: her gün uyduğumuz genel İSG kuralları ile güvenlik kültürü ve yangın, deprem gibi acil durumlarda nasıl davranacağımız.",
+    "Bu iki konu aslında birbirine bağlı. Güvenlik kültürü güçlü olan bir işyerinde insanlar tatbikata ciddiyetle katılır, alarm çaldığında ne yapacağını bilir ve birbirini de korur."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1577412647305-991150c7d163?w=2400",
+   "kicker": "Bu derste",
+   "title": "Neler öğreneceğiz?",
+   "bullets": [
+    "İSG genel kuralları ve güvenlik kültürü",
+    "Acil durum, acil durum planı ve ekipler",
+    "Yangın, deprem ve tahliye sırasında doğru davranış",
+    "Toplanma alanı, sayım ve kurtarma"
+   ],
+   "steps": [
+    "Önce bu dersin yol haritasına göz atalım. Dört başlık altında ilerleyeceğiz ve her başlıkta işyerinizden örneklerle konuşacağız.",
+    "İlk olarak her çalışanın bilmesi gereken genel kuralları ve güvenlik kültürünün ne demek olduğunu konuşacağız.",
+    "Sonra acil durumun ne olduğunu, acil durum planını ve işyerindeki acil durum ekiplerini tanıyacağız. Bu ekiplerde kimlerin görevli olduğunu bilmek sizin için de önemlidir.",
+    "Üçüncü olarak yangın alarmı çaldığında ve deprem sırasında adım adım ne yapmanız gerektiğini öğreneceğiz. Bunlar, refleks haline gelmesi gereken davranışlardır.",
+    "Son olarak da toplanma alanında neden sayım yapıldığını ve kurtarma çalışmalarında size düşen görevi konuşacağız."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1561882458-3b5d03e4b4aa?w=2400",
+   "kicker": "Güvenlik kültürü",
+   "value": "Hepimiz",
+   "title": "Güvenlik kültürü, tüm çalışanların güvenliği ortak bir değer olarak benimsemesidir",
+   "text": "Sadece İSG uzmanının işi değildir; denetim olmadığında da kurallara uyulan işyerinde vardır",
+   "steps": [
+    "Güvenlik kültürü kulağa soyut gelebilir ama tanımı basit. Güvenlik kültürü, yöneticisinden yeni başlayan çalışanına kadar herkesin güvenliği ortak bir değer olarak benimsemesidir.",
+    "Yani bu iş sadece iş güvenliği uzmanının ya da sadece denetim gününün işi değildir. Kimse bakmadığında da kurallara uyuluyorsa, o işyerinde güvenlik kültürü vardır. Kazaları gizlemek ise güvenlik kültürünün tam tersidir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Genel kurallar",
+   "title": "Her çalışanın bilmesi gereken kurallar",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1754548930574-6a995e5eb5a7?w=1200",
+     "tag": "Talimat",
+     "title": "Talimata uyun",
+     "text": "Çalışma talimatlarını, işaretleri ve eğitimde öğrendiklerinizi uygulayın."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1761576660182-3f05ccc5a61d?w=1200",
+     "tag": "Yetki",
+     "title": "Yetkiniz yoksa yapmayın",
+     "text": "Elektrik panosu, arızalı makine gibi işlere yetkili olmadan girişmeyin."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1776584339515-f85590182189?w=1200",
+     "tag": "Bildirim",
+     "title": "Tehlikeyi bildirin",
+     "text": "Fark ettiğiniz tehlikeyi ve ramak kala olayı hemen amirinize iletin."
+    }
+   ],
+   "steps": [
+    "Önce, hangi işyerinde çalışırsanız çalışın geçerli olan genel kurallara bakalım. Bunlar 6331 sayılı Kanunda çalışanın yükümlülükleri olarak da yer alır.",
+    "Birincisi talimatlara uymak. Çalışma talimatları, güvenlik işaretleri ve eğitimde öğrendikleriniz sizin için birer kuraldır. Ekipmanı ve maddeleri talimata uygun kullanırsınız.",
+    "İkincisi yetkiniz olmayan işe girişmemek. Arızalı bir prizi açmak, elektrik panosuna müdahale etmek ya da bozulan bir makineyi kendi başınıza tamir etmeye çalışmak, iyi niyetle bile olsa büyük kazalara yol açabilir.",
+    "Üçüncüsü tehlikeyi bildirmek. Ciddi bir tehlike fark ettiğinizde ya da kıl payı atlatılan bir olay yaşandığında bunu hemen amirinize veya İSG sorumlusuna iletirsiniz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=2400",
+   "kicker": "Güvenlik kültürü",
+   "title": "Güçlü bir güvenlik kültürü nasıl görünür?",
+   "bullets": [
+    "Yöneticiler kurallara ilk uyan kişidir",
+    "Ramak kala olaylar suçlanmadan konuşulur",
+    "Herkes güvensiz durumda dur diyebilir",
+    "Yeni çalışana kurallar sahiplenilerek anlatılır"
+   ],
+   "steps": [
+    "Peki güvenlik kültürü güçlü bir işyerini nasıl tanırsınız? Birkaç belirtiye bakalım ve kendi işyerinizle karşılaştırın.",
+    "Birincisi, yöneticiler örnek olur. Depoya girerken baret takılması gerekiyorsa, müdür de takar. Kurallar sadece çalışanlar için değildir.",
+    "İkincisi, ramak kala olaylar suçlu aramadan konuşulur. Amaç birini cezalandırmak değil, aynı olayın tekrar yaşanmasını önlemektir. Böyle bir ortamda insanlar bildirmekten çekinmez.",
+    "Üçüncüsü, herkes güvensiz bir durumda dur diyebilir. Ciddi ve yakın bir tehlike karşısında çalışanın tedbir alınmasını isteme hakkı Kanunda da yer alır.",
+    "Dördüncüsü, işe yeni başlayan biri kuralları eski çalışanlardan da duyar. Burada böyle yaparız sözü, güvenli davranışı anlatıyorsa kültür doğru yoldadır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru mu, yanlış mı?",
+   "title": "Ramak kala olayı ne yapmalı?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1766040923580-16ad32fae8b4?w=1200",
+     "ok": false,
+     "title": "Kimseye söylememek",
+     "text": "Kimse yaralanmadı deyip geçmek, bir sonraki seferde kazaya davetiye çıkarır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1761558794306-466448dab4bc?w=1200",
+     "ok": true,
+     "title": "Bildirip kayda geçirmek",
+     "text": "Olayı amire bildirmek, nedenini bulmak ve önlem almak için fırsattır."
+    }
+   ],
+   "steps": [
+    "Bir durum düşünelim. Depoda yüksekte duran bir koli, siz geçtikten hemen sonra yere düşüyor. Kimse yaralanmıyor. Bu bir ramak kala olaydır. Ne yaparsınız?",
+    "Yanlış olan, neyse bir şey olmadı deyip koliyi yerine koymak ve kimseye söylememektir. Aynı koli yarın başka birinin başına düşebilir.",
+    "Doğru olan, olayı amirinize bildirmek ve kayda geçirilmesini sağlamaktır. Böylece kolilerin neden düştüğü araştırılır, istifleme düzeltilir ve gerçek bir kaza yaşanmadan önlem alınır."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1573167507387-6b4b98cb7c13?w=2400",
+   "kicker": "Ara özet",
+   "title": "Genel kurallar ve güvenlik kültürü",
+   "bullets": [
+    "Güvenlik kültürü herkesin ortak değeridir",
+    "Talimata uyun, yetkiniz olmayan işe girişmeyin",
+    "Tehlikeyi ve ramak kala olayları bildirin"
+   ],
+   "steps": [
+    "Acil durumlara geçmeden önce, dersin ilk yarısında genel kurallar ve güvenlik kültürü hakkında öğrendiklerimizi kısaca toparlayalım.",
+    "Güvenlik kültürü, tüm çalışanların güvenliği ortak bir değer olarak benimsemesidir. Sadece uzmanın işi değildir, sadece denetim gününde de önemli değildir.",
+    "Talimatlara ve işaretlere uyarız, yetkimiz olmayan işe girişmeyiz. Bu kurallar hem bizi hem de çalışma arkadaşlarımızı korur.",
+    "Fark ettiğimiz tehlikeleri ve ramak kala olayları bildiririz. Şimdi gelelim bu dersin ikinci büyük konusuna: acil durumlar."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1743698205310-cd814a95afab?w=2400",
+   "kicker": "Acil durum",
+   "title": "Acil durum nedir?",
+   "bullets": [
+    "Yangın, patlama, kimyasal yayılım, doğal afet",
+    "Acil müdahale, ilk yardım ya da tahliye gerektirir",
+    "İşveren acil durum planını önceden hazırlar"
+   ],
+   "steps": [
+    "Acil durumun ne olduğu ve işyerinde nasıl hazırlık yapılacağı, İşyerlerinde Acil Durumlar Hakkında Yönetmelikte düzenlenir. Kısaca bakalım.",
+    "Acil durum; işyerinin tamamını ya da bir kısmını etkileyen, ya da dışarıdan işyerini etkileyebilecek yangın, patlama, tehlikeli kimyasal maddelerin yayılması ve deprem gibi doğal afetlerdir.",
+    "Bu olayların ortak noktası acil müdahale, ilk yardım ya da tahliye gerektirmeleridir. Yani o an herkesin ne yapacağını önceden bilmesi gerekir.",
+    "Bu yüzden işveren, olası acil durumları önceden belirler ve bir acil durum planı hazırlar. Planda kimin ne yapacağı, kaçış yolları, toplanma yeri ve iletişim bilgileri yer alır. Sizin de bu planın size düşen bölümünü bilmeniz gerekir."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Acil durum ekipleri",
+   "title": "İşyerinizdeki ekipler",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1649836215936-41c76a724233?w=1200",
+     "title": "Söndürme ekibi",
+     "text": "Yangına ilk müdahaleyi yapar; söndürücüleri kullanmayı bilir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1620517762957-3e4622447d9c?w=1200",
+     "title": "Kurtarma ve koruma",
+     "text": "Tahliyeye ve kurtarmaya yardım eder; önemli eşya ve belgeleri korur."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1624638760852-8ede1666ab07?w=1200",
+     "title": "İlk yardım ekibi",
+     "text": "Profesyonel ekip gelene kadar yaralılara ilk yardım uygular."
+    }
+   ],
+   "steps": [
+    "Acil durumda işyerinde görev alacak kişiler önceden belirlenir ve eğitilir. Bu kişilere destek elemanı denir ve ekipler halinde çalışırlar.",
+    "Söndürme ekibi, yangına ilk müdahaleyi yapar. Yangın söndürücüleri ve varsa yangın dolabını kullanmayı bilir. Ama yangın büyükse kendini riske atmaz, tahliyeye katılır.",
+    "Kurtarma ekibi tahliyeye yardım eder ve içeride kalan kişilerin kurtarılmasına destek olur. Koruma ekibi ise önemli belge ve malzemeleri korur, gerektiğinde alanın güvenliğini sağlar.",
+    "İlk yardım ekibi, sertifikalı ilk yardımcılardan oluşur ve profesyonel sağlık ekibi gelene kadar yaralılara ilk yardım uygular. Kendi işyerinizde bu ekiplerde kimin görevli olduğunu bilmeniz önemlidir."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Rakamlarla",
+   "title": "Az tehlikeli işyerinde hazırlık",
+   "items": [
+    {
+     "value": "50",
+     "unit": "çalışana kadar",
+     "label": "her ekip için en az 1 destek elemanı"
+    },
+    {
+     "value": "10",
+     "unit": "çalışandan az",
+     "label": "tek destek elemanı tüm ekiplerde görev alabilir"
+    },
+    {
+     "value": "1",
+     "unit": "yıl",
+     "label": "tatbikat en geç yılda bir yapılır"
+    }
+   ],
+   "steps": [
+    "Şimdi bu hazırlığın rakamlarına bakalım. Ekrandaki rakamlar, sizin çalıştığınız gibi az tehlikeli sınıftaki işyerleri için geçerlidir.",
+    "Az tehlikeli işyerlerinde söndürme, kurtarma ve koruma ekiplerinin her biri için, her 50 çalışana kadar en az bir destek elemanı görevlendirilir ve eğitilir.",
+    "Çalışan sayısı 10'dan az olan işyerlerinde ise eğitimli tek bir destek elemanı bu üç ekibin görevini birlikte üstlenebilir. İlk yardımcı sayısı ise ayrıca ilk yardım mevzuatına göre belirlenir.",
+    "Ve tatbikat. Acil durum planının işe yarayıp yaramadığını görmek için tatbikat en geç yılda bir yapılır, sonuçları değerlendirilir ve eksikler giderilir. Tatbikatı ciddiye almak, gerçek bir olayda hayat kurtarır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1775923080621-cbe5cea2bbed?w=2400",
+   "kicker": "Hazırlık",
+   "title": "Acil durumdan önce bilmeniz gerekenler",
+   "bullets": [
+    "Bulunduğunuz yerden en az iki çıkış yolu",
+    "En yakın yangın söndürücü ve alarm butonu",
+    "Toplanma alanının yeri",
+    "Destek elemanlarının ve ilk yardımcının kim olduğu"
+   ],
+   "steps": [
+    "Acil durumda doğru davranmanın sırrı, o an gelmeden hazırlıklı olmaktır. Şimdi size dört soru soracağım; içinizden cevap verin.",
+    "Birincisi: şu an bulunduğunuz yerden en az iki farklı çıkış yolunu biliyor musunuz? Biri dumanla kapanırsa diğerini kullanmanız gerekir.",
+    "İkincisi: size en yakın yangın söndürücü ve yangın alarm butonu nerede? Kırmızı kare işaretler size yolu gösterir.",
+    "Üçüncüsü: işyerinizin toplanma alanı neresi? Bina önündeki otopark mı, karşıdaki park mı? Bunu acil durum planından öğrenebilirsiniz.",
+    "Dördüncüsü: kendi katınızdaki destek elemanları ve ilk yardımcı kim? Bu sorulardan birinin cevabını bilmiyorsanız, bugün yöneticinize sorun."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Alarm çaldığında",
+   "title": "Tahliyede adım adım",
+   "items": [
+    {
+     "title": "Sakin olun",
+     "text": "Panik yapmayın, alarmı ciddiye alın"
+    },
+    {
+     "title": "İşi güvenli bırakın",
+     "text": "Cihazı kapatın, eşyaya takılmayın"
+    },
+    {
+     "title": "En yakın çıkışa gidin",
+     "text": "Yeşil işaretleri izleyin, koşmayın"
+    },
+    {
+     "title": "Asansörü kullanmayın",
+     "text": "Merdivenden, sağdan ve sırayla inin"
+    },
+    {
+     "title": "Toplanma alanına gidin",
+     "text": "Orada kalın, sayıma katılın"
+    }
+   ],
+   "steps": [
+    "Yangın alarmı çaldı. Bu bir tatbikat da olabilir, gerçek bir yangın da. Her iki durumda da yapacağınız şey aynıdır. Adım adım bakalım.",
+    "Önce sakin olun. Alarmı duymazdan gelmeyin ve büyük ihtimalle tatbikattır diye beklemeyin. Panik, en büyük tehlikelerden biridir.",
+    "Çalıştığınız cihazı güvenli şekilde kapatın ama eşyalarınızı toplamak için zaman kaybetmeyin. Çanta, dosya ya da bilgisayar sizin hayatınızdan değerli değildir.",
+    "Yeşil acil çıkış işaretlerini izleyerek en yakın çıkışa yürüyün. Koşmayın, itişmeyin. Duman varsa eğilerek ilerleyin ve kapıyı açmadan önce elinizin tersiyle sıcaklığını kontrol edin.",
+    "Asansörü kesinlikle kullanmayın. Merdivenden, tırabzanı tutarak ve sırayla inin. Merdivende durup telefonla konuşmayın, arkanızdakilerin yolunu kesmeyin.",
+    "Binadan çıktıktan sonra doğrudan toplanma alanına gidin, orada kalın ve sayıma katılın. Görevli izin vermeden binaya geri dönmeyin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1631856955350-77f4023dff2b?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Mağazada müşterilerle tahliye",
+   "bullets": [
+    "Alarm çaldı, müşteriler ne yapacağını bilmiyordu",
+    "Çalışanlar sakin bir sesle yönlendirdi",
+    "Kasa ve depo kontrol edildi, kimse içeride kalmadı"
+   ],
+   "steps": [
+    "Bir örnek olay daha. Kalabalık bir hafta sonu, bir giyim mağazasında yangın alarmı çalıyor. Müşteriler önce ne olduğunu anlamıyor; bazıları alışverişe devam ediyor, bazıları asansöre yöneliyor.",
+    "Tatbikatlarda görevleri önceden belirlenmiş çalışanlar hemen harekete geçiyor. Sakin ve net bir sesle müşterileri en yakın acil çıkışa yönlendiriyorlar ve asansörün önünde durup merdiveni gösteriyorlar.",
+    "Kat sorumlusu deneme kabinlerini, kasa arkasını ve depoyu kontrol ediyor. Kimse içeride kalmadığında son olarak o çıkıyor ve toplanma alanında sayımı yapan görevliye bilgi veriyor.",
+    "Bu olayda her şeyin yolunda gitmesinin nedeni tatbikattı. Kim, nereyi kontrol edecek sorusunun cevabı önceden belliydi. Müşteri ağırlayan işyerlerinde çalışanların bu rolü üstlenmesi çok önemlidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1785005670379-88abacb8a6cf?w=2400",
+   "kicker": "Önemli",
+   "title": "Acil durumda asansör kullanılmaz",
+   "bullets": [
+    "Elektrik kesilirse içeride mahsur kalırsınız",
+    "Asansör boşluğu dumanı taşıyabilir",
+    "Engelli çalışanlar için önceden plan yapılır"
+   ],
+   "steps": [
+    "Asansör konusuna biraz daha yakından bakalım, çünkü bu çok sık yapılan ve hayati sonuçları olabilen bir hatadır.",
+    "Yangında ya da depremde elektrik kesilebilir. Asansör katlar arasında durursa içeride mahsur kalırsınız ve kurtarma ekiplerinin işi zorlaşır.",
+    "Ayrıca asansör boşluğu bir baca gibi davranarak dumanı katlara taşıyabilir. Asansör kapısı da duman dolu bir kata açılabilir.",
+    "Peki hareket kısıtlılığı olan bir çalışma arkadaşımız varsa? Acil durum planında bu kişiler için önceden yardım yapılır: kim eşlik edecek, hangi güvenli alanda beklenecek gibi. Bunu tatbikatta mutlaka deneyin."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1688315137965-5a5835540558?w=2400",
+   "kicker": "Deprem",
+   "value": "3 adım",
+   "title": "Deprem anında: Çök, kapan, tutun",
+   "text": "Sarsıntı bitene kadar yerinizde kalın; sonra sakin şekilde tahliye edin",
+   "steps": [
+    "Türkiye bir deprem ülkesi. Bu yüzden deprem anında ne yapacağınızı refleks haline getirmeniz gerekir. Doğru davranış üç kelimeyle özetlenir: çök, kapan, tutun.",
+    "Sarsıntı başladığında sağlam bir masanın yanına ya da altına çökün, başınızı ve boynunuzu kollarınızla kapatın ve masanın ayağına tutunun. Sarsıntı bitene kadar yerinizde kalın; asansöre binmek, merdivenlerden koşmak ya da pencereden atlamak hayati tehlike yaratır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1560264280-88b68371db39?w=2400",
+   "kicker": "Deprem",
+   "title": "Ofiste ve mağazada deprem anı",
+   "bullets": [
+    "Pencere, cam bölme ve yüksek raflardan uzaklaşın",
+    "Masa yoksa iç duvar dibinde çök kapan tutun",
+    "Sarsıntı bitince planlı tahliyeye geçin",
+    "Hazırlık: dolap ve rafları duvara sabitletin"
+   ],
+   "steps": [
+    "Şimdi çök, kapan, tutun kuralını kendi işyerinize uyarlayalım. Ofiste, mağazada, depoda ya da okulda nelere dikkat etmelisiniz?",
+    "Pencerelerden, cam bölmelerden ve devrilebilecek yüksek raflardan uzaklaşın. Mağazalarda ve depolarda raflardaki ürünler sarsıntıyla aşağı düşebilir; rafların arasında kalmayın.",
+    "Yakınınızda sağlam bir masa yoksa, bir iç duvarın dibinde çökün ve başınızı koruyun. Kapı eşiklerinin güvenli olduğu bilgisi her bina için doğru değildir.",
+    "Sarsıntı bittiğinde acele etmeden, planlandığı şekilde tahliyeye geçin. Artçı sarsıntılara hazırlıklı olun ve hasarlı merdivenleri kullanmayın.",
+    "Hazırlık da önemlidir. Dolapların, kitaplıkların ve rafların duvara sabitlenmesi depremde yaralanmaları önemli ölçüde azaltır. Sabitlenmemiş bir dolap görürseniz bildirin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1758599543116-4fdb887911a5?w=2400",
+   "kicker": "Toplanma alanı",
+   "title": "Toplanma alanında neden sayım yapılır?",
+   "bullets": [
+    "Eksik kişiler hemen tespit edilir",
+    "Bilgi kurtarma ekibine iletilir",
+    "Kimse kendi başına içeri geri dönmez"
+   ],
+   "steps": [
+    "Tahliye bitti, herkes dışarıda. Peki toplanma alanında neden hemen sayım yapılır? Zaman geçirmek için mi? Elbette hayır.",
+    "Sayım, binadan çıkamayan, eksik kişileri hemen tespit etmek için yapılır. Bu yüzden toplanma alanına gidip orada kalmanız ve görevliye kendinizi göstermeniz çok önemlidir.",
+    "Eksik kişilerin adı ve en son nerede görüldükleri bilgisi itfaiyeye ve kurtarma ekibine iletilir. Böylece ekipler doğru yeri, doğru zamanda arar.",
+    "Haber vermeden toplanma alanından ayrılırsanız sizi içeride sanabilirler ve kurtarma ekipleri boşuna riske girer. Kimseyi kurtarmak için de kendi başınıza içeri dönmeyin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1519737461811-29f817b5e61c?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Arşivde kalan çalışan",
+   "bullets": [
+    "Bodrum arşivde alarm duyulmadı",
+    "Sayımda eksik olduğu fark edildi",
+    "Kurtarma ekibi doğru yere yönlendirildi"
+   ],
+   "steps": [
+    "Şimdi bir örnek olay. Bir ofis binasında yıllık tatbikat yapılıyor. Alarm çalıyor, çalışanlar düzenli şekilde toplanma alanına çıkıyor.",
+    "Ama bodrum kattaki arşivde kulaklıkla çalışan bir çalışan alarmı duymuyor. Bu katta ışıklı uyarı sistemi de yok.",
+    "Toplanma alanında yapılan sayımda bir kişinin eksik olduğu fark ediliyor. Kat sorumlusu bunu hemen kurtarma ekibine bildiriyor ve ekip doğrudan arşive yönleniyor. Çalışan birkaç dakika içinde dışarı çıkarılıyor.",
+    "Tatbikattan sonra eksik giderildi: arşive ışıklı uyarı eklendi ve kulaklıkla çalışma kuralı konuldu. İşte sayımın ve tatbikatın gerçek değeri budur. Siz de tatbikatı bir sorun bulma fırsatı olarak görün."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1644079446600-219068676743?w=2400",
+   "kicker": "Diğer acil durumlar",
+   "title": "Gaz kokusu ya da kimyasal döküntü",
+   "bullets": [
+    "Elektrik anahtarına, fişe dokunmayın",
+    "Kapı ve pencereleri açın, alanı terk edin",
+    "Güvenli yerden 112'yi arayın, yetkiliye haber verin"
+   ],
+   "steps": [
+    "Acil durum sadece yangın ve deprem değildir. Örneğin bir kafenin mutfağında gaz kokusu ya da bir depoda devrilen bir kimyasal bidon da acil durumdur.",
+    "Gaz kokusu aldığınızda elektrik anahtarlarını açıp kapatmayın, fişe dokunmayın ve çakmak gibi kıvılcım çıkarabilecek bir şey kullanmayın. Küçük bir kıvılcım bile patlamaya yol açabilir.",
+    "Mümkünse kapı ve pencereleri açarak alanı havalandırın, çevrenizdekileri de sakin bir şekilde uyararak alanı hep birlikte terk edin.",
+    "Telefonla aramayı güvenli bir yerden yapın. 112'yi arayın ve işyerinizdeki yetkiliye haber verin. Kimyasal döküntüde de alandan uzaklaşın, ürünün etiketine ve Güvenlik Bilgi Formu'na göre yalnızca eğitimli kişiler müdahale etsin."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru mu, yanlış mı?",
+   "title": "Kaçış yolları",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1730154838368-c37b1fdebcf6?w=1200",
+     "ok": false,
+     "title": "Önü kapalı çıkış",
+     "text": "Koliler, dolaplar ya da kilitli kapı tahliyeyi durdurur ve paniği büyütür."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1743698296692-60a3867ef2b4?w=1200",
+     "ok": true,
+     "title": "Açık ve işaretli yol",
+     "text": "Kaçış yolu engelsiz, kapılar kilitsiz ve işaretler görünür olmalı."
+    }
+   ],
+   "steps": [
+    "Kaçış yolları acil durumun can damarıdır. Bir karşılaştırma yapalım ve kendi işyerinizdeki koridorları ve kapıları gözünüzün önüne getirin.",
+    "Yanlış olan, acil çıkış kapısının önüne koli istiflemek, koridoru geçici depo gibi kullanmak ya da kapıyı mesai saatinde kilitli tutmaktır. Acil bir durumda o birkaç saniyelik engel, insanların sıkışmasına yol açar.",
+    "Doğru olan, kaçış yollarını her zaman açık ve engelsiz tutmak, çıkış kapılarını çalışma süresince kilitsiz bırakmak ve yeşil işaretlerin görünür olmasını sağlamaktır. Önü kapalı bir çıkış görürseniz hemen bildirin."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1684655570542-55afe322a74b?w=2400",
+   "kicker": "Kurtarma ve yardım",
+   "title": "112'yi ararken ve yardım ederken",
+   "bullets": [
+    "Ne oldu, nerede, kaç kişi etkilendi",
+    "Telefonu görevli kapatana kadar kapatmayın",
+    "Önce kendi güvenliğiniz, sonra yardım",
+    "Eğitimli değilseniz ekibi yönlendirin"
+   ],
+   "steps": [
+    "Türkiye'de tüm acil durumlar için tek numara 112'dir. Yangın, sağlık ya da güvenlik fark etmez. Peki ararken ne söylemelisiniz?",
+    "Sakin bir sesle ne olduğunu, açık adresi ya da konumu ve kaç kişinin etkilendiğini söyleyin. Yaralı varsa durumunu kısaca anlatın.",
+    "Telefonu siz kapatmayın; görevli gerekli bilgiyi aldığında görüşmeyi sonlandırır. Size ilk yardımla ilgili yönlendirme de yapabilir.",
+    "Kurtarma ya da yardım sırasında önce kendi güvenliğinizi düşünün. Duman dolu bir odaya ya da çökme riski olan bir alana kendi başınıza girmeyin; ikinci bir yaralı olmak kimseye yardım etmez.",
+    "Eğitimli değilseniz, eğitimli ekip üyelerini olay yerine yönlendirin, kalabalığı uzak tutun ve onların istediği desteği verin."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1712640379137-6d2532f887a7?w=2400",
+   "kicker": "Ders özeti",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Güvenlik kültürü: tüm çalışanların ortak değeri",
+    "Alarmda: sakin ol, asansör yok, en yakın çıkış",
+    "Depremde: çök, kapan, tutun",
+    "Toplanma alanında sayım eksik kişileri bulmak içindir"
+   ],
+   "steps": [
+    "Dersimizin sonuna geldik. Genel kurallar, güvenlik kültürü ve acil durumlarla ilgili en önemli noktaları bir kez daha hatırlayalım.",
+    "Güvenlik kültürü, tüm çalışanların güvenliği ortak bir değer olarak benimsemesidir. Sadece İSG uzmanının işi değildir ve sadece denetimde önemli değildir.",
+    "Alarm çaldığında sakin olun, işinizi güvenli bırakın, asansörü kullanmadan en yakın çıkıştan toplanma alanına gidin.",
+    "Deprem anında doğru davranış çök, kapan, tutun'dur. Sarsıntı bitene kadar yerinizde kalın, sonra planlı şekilde tahliye edin.",
+    "Toplanma alanında sayım, eksik kişileri tespit edip kurtarma ekibine bildirmek için yapılır. Dersin sonunda birkaç kısa soru sizi bekliyor. Hazırsanız başlayalım."
+   ]
+  }
+ ]
+}

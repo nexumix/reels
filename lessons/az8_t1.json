@@ -1,0 +1,382 @@
+{
+ "code": "az8_t1",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "3. Bölüm · Teknik Konular",
+ "title": "Kimyasal, fiziksel ve ergonomik risk etmenleri; elle kaldırma ve taşıma",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?w=2400",
+   "kicker": "3. Bölüm · Ders 1",
+   "title": "Kimyasal, fiziksel ve ergonomik risk etmenleri",
+   "subtitle": "Görünmeyen riskler ve elle kaldırma-taşıma",
+   "steps": [
+    "Merhaba, teknik konular bölümüne hoş geldiniz. Bu derste, çoğu zaman fark etmeden her gün karşılaştığımız risklerden söz edeceğiz: temizlik ürünlerindeki kimyasallar, gürültü, kötü aydınlatma, uygun olmayan çalışma duruşu ve tabii ki koli, kasa gibi yüklerin elle taşınması.",
+    "Bu riskler genellikle ani bir kazadan çok, zamanla ortaya çıkan sağlık sorunlarına yol açar: bel ağrısı, işitme kaybı, cilt ve solunum yolu rahatsızlıkları gibi. İyi haber şu ki, birkaç basit kuralla bunların çoğunu önleyebiliriz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=2400",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "bullets": [
+    "Kimyasal, fiziksel ve ergonomik risk etmenleri",
+    "Kimyasallarda etiket ve Güvenlik Bilgi Formu",
+    "Gürültü, titreşim, aydınlatma ve sıcaklık",
+    "Elle kaldırma ve taşımada doğru teknik"
+   ],
+   "steps": [
+    "Önce bu dersin yol haritasına bakalım. Dört ana başlık altında, işyerinizden tanıdık örneklerle adım adım ilerleyeceğiz.",
+    "İlk olarak, çalışma ortamındaki risk etmenlerinin üç büyük grubunu tanıyacağız: kimyasal, fiziksel ve ergonomik risk etmenleri.",
+    "Sonra kimyasallar konusunda en önemli iki bilgi kaynağını öğreneceğiz: ürün etiketi ve Güvenlik Bilgi Formu.",
+    "Ardından gürültü, titreşim, aydınlatma ve sıcaklık gibi fiziksel risk etmenlerine ve gürültüde mevzuattaki eşik değerlere bakacağız.",
+    "Son olarak da ergonomiyi ve özellikle elle kaldırma ve taşımada belinizi korumanın doğru yollarını uygulamalı olarak anlatacağım."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Üç grup",
+   "title": "Risk etmenlerini tanıyalım",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1626379481874-3dc5678fa8ca?w=1200",
+     "tag": "Kimyasal",
+     "title": "Kimyasal risk etmenleri",
+     "text": "Temizlik ürünleri, dezenfektanlar, solventler, tozlar ve buharlar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1717386255773-1e3037c81788?w=1200",
+     "tag": "Fiziksel",
+     "title": "Fiziksel risk etmenleri",
+     "text": "Gürültü, titreşim, aydınlatma, sıcaklık, nem ve radyasyon."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1688578735972-b61ec274df7b?w=1200",
+     "tag": "Ergonomik",
+     "title": "Ergonomik risk etmenleri",
+     "text": "Uygunsuz duruş, tekrarlayan hareketler, elle taşıma ve kötü tasarlanmış iş yeri."
+    }
+   ],
+   "steps": [
+    "Çalışma ortamındaki sağlığı etkileyen etkenleri kabaca gruplara ayırırız. Bu derste üç grubu ele alacağız. Hangi etkenin hangi gruba girdiğini bilmek, doğru önlemi seçmenin ilk adımıdır.",
+    "Birinci grup kimyasal risk etmenleri. Temizlik ürünleri, çamaşır suyu, kireç sökücü, dezenfektanlar, boyalar, tiner gibi solventler, toner tozu ve bunların buharları bu gruptadır.",
+    "İkinci grup fiziksel risk etmenleri. Gürültü ve titreşim bu grubun en bilinen örnekleridir. Aydınlatma, sıcaklık, nem, hava akımı ve radyasyon da fiziksel risk etmenleridir.",
+    "Üçüncü grup ergonomik risk etmenleri. Uygunsuz çalışma duruşu, uzun süre aynı pozisyonda kalmak, tekrarlayan hareketler ve yüklerin elle kaldırılıp taşınması bu gruba girer. Bu arada virüsler biyolojik, mobbing ise psikososyal risk etmenidir; onları başka bir derste konuştuk."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=2400",
+   "kicker": "Kimyasal riskler",
+   "title": "Kimyasallar vücuda nasıl girer?",
+   "bullets": [
+    "Solunum yoluyla: buhar, gaz, sprey ve toz",
+    "Deri ve göz yoluyla: sıçrama ve temas",
+    "Sindirim yoluyla: kirli eller, yanlış kap",
+    "Etkisi anında ya da yıllar içinde görülebilir"
+   ],
+   "steps": [
+    "Az tehlikeli işyerlerinde de kimyasallarla sıkça karşılaşırız. Ofiste toner ve temizlik ürünleri, mağazada dezenfektanlar, kafede bulaşık ve kireç çözücüler... Peki bu maddeler vücudumuza nasıl girer?",
+    "En yaygın yol solunumdur. Sprey şeklindeki temizlik ürünleri, kimyasal buharları ve tozlar nefesle akciğerlere ulaşır. Havalandırması kötü, küçük bir alanda bu risk daha da artar.",
+    "İkinci yol deri ve gözlerdir. Sıçrayan bir kimyasal gözde ciddi hasar bırakabilir; eldivensiz çalışmak ise ciltte tahriş, kuruma ve alerjiye yol açabilir.",
+    "Üçüncü yol sindirimdir. Kimyasala dokunduktan sonra ellerinizi yıkamadan yemek yemek ya da bir kimyasalı su şişesine koymak, kazara yutmaya neden olabilir.",
+    "Kimyasalların etkisi bazen yanık ya da zehirlenme gibi anında görülür, bazen de astım veya cilt hastalıkları gibi yıllar içinde ortaya çıkar."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1626379481874-3dc5678fa8ca?w=2400",
+   "kicker": "Etiket",
+   "title": "Önce etiketi okuyun",
+   "bullets": [
+    "Tehlike piktogramları: kırmızı çerçeveli simgeler",
+    "Uyarı kelimesi: Tehlike ya da Dikkat",
+    "Önlem ve ilk yardım bilgileri"
+   ],
+   "steps": [
+    "Bir kimyasalı kullanmadan önce yapmanız gereken ilk şey, etiketini okumaktır. Etiket, ürünün kısa kimlik kartıdır.",
+    "Etikette kırmızı çerçeveli, beyaz zemin üzerinde siyah simgeler görürsünüz. Bunlara tehlike piktogramı denir. Alev simgesi yanıcı, aşınmış el simgesi aşındırıcı, kuru kafa simgesi zehirli anlamına gelir.",
+    "Etikette ayrıca 'Tehlike' ya da 'Dikkat' şeklinde bir uyarı kelimesi bulunur. 'Tehlike', daha ciddi tehlikeleri belirtir.",
+    "Etikette ürünün nasıl güvenli kullanılacağı, hangi koruyucu donanımın gerektiği ve kazara temas halinde ne yapılacağı da yazar. Etiketi okunmayan ya da etiketi olmayan bir ürünü kullanmayın."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1590006137741-5f5892ce5635?w=2400",
+   "kicker": "Kimyasalın kimlik belgesi",
+   "value": "GBF",
+   "title": "Kimyasalın tehlikeleri ve güvenli kullanımı Güvenlik Bilgi Formu'nda yazar",
+   "text": "GBF; tehlikeleri, ilk yardımı, yangınla mücadeleyi, depolamayı, kişisel korunmayı ve bertarafı anlatır.",
+   "steps": [
+    "Etiket kısa bir özettir. Peki bir kimyasal maddenin tehlikeleri ve güvenli kullanımı hakkında ayrıntılı bilgi nerede bulunur? Cevap: Güvenlik Bilgi Formu, kısaca GBF. Ders sonunda bu soruyu soracağım.",
+    "Fatura, irsaliye ya da garanti belgesi size ürünün fiyatını, teslimatını ya da garantisini söyler; ama tehlikelerini söylemez. GBF ise ürünü tedarik eden firma tarafından hazırlanan, Türkçe olması gereken ve 16 başlıktan oluşan bir belgedir.",
+    "GBF'de ürünün tehlikeleri, kazara temas durumunda ilk yardım, yangın halinde ne yapılacağı, nasıl depolanacağı, hangi kişisel koruyucu donanımın kullanılacağı ve atıkların nasıl bertaraf edileceği yazar. İşyerinizde kullanılan kimyasalların GBF'lerinin nerede durduğunu biliyor musunuz?"
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Güvenli kullanım",
+   "title": "Kimyasallarla çalışırken",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1631832722590-d09f1f8c85fc?w=1200",
+     "ok": true,
+     "title": "Kurallara uygun kullanım",
+     "text": "Orijinal etiketli kabında, önerilen KKD ile, iyi havalandırılan ortamda kullanın."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=1200",
+     "ok": false,
+     "title": "Karıştırma ve aktarma",
+     "text": "Ürünleri birbirine karıştırmak ya da su şişesine aktarmak ciddi kazalara yol açar."
+    }
+   ],
+   "steps": [
+    "Peki kimyasallarla çalışırken nelere dikkat etmelisiniz? Bu kez doğru ve yanlış uygulamayı yan yana görelim.",
+    "Doğru olan; kimyasalı her zaman orijinal ve etiketli kabında tutmak, etikette ya da GBF'de önerilen eldiven ve gözlük gibi kişisel koruyucu donanımı kullanmak, ortamı havalandırmak ve iş bitince ellerinizi yıkamaktır. Kimyasallar yiyecek ve içeceklerden uzakta, kapakları kapalı şekilde saklanmalıdır.",
+    "Yanlış olan ise farklı temizlik ürünlerini 'daha iyi temizlesin' diye birbirine karıştırmak ya da bir kimyasalı boş bir su şişesine aktarmaktır. Karışım zehirli gaz çıkarabilir; su şişesindeki kimyasal ise birinin onu su sanıp içmesine neden olabilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1758273238738-9410f7e9d53c?w=2400",
+   "kicker": "Örnek olay 1",
+   "title": "Çay ocağında tehlikeli karışım",
+   "bullets": [
+    "Ne oldu: çamaşır suyu ile kireç sökücü karıştırıldı",
+    "Sonuç: keskin gaz, öksürük ve göz yanması",
+    "Doğrusu: ürünleri asla karıştırmamak"
+   ],
+   "steps": [
+    "Bir ofiste temizlik görevlisi Ayşe Hanım, çay ocağındaki lavabonun inatçı lekelerini çıkarmak için önce çamaşır suyu döktü, ardından üzerine bir de asit içeren kireç sökücü ekledi. Küçük ve penceresiz bir alandı.",
+    "Birkaç saniye içinde keskin bir koku yayıldı. Ayşe Hanım öksürmeye başladı, gözleri yandı. O sırada çay almaya gelen bir çalışan da etkilendi.",
+    "Çamaşır suyu, asitli ürünlerle ya da amonyaklı temizleyicilerle karıştırıldığında solunum yollarına zarar veren zehirli gazlar açığa çıkar. Etiket ve GBF'de bu uyarı açıkça yazar.",
+    "Doğrusu, ürünleri asla karıştırmamak, etiketteki talimata uymak ve kapalı alanları havalandırmaktı. Böyle bir durumda hemen ortamdan uzaklaşmak, temiz havaya çıkmak ve belirtiler sürüyorsa 112'yi aramak gerekir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1717386255773-1e3037c81788?w=2400",
+   "kicker": "Fiziksel riskler",
+   "title": "Fiziksel risk etmenleri nelerdir?",
+   "bullets": [
+    "Gürültü: işitme kaybı, stres, iletişim zorluğu",
+    "Titreşim: el-kol ve tüm vücut etkileri",
+    "Aydınlatma: göz yorgunluğu, düşme ve hata",
+    "Sıcaklık ve nem: sıcak ya da soğuk stresi"
+   ],
+   "steps": [
+    "Şimdi fiziksel risk etmenlerine geçelim. Ders sonunda soracağım soru şu: Gürültü ve titreşim fiziksel risk etmenidir. Şimdi bunları ve diğerlerini tek tek görelim.",
+    "Gürültü, en yaygın fiziksel risk etmenidir. Uzun süre yüksek gürültüye maruz kalmak kalıcı işitme kaybına yol açabilir. Daha düşük düzeylerde bile stres, baş ağrısı, dikkat dağınıklığı ve iletişim güçlüğü yaratır.",
+    "Titreşim; matkap gibi el aletlerinden ellere ve kollara, araç ya da iş makinesi kullanımında ise tüm vücuda iletilir. Uzun vadede dolaşım, sinir ve eklem sorunlarına neden olabilir.",
+    "Yetersiz ya da göz kamaştırıcı aydınlatma göz yorgunluğuna, baş ağrısına, hatalı işlemlere ve karanlık depo ya da merdivenlerde düşmelere yol açar. Yanmayan bir lambayı bildirmek de bir güvenlik davranışıdır.",
+    "Çok sıcak ya da çok soğuk ortamlar, yüksek nem ve hava akımı da vücudu zorlar. Sıcak bir mutfakta ya da soğuk hava deposunda çalışanlar için uygun mola ve sıvı alımı önemlidir. Radyasyon da bu gruba giren bir fiziksel risk etmenidir."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Gürültü Yönetmeliği",
+   "title": "Gürültüde maruziyet değerleri",
+   "items": [
+    {
+     "value": "80",
+     "unit": "dB(A)",
+     "label": "en düşük maruziyet eylem değeri"
+    },
+    {
+     "value": "85",
+     "unit": "dB(A)",
+     "label": "en yüksek maruziyet eylem değeri"
+    },
+    {
+     "value": "87",
+     "unit": "dB(A)",
+     "label": "maruziyet sınır değeri"
+    }
+   ],
+   "steps": [
+    "Gürültü konusunda mevzuat bize somut değerler veriyor. Gürültü Yönetmeliği'ne göre, günlük sekiz saatlik maruziyet için üç eşik tanımlanmıştır.",
+    "80 desibel A, en düşük maruziyet eylem değeridir. Bu düzey aşıldığında işveren çalışanlara kulak koruyucu sağlar, eğitim verir ve işitme kontrolü imkânı tanır.",
+    "85 desibel A, en yüksek maruziyet eylem değeridir. Bu düzeyde kulak koruyucuların kullanılması zorunludur ve gürültüyü azaltmak için teknik ve organizasyonel önlemler alınır.",
+    "87 desibel A ise maruziyet sınır değeridir; kulak koruyucunun etkisi de hesaba katıldığında bu değer aşılamaz. Pratik bir ipucu: bir metre uzaklıktaki biriyle konuşmak için sesinizi yükseltmek zorunda kalıyorsanız, ortamdaki gürültü ölçülmeye değer olabilir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1590006137741-5f5892ce5635?w=2400",
+   "kicker": "Ara özet",
+   "title": "Şimdiye kadar öğrendiklerimiz",
+   "bullets": [
+    "Kimyasallar solunum, deri ve sindirim yoluyla girer",
+    "Etiketi okuyun; ayrıntılı bilgi GBF'dedir",
+    "Ürünleri karıştırmayın, başka kaba aktarmayın",
+    "Gürültü ve titreşim fiziksel risk etmenidir"
+   ],
+   "steps": [
+    "Burada kısa bir mola verelim ve bu dersin ilk yarısında öğrendiklerimizi birlikte kısaca toparlayalım, sonra devam edelim.",
+    "Kimyasallar vücudumuza en çok solunum yoluyla, deri ve gözlerden, bir de kazara yutma yani sindirim yoluyla girer.",
+    "Bir kimyasalı kullanmadan önce etiketini okuruz. Tehlikeleri ve güvenli kullanımı hakkındaki ayrıntılı bilgi ise Güvenlik Bilgi Formu'nda, yani GBF'de bulunur.",
+    "Temizlik ürünlerini asla birbirine karıştırmayız ve kimyasalları su şişesi gibi başka kaplara aktarmayız; orijinal, etiketli kabında tutarız.",
+    "Gürültü ve titreşim, aydınlatma ve sıcaklıkla birlikte fiziksel risk etmenleridir. Şimdi ergonomiye ve elle taşımaya geçelim."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1688578735972-b61ec274df7b?w=2400",
+   "kicker": "Ergonomi",
+   "title": "İşi insana uydurmak: ergonomi",
+   "bullets": [
+    "Ekran göz hizasında ya da biraz altında",
+    "Sırt destekli, yüksekliği ayarlanabilir sandalye",
+    "Uzun süre aynı duruşta kalmamak, sık kısa mola",
+    "Tekrarlayan hareketlerde dinlenme ve çeşitlilik"
+   ],
+   "steps": [
+    "Ergonomi; işin, araçların ve çalışma alanının insana uygun hale getirilmesidir. Yani insanı işe değil, işi insana uydurmaktır. Ergonomik riskler genellikle sinsi ilerler: bugün hafif bir boyun ağrısı, yıllar sonra kronik bir bel ya da bilek sorunu.",
+    "Masa başında çalışıyorsanız ekranınız göz hizanızda ya da biraz altında, kol mesafesi uzaklıkta olmalı. Ekranı yana dönerek izlemek boyun ağrısının sık nedenlerindendir.",
+    "Sandalyeniz belinizi desteklemeli ve yüksekliği, ayaklarınız yere tam basacak şekilde ayarlanmalıdır. Klavye ve fare kullanırken bilekleriniz düz, omuzlarınız gevşek olmalıdır.",
+    "Uzun süre aynı duruşta kalmak, ister oturarak ister ayakta olsun, kas ve eklemleri yorar. Kasada ayakta çalışan biri için de bu geçerlidir. Sık ve kısa molalar verin, kalkın, esneyin.",
+    "Kasada barkod okutmak ya da sürekli klavye kullanmak gibi tekrarlayan hareketlerde, mümkünse işleri çeşitlendirin ve eklemlere dinlenme fırsatı tanıyın."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?w=2400",
+   "kicker": "Elle taşıma",
+   "title": "Elle taşıma neden risklidir?",
+   "bullets": [
+    "Bel ve sırt yaralanmalarının başlıca nedeni",
+    "Ağır, hantal ya da dengesiz yükler",
+    "Dönme, uzanma ve uzun mesafe taşıma"
+   ],
+   "steps": [
+    "Şimdi bu dersin en pratik konusuna geliyoruz: elle kaldırma ve taşıma. Depoya gelen koliler, mağazadaki kasalar, kafedeki su damacanaları, ofiste taşınan kâğıt kolileri... Az tehlikeli işyerlerinde de elle taşıma her gün yapılır.",
+    "Yüklerin uygunsuz şekilde kaldırılması ve taşınması, bel ve sırt yaralanmalarının en önemli nedenlerindendir. Bel fıtığı gibi sorunlar, tek bir yanlış harekette ya da yıllar içindeki küçük zorlanmalarla ortaya çıkabilir.",
+    "Riski artıran ilk etken yükün kendisidir: çok ağır, çok büyük, tutması zor ya da içi kayan dengesiz yükler. Kaygan zemin, dar alan ve merdiven gibi ortam koşulları da riski artırır.",
+    "Bir de hareketin şekli: belden dönmek, yükü yukarıya uzanarak almak ya da uzun mesafe taşımak. Elle Taşıma İşleri Yönetmeliği de işverenden öncelikle elle taşımayı azaltacak önlemleri almasını, mümkün değilse riski değerlendirip azaltmasını ister."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Doğru teknik",
+   "title": "Yükü doğru kaldırmanın 5 adımı",
+   "items": [
+    {
+     "title": "Yükü değerlendirin",
+     "text": "Ağırlığını ve yolu kontrol edin, gerekirse yardım isteyin"
+    },
+    {
+     "title": "Yaklaşın, ayaklar açık",
+     "text": "Yüke yakın durun, ayaklar omuz genişliğinde"
+    },
+    {
+     "title": "Dizleri bükün, sırt dik",
+     "text": "Belden değil, dizlerden eğilin"
+    },
+    {
+     "title": "Yük vücuda yakın",
+     "text": "Sıkıca kavrayın, kollarınızı uzatmayın"
+    },
+    {
+     "title": "Bacaklarla kalkın",
+     "text": "Gövdeyi döndürmeyin, ayaklarınızla dönün"
+    }
+   ],
+   "steps": [
+    "Peki yük nasıl doğru kaldırılır? Ders sonunda bu soru da sizi bekliyor. Cevabın özü şu: dizleri bükerek, sırtı dik tutup yükü vücuda yakın kaldırmak. Şimdi bunu beş adımda görelim.",
+    "Birinci adım: kaldırmadan önce yükü değerlendirin. Ağırlığını anlamak için bir köşesinden hafifçe kaldırmayı deneyin. Gideceğiniz yolda engel var mı bakın. Yük ağırsa ya da hantalsa yardım isteyin veya bir taşıma aracı kullanın.",
+    "İkinci adım: yüke olabildiğince yaklaşın. Ayaklarınızı omuz genişliğinde açın, bir ayağınız biraz önde olsun. Bu, size sağlam bir denge sağlar.",
+    "Üçüncü adım: belden eğilmeyin. Dizlerinizi bükerek çömelin, sırtınızı dik ve düz tutun. Belden eğilip dizleri düz tutmak, bütün yükü bel omurlarınıza bindirir.",
+    "Dördüncü adım: yükü sıkıca kavrayın ve vücudunuza yakın tutun. Kollar uzatılmış şekilde kaldırılan yük, belinize katlarca fazla yük bindirir.",
+    "Beşinci adım: kaldırma gücünü bel kaslarından değil, bacaklarınızdan alarak yavaşça doğrulun. Yön değiştirmeniz gerekirse gövdenizi döndürmeyin; ayaklarınızla adım atarak dönün."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Taşırken",
+   "title": "Taşımada doğru ve yanlış",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1642756457381-930fdc1e2e2e?w=1200",
+     "ok": true,
+     "title": "Taşıma aracı kullanın",
+     "text": "El arabası, transpalet ya da tekerlekli araçla yükü kaldırmak yerine itin."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1523543659209-5c57c05834aa?w=1200",
+     "ok": false,
+     "title": "Görüşü kapatan yük",
+     "text": "Tek seferde fazla yük taşımak dengeyi ve görüşü bozar, düşmeye yol açar."
+    }
+   ],
+   "steps": [
+    "Yükü doğru şekilde kaldırdık; peki şimdi taşıma sırasında nelere dikkat etmeliyiz? Doğru ve yanlışı birlikte görelim.",
+    "Doğru olan, mümkün olduğunca taşıma aracı kullanmaktır. El arabası, transpalet, tekerlekli kasa ya da kolay taşıma arabası, yükü kaldırmak yerine itmenizi sağlar. İterken yükü önünüze alın; çekmek yerine itmek genellikle daha güvenlidir. Ağır yükleri de iki kişi taşıyın.",
+    "Yanlış olan ise 'Bir seferde bitsin' diyerek kolileri üst üste dizip taşımaktır. Görüşü kapatan bir yük, önünüzdeki basamağı ya da ıslak zemini görmenizi engeller. Aşırı yüklenmiş bir araç da dengesini kaybedip devrilebilir. İki kez gitmek, bir kez düşmekten iyidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1570116908808-4eeb66d9bb1e?w=2400",
+   "kicker": "Örnek olay 2",
+   "title": "Mağazada kolilerle bel tutulması",
+   "bullets": [
+    "Ne oldu: koliyi belden eğilip döndürerek kaldırdı",
+    "Sonuç: bel tutulması, günlerce istirahat",
+    "Doğrusu: dizleri bükmek, yükü yakın tutmak"
+   ],
+   "steps": [
+    "İkinci örnek olayımız bir kırtasiye mağazasında geçiyor. Satış danışmanı Emre, sabah gelen kâğıt kolilerini yerden alıp arkasındaki rafa koyuyordu.",
+    "Acelesi vardı. Her koliyi dizleri düz, belden eğilerek kaldırıyor, sonra ayaklarını oynatmadan gövdesini döndürerek rafa yerleştiriyordu. Onuncu kolide belinde keskin bir ağrı hissetti ve doğrulamadı.",
+    "Kâğıt kolileri küçük ama ağırdır. Belden eğilmek, yükü vücuttan uzak tutmak ve gövdeyi döndürmek; belin en sevmediği üç hareket aynı anda yapılmıştı.",
+    "Doğrusu, kolileri dizlerini bükerek, sırtı dik ve yükü vücuduna yakın tutarak kaldırmak, dönmek için ayaklarıyla adım atmaktı. Daha da iyisi, kolileri bir el arabasıyla rafın önüne getirmek ve ağır kolileri bel hizasındaki raflara yerleştirmekti."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1637665637343-d497d345ed2f?w=2400",
+   "kicker": "Önlemler",
+   "title": "Elle taşımayı azaltmanın yolları",
+   "bullets": [
+    "Ağır yükleri bel hizasındaki raflara koyun",
+    "Büyük yükleri bölün, daha küçük paketler isteyin",
+    "Ağır ve hantal yükleri iki kişi taşıyın",
+    "Ağrınız varsa bildirin, işyeri hekimine danışın"
+   ],
+   "steps": [
+    "Doğru teknik önemli, ama en iyisi elle taşımayı baştan azaltmaktır. İşte işyerinizde uygulayabileceğiniz birkaç öneri.",
+    "Depolamayı akıllıca yapın. Ağır yükleri diz ile omuz arasındaki, yani bel hizasındaki raflara, hafif ve az kullanılanları üst ve alt raflara yerleştirin. Böylece en ağır yükler için ne eğilmeniz ne de uzanmanız gerekir.",
+    "Büyük ve ağır yükleri mümkünse bölün ve birkaç seferde taşıyın. Tedarikçiden daha küçük ambalajlar istemek bile fark yaratır.",
+    "Ağır, hantal ya da tutması zor yükleri tek başınıza taşımaya çalışmayın; bir iş arkadaşınızdan yardım isteyin ve hareketleri birlikte, sözlü olarak koordine edin.",
+    "Bel, sırt ya da omuz ağrınız varsa bunu geçiştirmeyin. Yöneticinize bildirin ve işyeri hekiminize danışın. Erken fark edilen bir sorun, çok daha kolay çözülür."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1631832722590-d09f1f8c85fc?w=2400",
+   "kicker": "Kapanış",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Kimyasalın tehlikeleri ve güvenli kullanımı GBF'de yazar",
+    "Gürültü ve titreşim fiziksel risk etmenidir",
+    "Ergonomi: işi insana uydurmak",
+    "Dizleri bükün, sırt dik, yük vücuda yakın",
+    "Gövdeyi döndürmeyin, mümkünse araç kullanın"
+   ],
+   "steps": [
+    "Dersimizin sonuna geldik. Akılda kalması gereken en önemli noktaları bir kez daha, kısaca birlikte hatırlayalım.",
+    "Bir kimyasal maddenin tehlikeleri ve güvenli kullanımı hakkındaki bilgi Güvenlik Bilgi Formu'nda, yani GBF'de bulunur. Fatura, irsaliye ya da garanti belgesinde değil.",
+    "Gürültü ve titreşim fiziksel risk etmenidir. Virüs biyolojik, mobbing psikososyal, solvent ise kimyasal risk etmenidir.",
+    "Ergonomi, işi insana uydurmaktır. Doğru duruş, ayarlanmış bir çalışma alanı ve sık kısa molalar uzun vadede sağlığınızı korur.",
+    "Yük kaldırırken dizlerinizi bükün, sırtınızı dik tutun ve yükü vücudunuza yakın kaldırın. Kaldırırken gövdenizi döndürmeyin; mümkün olduğunda taşıma aracı kullanın ya da yardım isteyin.",
+    "Bugün öğrendiklerinizi işyerinizde hemen uygulamaya başlayın. Dersin sonunda birkaç kısa soru sizi bekliyor. Hepinize sağlıklı ve güvenli çalışmalar dilerim."
+   ]
+  }
+ ]
+}

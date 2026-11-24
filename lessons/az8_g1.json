@@ -1,0 +1,617 @@
+{
+ "code": "az8_g1",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "1. Bölüm · Genel Konular",
+ "title": "Çalışma mevzuatı ile ilgili bilgiler",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1784900020716-740cef2892ce?w=2400",
+   "kicker": "1. Bölüm · Ders 1",
+   "title": "Çalışma mevzuatı ile ilgili bilgiler",
+   "subtitle": "İş sağlığı ve güvenliğinin hukuki temeli",
+   "steps": [
+    "Merhaba, hoş geldiniz. Temel iş sağlığı ve güvenliği eğitimimizin ilk dersindeyiz. Bu derste, işyerinizdeki güvenlik kurallarının nereden geldiğini, yani çalışma mevzuatını birlikte konuşacağız.",
+    "Belki aklınızdan şu geçiyor: kanunlar, yönetmelikler, madde numaraları... Bunlar bana ne kazandıracak? Söz veriyorum, ezber yapmayacağız. Amacımız, hangi kuralın sizi neden koruduğunu anlamanız ve hakkınızı, görevinizi bilerek çalışmanız."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Mevzuatın yapısı",
+     "text": "Anayasadan tebliğe kadar kuralların sıralaması"
+    },
+    {
+     "title": "Temel kanunlar",
+     "text": "6331, 4857 ve 5510 sayılı kanunlar ne düzenler"
+    },
+    {
+     "title": "Tehlike sınıfları",
+     "text": "İşyerinizin sınıfı neye göre belirlenir"
+    },
+    {
+     "title": "Eğitim ve denetim",
+     "text": "Yeni eğitim yönetmeliği ve kurallara uyulmazsa ne olur"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Bu ders beş adımda ilerleyecek.",
+    "İlk olarak mevzuat dediğimiz şeyin yapısını göreceğiz: Anayasa, kanun, yönetmelik ve tebliğ arasındaki sıralamayı.",
+    "Sonra çalışma hayatının üç temel kanununu tanıyacağız. Özellikle de iş sağlığı ve güvenliğinin ana kanunu olan 6331 sayılı Kanunu.",
+    "Üçüncü adımda, işyerlerinin neden az tehlikeli, tehlikeli ya da çok tehlikeli diye ayrıldığını ve bu sınıfın neye göre belirlendiğini konuşacağız.",
+    "Dördüncü adımda, 2026 yılında yayımlanan yeni eğitim yönetmeliğini ve kurallara uyulmadığında devreye giren denetim ve yaptırımları göreceğiz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1752697589000-9819ed4fc30c?w=2400",
+   "kicker": "Mevzuat nedir?",
+   "title": "Kurallar bir merdiven gibi sıralanır",
+   "bullets": [
+    "Anayasa: en üstteki temel kurallar",
+    "Kanunlar: Türkiye Büyük Millet Meclisi çıkarır",
+    "Yönetmelikler: kanunun nasıl uygulanacağını ayrıntılandırır",
+    "Tebliğler: teknik ayrıntıları ve listeleri belirler"
+   ],
+   "steps": [
+    "Mevzuat, belli bir konudaki yazılı hukuk kurallarının bütünüdür. Bu kurallar rastgele dizilmez; bir merdivenin basamakları gibi sıralanır. Alttaki basamak, üsttekine aykırı olamaz.",
+    "En üst basamakta Anayasa var. Çalışma hakkı, dinlenme hakkı ve sağlıklı yaşama hakkı gibi temel ilkeler burada yer alır.",
+    "Bir alt basamakta kanunlar bulunur. Kanunları TBMM çıkarır ve bir konunun ana çerçevesini çizer. Örneğin işverenin ve çalışanın temel yükümlülükleri kanunda yazar.",
+    "Kanun her ayrıntıyı sayamaz. Burada yönetmelikler devreye girer ve kanunun nasıl uygulanacağını adım adım anlatır; örneğin bir eğitimin kaç saat olacağını.",
+    "En altta da tebliğler var. Tebliğler daha teknik ayrıntıları ve listeleri düzenler. Birazdan göreceğimiz tehlike sınıfları listesi de bir tebliğle belirlenmiştir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1774898988393-5c752e4d55e9?w=2400",
+   "kicker": "Anayasa",
+   "value": "Madde 50",
+   "title": "Kimse yaşına, cinsiyetine ve gücüne uygun olmayan işlerde çalıştırılamaz",
+   "text": "Dinlenmek, çalışanların hakkıdır. Küçükler, kadınlar ve bedensel ya da ruhsal yetersizliği olanlar çalışma şartları bakımından özel olarak korunur.",
+   "steps": [
+    "İş sağlığı ve güvenliğinin kökü Anayasaya kadar uzanır. Anayasanın 50. maddesi açıkça şunu söyler: kimse yaşına, cinsiyetine ve gücüne uygun olmayan işlerde çalıştırılamaz.",
+    "Aynı madde, dinlenmenin çalışanların hakkı olduğunu da belirtir. Küçükler, kadınlar ve bedensel ya da ruhsal yetersizliği olanlar ise çalışma şartları bakımından özel olarak korunur. Yani sağlıklı ve güvenli çalışmak, bir lütuf değil; anayasal güvence altındaki bir haktır.",
+    "Ayrıca Türkiye, Uluslararası Çalışma Örgütü yani ILO'nun iş sağlığı ve güvenliği sözleşmelerini onaylamıştır. Usulüne göre yürürlüğe konmuş uluslararası antlaşmalar kanun hükmündedir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Üç temel kanun",
+   "title": "Çalışma hayatının dayandığı kanunlar",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1767972159871-b9f5d320be2b?w=1200",
+     "tag": "6331",
+     "title": "İSG Kanunu",
+     "text": "İş sağlığı ve güvenliğini düzenleyen temel kanun. İşveren ve çalışanın İSG görevlerini belirler."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?w=1200",
+     "tag": "4857",
+     "title": "İş Kanunu",
+     "text": "İş sözleşmesi, çalışma süreleri, ücret, izin ve fesih gibi iş ilişkisini düzenler."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1761558794306-466448dab4bc?w=1200",
+     "tag": "5510",
+     "title": "Sosyal Sigortalar Kanunu",
+     "text": "Sigortalılık, iş kazası ve meslek hastalığı tanımları ile SGK güvencesini düzenler."
+    }
+   ],
+   "steps": [
+    "Şimdi çalışma hayatında en sık duyacağınız üç kanunu tanıyalım. Bunları birbirine karıştırmamak önemli; çünkü her biri farklı bir konuyu düzenler.",
+    "Birincisi ve bu eğitimin asıl konusu: 6331 sayılı İş Sağlığı ve Güvenliği Kanunu. Türkiye'de iş sağlığı ve güvenliğini düzenleyen temel kanun budur. Bunu aklınızda tutun, çünkü ders sonunda size soracağım.",
+    "İkincisi 4857 sayılı İş Kanunu. Bu kanun iş sözleşmesini, haftalık çalışma süresini, ücreti, yıllık izni ve iş sözleşmesinin nasıl sona ereceğini düzenler. Yani işçi ile işveren arasındaki iş ilişkisinin kanunudur.",
+    "Üçüncüsü 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu. İş kazası ve meslek hastalığının hukuki tanımı bu kanunda yapılır. Başınıza bir iş kazası gelirse tedavi ve gelir gibi haklarınızı SGK bu kanuna göre sağlar."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1752697589029-0fd0ce96a395?w=2400",
+   "kicker": "Temel kanun",
+   "title": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu",
+   "bullets": [
+    "30 Haziran 2012 tarihli Resmî Gazete'de yayımlandı",
+    "Amaç: işyerinde sağlık ve güvenliği sağlamak ve iyileştirmek",
+    "Kamu ve özel sektördeki tüm işleri ve işyerlerini kapsar",
+    "Çıraklar ve stajyerler de kapsamdadır"
+   ],
+   "steps": [
+    "Şimdi temel kanunumuza biraz daha yakından bakalım: 6331 sayılı İş Sağlığı ve Güvenliği Kanunu.",
+    "Kanun, 30 Haziran 2012 tarihli Resmî Gazete'de yayımlandı. Daha önce farklı mevzuata dağılmış olan iş güvenliği kuralları, böylece tek ve kapsamlı bir kanunda toplandı.",
+    "Kanunun amacı, işyerlerinde iş sağlığı ve güvenliğinin sağlanması ve mevcut sağlık ve güvenlik şartlarının iyileştirilmesi için işveren ve çalışanların görev, yetki, sorumluluk, hak ve yükümlülüklerini düzenlemektir.",
+    "Kanun, kamu ya da özel sektör ayırmadan bütün işlere ve işyerlerine uygulanır. Bir bankanın genel müdürlüğü de, mahalledeki küçük kırtasiye de bu kanunun kapsamındadır.",
+    "Üstelik kapsam sadece kadrolu çalışanlarla sınırlı değil. Çıraklar ve stajyerler de dahil olmak üzere, işyerinde çalışan herkes bu kanunun koruması altındadır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1774898988393-5c752e4d55e9?w=2400",
+   "kicker": "Kapsam dışı",
+   "title": "Kanunun uygulanmadığı faaliyetler",
+   "bullets": [
+    "Ev hizmetleri",
+    "Çalışan çalıştırmadan kendi işini yapanlar",
+    "Askerî, kolluk ve afet müdahale faaliyetleri"
+   ],
+   "steps": [
+    "Her kanunun bir kapsamı ve bazı istisnaları vardır. 6331'in kapsamı çok geniştir, ama kanun bazı özel faaliyetleri dışarıda bırakır. Bunları bilmeniz, kanunun ne kadar geniş uygulandığını görmeniz açısından faydalı.",
+    "Birincisi ev hizmetleri. Örneğin bir evde çalışan ev hizmetlileri bu kanunun kapsamı dışındadır.",
+    "İkincisi, hiç çalışan çalıştırmadan kendi nam ve hesabına mal veya hizmet üretenler. Tek başına çalışan bir zanaatkâr, kendi işinin hem sahibi hem de tek çalışanıdır.",
+    "Üçüncüsü; Türk Silahlı Kuvvetleri, genel kolluk ve MİT'in faaliyetleri ile afet ve acil durum birimlerinin müdahale faaliyetleri. Ancak dikkat: bu kurumlara ait fabrika, bakım merkezi ve benzeri işyerleri kapsamın içindedir. Ayrıca hükümlü ve tutuklulara yönelik bazı infaz faaliyetleri de kapsam dışındadır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Önleme yaklaşımı",
+   "title": "Kanunun korunma ilkeleri",
+   "items": [
+    {
+     "title": "Riskten kaçın",
+     "text": "Mümkünse tehlikeyi tamamen ortadan kaldır"
+    },
+    {
+     "title": "Analiz et",
+     "text": "Kaçınılamayan riskleri değerlendir"
+    },
+    {
+     "title": "Kaynağında çöz",
+     "text": "Tehlikeyi çıktığı yerde kontrol altına al"
+    },
+    {
+     "title": "Daha az tehlikeli seç",
+     "text": "Tehlikeli olanı daha güvenli olanla değiştir"
+    },
+    {
+     "title": "Önce toplu korunma",
+     "text": "Toplu önlemler, kişisel önlemlerden önce gelir"
+    }
+   ],
+   "steps": [
+    "Kanunun en önemli özelliği, olaya kazadan sonra değil, kazadan önce bakmasıdır. Kanun, işverenin uyması gereken korunma ilkelerini sayar. En önemlilerine bakalım.",
+    "İlk ilke: risklerden kaçınmak. Bir tehlikeyi tamamen ortadan kaldırabiliyorsanız, en iyi çözüm budur. Örneğin geçiş yoluna uzanan bir kabloyu oradan kaldırmak gibi.",
+    "Kaçınılması mümkün olmayan riskler ise analiz edilir; yani ne kadar olası ve ne kadar ciddi olduğu değerlendirilir. Risk değerlendirmesi dediğimiz çalışma tam olarak budur.",
+    "Riskle kaynağında mücadele edilir. Gürültülü bir cihazın sesini kulaklıkla değil, önce cihazın kendisinde azaltmak gibi.",
+    "Tehlikeli olan, daha az tehlikeli olanla değiştirilir. Sert bir temizlik kimyasalı yerine daha güvenli bir ürün seçmek buna iyi bir örnektir.",
+    "Ve çok önemli bir ilke: toplu korunma tedbirlerine, kişisel korunma tedbirlerine göre öncelik verilir. Yani önce ortam güvenli hale getirilir; kişisel koruyucu donanım, diğer önlemlerle yeterince korunamayan riskler için devreye girer."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Tehlike sınıfları",
+   "title": "Her işyeri aynı riski taşımaz",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200",
+     "tag": "Az tehlikeli",
+     "title": "Ofis, mağaza, büro",
+     "text": "Temel eğitim en az 8 ders saati; en az 3 yılda bir tekrarlanır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=1200",
+     "tag": "Tehlikeli",
+     "title": "Üretim, atölye",
+     "text": "Temel eğitim en az 12 ders saati; en az 2 yılda bir tekrarlanır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1694521787162-5373b598945c?w=1200",
+     "tag": "Çok tehlikeli",
+     "title": "İnşaat, maden",
+     "text": "Temel eğitim en az 16 ders saati; yılda en az bir kez tekrarlanır."
+    }
+   ],
+   "steps": [
+    "Bir muhasebe bürosu ile bir maden ocağı aynı riskleri taşımaz, değil mi? Bu yüzden mevzuat işyerlerini üç tehlike sınıfına ayırır. Eğitim süresinden risk değerlendirmesinin yenilenme aralığına kadar pek çok kural bu sınıfa göre değişir.",
+    "Ofisler, mağazalar, bürolar ve benzeri işyerleri genellikle az tehlikeli sınıftadır. Sizin işyeriniz de bu gruptadır. Az tehlikeli işyerlerinde temel eğitim en az 8 ders saatidir ve en az 3 yılda bir tekrarlanır.",
+    "Üretim yapılan atölye ve fabrikaların önemli bir kısmı tehlikeli sınıftadır. Burada temel eğitim en az 12 ders saatidir ve en az 2 yılda bir tekrarlanır.",
+    "İnşaat ve maden gibi işler ise çok tehlikeli sınıftadır. Temel eğitim en az 16 ders saatidir ve yılda en az bir kez tekrarlanır. Gördüğünüz gibi, sınıf yükseldikçe eğitim hem uzuyor hem de daha sık tekrarlanıyor."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1771033834141-023d630b3965?w=2400",
+   "kicker": "Sınıfı ne belirler?",
+   "title": "Belirleyici olan: yapılan asıl işin NACE kodu",
+   "bullets": [
+    "NACE: ekonomik faaliyetlerin uluslararası sınıflandırması",
+    "Tehlike sınıfı, İşyeri Tehlike Sınıfları Tebliği'ne göre belirlenir",
+    "Çalışan sayısı, işyerinin büyüklüğü veya işverenin tercihi belirlemez",
+    "NACE kodunu SGK işyeri kaydında görebilirsiniz"
+   ],
+   "steps": [
+    "Peki bir işyerinin hangi sınıfta olduğuna kim, neye göre karar veriyor? Bu soru da ders sonunda karşınıza çıkacak, o yüzden dikkatle dinleyin.",
+    "Cevap: işyerinde yapılan asıl işin niteliği, yani NACE kodu. NACE, ekonomik faaliyetleri sınıflandıran uluslararası bir sistemdir. Her faaliyetin, örneğin perakende ticaretin ya da yazılım geliştirmenin, kendine ait bir kodu vardır.",
+    "Hangi NACE kodunun hangi tehlike sınıfında olduğu, İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliği'nde liste halinde belirlenmiştir.",
+    "Sık yapılan bir hatayı düzeltelim. Tehlike sınıfını çalışan sayısı, işyerinin büyüklüğü ya da işverenin tercihi belirlemez. Üç kişilik bir atölye tehlikeli, beş yüz kişilik bir çağrı merkezi az tehlikeli sınıfta olabilir. Belirleyici olan, yapılan asıl iştir.",
+    "İşyerinizin NACE kodunu merak ediyorsanız, SGK işyeri kaydında yer aldığını bilin. İşyerinizin İSG profesyonellerine sorarak da öğrenebilirsiniz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1573164574572-cb89e39749b4?w=2400",
+   "kicker": "Örnek olay 1",
+   "title": "\"Biz küçük bir ofisiz, bu kurallar bize uymaz\"",
+   "bullets": [
+    "6331, tek çalışanı olan işyerine de uygulanır",
+    "Az tehlikeli olmak, risk yok demek değildir",
+    "Eğitim ve risk değerlendirmesi her işyerinde zorunludur"
+   ],
+   "steps": [
+    "Şimdi kısa bir örnek olay dinleyelim. Altı kişilik bir mali müşavirlik ofisi düşünün. Ofis sahibi, yeni gelen çalışana şöyle diyor: Biz küçük bir ofisiz, burada makine yok, tehlike yok. İş güvenliği kuralları büyük fabrikalar için.",
+    "Bu düşünce yanlış. 6331 sayılı Kanun, çalışan sayısına bakmaksızın uygulanır. Tek bir çalışanı olan işyeri de kanunun kapsamındadır.",
+    "Az tehlikeli olmak, risk olmadığı anlamına gelmez. Üst rafa sandalyeyle çıkmak, geçiş yolundaki uzatma kabloları ya da kilitli tutulan bir acil çıkış kapısı ciddi sonuçlar doğurabilir.",
+    "Peki ne yapılmalıydı? İşveren risk değerlendirmesini yaptırmalı, yeni çalışana işe başlamadan önce işe başlama eğitimini vermeli ve temel eğitimini planlamalıydı. Siz de kendi işyerinize bu gözle bakın: sizde gözden kaçan küçük tehlikeler var mı?"
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1752697589000-9819ed4fc30c?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar neler öğrendik",
+   "bullets": [
+    "Mevzuat sıralaması: Anayasa, kanun, yönetmelik, tebliğ",
+    "Temel kanun: 6331 sayılı İş Sağlığı ve Güvenliği Kanunu",
+    "Tehlike sınıfını yapılan asıl işin NACE kodu belirler",
+    "Kanun, çalışan sayısına bakmadan tüm işyerlerine uygulanır"
+   ],
+   "steps": [
+    "Yolun yarısına geldik. Kısa bir mola verip buraya kadar öğrendiklerimizi toparlayalım.",
+    "Mevzuat bir merdiven gibidir: en üstte Anayasa, sonra kanunlar, yönetmelikler ve tebliğler gelir. Alttaki kural üsttekine aykırı olamaz.",
+    "Türkiye'de iş sağlığı ve güvenliğini düzenleyen temel kanun 6331 sayılı İş Sağlığı ve Güvenliği Kanunudur. 4857 sayılı İş Kanunu iş ilişkisini, 5510 sayılı Kanun ise sosyal sigortaları düzenler.",
+    "İşyerinizin tehlike sınıfını çalışan sayısı ya da büyüklük değil, yapılan asıl işin niteliği, yani NACE kodu belirler.",
+    "Ve 6331 sayılı Kanun, ister bir ister bin çalışanı olsun, tüm işyerlerine uygulanır. Şimdi ikinci yarıya geçelim ve yönetmeliklere bakalım."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1761558794306-466448dab4bc?w=2400",
+   "kicker": "Yönetmelikler",
+   "title": "Kanunu hayata geçiren yönetmelikler",
+   "bullets": [
+    "Risk değerlendirmesi yönetmeliği",
+    "İşyerlerinde acil durumlar hakkında yönetmelik",
+    "İSG hizmetleri ve kişisel koruyucu donanım yönetmelikleri",
+    "Çalışanların İSG eğitimlerine ilişkin yönetmelik"
+   ],
+   "steps": [
+    "6331 sayılı Kanun ana çerçeveyi çizer; ayrıntıları ise onlarca yönetmelik düzenler. Hepsini bilmeniz gerekmiyor, ama en sık karşılaşacağınız birkaçını tanıyalım.",
+    "Risk değerlendirmesi yönetmeliği, tehlikelerin nasıl belirleneceğini ve değerlendirmeyi kimlerin yapacağını düzenler. Ekipte işveren, İSG profesyonelleri, çalışan temsilcisi, destek elemanları ve işyerini iyi tanıyan çalışanlar yer alır.",
+    "İşyerlerinde acil durumlar hakkındaki yönetmelik; yangın, deprem, sel gibi durumlar için acil durum planı hazırlanmasını, ekiplerin oluşturulmasını ve tatbikatların yapılmasını düzenler.",
+    "İSG hizmetleri yönetmeliği, iş güvenliği uzmanı ve işyeri hekimi hizmetinin nasıl alınacağını belirler. KKD yönetmeliği ise koruyucu donanımın seçimi, kullanımı ve bakımını düzenler.",
+    "Ve bu eğitimi almanızın doğrudan dayanağı olan bir yönetmelik daha var: çalışanların iş sağlığı ve güvenliği eğitimlerine ilişkin yönetmelik. Bu yönetmelik 2026 yılında yenilendi; birazdan ayrıntısına gireceğiz."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Risk değerlendirmesi",
+   "title": "En geç ne zaman yenilenir?",
+   "items": [
+    {
+     "value": "6",
+     "unit": "yıl",
+     "label": "az tehlikeli işyerleri"
+    },
+    {
+     "value": "4",
+     "unit": "yıl",
+     "label": "tehlikeli işyerleri"
+    },
+    {
+     "value": "2",
+     "unit": "yıl",
+     "label": "çok tehlikeli işyerleri"
+    }
+   ],
+   "steps": [
+    "Tehlike sınıfının etkisini bir örnekle daha görelim. Risk değerlendirmesi bir kez yapılıp rafa kaldırılan bir belge değildir; belirli aralıklarla yenilenmesi gerekir.",
+    "Az tehlikeli işyerlerinde risk değerlendirmesi en geç 6 yılda bir yenilenir.",
+    "Tehlikeli işyerlerinde bu süre en geç 4 yıldır.",
+    "Çok tehlikeli işyerlerinde ise en geç 2 yılda bir yenilenir. Ama dikkat: bunlar en uzun sürelerdir. İşyerinin taşınması, yeni bir makine ya da yeni bir çalışma yöntemi gelmesi, bir iş kazası veya ramak kala olay yaşanması gibi durumlarda risk değerlendirmesi süre beklenmeden yenilenmelidir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1521791055366-0d553872125f?w=2400",
+   "kicker": "Yeni yönetmelik",
+   "value": "2026",
+   "title": "Çalışanların İSG Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik",
+   "text": "2 Nisan 2026 tarihli ve 33212 sayılı Resmî Gazete'de yayımlandı. 2013 tarihli eski eğitim yönetmeliği yürürlükten kaldırıldı.",
+   "steps": [
+    "Şimdi bu eğitimin doğrudan dayanağına geçelim. Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik, 2 Nisan 2026 tarihli ve 33212 sayılı Resmî Gazete'de yayımlandı ve aynı gün yürürlüğe girdi.",
+    "Yeni yönetmelikle birlikte, 2013 yılından beri uygulanan eski eğitim yönetmeliği yürürlükten kaldırıldı. Eski yönetmeliğe göre verilmiş eğitimler ve belgeler ise geçerliliğini korur. Yani daha önce eğitim aldıysanız boşa gitmedi.",
+    "Yönetmelik eğitimi iki ana başlıkta ele alır: işe başlamadan önce verilen işe başlama eğitimi ve düzenli aralıklarla tekrarlanan temel eğitim. Şu an izlediğiniz ders, temel eğitimin bir parçası."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Sizin için",
+   "title": "Az tehlikeli işyerinde eğitim kuralları",
+   "items": [
+    {
+     "value": "2",
+     "unit": "saat",
+     "label": "işe başlamadan önce, yüz yüze"
+    },
+    {
+     "value": "3",
+     "unit": "ay",
+     "label": "temel eğitim en geç bu sürede"
+    },
+    {
+     "value": "8",
+     "unit": "ders saati",
+     "label": "temel eğitim en az"
+    },
+    {
+     "value": "3",
+     "unit": "yıl",
+     "label": "en az bu aralıkla tekrar"
+    }
+   ],
+   "steps": [
+    "Rakamlarla, sizin için ne anlama geldiğine bakalım. Bu dört rakamı aklınızda tutmanızı istiyorum.",
+    "İlki işe başlama eğitimi. Çırak ve stajyerler dahil herkese, fiilen çalışmaya başlamadan önce en az 2 saatlik bir işe başlama eğitimi verilir. Bu eğitim uygulamalı ve yüz yüzedir; konusu yapacağınız iş, kullanacağınız ekipman ve işyerinize özgü risklerdir. Bu süre temel eğitimden sayılmaz.",
+    "İkincisi temel eğitimin zamanı. Temel eğitim işe başladıktan sonra en kısa sürede tamamlanır ve bu süre, işe başlamadan itibaren 3 ayı geçemez.",
+    "Üçüncüsü süre. Az tehlikeli işyerlerinde temel eğitim en az 8 ders saatidir. Bir ders saati, en az 45 dakikalık ders ile 15 dakikalık ara dinlenmeden oluşur.",
+    "Dördüncüsü tekrar. Az tehlikeli işyerlerinde temel eğitim en az 3 yılda bir tekrarlanır ve tekrar eğitimi de en az 8 ders saatidir. Bunu bir kez daha söyleyeyim: üç yılda bir. Ders sonunda bu soruyla karşılaşacaksınız."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Eğitim yolculuğunuz",
+   "title": "İşe girişten tekrar eğitimine",
+   "items": [
+    {
+     "title": "İşe başlama eğitimi",
+     "text": "Çalışmaya başlamadan önce, yüz yüze, en az 2 saat"
+    },
+    {
+     "title": "Temel eğitim",
+     "text": "En az 8 ders saati, işe başlamadan itibaren 3 ay içinde"
+    },
+    {
+     "title": "Ölçme ve belge",
+     "text": "100 üzerinden en az 60 puan, temel eğitim belgesi"
+    },
+    {
+     "title": "Tekrar eğitimi",
+     "text": "Az tehlikelide en az 3 yılda bir, en az 8 ders saati"
+    },
+    {
+     "title": "Ek eğitim",
+     "text": "İş kazası, iş değişikliği, 6 aydan uzun ayrılık sonrası"
+    }
+   ],
+   "steps": [
+    "Şimdi bir çalışanın eğitim yolculuğunu baştan sona izleyelim. Yeni işe giren birini düşünün.",
+    "İlk gün, daha masasına oturmadan, işe başlama eğitimi alır. Bu eğitimi iş güvenliği uzmanı, işyeri hekimi ya da işverenin görevlendirdiği bilgili ve deneyimli bir çalışan verebilir. Eğitim tutanakla kayıt altına alınır.",
+    "Ardından, en geç üç ay içinde temel eğitimini tamamlar. Şu an izlediğiniz eğitim de bunun bir parçası.",
+    "Eğitimin sonunda değerlendirme yapılır. Başarı için 100 üzerinden en az 60 puan gerekir. Başarısız olan en fazla iki kez daha sınava girebilir; yine olmazsa temel eğitime yeniden katılır. Başarılı olana temel eğitim belgesi verilir.",
+    "Az tehlikeli işyerlerinde temel eğitim en az üç yılda bir, yine en az 8 ders saati olarak tekrarlanır.",
+    "Bazı durumlarda süre beklenmeden ek eğitim verilir: iş kazası ya da meslek hastalığı sonrası işe dönüşte, iş veya ekipman değiştiğinde ve altı aydan uzun süre işten uzak kalındığında."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Online eğitim",
+   "title": "Uzaktan eğitimde doğru ve yanlış",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200",
+     "ok": true,
+     "title": "Dikkatle takip etmek",
+     "text": "Dersi baştan sona izlemek, ara sorulara katılmak ve öğrendiklerini işinde uygulamak."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758691737003-2edd1be8b891?w=1200",
+     "ok": false,
+     "title": "Arka planda açık bırakmak",
+     "text": "Videoyu başka sekmede açık bırakıp başka işle uğraşmak ya da başkasına izletmek."
+    }
+   ],
+   "steps": [
+    "Bu eğitimi online alıyorsunuz. Yönetmelik uzaktan eğitim için de kurallar koyar. Eğitim sistemi giriş çıkış kayıtlarını, tamamlama oranlarını ve sınav sonuçlarını kayıt altına alır. İleri sarma, sekme değiştirme ya da pencereyi kapatma gibi durumlar engellenir; belirli aralıklarla kısa sorular gelir.",
+    "Doğru olan şu: dersi dikkatle takip etmek, ara sorulara katılmak ve öğrendiklerinizi işinizde uygulamak. Yönetmelik bunu açıkça çalışanın yükümlülüğü olarak sayar: eğitimlere katılmak, gerekli dikkat ve özeni göstermek, ölçme ve değerlendirmelere katılmak.",
+    "Yanlış olan ise videoyu arka planda açık bırakıp başka işle uğraşmak ya da eğitimi bir başkasına izletmek. Bu hem kurala aykırıdır hem de en çok sizi zarara uğratır; çünkü bir gün bu bilgiye gerçekten ihtiyacınız olabilir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1573167507387-6b4b98cb7c13?w=2400",
+   "kicker": "Bilmeniz gereken",
+   "value": "Mesai",
+   "title": "Eğitimde geçen süre çalışma süresinden sayılır",
+   "text": "Haftalık çalışma süresini aşarsa, aşan kısım fazla çalışma sayılır. Eğitimin maliyeti çalışana yansıtılamaz.",
+   "steps": [
+    "Şimdi çok önemli bir bilgi. Bu eğitimi alırken geçirdiğiniz süre, çalışma sürenizden sayılır. Yani eğitim, mesainizin bir parçasıdır; izin gününüzden ya da yıllık izninizden düşülemez.",
+    "Eğitim nedeniyle haftalık çalışma süreniz aşılırsa, aşan kısım fazla çalışma ya da fazla sürelerle çalışma olarak değerlendirilir. Ayrıca eğitimin maliyeti hiçbir şekilde çalışana yansıtılamaz. Bu kural hem 6331 sayılı Kanunda hem de yeni eğitim yönetmeliğinde açıkça yer alır.",
+    "Daha genel bir kural da var: işveren, iş sağlığı ve güvenliği tedbirlerinin maliyetini çalışanlara yansıtamaz. Size verilen kişisel koruyucu donanım ya da yapılan sağlık muayenesi için de sizden ücret istenemez."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Görev paylaşımı",
+   "title": "Kanuna göre kimin görevi ne?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1775163024488-e88e4a71179f?w=1200",
+     "title": "İşveren",
+     "text": "Çalışanın işle ilgili sağlık ve güvenliğini sağlamakla yükümlüdür; sorumluluğu devredemez."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1659353586512-bcc4c7182d01?w=1200",
+     "title": "İSG profesyonelleri",
+     "text": "İş güvenliği uzmanı ve işyeri hekimi işverene rehberlik eder; hizmet OSGB'den de alınabilir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1623038896180-d81dd785a60f?w=1200",
+     "title": "Çalışan",
+     "text": "Eğitim ve talimatlara uyar, KKD'yi doğru kullanır, tehlikeyi hemen bildirir."
+    }
+   ],
+   "steps": [
+    "Kanun, iş sağlığı ve güvenliğini tek bir kişinin omzuna yüklemez. Görevleri paylaştırır. Bu paylaşımı bilmek, kime ne zaman başvuracağınızı bilmek demektir.",
+    "Ana sorumlu işverendir. Kanuna göre işveren, çalışanların işle ilgili sağlık ve güvenliğini sağlamakla yükümlüdür. İşyeri dışındaki uzman kişi ve kuruluşlardan hizmet alması, işverenin sorumluluğunu ortadan kaldırmaz.",
+    "İş güvenliği uzmanı ve işyeri hekimi, işverene rehberlik eder; risk değerlendirmesi, sağlık gözetimi ve eğitim gibi çalışmaları yürütür. Bu hizmet işyerinin kendi personeliyle ya da OSGB denilen ortak sağlık ve güvenlik birimlerinden alınabilir. Görevlendirmeler, Bakanlığın İSG-KÂTİP sistemi üzerinden kayıt altına alınır.",
+    "Çalışan olarak sizin de görevleriniz var: eğitime ve talimatlara uymak, KKD'yi doğru kullanmak ve tehlikeyi hemen bildirmek. Bunları bir sonraki derste ayrıntılı konuşacağız. Şunu bilin: çalışanın yükümlülükleri, işverenin sorumluluklarını etkilemez."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1787647560392-82f62ae82005?w=2400",
+   "kicker": "Katılım",
+   "title": "Çalışan temsilcisi ve İSG kurulu",
+   "bullets": [
+    "Çalışan temsilcisi: 2 ve daha fazla çalışanı olan işyerlerinde",
+    "Temsilci, tehlikenin giderilmesi için öneride bulunabilir",
+    "İSG kurulu: 50 ve daha fazla çalışan, 6 aydan uzun süren sürekli işler"
+   ],
+   "steps": [
+    "Mevzuat, çalışanların güvenlik konusundaki kararlara katılmasını da güvence altına alır. Bunun iki önemli aracı var: çalışan temsilcisi ve iş sağlığı ve güvenliği kurulu.",
+    "İki ve daha fazla çalışanı olan işyerlerinde, çalışanlar arasından çalışan temsilcisi belirlenir. Temsilci seçimle belirlenir; seçim yapılamıyorsa atama yoluyla görevlendirilir. Çalışan sayısı arttıkça temsilci sayısı da artar.",
+    "Çalışan temsilcisi, tehlike kaynağının giderilmesi veya riskin azaltılması için işverene öneride bulunabilir ve tedbir alınmasını isteyebilir. Bu görevi nedeniyle hakları kısıtlanamaz. İşyerinizdeki temsilcinin kim olduğunu biliyor musunuz? Bilmiyorsanız bugün öğrenmeye değer.",
+    "Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde ise işveren bir iş sağlığı ve güvenliği kurulu oluşturur. Kurul, işyerindeki güvenlik konularını düzenli olarak görüşür ve karara bağlar."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=2400",
+   "kicker": "Bildirim",
+   "value": "3 iş günü",
+   "title": "İşveren iş kazasını SGK'ya kazadan sonraki 3 iş günü içinde bildirir",
+   "text": "Meslek hastalığı da öğrenildiği tarihten itibaren 3 iş günü içinde bildirilir. Sağlık hizmet sunucuları ise en geç 10 gün içinde bildirir.",
+   "steps": [
+    "Mevzuat sadece önlemeyi değil, olan bir kazanın nasıl kayda geçeceğini de düzenler. İşveren, iş kazasını kazadan sonraki üç iş günü içinde SGK'ya bildirmek zorundadır.",
+    "Meslek hastalığı da, işverenin öğrendiği tarihten itibaren üç iş günü içinde bildirilir. Kendisine bir iş kazası vakası ulaşan sağlık hizmet sunucuları ise bunu en geç on gün içinde SGK'ya bildirir.",
+    "Bu bildirim neden önemli? Çünkü tedavi masraflarınız ve iş göremezlik ödeneğiniz gibi haklar bu kayda dayanır. Bildirilmeyen kaza hem hakkınızı tehlikeye atar hem de ders çıkarılmasını engeller."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1681726267024-04427f16ad45?w=2400",
+   "kicker": "5510 sayılı Kanun",
+   "title": "Hangi olaylar iş kazası sayılır?",
+   "bullets": [
+    "İşyerinde bulunduğunuz sırada",
+    "İşveren tarafından yürütülen iş nedeniyle",
+    "Görevli olarak işyeri dışına gönderildiğinizde",
+    "Emziren çalışanın süt izni sırasında",
+    "İşverence sağlanan taşıtla işe gidiş gelişte"
+   ],
+   "steps": [
+    "Peki hangi olaylar hukuken iş kazası sayılır? Bunu 5510 sayılı Kanun tanımlar ve tanım, çoğu kişinin düşündüğünden geniştir. Beş durumu birlikte görelim.",
+    "Birincisi, işyerinde bulunduğunuz sırada meydana gelen olaylar. Masanızdan kalkarken takılıp düşmeniz buna örnektir.",
+    "İkincisi, işveren tarafından yürütülen iş nedeniyle meydana gelen olaylar. Yani iş yüzünden yaşanan bir kaza, işyeri dışında olsa da iş kazası sayılabilir.",
+    "Üçüncüsü, görevli olarak işyeri dışında başka bir yere gönderildiğinizde, asıl işinizi yapmadan geçen zamanlar da dahil. Bir müşteriye evrak götürürken yaşanan kaza gibi.",
+    "Dördüncüsü, emziren kadın çalışanın çocuğuna süt vermek için ayrılan zamanlarda yaşadığı olaylar.",
+    "Beşincisi, işverence sağlanan bir taşıtla işin yapıldığı yere toplu olarak gidiş gelişte yaşanan olaylar. Servis aracında yaşanan bir kaza buna örnektir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1764584503115-3fca2f40700a?w=2400",
+   "kicker": "Örnek olay 2",
+   "title": "Kafede \"küçük\" bir kaza",
+   "bullets": [
+    "Her iş kazası işverene hemen bildirilmeli",
+    "İşveren 3 iş günü içinde SGK'ya bildirir",
+    "Kazanın nedeni araştırılır, önlem alınır"
+   ],
+   "steps": [
+    "İkinci örnek olayımız bir kafeden. Yoğun bir öğle saatinde garson Elif, tezgâh arkasında yere dökülmüş sütü fark etmeden basıyor ve kayıp düşüyor. Bileği şişiyor ama vardiya yoğun olduğu için kimseye söylemiyor. Ertesi gün ağrı artınca hastaneye gidiyor.",
+    "Burada iki hata var. Birincisi Elif'in olayı bildirmemesi. Kaza işyerinde ve iş sırasında olduğu için bu bir iş kazasıdır ve hemen işverene ya da yöneticiye bildirilmelidir.",
+    "İkincisi, kazanın kayda geçmemesi. İşveren durumu öğrendiğinde, kazadan sonraki üç iş günü içinde SGK'ya bildirmekle yükümlüdür. Bildirim yapılmazsa Elif'in tedavi ve geçici iş göremezlik ödeneği gibi hakları zorlaşabilir.",
+    "En önemlisi, kazanın nedeni araştırılmalı. Dökülen sıvıyı hemen temizleme ve alanı işaretleme kuralı var mıydı? Bu sorular cevaplanırsa bir sonraki kaza önlenir. Siz de küçük bir kazayı küçük diye geçiştirmeyin."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1762341104168-63ddb56e9805?w=2400",
+   "kicker": "Denetim",
+   "title": "Kurallara uyulmazsa ne olur?",
+   "bullets": [
+    "Denetimi Çalışma ve Sosyal Güvenlik Bakanlığının iş müfettişleri yapar",
+    "Aykırılıklara idari para cezası uygulanır",
+    "Hayati tehlike tespit edilirse iş durdurulur",
+    "İş durdurulsa da çalışanın ücreti ödenir"
+   ],
+   "steps": [
+    "Peki bu kurallara uyulmazsa ne olur? Mevzuat sadece kural koymaz, uygulanıp uygulanmadığını da denetler.",
+    "İş sağlığı ve güvenliği denetimini Çalışma ve Sosyal Güvenlik Bakanlığının iş müfettişleri yapar. Müfettişler işyerine habersiz gelebilir; belgeleri, eğitim kayıtlarını ve çalışma ortamını inceleyebilir.",
+    "Aykırılık tespit edilirse işverene idari para cezası uygulanır. Ceza tutarları her yıl yeniden değerleme oranında güncellendiği için burada rakam vermeyeceğim; önemli olan, kuralların yaptırımı olduğudur.",
+    "Daha ciddi bir yaptırım da var: işin durdurulması. İşyerinin binası, çalışma yöntemi veya iş ekipmanında çalışanlar için hayati tehlike oluşturan bir durum tespit edilirse, bu tehlike giderilinceye kadar işyerinin bir bölümünde ya da tamamında iş durdurulur.",
+    "Bu durumda çalışanlar mağdur edilmez. İş durduğu için çalışamayan çalışanlara işveren ücretlerini öder ya da ücretlerinde düşüklük olmamak koşuluyla onlara uygun başka bir iş verir."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Örnek olay 3",
+   "title": "Mağaza deposunda eğitim kaydı",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1672552226604-4ab36b7e5ca6?w=1200",
+     "ok": false,
+     "title": "Önce çalıştır, sonra eğit",
+     "text": "Yeni çalışanı hiç eğitim vermeden yoğun sezonda depoya ve kasaya hemen göndermek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200",
+     "ok": true,
+     "title": "Önce eğit, sonra başlat",
+     "text": "İşe başlama eğitimini ilk gün yüz yüze vermek, tutanağa geçirmek, temel eğitimi planlamak."
+    }
+   ],
+   "steps": [
+    "Üçüncü örnek olayımız bir giyim mağazasından. Bayram öncesi yoğunlukta mağazaya üç yeni çalışan alınıyor. Mağaza müdürü, eğitimleri sezondan sonra yaparız diyerek onları ilk saatten itibaren depoya ve kasaya gönderiyor. Bir hafta sonra yapılan denetimde hiçbirinin eğitim kaydı yok.",
+    "Yanlış olan buydu. Yeni çalışanlar, depodaki yüksek raflar, ağır koliler ve acil çıkışların yeri hakkında hiçbir şey bilmeden çalışmaya başladı. Bu hem onları riske attı hem de işverene idari yaptırım getirdi.",
+    "Doğrusu ise şuydu: işe başlama eğitimini ilk gün, çalışmaya başlamadan önce, yüz yüze ve uygulamalı vermek, tutanağa geçirip imzalatmak ve temel eğitimi işe başladıkları tarihten itibaren üç ay içinde tamamlayacak şekilde planlamak. Birkaç saatlik bir eğitim, bütün sezonu güvenli hale getirebilirdi."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1743698296692-60a3867ef2b4?w=2400",
+   "kicker": "Sizin işyeriniz",
+   "title": "Mevzuatı işyerinizde nerede görürsünüz?",
+   "bullets": [
+    "Acil durum planı ve tahliye krokisi",
+    "Eğitim belgeniz ve özlük dosyanız",
+    "İSG profesyonellerinin iletişim bilgileri"
+   ],
+   "steps": [
+    "Mevzuat kitaplarda kalan bir şey değil. Biraz dikkat ederseniz, işyerinizin her köşesinde izlerini görebilirsiniz. Şimdi size birkaç soru soracağım; cevabını içinizden verin.",
+    "İşyerinizde acil durum planı ve tahliye krokisi asılı mı? Acil çıkışlar işaretli ve önleri açık mı? Bunlar acil durumlar yönetmeliğinin doğrudan sonucudur.",
+    "Daha önce aldığınız eğitimlerin belgesi özlük dosyanızda duruyor mu? Yeni yönetmeliğe göre temel eğitim belgesi özlük dosyasında saklanır ve işten ayrılırken talep ederseniz imzalı bir örneği size verilir.",
+    "İşyerinizin iş güvenliği uzmanı, işyeri hekimi ve çalışan temsilciniz kim? Bilmiyorsanız bu dersten sonra öğrenin. Bir tehlike gördüğünüzde kime başvuracağınızı bilmek, mevzuatın en pratik faydasıdır."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1784900020716-740cef2892ce?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Temel kanun: 6331 sayılı İş Sağlığı ve Güvenliği Kanunu",
+    "Tehlike sınıfını yapılan asıl işin NACE kodu belirler",
+    "Az tehlikelide temel eğitim en az 8 ders saati, en az 3 yılda bir tekrar",
+    "Eğitim süresi çalışma süresinden sayılır, maliyeti çalışana yansıtılamaz",
+    "Kurallara uyulmazsa idari para cezası ve işin durdurulması gündeme gelir"
+   ],
+   "steps": [
+    "Dersimizin sonuna geldik. Öğrendiklerimizi son kez özetleyelim.",
+    "Türkiye'de iş sağlığı ve güvenliğini düzenleyen temel kanun, 6331 sayılı İş Sağlığı ve Güvenliği Kanunudur. Kanun, çalışan sayısına bakmaksızın tüm işyerlerine uygulanır.",
+    "İşyerinizin az tehlikeli, tehlikeli ya da çok tehlikeli olmasını çalışan sayısı veya büyüklük değil; yapılan asıl işin niteliği, yani NACE kodu belirler.",
+    "Az tehlikeli işyerlerinde işe başlamadan önce en az 2 saatlik yüz yüze işe başlama eğitimi verilir. Temel eğitim en az 8 ders saatidir, işe başlamadan itibaren 3 ay içinde tamamlanır ve en az 3 yılda bir tekrarlanır.",
+    "Eğitim süresi çalışma süresinden sayılır ve maliyeti çalışana yansıtılamaz. Kurallara uyulmazsa idari para cezası ve gerekirse işin durdurulması gündeme gelir.",
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Anlattıklarımızı hatırlarsanız rahatlıkla cevaplayacaksınız. Bir sonraki derste yasal hak ve sorumluluklarınızı konuşacağız. Görüşmek üzere."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,485 @@
+{
+ "code": "az8_t5",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "3. Bölüm · Teknik Konular",
+ "title": "Sağlık ve güvenlik işaretleri; kişisel koruyucu donanım",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1578986568309-707ef1017f69?w=2400",
+   "kicker": "3. Bölüm · Ders 5",
+   "title": "Sağlık ve güvenlik işaretleri; kişisel koruyucu donanım",
+   "subtitle": "İşaretleri okumak, KKD'yi doğru kullanmak",
+   "steps": [
+    "Merhaba, yeniden hoş geldiniz. Bu derste her gün önünden geçtiğiniz ama belki de dikkatle bakmadığınız işaretleri ve sizi doğrudan koruyan kişisel koruyucu donanımları konuşacağız.",
+    "Neden önemli? Çünkü bir işaret, tehlikeyi siz fark etmeden önce size haber verir. Kişisel koruyucu donanım da diğer önlemlerin yetmediği yerde vücudunuzla tehlike arasına giren son engeldir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Bu derste",
+   "title": "Neler öğreneceğiz?",
+   "items": [
+    {
+     "title": "İşaretin dili",
+     "text": "Renkler ve şekiller ne anlatır"
+    },
+    {
+     "title": "İşaret türleri",
+     "text": "Yasak, uyarı, zorunluluk, acil çıkış, yangın"
+    },
+    {
+     "title": "KKD'nin yeri",
+     "text": "Korunma önlemlerinde neden en sondadır"
+    },
+    {
+     "title": "Doğru kullanım",
+     "text": "Seçim, kontrol, kullanım, bakım ve saklama"
+    }
+   ],
+   "steps": [
+    "Önce bu dersin yol haritasına bakalım. Dört adımda ilerleyeceğiz ve her adımda işyerinizden örnekler vereceğim.",
+    "Birinci adımda işaretlerin ortak dilini, yani renklerin ve şekillerin ne anlama geldiğini öğreneceğiz. Bu dili bir kez öğrendiğinizde, hiç görmediğiniz bir işareti bile anlayabilirsiniz.",
+    "İkinci adımda yasak, uyarı, zorunluluk, acil çıkış ve yangın işaretlerini tek tek tanıyacağız ve işyerinizde bunları nerede göreceğinizi konuşacağız.",
+    "Üçüncü adımda kişisel koruyucu donanımın, yani kısaca KKD'nin, korunma önlemleri arasında neden en son sırada yer aldığını konuşacağız.",
+    "Dördüncü adımda da KKD'yi nasıl seçeceğinizi, kontrol edeceğinizi, kullanacağınızı ve saklayacağınızı öğreneceğiz. Yol boyunca iki kısa örnek olayı da birlikte değerlendireceğiz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1743698296692-60a3867ef2b4?w=2400",
+   "kicker": "Temel kavram",
+   "title": "Güvenlik işareti nedir?",
+   "bullets": [
+    "Bir tehlike, yasak, zorunluluk ya da yol hakkında bilgi verir",
+    "Levha, renk, ışık, ses, el ve sözlü işaret olabilir",
+    "Tehlikeyi ortadan kaldırmaz, ona dikkat çeker"
+   ],
+   "steps": [
+    "Peki güvenlik ve sağlık işareti tam olarak nedir? Bu konuyu Sağlık ve Güvenlik İşaretleri Yönetmeliği düzenler.",
+    "Kısaca söylemek gerekirse işaret; belirli bir nesne, faaliyet ya da durum hakkında size bir tehlikeyi, bir yasağı, bir zorunluluğu ya da güvenli bir yolu anlatan mesajdır.",
+    "Bu mesaj sadece duvardaki levha olmak zorunda değil. Bir renk, yanıp sönen bir ışık, bir alarm sesi, bir el hareketi ya da sözlü bir uyarı da işarettir.",
+    "Ama şunu unutmayalım: işaret tehlikeyi ortadan kaldırmaz. İşveren önce tehlikeyi gidermeye çalışır; giderilemeyen riskler için işaret kullanılır ve size dikkatli olmanızı söyler."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1561882458-3b5d03e4b4aa?w=2400",
+   "kicker": "İşaretin dili",
+   "value": "Renk+şekil",
+   "title": "Güvenlik işaretleri, dil bilmeyen birinin bile anlayacağı şekilde renk ve şekille konuşur",
+   "text": "Daire yasak ya da zorunluluk, üçgen uyarı, kare ve dikdörtgen bilgi verir",
+   "steps": [
+    "İşaretlerin en güzel tarafı şu: hepsi ortak bir dil kullanır. Yazıyı okumasanız, hatta o dili hiç bilmeseniz bile renge ve şekle bakarak mesajı anlayabilirsiniz.",
+    "Şekil kuralını aklınızda tutun. Daire biçimli işaretler bir yasak ya da bir zorunluluk bildirir. Üçgen işaretler sizi bir tehlikeye karşı uyarır. Kare ve dikdörtgen işaretler ise yol, yer ya da ekipman hakkında bilgi verir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Daire ve üçgen",
+   "title": "Kırmızı, sarı ve mavi işaretler",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1593505681742-8cbb6f44de25?w=1200",
+     "tag": "Yasak",
+     "title": "Kırmızı daire",
+     "text": "Beyaz zemin, kırmızı çerçeve ve çapraz çizgi, siyah resim. Bu davranışı yapmayın."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1555699875-5773b06e8ee2?w=1200",
+     "tag": "Uyarı",
+     "title": "Sarı üçgen",
+     "text": "Sarı zemin, siyah çerçeve ve siyah resim. Dikkat, burada bir tehlike var."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1628246941071-0788e88e2b32?w=1200",
+     "tag": "Zorunluluk",
+     "title": "Mavi daire",
+     "text": "Mavi zemin üzerinde beyaz resim. Bu kurala uymak zorunludur, örneğin gözlük takınız."
+    }
+   ],
+   "steps": [
+    "Şimdi renklerle şekilleri birleştirelim. Ekranda gördüğünüz ilk üç grup, işyerlerinde en sık karşılaştığınız işaretlerdir; her birini dikkatle inceleyelim.",
+    "Yasak işaretleri daire biçimindedir. Beyaz zemin, kırmızı çerçeve, kırmızı çapraz bir çizgi ve siyah bir resim. Sigara içilmez, yetkisiz giriş yasaktır, suyla söndürme yapılmaz gibi.",
+    "Uyarı işaretleri üçgendir. Sarı zemin üzerinde siyah çerçeve ve siyah resim bulunur. Elektrik tehlikesi, kaygan zemin, zehirli madde gibi tehlikeleri haber verir.",
+    "Zorunluluk işaretleri yine dairedir ama bu kez zemin mavi, resim beyazdır. Mavi daire içinde beyaz bir piktogram gördüğünüzde bunun bir zorunluluk olduğunu bilin: baret takınız, koruyucu gözlük takınız, eldiven giyiniz gibi."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Kare ve dikdörtgen",
+   "title": "Yeşil, kırmızı ve diğer işaretler",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1739567773441-c3e7a1da4fb5?w=1200",
+     "tag": "Acil durum",
+     "title": "Yeşil kare",
+     "text": "Acil çıkış, kaçış yolu ve ilk yardım bilgisi. Güvenli yere giden yolu gösterir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1712640379137-6d2532f887a7?w=1200",
+     "tag": "Yangın",
+     "title": "Kırmızı kare",
+     "text": "Yangın söndürücü, yangın dolabı, alarm butonu gibi ekipmanın yerini gösterir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1743698205310-cd814a95afab?w=1200",
+     "tag": "Işık ve ses",
+     "title": "Sesli ve ışıklı uyarı",
+     "text": "Alarm sesi ya da yanıp sönen ışık da bir işarettir. Duyduğunuzda talimata uyun."
+    }
+   ],
+   "steps": [
+    "Kare ve dikdörtgen işaretler size bilgi verir: nereye gideceğinizi ya da bir ekipmanın nerede olduğunu gösterir. Burada da renk her şeyi anlatır.",
+    "Yeşil renkli işaretler acil çıkışları, kaçış yollarını ve ilk yardım bilgilerini gösterir. Yeşil, güvenli yerin ve kurtuluşun rengidir. Koşan bir insan figürü ve ok, ilk yardım çantası ya da beyaz haç simgesi bu gruptadır.",
+    "Kırmızı zemin üzerinde beyaz resim taşıyan kare işaretler ise yangınla mücadele ekipmanının yerini gösterir: yangın söndürücü, yangın dolabı, yangın alarm butonu gibi.",
+    "Bunların yanında sesli ve ışıklı işaretler de vardır. Yangın alarmının sesi ya da yanıp sönen bir ikaz lambası da işarettir. Ayrıca engelleri ve düşme tehlikesi olan yerleri gösteren sarı siyah ya da kırmızı beyaz çapraz şeritler de kullanılır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1560264280-88b68371db39?w=2400",
+   "kicker": "İşyerinizde",
+   "title": "Bu işaretleri nerede görürsünüz?",
+   "bullets": [
+    "Koridor ve merdivenlerde acil çıkış yönü",
+    "Elektrik panosunda uyarı işareti",
+    "Depo ve mutfakta yasak ve zorunluluk işaretleri"
+   ],
+   "steps": [
+    "Şimdi bir dakika düşünün: kendi işyerinizde bu işaretlerden hangilerini gördünüz? Ofis, mağaza ya da okul fark etmez; aslında hepsi etrafınızda.",
+    "Koridorlarda ve merdiven boşluklarında yeşil acil çıkış işaretleri sizi en yakın çıkışa yönlendirir. Bir sonraki molada bu okları takip edin ve çıkışın gerçekten nereye açıldığını görün.",
+    "Elektrik panosunun kapağında sarı üçgen bir uyarı işareti vardır. Bu, panoyu yalnızca yetkili kişinin açabileceği anlamına gelir.",
+    "Depoda, arşivde ya da mutfakta yasak ve zorunluluk işaretleri bulunabilir. Örneğin depoda sigara içilmez, bulaşıkhanede eldiven giyilir gibi."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1775923080621-cbe5cea2bbed?w=2400",
+   "kicker": "Yer ve bakım",
+   "title": "İşaret görülmüyorsa işe yaramaz",
+   "bullets": [
+    "Kolay görülecek yükseklikte ve iyi aydınlatılmış olmalı",
+    "Temiz, solmamış ve sağlam olmalı",
+    "Önü dolap, kutu ya da afişle kapatılmamalı",
+    "Gereğinden fazla işaret karışıklık yaratır"
+   ],
+   "steps": [
+    "İşaretin duvarda asılı olması tek başına yetmez. Asıl soru şu: o işaret, ihtiyaç anında, panik içindeki biri tarafından bile kolayca görülebiliyor mu?",
+    "İşaretler göz hizasına yakın, kolayca görülebilecek bir yükseklikte ve iyi aydınlatılmış bir yere konur. Elektrik kesildiğinde de acil çıkış yönünün görülebilmesi gerekir.",
+    "Zamanla solmuş, kirlenmiş ya da kırılmış bir işaret anlaşılmaz hale gelir. Böyle bir işaret gördüğünüzde yöneticinize ya da İSG sorumlusuna bildirin.",
+    "En sık yapılan hata da işaretin önünü kapatmaktır. Bir dolap, üst üste konmuş kutular ya da kampanya afişi, acil çıkış işaretini görünmez hale getirebilir.",
+    "Bir de şunu bilin: çok fazla işaret de iyi değildir. Birbirine yakın asılmış onlarca levha dikkati dağıtır ve önemli mesaj kaybolur."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1554280955-b112f2babdc0?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Mağazada ıslak zemin",
+   "bullets": [
+    "Zemin silindi ama uyarı levhası konmadı",
+    "Reyon görevlisi kayıp düştü",
+    "Önce işaretle, sonra temizle, kuruyunca kaldır"
+   ],
+   "steps": [
+    "Şimdi gerçek hayattan bir örnek. Bir market sabah açılmadan hemen önce temizleniyor. Temizlik görevlisi ana koridoru siliyor ama sarı kaygan zemin uyarı levhası depoda kalmış.",
+    "Birkaç dakika sonra elinde kolilerle reyona yetişmeye çalışan bir çalışan ıslak zemine basıyor ve düşüyor. Bileğini burkuyor; neyse ki daha ağır bir sonuç yok.",
+    "Peki ne yapılmalıydı? Silme işine başlamadan önce uyarı levhası alanın girişine konmalı, mümkünse alan şeritle kapatılmalı ve levha zemin tamamen kuruyunca kaldırılmalıydı. Bu küçük işaret, bir iş kazasını önleyebilirdi.",
+    "Kendi işyerinizi düşünün: temizlik sırasında uyarı levhası her seferinde konuyor mu? Levhanın yeri herkesçe biliniyor mu? Konmadığını görürseniz siz de hatırlatın; bu, ortak güvenliğe katkınızdır."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1754548930574-6a995e5eb5a7?w=2400",
+   "kicker": "Ara özet",
+   "title": "İşaretler hakkında hatırlayalım",
+   "bullets": [
+    "Kırmızı daire yasak, sarı üçgen uyarı",
+    "Mavi daire içinde beyaz resim zorunluluk",
+    "Yeşil işaret acil çıkış ve ilk yardım",
+    "Kırmızı kare yangın ekipmanının yeri"
+   ],
+   "steps": [
+    "Dersin yarısına geldik. Kişisel koruyucu donanım konusuna geçmeden önce, bir nefes alalım ve işaretlerle ilgili öğrendiklerimizi kısaca tekrar edelim.",
+    "Kırmızı çerçeveli ve çapraz çizgili daire bir yasağı, sarı zeminli üçgen bir tehlike uyarısını gösterir.",
+    "Mavi daire içinde beyaz bir resim gördüğünüzde bu bir zorunluluktur. Örneğin baret takınız ya da koruyucu gözlük takınız.",
+    "Yeşil renkli işaretler acil çıkış, kaçış yolu ve ilk yardım bilgilerini gösterir. Acil bir durumda takip edeceğiniz renk yeşildir.",
+    "Kırmızı zeminli kare işaretler de yangın söndürücü ve yangın dolabı gibi ekipmanın yerini gösterir. Şimdi kişisel koruyucu donanıma geçelim."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1484999691661-51b16a51d1d1?w=2400",
+   "kicker": "KKD",
+   "title": "Kişisel koruyucu donanım nedir?",
+   "bullets": [
+    "Çalışanın üzerine giydiği ya da taktığı koruyucu",
+    "Eldiven, gözlük, maske, baret, iş ayakkabısı gibi",
+    "Riski ortadan kaldırmaz, etkisini azaltır"
+   ],
+   "steps": [
+    "Kişisel koruyucu donanım, kısaca KKD, çalışanı sağlık ve güvenlik risklerine karşı korumak için giyilen, takılan ya da tutulan her türlü alet ve malzemedir.",
+    "Yani sizin üzerinizde olan bir korumadır. Bir koruyucu eldiven, bir gözlük, bir toz maskesi ya da bir iş ayakkabısı bunun örnekleridir.",
+    "Az tehlikeli işyerlerinde de KKD'ye ihtiyaç olabilir. Temizlik kimyasalı kullanan görevli, depoda koli taşıyan çalışan ya da mutfakta sıcak tepsiyle çalışan aşçı KKD kullanır.",
+    "Ama şuna dikkat: KKD tehlikeyi yok etmez. Sadece tehlikeyle vücudunuz arasına bir engel koyar. Bu engel yanlış seçilirse ya da yanlış kullanılırsa koruma da ortadan kalkar."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Korunma sırası",
+   "title": "KKD neden en son sırada?",
+   "items": [
+    {
+     "title": "Ortadan kaldır",
+     "text": "Tehlikeyi kaynağında yok et"
+    },
+    {
+     "title": "Değiştir (ikame et)",
+     "text": "Zararlı ürün yerine daha güvenlisini kullan"
+    },
+    {
+     "title": "Teknik önlem al",
+     "text": "Havalandırma, koruyucu kapak, korkuluk"
+    },
+    {
+     "title": "Organize et",
+     "text": "Talimat, eğitim, iş rotasyonu, işaret"
+    },
+    {
+     "title": "KKD kullan",
+     "text": "Kalan risk için son savunma hattı"
+    }
+   ],
+   "steps": [
+    "Şimdi bu dersin en önemli fikirlerinden birine geldik. KKD, korunma önlemleri arasında ilk ve tek önlem değildir. Diğer önlemler yetersiz kaldığında son çare olarak kullanılır.",
+    "İlk ve en etkili adım tehlikeyi kaynağında ortadan kaldırmaktır. Örneğin yüksek raftaki ürünleri alt raflara indirmek, yüksekte çalışma ihtiyacını tamamen bitirir.",
+    "Bu mümkün değilse tehlikeli olanı daha az tehlikeli olanla değiştiririz. Örneğin aşındırıcı bir temizlik ürünü yerine daha yumuşak bir ürün seçmek gibi.",
+    "Sonra teknik önlemler gelir: havalandırma, makine koruyucusu, korkuluk gibi herkesi birden koruyan toplu önlemler. Bunlar kişinin dikkatine bağlı olmadan çalışır.",
+    "Ardından idari önlemler gelir: çalışma talimatları, eğitimler, iş rotasyonu ve bu dersin ilk bölümünde konuştuğumuz uyarı işaretleri.",
+    "Bütün bunlara rağmen kalan bir risk varsa, o zaman KKD devreye girer. Yani KKD son savunma hattıdır; diğer önlemlerin yerine geçmez."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1768158988512-ad31657fe5b8?w=2400",
+   "kicker": "Bilmeniz gereken",
+   "value": "Ücretsiz",
+   "title": "KKD işveren tarafından ücretsiz sağlanır; bedeli çalışandan alınamaz",
+   "text": "KKD işe uygun, uygunluğu belgelenmiş ve CE işaretli olmalı, kişiye uymalı ve kullanım eğitimi verilmeli",
+   "steps": [
+    "Sık sorulan bir soru: KKD'nin parasını kim öder? Cevap net: KKD işveren tarafından çalışana ücretsiz olarak verilir. Bedeli maaşınızdan kesilemez, sizden alınamaz.",
+    "İşveren yalnızca KKD'yi vermekle de kalmaz. Riske uygun, CE işareti taşıyan ve uygunluğu belgelenmiş KKD'yi seçer, sizin vücudunuza uyan bedeni sağlar, nasıl kullanılacağını anlatır ve bozulan donanımı yeniler."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "KKD türleri",
+   "title": "Vücudun hangi bölümü korunuyor?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1628246941071-0788e88e2b32?w=1200",
+     "tag": "Göz ve yüz",
+     "title": "Koruyucu gözlük",
+     "text": "Sıçrayan kimyasal, toz ve parçacıklara karşı gözleri korur."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1627905646269-7f034dcc5738?w=1200",
+     "tag": "El",
+     "title": "Koruyucu eldiven",
+     "text": "Kimyasal, kesik ve sıcağa karşı; işe uygun tür seçilmeli."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1606036525923-525fa3b35465?w=1200",
+     "tag": "Ayak",
+     "title": "İş ayakkabısı",
+     "text": "Kaymaz taban ve gerekirse burun koruması; düşen yüke ve kaymaya karşı."
+    }
+   ],
+   "steps": [
+    "KKD'leri vücudun hangi bölümünü koruduklarına göre gruplandırabiliriz. Az tehlikeli işyerlerinde en çok karşılaşacağınız üç gruba bakalım.",
+    "Koruyucu gözlük ve yüz siperi; sıçrayan temizlik kimyasallarına, toza ve küçük parçacıklara karşı gözlerinizi korur. Normal numaralı gözlük koruyucu gözlük yerine geçmez.",
+    "Koruyucu eldivenin tek bir türü yoktur. Kimyasala karşı nitril eldiven, kesiğe karşı kesilmeye dayanıklı eldiven, sıcağa karşı ısıya dayanıklı eldiven kullanılır. Yanlış eldiven, hiç eldiven kullanmamak kadar risklidir.",
+    "İş ayakkabısı ise kaymaz tabanıyla kaymalara, gerektiğinde çelik ya da kompozit burnuyla düşen yüklere karşı ayağınızı korur. Depo ve mutfak çalışanları için özellikle önemlidir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "KKD türleri",
+   "title": "Solunum, baş ve görünürlük",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1605043607110-df2e2f642ef1?w=1200",
+     "tag": "Solunum",
+     "title": "Maske",
+     "text": "Toz ya da buhara karşı; riske uygun tür seçilmeli ve yüze tam oturmalı."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1768158988512-ad31657fe5b8?w=1200",
+     "tag": "Baş",
+     "title": "Baret",
+     "text": "Düşen cisimlere ve başın çarpmasına karşı korur; çatlak baret kullanılmaz."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1779034642860-914e59da762f?w=1200",
+     "tag": "Görünürlük",
+     "title": "İkaz yeleği",
+     "text": "Araç trafiği olan otopark, yükleme alanı gibi yerlerde fark edilmenizi sağlar."
+    }
+   ],
+   "steps": [
+    "Diğer KKD gruplarına da kısaca bakalım. Bunlar az tehlikeli işyerlerinde daha seyrek ama belirli işlerde mutlaka gerekir.",
+    "Solunum koruyucu maskeler toz ya da buhar gibi solunabilir zararlılara karşı kullanılır. Maske riske uygun tipte olmalı ve yüze tam oturmalıdır. Sakal ya da yanlış beden, maskenin kenarından hava kaçmasına neden olur.",
+    "Baret, yüksek raflı depolarda ya da tadilat alanlarında düşen cisimlere ve başın çarpmasına karşı korur. Çatlamış ya da darbe almış bir baret değiştirilmelidir.",
+    "İkaz yeleği ise araç trafiği olan alanlarda görünür olmanızı sağlar. Örneğin bir mağazanın yükleme rampasında ya da otoparkında çalışan biri için önemlidir. İşitme koruyucular gibi başka KKD'ler de vardır; hangisinin gerektiğini risk değerlendirmesi belirler."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Görev paylaşımı",
+   "title": "KKD'de kimin görevi ne?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1200",
+     "title": "İşveren",
+     "text": "Riske uygun KKD'yi ücretsiz sağlar, eğitimini verir, bozulanı yeniler."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1754548930574-6a995e5eb5a7?w=1200",
+     "title": "İSG profesyonelleri",
+     "text": "Hangi işte hangi KKD'nin gerektiğini risk değerlendirmesiyle belirler."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1740657254989-42fe9c3b8cce?w=1200",
+     "title": "Çalışan",
+     "text": "KKD'yi talimata uygun kullanır, korur, kaybolan ya da bozulanı bildirir."
+    }
+   ],
+   "steps": [
+    "KKD konusunda da görevler paylaşılmıştır. İşveren, İSG profesyonelleri ve siz; her birinizin ayrı bir rolü var. Kısaca bakalım.",
+    "İşveren, risk değerlendirmesine göre gereken KKD'yi seçer ve çalışana ücretsiz verir. Nasıl kullanılacağını anlatır, düzenli olarak kontrol ettirir ve kullanılamaz hale gelen donanımı yeniler.",
+    "İş güvenliği uzmanı ve işyeri hekimi, hangi işte hangi riskin bulunduğunu ve buna karşı hangi KKD'nin uygun olduğunu belirlemede işverene rehberlik eder.",
+    "Size düşen görev ise 6331 sayılı Kanunda açıkça yazar: size verilen kişisel koruyucu donanımı doğru kullanmak ve korumak. Kaybolan, yırtılan ya da bozulan KKD'yi hemen bildirmek de sizin sorumluluğunuzdur."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Uygulama",
+   "title": "KKD'yi doğru kullanmanın 5 adımı",
+   "items": [
+    {
+     "title": "Doğru olanı seç",
+     "text": "İşe ve riske uygun, size uyan beden"
+    },
+    {
+     "title": "Kullanmadan kontrol et",
+     "text": "Yırtık, çatlak, delik, son kullanma tarihi"
+    },
+    {
+     "title": "Doğru tak ve ayarla",
+     "text": "Tam oturmalı, kayıp düşmemeli"
+    },
+    {
+     "title": "İş boyunca kullan",
+     "text": "Kısa iş diye çıkarma"
+    },
+    {
+     "title": "Temizle ve sakla",
+     "text": "Kuru, temiz, kişiye özel yerde"
+    }
+   ],
+   "steps": [
+    "Şimdi KKD'yi doğru kullanmanın beş adımına bakalım. Bunları her vardiya başında kısa bir alışkanlık haline getirebilirsiniz.",
+    "Birincisi doğru KKD'yi seçmek. İşe ve riske uygun olmalı ve size uymalı. Büyük bir eldiven elinizden kayar, küçük bir maske yüzünüze oturmaz.",
+    "İkincisi kullanmadan önce kontrol etmek. Eldivende delik, gözlükte çatlak, maskede yıpranmış lastik var mı? Bazı KKD'lerin son kullanma tarihi de vardır.",
+    "Üçüncüsü doğru takmak ve ayarlamak. Baret bandı başınıza göre ayarlanır, gözlük yüzünüze tam oturur, maske burun kısmından bastırılır.",
+    "Dördüncüsü iş boyunca kullanmak. En sık duyduğumuz bahane şudur: iki dakikalık işti. Kazalar da çoğu zaman o iki dakikada olur.",
+    "Beşincisi temizleyip uygun yerde saklamak. KKD kişiye özeldir; başkasıyla ortak kullanılması gerekiyorsa hijyen önlemleri alınmalıdır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1758685848561-3658f433e6a0?w=2400",
+   "kicker": "Dikkat",
+   "title": "KKD'de sık yapılan hatalar",
+   "bullets": [
+    "Gözlüğü alnına, maskeyi çenesine takmak",
+    "Tek kullanımlık KKD'yi tekrar kullanmak",
+    "Kirli eldivenle yüzüne, telefonuna dokunmak",
+    "KKD'yi rahatsız diye kendi başına değiştirmek"
+   ],
+   "steps": [
+    "KKD'si olduğu halde korunamayan çalışanlar genellikle aynı hataları yapar. Bunları bilirseniz, kendinizi ve arkadaşlarınızı fark edip uyarabilirsiniz.",
+    "Gözlüğü alnına, maskeyi çenesine indirip çalışmak en yaygın hatadır. Bu durumda KKD üzerinizdedir ama sizi korumaz.",
+    "Tek kullanımlık eldiven ya da maske bir kez kullanılır ve atılır. Tekrar kullanıldığında hem koruma azalır hem de hijyen bozulur.",
+    "Kimyasala bulaşmış eldivenle yüzünüze, telefonunuza ya da kapı koluna dokunursanız kirliliği yaymış olursunuz. Eldiveni çıkarırken dış yüzüne dokunmadan çıkarın ve ellerinizi yıkayın.",
+    "Bir KKD rahatsız ediyorsa onu kendi başınıza değiştirmeyin ya da kullanmayı bırakmayın. Durumu bildirin; size uyan başka bir model ya da beden sağlanabilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1768982417075-8f0d43c37f51?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Kafede kireç çözücü",
+   "bullets": [
+    "Makine temizliğinde gözlük takılmadı",
+    "Kimyasal sıçradı, göz tahriş oldu",
+    "Etiketi oku, gözlük ve eldiven kullan"
+   ],
+   "steps": [
+    "İkinci örnek olayımız bir kafeden. Akşam kapanışında bir çalışan, kahve makinesini kireç çözücüyle temizliyor. Ürünün etiketinde koruyucu gözlük ve eldiven kullanınız yazıyor; ama gözlük dolabın en arkasında, kimse kullanmıyor.",
+    "Temizlik sırasında sıcak karışım sıçrıyor ve çalışanın gözüne geliyor. Arkadaşı hemen gözünü bol suyla yıkatıyor, sonra sağlık kuruluşuna gidiliyor. Neyse ki kalıcı bir hasar olmuyor.",
+    "Ne yapılmalıydı? Ürünün etiketindeki mavi zorunluluk işaretlerine uyulmalı, gözlük ve eldiven kolay ulaşılabilir bir yerde tutulmalıydı. Bir de şu: KKD ancak kullanıldığında korur.",
+    "Bu olaydan çıkan bir ders daha var: kimyasal göze sıçradığında gözü hemen ve bol temiz suyla, uzun süre yıkamak gerekir. Kullandığınız ürünün Güvenlik Bilgi Formu'nda ilk yardım bilgileri de yer alır; bunun nerede durduğunu öğrenin."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru mu, yanlış mı?",
+   "title": "Hasarlı KKD ile ne yapmalı?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1484999691661-51b16a51d1d1?w=1200",
+     "ok": false,
+     "title": "İdare edip kullanmak",
+     "text": "Delik eldiven, çatlak gözlük ya da gevşemiş maske koruma sağlamaz."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1774273177345-ff6a25515a3c?w=1200",
+     "ok": true,
+     "title": "Bildirip yenisini almak",
+     "text": "Hasarı amirinize bildirin, işe yenisiyle devam edin."
+    }
+   ],
+   "steps": [
+    "Bir durumu birlikte değerlendirelim. Temizlik yaparken, vardiyanın ortasında eldiveninizin parmak ucunun yırtıldığını fark ettiniz. Elinizde de bir kimyasal var. Ne yaparsınız?",
+    "Yanlış olan, idare eder deyip devam etmektir. Delik bir eldiven kimyasalı tam da yırtıktan içeri alır. Çatlak bir gözlük ya da lastiği gevşemiş bir maske için de aynısı geçerlidir.",
+    "Doğru olan ise işi güvenli bir şekilde durdurmak, hasarı amirinize bildirmek ve yenisini almaktır. İşveren KKD'yi yenilemekle yükümlüdür; bunun için sizden ücret istenemez."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1764795849885-e226e3cabe87?w=2400",
+   "kicker": "Ders özeti",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Mavi daire beyaz resim zorunluluk, yeşil acil çıkış ve ilk yardım",
+    "Kırmızı daire yasak, sarı üçgen uyarı, kırmızı kare yangın ekipmanı",
+    "KKD son çaredir; önce diğer önlemler alınır",
+    "KKD ücretsizdir; doğru kullanmak ve korumak sizin görevinizdir"
+   ],
+   "steps": [
+    "Dersi toparlayalım. Bugün işaretlerin dilini ve kişisel koruyucu donanımın doğru kullanımını öğrendik; en önemli noktaları bir kez daha hatırlayalım.",
+    "Mavi daire içinde beyaz piktogram gördüğünüzde bu bir zorunluluktur. Yeşil renkli işaretler ise acil çıkış ve ilk yardım bilgilerini gösterir.",
+    "Kırmızı çerçeveli ve çapraz çizgili daire yasak, sarı üçgen tehlike uyarısı, kırmızı zeminli kare de yangın ekipmanının yeridir.",
+    "KKD ilk ve tek önlem değildir. Tehlikeyi ortadan kaldırmak, değiştirmek, teknik ve idari önlemler alınır; bunlar yetersiz kaldığında son çare olarak KKD kullanılır.",
+    "Ve KKD işveren tarafından ücretsiz verilir; onu doğru kullanmak ve korumak sizin görevinizdir. Dersin sonunda birkaç kısa soru sizi bekliyor. Hazırsanız başlayalım."
+   ]
+  }
+ ]
+}

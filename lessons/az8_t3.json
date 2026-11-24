@@ -1,0 +1,452 @@
+{
+ "code": "az8_t3",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "3. Bölüm · Teknik Konular",
+ "title": "İş ekipmanlarının güvenli kullanımı; ekranlı araçlarla çalışma",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1570993492881-25240ce854f4?w=2400",
+   "kicker": "3. Bölüm · Ders 3",
+   "title": "İş ekipmanlarının güvenli kullanımı ve ekranlı araçlar",
+   "subtitle": "Her gün kullandığımız araçlarla güvenle çalışmak",
+   "steps": [
+    "Merhaba, tekrar hoş geldiniz. Bu derste her gün elimizin altında olan araçları konuşacağız: yazıcıdan kâğıt imha makinesine, merdivenden bilgisayarınıza kadar. Bunlar o kadar tanıdık ki çoğu zaman risk taşıdıklarını unutuyoruz.",
+    "Dersin ilk yarısında iş ekipmanlarını güvenle nasıl kullanacağımızı, ikinci yarısında ise ekranlı araçlarla, yani bilgisayar başında sağlıklı çalışmayı öğreneceğiz. Boyun, sırt ve göz ağrılarınızın bir kısmının çözümü bu derste olabilir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1650094980833-7373de26feb6?w=2400",
+   "kicker": "Bu derste",
+   "title": "Neler öğreneceğiz?",
+   "bullets": [
+    "İş ekipmanı nedir, nasıl güvenle kullanılır",
+    "Koruyucular ve arızalı ekipman",
+    "Bakım öncesi enerjiyi kesme, kilitleme ve etiketleme",
+    "Ekranlı araçlarla ergonomik çalışma"
+   ],
+   "steps": [
+    "Önce bu dersin yol haritasına bakalım. Dört başlıkta ilerleyeceğiz ve her başlıkta işyerinden örneklerle konuşacağız.",
+    "İlk olarak iş ekipmanının ne olduğunu ve bir ekipmanı kullanmadan önce nelere bakmamız gerektiğini konuşacağız.",
+    "Sonra makinelerin koruyucularını ve arızalı bir ekipmanla karşılaştığımızda tam olarak ne yapmamız gerektiğini ele alacağız.",
+    "Üçüncü olarak bakım ve onarım öncesinde mutlaka yapılması gereken bir uygulamayı öğreneceğiz: enerjiyi kesme, kilitleme ve etiketleme.",
+    "Ve son olarak bilgisayar başında çalışırken ekranınızı, sandalyenizi ve masanızı nasıl ayarlayacağınızı, molaların neden önemli olduğunu konuşacağız."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "İş ekipmanı nedir?",
+   "title": "Sandığınızdan çok daha fazlası",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1715522594847-67c90b5b8667?w=1200",
+     "tag": "Ofis",
+     "title": "Yazıcı, imha makinesi",
+     "text": "Fotokopi, kâğıt imha ve ciltleme makineleri, kesme aletleri, su ısıtıcıları."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1549030782-4935f80baeb6?w=1200",
+     "tag": "Mağaza",
+     "title": "Merdiven, raf, kasa",
+     "text": "Seyyar merdivenler, raf sistemleri, etiket ve kasa makineleri, kesiciler."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1791421870389-d9fa98e7e1fc?w=1200",
+     "tag": "Depo",
+     "title": "Transpalet, bant",
+     "text": "El transpaletleri, yük arabaları, streç ve koli bantlama makineleri."
+    }
+   ],
+   "steps": [
+    "İş ekipmanı denince aklınıza büyük fabrika makineleri gelebilir. Oysa mevzuat iş ekipmanını çok geniş tanımlar: işin yapılmasında kullanılan her türlü makine, alet, tesis ve tesisat bu kapsamdadır.",
+    "Bir ofiste fotokopi ve yazıcı, kâğıt imha makinesi, ciltleme makinesi, maket bıçağı, hatta mutfaktaki su ısıtıcısı bile birer iş ekipmanıdır.",
+    "Bir mağazada seyyar merdivenler, raf sistemleri, kasa ve etiket makineleri, koli açmak için kullanılan kesiciler de öyle.",
+    "Bir depoda ise el transpaletleri, yük arabaları ve bantlama makineleri günlük işin bir parçasıdır. Hepsinin ortak kuralı aynı: doğru kişi tarafından, doğru amaçla, doğru şekilde kullanılmak."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1684695749267-233af13276d0?w=2400",
+   "kicker": "Depo ve mağaza",
+   "title": "Transpalet ve yük arabası",
+   "bullets": [
+    "Kapasitesinin üzerinde yük taşımayın",
+    "Yükü görüşünüzü kapatmayacak şekilde dizin",
+    "Kullanmadan önce teker ve kolları kontrol edin"
+   ],
+   "steps": [
+    "Mağaza ve depolarda en sık kullanılan ekipmanlardan biri el transpaleti ve yük arabasıdır. Basit görünürler ama ayak ezilmesi, sıkışma ve yük devrilmesi gibi kazalara sık sık karışırlar.",
+    "Her transpaletin ve yük arabasının bir taşıma kapasitesi vardır ve genellikle üzerinde yazar. Bu kapasitenin üzerinde yük taşımayın; işi iki seferde yapmak her zaman daha güvenlidir.",
+    "Yükü, önünüzü görmenizi engellemeyecek ve devrilmeyecek şekilde dengeli dizin. Rampalarda ve köşelerde yavaşlayın, transpaleti mümkün olduğunca çekmek yerine itin.",
+    "Kullanmadan önce tekerlerin, kolun ve fren varsa frenin çalıştığını kontrol edin. Arızalı bir transpaleti kenara çekin ve bildirin; kullanmaya devam etmeyin."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Kullanmadan önce",
+   "title": "Dört kısa kontrol",
+   "items": [
+    {
+     "title": "Talimatı bilin",
+     "text": "Kullanım talimatını okuyun; bilmediğiniz ekipmanı kullanmayın"
+    },
+    {
+     "title": "Gözle kontrol edin",
+     "text": "Kablo, fiş, gövde ve hareketli parçalarda hasar var mı"
+    },
+    {
+     "title": "Koruyucuya bakın",
+     "text": "Kapaklar ve koruyucular yerinde ve sağlam mı"
+    },
+    {
+     "title": "Amacına uygun kullanın",
+     "text": "Ekipmanı yapılış amacı dışında kullanmayın"
+    }
+   ],
+   "steps": [
+    "Bir iş ekipmanını kullanmadan önce birkaç saniyelik bir kontrol, pek çok kazayı önler. Bu kontrolü dört adımda düşünebilirsiniz.",
+    "Birincisi, talimatı bilin. Ekipmanın kullanım talimatını okuyun ya da size gösterilmesini isteyin. Daha önce hiç kullanmadığınız bir ekipmanı deneme yanılmayla çalıştırmayın.",
+    "İkincisi, gözle kontrol edin. Kabloda ezilme, fişte kırık, gövdede çatlak ya da hareketli parçalarda bir tuhaflık var mı? Garip bir ses, koku ya da ısınma fark ederseniz durun.",
+    "Üçüncüsü, koruyuculara mutlaka bakın. Kapaklar, muhafazalar ve koruyucu siperler yerinde, sağlam ve doğru takılmış olmalı.",
+    "Dördüncüsü, ekipmanı yapılış amacına uygun kullanın. Sandalyeyi merdiven yerine, maket bıçağını tornavida yerine kullanmak, kazaların en sık başladığı yerdir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1549030782-4935f80baeb6?w=2400",
+   "kicker": "Seyyar merdiven",
+   "title": "Merdiven yerine sandalye kullanmayın",
+   "bullets": [
+    "Sağlam, kaymaz ve hasarsız merdiven seçin",
+    "Tam açın, düz ve kaymayan zemine kurun",
+    "Üç nokta temas: iki el bir ayak ya da iki ayak bir el",
+    "Uzanmayın; merdiveni yer değiştirerek kaydırın"
+   ],
+   "steps": [
+    "Ofis ve mağazalarda en sık yaşanan kazalardan biri yüksekten düşmedir ve çoğu zaman çok alçak bir yükseklikten, bir sandalye ya da koliden düşülür. Üst raftaki dosyaya ulaşmak için tekerlekli sandalyeye çıkmak, bu konunun klasik örneğidir.",
+    "Yüksekteki bir şeye ulaşmanız gerekiyorsa sağlam, basamakları kaymaz ve hasarsız, size uygun boyda bir seyyar merdiven kullanın.",
+    "Merdiveni tam açın, kilitlerini oturtun ve düz, kaymayan bir zemine kurun. Islak ya da dağınık bir zeminde merdiven kurmayın.",
+    "Çıkarken ve inerken yüzünüz merdivene dönük olsun ve üç nokta teması koruyun: iki el ve bir ayak ya da iki ayak ve bir el her zaman merdivende olmalı.",
+    "Merdivenin üzerindeyken yana doğru uzanmayın. Ulaşamıyorsanız inin ve merdiveni kaydırın. Gövdeniz her zaman merdivenin yan dikmelerinin arasında kalmalı."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Koruyucular",
+   "title": "Koruyucusu çıkarılmış ekipman kullanılmaz",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1767739791250-f972ca75c60e?w=1200",
+     "ok": false,
+     "title": "Dikkatle kullanmaya devam",
+     "text": "Koruyucusuz çalışmak, ne kadar dikkatli olursanız olun, uzuvlarınızı tehlikeye atar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1787672357830-ef4281855d47?w=1200",
+     "ok": true,
+     "title": "Kullanmayın, bildirin",
+     "text": "Ekipmanı kullanmayın, başkası da kullanmasın diye durumu hemen amirinize bildirin."
+    }
+   ],
+   "steps": [
+    "Makinelerin hareketli parçalarını saran kapaklara ve siperlere koruyucu diyoruz. Görevleri, elinizin, saçınızın ya da kıyafetinizin hareketli parçaya kapılmasını engellemektir. Peki bir ekipmanın koruyucusunun çıkarıldığını görürseniz ne yaparsınız?",
+    "Yanlış olan, ben dikkat ederim deyip kullanmaya devam etmektir. Kazalar tam da dikkatin bir anlığına dağıldığı anda olur. Koruyucusuz çalışmak daha hızlı görünse de, o hız bir parmağın ya da elin bedeli olabilir. Mesai sonuna kadar beklemek de doğru değildir.",
+    "Doğru olan şudur: ekipman kullanılmaz ve durum hemen amire bildirilir. Mümkünse ekipmanın üzerine kullanılmaması gerektiğini belirten bir not bırakın, böylece başka bir arkadaşınız da yanlışlıkla çalıştırmaz. Koruyucu takılıp ekipman kontrol edilene kadar kullanılmaz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1715522594847-67c90b5b8667?w=2400",
+   "kicker": "Örnek olay · Ofis",
+   "title": "Kâğıt imha makinesi ve uzun atkı",
+   "bullets": [
+    "Makinenin besleme ağzı açık ve koruyucusu yok",
+    "Eğilen çalışanın atkısının ucu ağza kapıldı",
+    "Acil durdurma ve doğru kullanım bilinmeliydi"
+   ],
+   "steps": [
+    "Bir örnek olay paylaşalım. Bir sigorta acentesinde, eski dosyalar büyük bir kâğıt imha makinesiyle imha ediliyor. Makinenin besleme ağzındaki koruyucu kapak bir süre önce kırılmış ve çıkarılmış.",
+    "Ofiste hiç kimse bunu bildirmemiş. Herkes biraz daha dikkatli olmanın yeterli olacağını düşünmüş ve makine her gün koruyucusuz kullanılmaya devam etmiş.",
+    "Bir sabah, çalışanlardan biri sıkışan kâğıdı kontrol etmek için makinenin üzerine eğiliyor. Boynundaki uzun atkının ucu besleme ağzına kapılıyor ve çekilmeye başlıyor. Yanındaki arkadaşı makinenin fişini çekerek durumu son anda önlüyor.",
+    "Ne yapılmalıydı? Koruyucu kırıldığı gün makine kullanımdan kaldırılıp bildirilmeliydi. Sıkışma, makine kapatılıp fişi çekildikten sonra giderilmeli; makineye eğilirken atkı, kravat, kolye gibi sarkan aksesuarlar uzak tutulmalıydı."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1493129922668-fcb1a8514643?w=2400",
+   "kicker": "Bakım ve onarım",
+   "title": "Önce enerjiyi kesin, kilitleyin ve etiketleyin",
+   "bullets": [
+    "Ekipmanı kapatın, enerjisini kaynağından kesin",
+    "Şalteri ya da vanayı kilitleyin",
+    "Uyarı etiketi asın: kim, neden, ne zaman",
+    "Bakımı yalnızca yetkili kişi yapar"
+   ],
+   "steps": [
+    "Bir ekipmanda bakım, onarım, temizlik ya da sıkışma giderme yapılacaksa en büyük tehlike, ekipmanın beklenmedik şekilde çalışmasıdır. Birisi farkında olmadan düğmeye basabilir. Bu yüzden bakım ve onarım öncesinde ekipmanın enerjisi kesilir, kilitlenir ve etiketlenir.",
+    "Önce ekipman kapatılır ve enerjisi kaynağından kesilir. Sadece hızını düşürmek ya da açma kapama düğmesine basmak yeterli değildir; elektrik varsa fiş çekilir ya da şalter indirilir.",
+    "Ardından enerji kaynağı kilitlenir. Böylece işi yapan kişi kilidi kendisi açmadıkça kimse ekipmanı yeniden çalıştıramaz.",
+    "Kilidin üzerine bir uyarı etiketi asılır. Etikette ekipmanın neden durdurulduğu, kimin çalıştığı ve tarih yazar. Etiketi gören herkes ekipmana dokunmaması gerektiğini anlar.",
+    "Ve unutmayın: bakım ve onarımı yalnızca bu iş için eğitim almış, yetkilendirilmiş kişiler yapar. Siz bir arıza gördüğünüzde kendiniz tamir etmeye çalışmaz, bildirirsiniz."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Görev paylaşımı",
+   "title": "Ekipman güvenliğinde kim ne yapar?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1770816307800-72ba937620fe?w=1200",
+     "title": "İşveren",
+     "text": "Uygun ve güvenli ekipman sağlar, periyodik kontrolleri ve eğitimi yaptırır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1671040690726-b78261eff126?w=1200",
+     "title": "Yetkili kişi",
+     "text": "Bakım, onarım ve periyodik kontrolleri yapar, kayıt altına alır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1650094980833-7373de26feb6?w=1200",
+     "title": "Çalışan",
+     "text": "Talimata uygun kullanır, koruyucuyu sökmez, arızayı hemen bildirir."
+    }
+   ],
+   "steps": [
+    "Ekipman güvenliği de, tıpkı iş sağlığı ve güvenliğinin geneli gibi, ortak bir sorumluluktur. Üç tarafa bakalım.",
+    "İşveren, yapılan işe uygun ve güvenli ekipman sağlamakla yükümlüdür. Gerekli ekipmanların periyodik kontrollerini yaptırır ve çalışanlara ekipmanın güvenli kullanımı konusunda eğitim verir.",
+    "Bakım, onarım ve periyodik kontroller, bu konuda yetkin kişiler tarafından yapılır ve sonuçlar kayıt altına alınır. Örneğin bir yük asansörü ya da kompresör belirli aralıklarla kontrol edilmelidir.",
+    "Size düşen görev ise ekipmanı talimata uygun kullanmak, koruyucuları sökmemek, kendi başınıza tamir girişiminde bulunmamak ve gördüğünüz arızayı hemen bildirmektir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1493129922668-fcb1a8514643?w=2400",
+   "kicker": "Ara özet",
+   "title": "İş ekipmanlarında akılda kalması gerekenler",
+   "bullets": [
+    "Kullanmadan önce kısa bir kontrol yapın",
+    "Koruyucu çıkarılmışsa ekipman kullanılmaz, amire bildirilir",
+    "Bakım öncesi enerji kesilir, kilitlenir ve etiketlenir",
+    "Arızayı kendiniz tamir etmeyin, bildirin"
+   ],
+   "steps": [
+    "Dersin ikinci yarısına geçmeden önce iş ekipmanlarıyla ilgili öğrendiklerimizi kısaca, maddeler halinde bir kez daha toparlayalım.",
+    "Her ekipmanı kullanmadan önce talimatı bilin, hasar ve koruyucu açısından kısa bir göz kontrolü yapın.",
+    "Koruyucusu çıkarılmış bir ekipman, ne kadar dikkatli olursanız olun kullanılmaz. Durum vakit kaybetmeden hemen amire bildirilir.",
+    "Bakım ve onarım öncesinde ekipmanın enerjisi kesilir, kilitlenir ve etiketlenir. Sadece hızını düşürmek ya da düğmeye basmak yetmez.",
+    "Ve bir arıza gördüğünüzde kendi başınıza tamir etmeye çalışmak yerine bildirin. Şimdi bilgisayar başında çalışmaya geçiyoruz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1485965373059-f07657e9f841?w=2400",
+   "kicker": "Ekranlı araçlar",
+   "title": "Bilgisayar başında geçen saatler",
+   "bullets": [
+    "Boyun, sırt, omuz ve bilek ağrıları",
+    "Göz yorgunluğu, kuruluk ve bulanık görme",
+    "Hareketsizlik ve zihinsel yorgunluk"
+   ],
+   "steps": [
+    "Ekranlı araç denince bilgisayar, dizüstü bilgisayar, tablet ve benzeri ekranlı cihazlar aklımıza gelir. Bu konuda ayrı bir yönetmelik bulunur ve işverenin ekranlı araçlarla çalışan için alması gereken önlemleri düzenler. Peki bilgisayar başında uzun saatler bize ne yapar?",
+    "Birincisi, kas ve iskelet sistemi şikâyetleri. Yanlış yükseklikteki bir ekran boynu, uygun olmayan bir sandalye sırtı, yanlış konumdaki klavye de bilekleri zorlar.",
+    "İkincisi, göz yorgunluğu. Ekrana uzun süre bakarken daha az göz kırparız. Gözlerde kuruluk, yanma ve bulanık görme bunun sonucudur.",
+    "Üçüncüsü, hareketsizlik ve zihinsel yorgunluk. Saatlerce aynı pozisyonda oturmak hem bedeni hem dikkati olumsuz etkiler."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1674505921901-e54fe119f0a4?w=2400",
+   "kicker": "Ekran ayarı",
+   "title": "Ekranın üst kenarı göz hizasında",
+   "bullets": [
+    "Üst kenar göz hizasında veya biraz altında",
+    "Yaklaşık bir kol boyu uzaklıkta",
+    "Tam karşınızda, pencereye dik açıda"
+   ],
+   "steps": [
+    "Şimdi ekranınızı birlikte ayarlayalım. Eğer şu an bir bilgisayar başındaysanız, bu bölümü izlerken benimle birlikte deneyin.",
+    "En önemli kural: ekranın üst kenarı göz hizasında ya da biraz altında olmalıdır. Böylece ekrana bakarken başınızı yukarı kaldırmaz, öne de fazla eğmezsiniz. Ekran çok yüksekse boynunuz geriye, çok alçaksa öne doğru zorlanır.",
+    "Ekran gözünüze çok yakın olmamalı. Pratik bir ölçü olarak, oturduğunuz yerden kolunuzu uzattığınızda parmak uçlarınız ekrana yaklaşık değmeli; yani bir kol boyu uzaklık.",
+    "Ekran tam karşınızda olmalı; başınızı sürekli sağa ya da sola çevirmemelisiniz. Pencereden gelen ışığın ekrana yansımaması için de ekranı pencereye dik açıyla yerleştirin."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Çalışma düzeni",
+   "title": "Masanızı adım adım ayarlayın",
+   "items": [
+    {
+     "title": "Sandalye",
+     "text": "Yüksekliği ayarlayın; sırt desteği belinizi tam desteklesin"
+    },
+    {
+     "title": "Ayaklar",
+     "text": "Ayaklar yere tam bassın; gerekirse ayak desteği kullanın"
+    },
+    {
+     "title": "Klavye ve fare",
+     "text": "Dirsekler yaklaşık dik açıda, bilekler düz"
+    },
+    {
+     "title": "Aydınlatma",
+     "text": "Parlama ve yansıma olmasın, ışık gözünüze gelmesin"
+    }
+   ],
+   "steps": [
+    "Ekrandan sonra masanın geri kalanını ayarlayalım. Doğru sıralama sandalyeden başlar, çünkü her şey sizin oturuşunuza göre ayarlanır.",
+    "Sandalyenizin yüksekliğini ayarlayın. Sırt dayanağı belinizi tam desteklemeli; sandalyenin ucuna oturup öne kaykılmayın. Mevzuat da oturma yerinin yüksekliğinin ve sırt dayanağının ayarlanabilir olmasını ister.",
+    "Ayaklarınız yere tam basmalı, dizleriniz yaklaşık dik açıda olmalı. Ayaklarınız yere yetişmiyorsa bir ayak desteği isteyin.",
+    "Klavye ve fare, omuzlarınız gevşekken dirsekleriniz yaklaşık dik açıda kalacak şekilde önünüzde olmalı. Bilekleriniz yukarı ya da yana bükülmemeli, düz durmalı.",
+    "Son olarak aydınlatma. Ekranda parlama ve yansıma olmamalı, ışık kaynağı doğrudan gözünüze gelmemeli. Bunlar bir kez yapıldığında her gün sizi koruyan ayarlardır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Karşılaştırma",
+   "title": "Dizüstü bilgisayarla nasıl çalışmalı?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1457624811569-0f97e5b7deb0?w=1200",
+     "ok": false,
+     "title": "Kanepede, dizlerin üstünde",
+     "text": "Boyun öne eğik, sırt desteksiz, bilekler bükük. Saatlerce böyle çalışmak ağrıya yol açar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1641057350568-babe1e84aedf?w=1200",
+     "ok": true,
+     "title": "Yükseltici, harici klavye",
+     "text": "Ekran yükseltici ile göz hizasına çıkar; harici klavye ve fareyle dirsekler rahat kalır."
+    }
+   ],
+   "steps": [
+    "Dizüstü bilgisayarlar pratiktir ama ergonomik değildir; çünkü ekran ile klavye birbirine bağlıdır. Ekranı yükseltirseniz klavye de yükselir. Evden ya da sahada çalışanlar için bu özellikle önemli.",
+    "Yanlış olan, dizüstü bilgisayarı kanepede, dizlerinizin üstünde ya da alçak bir sehpada uzun süre kullanmaktır. Boynunuz sürekli öne eğik, sırtınız desteksiz ve bilekleriniz bükük kalır.",
+    "Doğru olan, uzun süreli çalışmada dizüstü bilgisayarı bir yükseltici ile ekranın üst kenarı göz hizasına gelecek şekilde konumlandırmak ve harici bir klavye ile fare kullanmaktır. Böylece hem boynunuz hem bilekleriniz rahat eder."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1534844978-b859e5a09ad6?w=2400",
+   "kicker": "Mevzuat ne diyor?",
+   "title": "Molalar ve göz muayenesi",
+   "bullets": [
+    "İşveren periyodik ara verilmesini veya başka işlerle dönüşümlü çalışmayı sağlar",
+    "Ekranla çalışmaya başlamadan önce göz muayenesi yapılır",
+    "Muayene, işyeri hekiminin belirlediği aralıklarla tekrarlanır",
+    "Görme zorluğu yaşandığında da muayene yapılır"
+   ],
+   "steps": [
+    "Ekranlı araçlarla çalışmaya ilişkin yönetmelik, işverene bazı açık yükümlülükler getirir. İkisi doğrudan sizi ilgilendiriyor: molalar ve göz muayenesi.",
+    "İşveren, ekranlı araçlarla çalışanların gün içinde periyodik olarak ara vermesini ya da dönüşümlü olarak başka işlerde çalışmasını sağlayacak şekilde işi düzenler. Yani uzun süre kesintisiz ekran başında kalmak beklenen bir şey değildir.",
+    "Ekranlı araçlarla çalışmaya başlamadan önce çalışanın göz muayenesi yapılır. Böylece var olan bir görme sorunu baştan fark edilir.",
+    "Bu muayene, risk değerlendirmesi sonuçlarına göre işyeri hekiminin belirleyeceği düzenli aralıklarla tekrarlanır; yani bir kez yapılıp bırakılmaz.",
+    "Ayrıca ekranla çalışmaktan kaynaklanabilecek görme zorlukları yaşadığınızda da muayene yapılır. Gözlerinizde bir sorun fark ederseniz beklemeyin, işyeri hekimine başvurun."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1793207678703-41319a9c2a65?w=2400",
+   "kicker": "Göz dinlendirme",
+   "value": "Uzağa bak",
+   "title": "Ara ara ekrandan uzaklara bakmak gözlerinizi dinlendirir",
+   "text": "Sık önerilen bir alışkanlık: her 20 dakikada bir, 20 saniye boyunca yaklaşık 6 metre uzağa bakın",
+   "steps": [
+    "Göz yorgunluğuna karşı çok basit bir alışkanlık var. Ekrana bakarken gözünüz sürekli yakına odaklanır ve göz kasları yorulur. Ara ara uzağa bakmak bu kasları gevşetir.",
+    "Göz sağlığı uzmanlarının sık önerdiği bir yöntem var: her yirmi dakikada bir, yirmi saniye boyunca yaklaşık altı metre uzaktaki bir noktaya bakın. Bu sırada bilinçli olarak birkaç kez göz kırpın; kurumuş gözleriniz rahatlayacaktır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1766066014237-00645c74e9c6?w=2400",
+   "kicker": "Örnek olay · Çağrı merkezi",
+   "title": "Altı ay süren boyun ağrısı",
+   "bullets": [
+    "Ekran yan tarafta, kişi gün boyu başını çeviriyor",
+    "Molalar ekran başında telefona bakarak geçiyor",
+    "Basit bir düzenleme ağrıyı azalttı"
+   ],
+   "steps": [
+    "Bir örnek olayla devam edelim. Bir çağrı merkezinde çalışan Selin Hanım, aylardır boyun ve omuz ağrısı çekiyor. Ağrı kesici alıyor ama şikâyeti geçmiyor.",
+    "İşyeri hekimi masasını incelediğinde sebebi görüyor: ikinci ekran masanın yan tarafına konmuş ve Selin Hanım gün boyunca başı yana dönük çalışıyor. Ekran da göz hizasının oldukça altında.",
+    "Üstelik Selin Hanım molalarında yerinden kalkmıyor; mola süresini yine ekran başında, telefonuna bakarak geçiriyor. Yani boynu hiç dinlenmiyor.",
+    "Ne yapıldı? Kullandığı ekran tam karşısına alındı ve yükseltildi, sandalyesi ayarlandı. Selin Hanım molalarında kalkıp birkaç adım atmaya ve omuzlarını gevşetmeye başladı. Birkaç hafta içinde ağrıları belirgin şekilde azaldı."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Mikro molalar",
+   "title": "Masa başında bir dakikalık hareketler",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1713947505684-25b9bf8d544f?w=1200",
+     "tag": "Boyun",
+     "title": "Boyun ve omuz",
+     "text": "Omuzlarınızı yavaşça geriye doğru döndürün, başınızı sağa ve sola nazikçe eğin."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1613988753173-8db625c972c5?w=1200",
+     "tag": "Bilek",
+     "title": "El ve bilek",
+     "text": "Parmaklarınızı açıp kapatın, bileklerinizi yavaşça iki yöne çevirin."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1770816307800-72ba937620fe?w=1200",
+     "tag": "Hareket",
+     "title": "Kalkın ve yürüyün",
+     "text": "Su almaya, yazıcıya ya da pencereye kadar birkaç adım atın."
+    }
+   ],
+   "steps": [
+    "Mola demek her zaman uzun bir ara demek değildir. Gün içine serpiştirilmiş, bir iki dakikalık küçük hareketler bile kaslarınızın gerginliğini azaltır. Üç basit öneri paylaşayım.",
+    "Boyun ve omuzlar için: omuzlarınızı yavaşça geriye doğru birkaç kez döndürün, sonra başınızı sağa ve sola nazikçe eğin. Hareketleri zorlamadan, ağrı oluşturmadan yapın.",
+    "El ve bilekler için: parmaklarınızı birkaç kez açıp kapatın, bileklerinizi her iki yöne yavaşça çevirin. Klavyede uzun süre yazanlar için özellikle faydalıdır.",
+    "Ve en etkilisi: kalkın ve yürüyün. Su almaya, yazıcıya ya da pencereye kadar birkaç adım atmak bile kan dolaşımınızı canlandırır ve zihninizi tazeler. Telefon görüşmelerini mümkünse ayakta yapabilirsiniz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1570993492881-25240ce854f4?w=2400",
+   "kicker": "Sizin işyeriniz",
+   "title": "Bugün kendinize sorun",
+   "bullets": [
+    "Kullandığım ekipmanın talimatını biliyor muyum",
+    "Koruyucusu eksik ya da arızalı bir ekipman var mı",
+    "Ekranım, sandalyem ve klavyem bana göre ayarlı mı"
+   ],
+   "steps": [
+    "Dersin sonuna yaklaşırken sizden küçük bir uygulama istiyorum. Bugün işyerinizde kendinize şu üç soruyu sorun.",
+    "Her gün kullandığım ekipmanların kullanım talimatını biliyor muyum? Bilmediğim bir ekipmanı sadece tahminle mi kullanıyorum?",
+    "Çevremde koruyucusu eksik, kablosu hasarlı ya da arızalı olduğu halde kullanılmaya devam edilen bir ekipman var mı? Varsa bugün bildirin.",
+    "Ekranım, sandalyem ve klavyem bana göre ayarlı mı, yoksa başkasının ayarıyla mı çalışıyorum? Beş dakikanızı ayırıp bu ayarları yapmak, aylarca sürecek ağrıların önüne geçebilir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1674505921901-e54fe119f0a4?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Koruyucusu çıkarılmış ekipman kullanılmaz, amire bildirilir",
+    "Bakım öncesi enerji kesilir, kilitlenir ve etiketlenir",
+    "Ekranın üst kenarı göz hizasında veya biraz altında",
+    "Sandalye, klavye ve ışığı kendinize göre ayarlayın",
+    "Ara verin, uzağa bakın, göz muayenenizi aksatmayın"
+   ],
+   "steps": [
+    "Dersimizi özetleyelim. Bu beş kural hem ekipman başında hem de bilgisayar başında her gün sizi koruyacak.",
+    "Bir iş ekipmanının koruyucusu çıkarılmışsa ekipman kullanılmaz ve durum, mesai sonunu beklemeden hemen amire bildirilir.",
+    "Bakım ve onarım öncesinde ekipmanın enerjisi kesilir, kilitlenir ve etiketlenir. Bakımı yalnızca yetkili kişi yapar.",
+    "Bilgisayar başında ekranın üst kenarı göz hizasında veya biraz altında, yaklaşık bir kol boyu uzaklıkta olmalıdır.",
+    "Sandalyenizi, klavye ve farenizi, ekranınızı ve aydınlatmayı kendinize göre ayarlayın; bu ayarları yapmak için yardım istemekten çekinmeyin.",
+    "Ve gün içinde ara verin, uzağa bakın, göz muayenelerinizi aksatmayın. Dersin sonunda birkaç kısa soru sizi bekliyor. Kolay gelsin."
+   ]
+  }
+ ]
+}

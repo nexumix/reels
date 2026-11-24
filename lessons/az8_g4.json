@@ -1,0 +1,545 @@
+{
+ "code": "az8_g4",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "1. Bölüm · Genel Konular",
+ "title": "İş kazası ve meslek hastalığından doğan hukuki sonuçlar",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1618771623063-6c3faa854a61?w=2400",
+   "kicker": "1. Bölüm · Ders 4",
+   "title": "İş kazası ve meslek hastalığından doğan hukuki sonuçlar",
+   "subtitle": "Bir kazanın ardından neler olur?",
+   "steps": [
+    "Merhaba, yeniden hoş geldiniz. Bu dersimizde biraz hukuk konuşacağız. Ama korkmayın; sizi avukat yapmaya çalışmayacağım. Amacım, bir iş kazası ya da meslek hastalığının ardından neler olduğunu, kimin hangi sorumluluğu taşıdığını ve sizin haklarınızı sade bir dille anlatmak.",
+    "Çünkü bir kaza sadece o anla sınırlı kalmaz. Ardından bildirimler, incelemeler, tazminatlar, hatta ceza davaları gelebilir. Bunları bilmek, hem kazaları önlemenin neden bu kadar önemli olduğunu anlamanızı sağlar hem de sizi korur."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1635859890085-ec8cb5466806?w=2400",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "bullets": [
+    "İş kazası ve meslek hastalığı nedir",
+    "Kazadan sonra ilk adımlar ve SGK bildirimi",
+    "İşverenin hukuki, cezai ve idari sorumluluğu",
+    "Çalışanın hakları ve sorumlulukları",
+    "Ramak kala olay ve neden bildirilmeli"
+   ],
+   "steps": [
+    "Bu derste beş ana başlıkla ilerleyeceğiz. Her birinde ofis, mağaza ve kafe gibi işyerlerinden gerçek hayata yakın örnekler vereceğim.",
+    "Önce temel kavramlarla başlayacağız: iş kazası nedir, meslek hastalığı nedir ve bunları birbirinden ayıran ne?",
+    "Sonra bir kaza olduğunda atılması gereken ilk adımları ve işverenin bu kazayı Sosyal Güvenlik Kurumuna hangi süre içinde bildirmesi gerektiğini konuşacağız.",
+    "Ardından bir kazanın ardından işverenin taşıdığı üç tür sorumluluğu ele alacağız: hukuki, cezai ve idari sorumluluk.",
+    "Dördüncü başlıkta, kaza ya da hastalık durumunda sizin haklarınızı ve çalışan olarak sizin de taşıdığınız sorumlulukları konuşacağız.",
+    "Son olarak da çok önemli bir kavrama, ramak kala olaya ve neden mutlaka bildirilmesi gerektiğine bakacağız."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1542081403278-ba5973c25c7a?w=2400",
+   "kicker": "Temel kavram",
+   "value": "İş kazası",
+   "title": "İşyerinde veya işin yürütümü nedeniyle meydana gelen, ölüme ya da bedenen veya ruhen zarara yol açan olay",
+   "text": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu'ndaki tanımın özü budur",
+   "steps": [
+    "İlk kavramımız iş kazası. 6331 sayılı İş Sağlığı ve Güvenliği Kanunu'na göre iş kazası, işyerinde veya işin yürütümü nedeniyle meydana gelen, ölüme sebep olan ya da vücut bütünlüğünü ruhen veya bedenen engelli hâle getiren olaydır.",
+    "Bu tanımdaki iki ifadeye dikkat edin. Birincisi işyerinde; yani kazanın işyeri sınırları içinde olması. İkincisi ise işin yürütümü nedeniyle. Bu ikinci ifade önemlidir; çünkü işyeri dışında, iş için yapılan bir faaliyet sırasında olan kazalar da iş kazası sayılabilir.",
+    "Peki hangi durumlar iş kazası sayılır? Bunu sosyal güvenlik mevzuatı daha ayrıntılı olarak sayar. Şimdi ona bakalım. Özellikle işyeri dışında yaşanan kazalarda bu ayrım çok önem taşır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "5510 sayılı Kanun",
+   "title": "Kaza hangi durumlarda iş kazası sayılır?",
+   "items": [
+    {
+     "title": "İşyerinde iken",
+     "text": "Çalışanın işyerinde bulunduğu sırada"
+    },
+    {
+     "title": "İş nedeniyle",
+     "text": "İşveren tarafından yürütülen iş nedeniyle"
+    },
+    {
+     "title": "Görevle dışarıda",
+     "text": "Görevli olarak işyeri dışına gönderildiği sırada"
+    },
+    {
+     "title": "Süt izninde",
+     "text": "Emziren kadın çalışanın süt izni için ayrılan zamanda"
+    },
+    {
+     "title": "İşveren servisinde",
+     "text": "İşverence sağlanan taşıtla işe gidiş gelişte"
+    }
+   ],
+   "steps": [
+    "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu, bir kazanın hangi durumlarda iş kazası sayılacağını beş hâlde toplar. Tek tek bakalım.",
+    "Birincisi, sigortalının işyerinde bulunduğu sırada olan kazalar. Ofiste, mağazada, depoda, yemekhanede; işyerinin içindeyken yaşanan kazalar bu kapsamdadır.",
+    "İkincisi, işveren tarafından yürütülmekte olan iş nedeniyle olan kazalar. Yani işyeri dışında da olsa, yaptığınız iş yüzünden yaşanan kazalar.",
+    "Üçüncüsü, işveren tarafından görevli olarak işyeri dışında başka bir yere gönderildiğinizde, asıl işinizi yapmadan geçen zamanlarda olan kazalar. Örneğin banka işlemi için ya da başka bir şubeye toplantıya gönderildiğinizde.",
+    "Dördüncüsü, emziren kadın çalışanın, iş mevzuatı gereği çocuğuna süt vermek için ayrılan zamanlarda yaşadığı kazalar. Bu süre de iş kazası güvencesi altındadır.",
+    "Beşincisi ise işverenin sağladığı bir taşıtla, örneğin personel servisiyle işe gidiş ve gelişiniz sırasında olan kazalar. Bu beş durumdan birinde yaşanan kaza, iş kazası sayılır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1770739541185-8bb990a2fcc4?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Bankaya giden muhasebe çalışanı",
+   "bullets": [
+    "Görevle işyeri dışına gönderildi",
+    "Yolda düştü, bileği kırıldı",
+    "Görevle gönderildiği için iş kazası sayılır"
+   ],
+   "steps": [
+    "Bir örnekle somutlaştıralım. Küçük bir muhasebe bürosunda çalışan Ayşe Hanım, öğleden sonra yöneticisinin talimatıyla bir ödeme yapmak üzere bankaya gidiyor.",
+    "Banka girişindeki ıslak basamaklarda kayıyor, düşüyor ve bileği kırılıyor. Ayşe Hanım, bu olayın işyeri dışında olduğu için iş kazası sayılmayacağını düşünüyor.",
+    "Oysa durum farklı. Ayşe Hanım, işveren tarafından görevli olarak işyeri dışına gönderilmişti. Bu nedenle yaşadığı kaza, kanuna göre iş kazası sayılır ve işverenin bu kazayı SGK'ya bildirmesi gerekir.",
+    "Bu örnekten çıkan ders şu: bir kazanın iş kazası olup olmadığını, sadece nerede olduğuna bakarak değil, hangi koşulda olduğuna bakarak değerlendirmek gerekir. Emin olmadığınızda mutlaka yöneticinize ve İSG birimine danışın."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=2400",
+   "kicker": "Temel kavram",
+   "title": "Meslek hastalığı: zamanla gelen tehlike",
+   "bullets": [
+    "Mesleki risklere maruz kalma sonucu ortaya çıkar",
+    "Genellikle yavaş ve sessiz gelişir",
+    "Örnek: gürültü, toz, kimyasal, tekrarlayan hareket",
+    "Tespiti yetkili sağlık kurulu raporuna ve SGK kararına dayanır"
+   ],
+   "steps": [
+    "İkinci temel kavramımız meslek hastalığı. İş kazası ani bir olaydır; meslek hastalığı ise çoğu zaman yıllar içinde, sessizce gelişir.",
+    "6331 sayılı Kanun, meslek hastalığını mesleki risklere maruziyet sonucu ortaya çıkan hastalık olarak tanımlar. 5510 sayılı Kanun ise bunu, işin niteliğinden dolayı tekrarlanan bir sebeple veya işin yürütüm şartları yüzünden uğranılan hastalık ya da engellilik hâli olarak açıklar.",
+    "Bu hastalıklar genellikle yavaş gelişir. İlk belirtiler hafiftir ve çoğu zaman önemsenmez. Fark edildiğinde ise kalıcı bir hasar oluşmuş olabilir. Bu yüzden işe giriş ve periyodik sağlık muayeneleri, erken fark etmek için önemli bir fırsattır.",
+    "Az tehlikeli işyerlerinde bile bu riskler vardır: sürekli gürültülü bir ortam, temizlik kimyasallarıyla uzun süreli temas, gün boyu tekrarlanan el ve bilek hareketleri gibi.",
+    "Bir hastalığın meslek hastalığı sayılması için yetkili sağlık hizmeti sunucularının sağlık kurulu raporu ve tıbbi belgeler incelenir; kararı SGK'nın sağlık kurulu verir. Yani bu, bir doktorun tek başına söyleyebileceği bir şey değildir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1631832722590-d09f1f8c85fc?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Temizlik görevlisinin elleri",
+   "bullets": [
+    "Yıllarca eldivensiz kimyasal kullandı",
+    "Ellerinde geçmeyen yaralar oluştu",
+    "Erken bildirim ve önlemle önlenebilirdi"
+   ],
+   "steps": [
+    "Meslek hastalığına az tehlikeli bir işyerinden bir örnek verelim. Bir alışveriş merkezinde yıllardır temizlik görevlisi olarak çalışan Mehmet Bey, temizlik ürünlerini çoğu zaman eldivensiz kullanıyor; eldivenin işini yavaşlattığını düşünüyor.",
+    "Zamanla ellerinde kızarıklık, kaşıntı ve çatlaklar başlıyor. Önce kış kuruluğu sanıyor, kremle geçiştiriyor. Ama yaralar geçmiyor, giderek kötüleşiyor ve işini yapamaz hâle geliyor.",
+    "Yapılan incelemeler sonucunda bu tablonun işinde kullandığı kimyasallarla ilişkili olabileceği değerlendiriliyor ve meslek hastalığı şüphesiyle süreç başlatılıyor. İşte meslek hastalığının tipik özelliği budur: yavaş gelir, önce önemsenmez.",
+    "Ne yapılmalıydı? İşveren uygun eldiveni sağlamalı ve kullanımını takip etmeli, Mehmet Bey de eldiveni düzenli kullanmalı ve ilk belirtilerde işyeri hekimine başvurmalıydı. Erken fark edilen belirtiler, kalıcı hasarı önleyebilir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Kaza anında",
+   "title": "Bir kaza olduğunda ilk adımlar",
+   "items": [
+    {
+     "title": "Güvenliği sağla",
+     "text": "Önce kendinizi ve çevreyi tehlikeden koruyun"
+    },
+    {
+     "title": "Yardım çağır",
+     "text": "Gerekirse 112'yi arayın, ilk yardımcıya haber verin"
+    },
+    {
+     "title": "Yöneticiye bildir",
+     "text": "Küçük görünse bile kazayı hemen bildirin"
+    },
+    {
+     "title": "Olay yerini koru",
+     "text": "Gereksiz yere dokunmayın, ortamı değiştirmeyin"
+    },
+    {
+     "title": "Bilgileri kaydet",
+     "text": "Ne olduğunu, tanıkları ve saati not edin"
+    }
+   ],
+   "steps": [
+    "Şimdi pratiğe geçelim. İşyerinizde bir kaza olduğunda ne yapmalısınız? Panik yapmadan uygulayabileceğiniz beş adımı anlatayım.",
+    "İlk adım güvenlik. Kazazedeye koşmadan önce ortamda hâlâ bir tehlike olup olmadığına bakın. Elektrik varsa önce kesilmeli, yangın varsa önce uzaklaşılmalı. Siz de yaralanırsanız kimseye yardım edemezsiniz.",
+    "İkinci adım yardım çağırmak. Durum ciddiyse hemen 112'yi arayın. İşyerinizdeki ilk yardım eğitimi almış kişiye haber verin. İlk yardım bilginiz yoksa kazazedeyi gereksiz yere hareket ettirmeyin.",
+    "Üçüncü adım yöneticinize bildirmek. Küçük bir kesik ya da burkulma bile olsa kazayı mutlaka bildirin. Bugün önemsiz görünen bir yaralanma, yarın ciddi bir soruna dönüşebilir ve bildirilmemiş bir kaza, haklarınızı kullanmanızı zorlaştırabilir.",
+    "Dördüncü adım olay yerini korumak. Kazanın neden olduğunu anlamak için ortamın mümkün olduğunca olduğu gibi kalması önemlidir. Güvenlik için gerekli olan dışında hiçbir şeyi değiştirmeyin.",
+    "Beşinci adım bilgileri kaydetmek. Ne olduğunu, saatini ve olayı gören kişileri not edin. Bu bilgiler, kaza incelemesi ve bildirim için çok değerlidir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1790976158663-ccc651ef9805?w=2400",
+   "kicker": "Bildirim",
+   "value": "3 iş günü",
+   "title": "İşveren iş kazasını, kazadan sonraki 3 iş günü içinde SGK'ya bildirmek zorundadır",
+   "text": "Meslek hastalığında bu süre, işverenin hastalığı öğrendiği tarihten itibaren 3 iş günüdür",
+   "steps": [
+    "Şimdi bu dersin en kritik bilgilerinden birine geldik. İşveren, iş kazasını SGK'ya en geç ne zaman bildirmelidir? Cevap: kazadan sonraki 3 iş günü içinde.",
+    "Bu yükümlülük hem 6331 sayılı İş Sağlığı ve Güvenliği Kanunu'nda hem de 5510 sayılı Kanun'da yer alır. Meslek hastalığında ise süre, işverenin hastalığı öğrendiği tarihten itibaren yine 3 iş günüdür. Bir ay, yıl sonu ya da bildirim zorunlu değil gibi cevaplar kesinlikle yanlıştır.",
+    "Bildirim, SGK'nın elektronik sistemi üzerinden yapılır. Sizin göreviniz ise kazayı hemen yöneticinize iletmektir; böylece işveren bu süreyi kaçırmadan bildirimi yapabilir."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Bildirim süreleri",
+   "title": "Kim, kime, ne zaman bildirir?",
+   "items": [
+    {
+     "value": "Derhal",
+     "unit": "",
+     "label": "işveren, kazayı yetkili kolluk kuvvetine"
+    },
+    {
+     "value": "3",
+     "unit": "iş günü",
+     "label": "işveren, iş kazasını SGK'ya"
+    },
+    {
+     "value": "10",
+     "unit": "gün",
+     "label": "sağlık hizmet sunucusu, SGK'ya en geç"
+    }
+   ],
+   "steps": [
+    "Bir iş kazasında bildirim tek bir yere yapılmaz. Kimin, kime ve ne zaman bildirim yaptığına birlikte bakalım. Bu süreleri bilmek, kazadan sonra neyin neden yapıldığını anlamanızı kolaylaştırır.",
+    "5510 sayılı Kanun'a göre işveren, iş kazasını o yerin yetkili kolluk kuvvetlerine, yani polise ya da jandarmaya derhal bildirir.",
+    "SGK'ya bildirim ise en geç kazadan sonraki 3 iş günü içinde yapılır. Bu süre, iş günü olarak hesaplanır; yani hafta sonu ve resmî tatiller bu süreye dahil edilmez.",
+    "Kazazedeyi tedavi eden hastane gibi sağlık hizmet sunucuları da iş kazası olduğunu düşündükleri vakaları en geç 10 gün içinde SGK'ya bildirir. Yani bir kazanın gizlenmesi hem yanlıştır hem de çoğu zaman mümkün değildir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=2400",
+   "kicker": "Bildirim yapılmazsa",
+   "title": "Bildirmemenin bedeli",
+   "bullets": [
+    "İşverene idari para cezası uygulanır",
+    "Bildirime kadar ödenen ödenek işverenden tahsil edilir",
+    "Kayıt, inceleme ve rapor da işverenin yükümlülüğüdür"
+   ],
+   "steps": [
+    "Peki işveren kazayı süresinde bildirmezse ne olur? Kısaca, kazayı gizlemek ya da geciktirmek işverene çok daha pahalıya mal olur.",
+    "Birincisi, 6331 sayılı Kanun'a göre bildirim yükümlülüğünü yerine getirmeyen işverene idari para cezası uygulanır. Bu cezaların tutarı her yıl güncellenir ve işyerinin tehlike sınıfına göre değişir.",
+    "İkincisi, 5510 sayılı Kanun'a göre kaza süresinde bildirilmezse, bildirim tarihine kadar geçen süre için çalışana ödenen geçici iş göremezlik ödeneği işverenden tahsil edilir.",
+    "Üçüncüsü, işverenin görevi sadece bildirmek değildir. Bütün iş kazalarının ve meslek hastalıklarının kaydını tutmak, gerekli incelemeleri yapmak ve bunlarla ilgili raporları düzenlemek de işverenin yükümlülüğüdür. Bunlar, aynı kazanın tekrarlanmaması için yapılır."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar neler öğrendik?",
+   "bullets": [
+    "İş kazası: işyerinde veya iş nedeniyle olan, zarara yol açan olay",
+    "Meslek hastalığı: mesleki risklere maruziyetle zamanla gelişir",
+    "Kaza olunca: güvenlik, yardım, bildirim, olay yerini koruma",
+    "İşveren SGK'ya 3 iş günü içinde bildirir"
+   ],
+   "steps": [
+    "Burada kısa bir mola verelim ve dersin ilk yarısında öğrendiklerimizi toparlayalım. Bu maddeler sorular için de önemli.",
+    "İş kazası, işyerinde veya işin yürütümü nedeniyle meydana gelen ve ölüme ya da bedensel veya ruhsal zarara yol açan olaydır. Görevle dışarıya gönderildiğinizde ya da işveren servisindeyken olan kazalar da bu kapsamdadır.",
+    "Meslek hastalığı ise mesleki risklere maruz kalma sonucu, genellikle yavaş ve sessizce gelişen hastalıktır. Erken belirtileri önemsemek gerekir.",
+    "Bir kaza olduğunda önce güvenliği sağlar, gerekirse yardım çağırır, kazayı küçük de olsa hemen bildirir ve olay yerini koruruz.",
+    "Ve en önemlisi: işveren iş kazasını SGK'ya kazadan sonraki 3 iş günü içinde bildirmek zorundadır. Şimdi sorumluluklara geçiyoruz."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Üç tür sorumluluk",
+   "title": "Kazanın ardından işverenin sorumluluğu",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1631511258193-252ab3da6b8b?w=1200",
+     "tag": "Hukuki",
+     "title": "Tazminat",
+     "text": "Zarar gören çalışana veya yakınlarına maddi ve manevi tazminat ödenmesi."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1676181739859-08330dea8999?w=1200",
+     "tag": "Cezai",
+     "title": "Ceza davası",
+     "text": "Kusuru bulunan kişiler hakkında taksirle yaralama veya öldürmeden yargılama."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1636652968964-22026624a69a?w=1200",
+     "tag": "İdari",
+     "title": "Para cezası",
+     "text": "İSG mevzuatına aykırılık için idari para cezası, gerekirse işin durdurulması."
+    }
+   ],
+   "steps": [
+    "Bir iş kazası ya da meslek hastalığında işverenin sorumluluğu nedir? Sadece bir para cezası mı? Hayır. Doğru cevap şu: hukuki, cezai ve idari sorumluluk birlikte doğabilir. Üçüne de bakalım.",
+    "Birincisi hukuki sorumluluk. Bu, zararın tazmin edilmesi, yani tazminat demektir. Kazada zarar gören çalışana ya da hayatını kaybettiyse yakınlarına maddi ve manevi tazminat ödenmesi gündeme gelir.",
+    "İkincisi cezai sorumluluk. Kazada kusuru bulunan kişiler hakkında Türk Ceza Kanunu'na göre taksirle yaralama ya da taksirle öldürme suçlarından ceza davası açılabilir.",
+    "Üçüncüsü idari sorumluluk. İş sağlığı ve güvenliği mevzuatına aykırılık tespit edildiğinde işverene idari para cezası uygulanır. Hayati tehlike varsa iş durdurulabilir. Bu üç sorumluluk birbirinin alternatifi değildir; aynı kazada üçü birden ortaya çıkabilir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1521791055366-0d553872125f?w=2400",
+   "kicker": "Hukuki sorumluluk",
+   "title": "Tazminat: zararın karşılanması",
+   "bullets": [
+    "Maddi tazminat: tedavi gideri, kazanç kaybı",
+    "Manevi tazminat: yaşanan acı ve üzüntü için",
+    "Destekten yoksun kalma: hayatını kaybedenin yakınlarına",
+    "Kusur oranına göre belirlenir"
+   ],
+   "steps": [
+    "Hukuki sorumluluğa biraz daha yakından bakalım. Türk Borçlar Kanunu, işverene çalışanın sağlığını ve güvenliğini koruma borcu yükler. Bu borca aykırı davranış sonucu bir zarar doğarsa işveren bu zararı karşılamakla yükümlüdür.",
+    "Maddi tazminat, kazanın yol açtığı somut kayıpları karşılar. Tedavi giderleri, çalışılamayan dönemdeki kazanç kaybı ve kalıcı bir iş göremezlik varsa gelecekteki kazanç kaybı bunlara örnektir.",
+    "Manevi tazminat ise yaşanan acı, üzüntü ve sarsıntı için ödenir. Kazazedenin kendisine ve ağır durumlarda yakınlarına hükmedilebilir. Miktarını, olayın ağırlığına ve tarafların durumuna göre mahkeme belirler.",
+    "Çalışan hayatını kaybettiyse, onun desteğinden yoksun kalan eşi, çocukları gibi yakınları destekten yoksun kalma tazminatı talep edebilir.",
+    "Tazminatın miktarı belirlenirken tarafların kusur oranlarına bakılır. Bu oranlar genellikle mahkemenin görevlendirdiği bilirkişiler tarafından incelenir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1589216532372-1c2a367900d9?w=2400",
+   "kicker": "SGK'nın rücu hakkı",
+   "value": "Rücu",
+   "title": "SGK, kazazedeye yaptığı ödemeleri kusurlu işverenden geri isteyebilir",
+   "text": "Kaza, işverenin kastı veya İSG mevzuatına aykırı davranışı sonucu olmuşsa, kurumun yaptığı masraflar işverene ödettirilir",
+   "steps": [
+    "Burada önemli bir kavram daha var: rücu. Bir iş kazasında SGK, kazazedenin tedavi giderlerini karşılar, ona ödenek ya da gelir bağlar. Bu, çalışanı güvence altına alır.",
+    "Ancak 5510 sayılı Kanun'a göre, iş kazası ya da meslek hastalığı işverenin kastı veya iş sağlığı ve güvenliği mevzuatına aykırı hareketi sonucu meydana gelmişse, SGK'nın yaptığı ve ileride yapacağı masraflar işverene ödettirilir. Buna rücu denir.",
+    "Yani önlem almayan bir işveren için kaza, sadece bir tazminat davası değil, yıllarca sürebilecek bir geri ödeme yükü de demektir. Önlem almak, her zaman kazanın bedelini ödemekten daha ucuzdur."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?w=2400",
+   "kicker": "Cezai sorumluluk",
+   "title": "Ceza sorumluluğu kişiseldir",
+   "bullets": [
+    "Taksirle yaralama veya taksirle öldürme",
+    "Kusuru olan herkes yargılanabilir",
+    "Para ödeyerek devredilemez"
+   ],
+   "steps": [
+    "Cezai sorumluluk, hukuki sorumluluktan önemli bir noktada ayrılır: kişiseldir. Tazminatı bir sigorta şirketi ya da işveren ödeyebilir; ama ceza sorumluluğu başkasına devredilemez.",
+    "Bir iş kazasında kişinin ölümüne ya da yaralanmasına dikkatsizlik ve özensizlik yüzünden sebep olunmuşsa, Türk Ceza Kanunu'ndaki taksirle öldürme ya da taksirle yaralama suçları gündeme gelir.",
+    "Burada yargılanan sadece işveren değildir. Kazada kusuru bulunan yönetici, sorumlu amir, hatta tedbirsiz davranışıyla kazaya yol açan bir çalışma arkadaşı da yargılanabilir. Kusur kimdeyse, sorumluluk da odur.",
+    "Bu yüzden İSG kurallarını hafife almamak gerekir. Bir talimatı görmezden gelmek ya da bir tehlikeyi bilerek bırakmak, sadece başkasını değil, sizi de hukuken çok zor bir duruma sokabilir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1681505504714-4ded1bc247e7?w=2400",
+   "kicker": "İdari sorumluluk",
+   "title": "Denetim, para cezası ve işin durdurulması",
+   "bullets": [
+    "Aykırılıklar için idari para cezası uygulanır",
+    "Tutarlar her yıl güncellenir, tehlike sınıfına göre değişir",
+    "Hayati tehlike varsa iş durdurulabilir",
+    "Ceza, kaza olmasa da denetimde kesilebilir"
+   ],
+   "steps": [
+    "Üçüncü sorumluluk türü idari sorumluluktur. Bunu, devletin iş sağlığı ve güvenliği kurallarına uyulmasını sağlamak için uyguladığı yaptırımlar olarak düşünebilirsiniz.",
+    "6331 sayılı Kanun'da her yükümlülük için ayrı idari para cezaları öngörülmüştür. Risk değerlendirmesi yapmamak, eğitim vermemek, kazayı bildirmemek gibi aykırılıklar bunlara örnektir.",
+    "Bu cezaların tutarları her yıl yeniden değerleme oranına göre güncellenir. Ayrıca bazı cezalar işyerinin tehlike sınıfına göre farklılaşır.",
+    "Daha da önemlisi, işyerinde çalışanlar için hayati tehlike oluşturan bir durum tespit edildiğinde, bu tehlike giderilinceye kadar iş durdurulabilir. Bu, işyerinin bir kısmında ya da tamamında olabilir.",
+    "Ve şunu unutmayın: idari para cezası için bir kazanın olması gerekmez. İş müfettişlerinin denetiminde tespit edilen bir aykırılık da cezaya yol açar. Yani mevzuat, kazayı beklemeden önlem alınmasını ister."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Markette sandalyeyle raf düzeni",
+   "bullets": [
+    "Bozuk merdiven aylardır bildiriliyordu",
+    "Çalışan sandalyeye çıktı ve düştü",
+    "Hukuki, cezai ve idari süreç başladı"
+   ],
+   "steps": [
+    "Şimdi bu sorumlulukların bir arada nasıl ortaya çıktığını bir örnekle görelim. Bir mahalle marketinde, üst raflara ulaşmak için kullanılan el merdiveninin basamağı kırık. Çalışanlar bunu aylardır söylüyor ama merdiven değiştirilmiyor.",
+    "Bir gün yoğun bir anda bir çalışan, üst raftaki ürünleri indirmek için tekerlekli bir sandalyeye çıkıyor. Sandalye kayıyor, çalışan düşüyor ve kalçasından ciddi şekilde yaralanıyor.",
+    "Kazanın ardından işveren kazayı SGK'ya bildiriyor. Yapılan incelemede, eksikliğin bilindiği hâlde giderilmediği ortaya çıkıyor. İşveren hem tazminat talebiyle hem de SGK'nın rücu talebiyle karşılaşıyor. Mevzuata aykırılık için idari para cezası da gündeme geliyor ve kusur durumuna göre ceza soruşturması başlıyor.",
+    "Peki çalışanın hiç kusuru yok mu? Bilirkişi, sandalyeye çıkmanın da tehlikeli bir davranış olduğunu değerlendirebilir ve bu durum tazminattan indirime yol açabilir. Doğrusu, merdiven onarılana kadar o işi yapmamak ve durumu tekrar yazılı olarak bildirmekti."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru mu, yanlış mı?",
+   "title": "Kazadan sonra iki farklı tavır",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1715522594847-67c90b5b8667?w=1200",
+     "ok": false,
+     "title": "Örtbas etmek",
+     "text": "Önemli değil, kimse duymasın demek; kaydı tutmamak, bildirimi geciktirmek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1754039985008-a15410211b67?w=1200",
+     "ok": true,
+     "title": "Bildir, kaydet, incele",
+     "text": "Kazayı hemen bildirmek, süresinde SGK'ya iletmek, nedenini araştırıp önlem almak."
+    }
+   ],
+   "steps": [
+    "Kazadan sonra işyerlerinde iki farklı tavırla karşılaşıyoruz. Hangisinin doğru olduğu sanırım belli, ama nedenlerini konuşalım. İkisinin sonuçları birbirinden çok farklıdır.",
+    "Yanlış tavır, örtbas etmektir. Önemli bir şey yok, kimse duymasın, rapor tutmayalım demek. Bu tavır hem kanuna aykırıdır hem de çalışanın haklarını kaybetmesine yol açabilir. Üstelik kazanın nedeni ortadan kalkmadığı için aynı kaza tekrar yaşanır.",
+    "Doğru tavır ise kazayı hemen bildirmek, işverenin süresi içinde SGK'ya iletmesini sağlamak, olayı kaydetmek ve nedenini araştırıp önlem almaktır. Amaç suçlu aramak değil, aynı kazanın bir daha yaşanmamasıdır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Kaza incelemesi",
+   "title": "Amaç suçlu değil, neden bulmak",
+   "items": [
+    {
+     "title": "Bilgi topla",
+     "text": "Olay yeri, tanık anlatımları, fotoğraflar ve belgeler"
+    },
+    {
+     "title": "Kök nedeni bul",
+     "text": "Sadece ne oldu değil, neden oldu sorusunu sor"
+    },
+    {
+     "title": "Önlem belirle",
+     "text": "Aynı kazanın tekrarını önleyecek kalıcı çözüm"
+    },
+    {
+     "title": "Uygula ve izle",
+     "text": "Önlemin hayata geçtiğini ve işe yaradığını kontrol et"
+    }
+   ],
+   "steps": [
+    "Bir kaza bildirildikten sonra işverenin kazayı incelemesi gerektiğini söylemiştik. Peki iyi bir kaza incelemesi nasıl yapılır? Dört adımda özetleyelim.",
+    "İlk adım bilgi toplamaktır. Olay yeri incelenir, fotoğraflanır, tanıkların anlatımları alınır. Sizden de bilgi istenebilir; bildiklerinizi açık ve dürüst biçimde anlatmanız incelemenin doğru sonuç vermesini sağlar.",
+    "İkinci adım kök nedeni bulmaktır. Çalışan dikkatsizdi demek kolaydır ama yeterli değildir. Neden dikkatsizdi? İş çok mu yoğundu, ekipman mı uygun değildi, eğitim mi eksikti? Asıl sorun genellikle daha derindedir.",
+    "Üçüncü adım, aynı kazanın tekrarlanmasını önleyecek kalıcı önlemleri belirlemektir. Bu önlemler risk değerlendirmesine de yansıtılır. Örneğin kayan bir zemin için sadece uyarı levhası değil, kaymaz bir kaplama düşünülebilir.",
+    "Dördüncü adım ise önlemin gerçekten uygulandığını ve işe yaradığını takip etmektir. Kâğıt üzerinde kalan bir önlem, hiç alınmamış bir önlemden farksızdır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1777269749032-d8d458ae594d?w=2400",
+   "kicker": "Haklarınız",
+   "title": "Kazazedenin sosyal güvenlik hakları",
+   "bullets": [
+    "Sağlık hizmetleri: tedavi ve gerekli araç gereç",
+    "Geçici iş göremezlik ödeneği",
+    "Sürekli iş göremezlik geliri",
+    "Ölüm hâlinde hak sahiplerine gelir ve cenaze ödeneği"
+   ],
+   "steps": [
+    "Şimdi sizin haklarınıza bakalım. Bir iş kazası ya da meslek hastalığı yaşayan sigortalı çalışanın, 5510 sayılı Kanun'a göre SGK'dan bazı hakları vardır. Bu haklar, kazada kimin kusurlu olduğundan bağımsız olarak sigortalıyı güvence altına almak için vardır.",
+    "Birincisi sağlık hizmetleridir. Tedavi, ilaç ve iyileşme için gerekli protez, araç gereç gibi ihtiyaçlar sağlık mevzuatı kapsamında karşılanır. Bunun için kazanın iş kazası olarak kayda geçmesi önemlidir.",
+    "İkincisi geçici iş göremezlik ödeneğidir. Kaza ya da hastalık nedeniyle istirahatli olduğunuz ve çalışamadığınız günler için SGK size ödenek öder.",
+    "Üçüncüsü sürekli iş göremezlik geliridir. Kaza ya da hastalık sonucunda çalışma gücünüzde kalıcı bir kayıp oluşursa, bu kaybın oranına göre size gelir bağlanır.",
+    "Ve en acı durumda, kaza ya da hastalık ölümle sonuçlanırsa, hak sahibi yakınlarına gelir bağlanır ve cenaze ödeneği verilir. Bu haklardan yararlanabilmek için kazanın kayıt altına alınması ve bildirilmesi çok önemlidir."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Çalışanın sorumluluğu",
+   "title": "Sizin de sorumluluğunuz var",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1544396821-4dd40b938ad3?w=1200",
+     "title": "Kurallara uymak",
+     "text": "Eğitimde öğrendiklerinizi ve talimatları uygulamak."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1585417238564-fcdf0b69535f?w=1200",
+     "title": "Ekipmanı doğru kullanmak",
+     "text": "Araç, gereç ve KKD'yi amacına uygun kullanmak, keyfi değiştirmemek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1587560699334-bea93391dcef?w=1200",
+     "title": "Tehlikeyi bildirmek",
+     "text": "Gördüğünüz tehlikeyi ve eksikliği yöneticinize veya İSG birimine iletmek."
+    }
+   ],
+   "steps": [
+    "Sorumluluk sadece işverende mi? Hayır. 6331 sayılı Kanun, çalışanlara da açık yükümlülükler verir. Bunlara uymamanın da hukuki sonuçları vardır.",
+    "Birincisi, aldığınız eğitimlere ve işverenin talimatlarına uygun davranmak. Kendi sağlık ve güvenliğinizle birlikte, yaptığınız işten etkilenen diğer kişilerin güvenliğini de tehlikeye atmamak.",
+    "İkincisi, makine, araç gereç ve kişisel koruyucu donanımı doğru kullanmak; güvenlik donanımlarını keyfi olarak çıkarmamak ya da değiştirmemek.",
+    "Üçüncüsü, ciddi ve yakın bir tehlike ya da koruma tedbirlerinde bir eksiklik gördüğünüzde bunu hemen bildirmek. Bu yükümlülükleri ihlal eden bir çalışanın kusuru tazminattan indirime yol açabilir; disiplin yaptırımı uygulanabilir. İş güvenliğini kendi isteği ya da savsaklamasıyla tehlikeye düşürmek, İş Kanunu'na göre işverene haklı fesih imkânı da verebilir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1578986568309-707ef1017f69?w=2400",
+   "kicker": "Temel kavram",
+   "value": "Ramak kala",
+   "title": "Çalışanı, ekipmanı veya işyerini zarara uğratma potansiyeli olduğu hâlde zarara yol açmayan olay",
+   "text": "Bugünün ramak kalası, yarının kazasıdır. Bildirilen her ramak kala, önlenmiş bir kaza olabilir",
+   "steps": [
+    "Dersimizin son kavramı belki de en değerlisi: ramak kala olay. Ramak kala, işyerinde meydana gelen, çalışanı, ekipmanı ya da işyerini zarara uğratma potansiyeli olduğu hâlde zarara uğratmayan olaydır. Yani az kalsın oluyordu dediğimiz durumlar.",
+    "Raftan düşen bir kutunun az önce kalktığınız sandalyeye düşmesi, ıslak zeminde kayıp son anda tutunmanız, prizden kıvılcım çıkması ama yangın çıkmaması. Bunların hepsi ramak kaladır. Ortada yaralanma yoktur; ama bir dahaki sefere aynı şans olmayabilir.",
+    "Bu yüzden ramak kala olaylar mutlaka bildirilmelidir. 6331 sayılı Kanun, işverenin bu tür olayları da inceleyip raporlamasını ister. Çünkü bir kazayı, daha olmadan önlemenin en iyi yolu, ramak kala olaylardan ders çıkarmaktır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1569235186275-626cb53b83ce?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Ofiste düşen arşiv kutusu",
+   "bullets": [
+    "Dolabın üstündeki kutu masaya düştü",
+    "Kimse yaralanmadı, olay bildirildi",
+    "Dolap sabitlendi, üstü boşaltıldı"
+   ],
+   "steps": [
+    "Bir ramak kala örneği verelim. Bir sigorta acentesinde, arşiv dolabının üstüne konmuş ağır bir klasör kutusu, biri dolabın kapağını açınca aşağı kayıyor ve az önce boşalan bir masanın üzerine düşüyor.",
+    "Kimse yaralanmıyor. Herkes biraz gülüp geçiyor. Ama ofisteki bir çalışan, bunun ramak kala olduğunu hatırlayıp durumu yöneticisine ve iş güvenliği uzmanına bildiriyor.",
+    "Yapılan incelemede, birçok dolabın üstünde benzer kutuların durduğu ve bazı dolapların duvara sabitlenmediği görülüyor. Bütün dolapların üstü boşaltılıyor, uzun dolaplar duvara sabitleniyor.",
+    "Düşünün; o kutu biri masadayken düşseydi bir iş kazası, bir bildirim ve belki bir tazminat süreci konuşuyor olacaktık. Bir ramak kala bildirimi, bütün bunların önüne geçti."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1624638760852-8ede1666ab07?w=2400",
+   "kicker": "Sizin işyeriniz",
+   "title": "İşyerinizde bunu nasıl görürsünüz?",
+   "bullets": [
+    "Bir kaza olsa kime, nasıl bildireceğinizi biliyor musunuz?",
+    "İlk yardımcı ve ilk yardım dolabı nerede?",
+    "Son yaşadığınız ramak kalayı bildirdiniz mi?",
+    "Bildirilip giderilmeyen bir eksiklik var mı?"
+   ],
+   "steps": [
+    "Şimdi bu bilgileri kendi işyerinize taşıyalım. Dersi bitirdikten sonra kendinize şu soruları sorun ve cevaplarını not edin.",
+    "Bugün işyerinizde bir kaza olsa, kime ve nasıl bildireceğinizi biliyor musunuz? Yöneticiniz yoksa kime ulaşacaksınız? Bu bilgiyi önceden öğrenmek, o anda zaman kazandırır.",
+    "İşyerinizdeki ilk yardım eğitimi almış kişi kim, ilk yardım dolabı nerede? Acil durum telefon numaraları görünür bir yerde asılı mı?",
+    "Son birkaç ayda yaşadığınız ya da gördüğünüz bir ramak kala oldu mu? Bunu bildirdiniz mi, yoksa az kalsın deyip geçtiniz mi?",
+    "Ve son olarak: işyerinizde bildirildiği hâlde hâlâ giderilmemiş bir eksiklik var mı? Varsa, bunu yazılı olarak ve tekrar iletmek hem sizi hem işvereninizi korur."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1573164574572-cb89e39749b4?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "İşveren iş kazasını SGK'ya 3 iş günü içinde bildirir",
+    "İşverenin hukuki, cezai ve idari sorumluluğu birlikte doğabilir",
+    "SGK, kusurlu işverene rücu edebilir",
+    "Çalışanın da yükümlülükleri ve kusuru olabilir",
+    "Ramak kala: zarar potansiyeli olup zarara yol açmayan olay"
+   ],
+   "steps": [
+    "Dersimizin sonuna geldik. Bugün konuştuğumuz en önemli noktaları son bir kez birlikte toparlayalım ve aklınızda kalmasını sağlayalım.",
+    "İşveren, iş kazasını kazadan sonraki 3 iş günü içinde SGK'ya bildirmek zorundadır. Meslek hastalığında bu süre, hastalığın öğrenildiği tarihten itibaren 3 iş günüdür.",
+    "Bir iş kazası ya da meslek hastalığında işverenin sorumluluğu sadece para cezasıyla sınırlı değildir. Hukuki yani tazminat sorumluluğu, cezai sorumluluk ve idari sorumluluk birlikte doğabilir.",
+    "Kaza, işverenin kastı ya da mevzuata aykırı davranışı sonucu olmuşsa SGK yaptığı masrafları işverenden geri ister. Buna rücu denir.",
+    "Çalışanların da yükümlülükleri vardır; kurallara uymamak tazminattan indirime, disiplin yaptırımına, hatta cezai sorumluluğa yol açabilir.",
+    "Ve ramak kala olay, zarara uğratma potansiyeli olduğu hâlde zarara yol açmayan olaydır; mutlaka bildirilmelidir. Dersin sonunda birkaç kısa soru sizi bekliyor. Bir sonraki derste görüşmek üzere."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,462 @@
+{
+ "code": "az8_t4",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "3. Bölüm · Teknik Konular",
+ "title": "Elektrik tehlikeleri; iş kazalarının sebepleri ve korunma",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1576446470246-499c738d1c8e?w=2400",
+   "kicker": "3. Bölüm · Ders 4",
+   "title": "Elektrik tehlikeleri, iş kazalarının sebepleri ve korunma",
+   "subtitle": "Görünmeyen tehlikeyi tanımak ve kazaları önlemek",
+   "steps": [
+    "Merhaba, bu derste iki önemli konuyu birlikte ele alacağız. İlki elektrik. Ofisten mağazaya, kafeden okula kadar elektriğin olmadığı bir işyeri yok. Elektrik görünmez, ses çıkarmaz, kokmaz; ama dikkatsizliği affetmez.",
+    "İkinci konumuz iş kazaları: neden olurlar ve onları nasıl önleriz? Göreceksiniz ki kazaların büyük çoğunluğu şans eseri değil, önceden fark edilebilecek sebepler yüzünden olur. Bu da onları önleyebileceğimiz anlamına gelir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Bu derste",
+   "title": "Neler öğreneceğiz?",
+   "items": [
+    {
+     "title": "Elektriğin zararları",
+     "text": "Çarpma, yanık, yangın ve dolaylı kazalar"
+    },
+    {
+     "title": "Güvenli kullanım",
+     "text": "Hasarlı kablo, priz ve ıslak ortam kuralları"
+    },
+    {
+     "title": "İlk müdahale",
+     "text": "Elektrik çarpan birine nasıl yardım edilir"
+    },
+    {
+     "title": "Kazaların sebepleri",
+     "text": "Güvensiz davranış, güvensiz koşul ve korunma"
+    }
+   ],
+   "steps": [
+    "Önce bu dersin yol haritasına bakalım. Dört başlığımız var; ilk üçü elektrikle, sonuncusu iş kazalarıyla ilgili.",
+    "Birinci başlıkta elektriğin insana ve işyerine nasıl zarar verdiğini, yani çarpma, yanık, yangın ve dolaylı kazaları konuşacağız.",
+    "İkinci başlıkta hasarlı kablolar, prizler ve ıslak ortamlar gibi günlük hayatta karşılaştığımız tehlikeleri ve güvenli kullanım kurallarını ele alacağız.",
+    "Üçüncü başlıkta, hayati önem taşıyan bir konuya geleceğiz: elektrik çarpan birine yardım ederken kendinizi tehlikeye atmadan nasıl müdahale edeceğiniz.",
+    "Son olarak iş kazalarının neden olduğunu, güvensiz davranış ve güvensiz koşul kavramlarını ve kazalardan korunmanın temel prensiplerini öğreneceğiz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1695886517975-b010be190375?w=2400",
+   "kicker": "Elektriğin zararları",
+   "title": "Elektrik insana nasıl zarar verir?",
+   "bullets": [
+    "Elektrik çarpması: akım vücuttan geçer",
+    "Yanıklar: hem dışta hem vücudun içinde",
+    "Elektrik kaynaklı yangınlar",
+    "Dolaylı kazalar: irkilme, düşme"
+   ],
+   "steps": [
+    "Elektrik akımı, bir yol bulduğunda o yoldan akar. Eğer o yol sizin bedeniniz olursa, elektrik size zarar verir. Peki bu zarar hangi şekillerde ortaya çıkar?",
+    "Birincisi elektrik çarpması. Akım vücudunuzdan geçerken kaslarınızı kasabilir, kalp ritmini bozabilir ve solunumu durdurabilir. Bazen akımın geçtiği eli bırakmak bile mümkün olmaz.",
+    "İkincisi yanıklar. Elektrik yanıkları yalnızca deride değil, akımın geçtiği yol boyunca vücudun içinde de oluşabilir. Dışarıdan küçük görünen bir yanık, içeride ciddi bir hasarı gizleyebilir.",
+    "Üçüncüsü elektrik kaynaklı yangınlar. Aşırı yüklenen prizler, gevşek bağlantılar ve hasarlı kablolar ısınarak yangın başlatabilir. Bunu bir önceki dersimizde konuşmuştuk.",
+    "Dördüncüsü dolaylı kazalar. Hafif bir çarpılma bile irkilmenize ve dengenizi kaybetmenize yol açabilir. Merdivendeyken çarpılan biri, asıl zararı düşerek görebilir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1709992263975-aa3134ea261f?w=2400",
+   "kicker": "Unutmayın",
+   "value": "Görünmez",
+   "title": "Elektrik görülmez, duyulmaz, koklanmaz; tehlikeyi ancak sonuçlarıyla fark edersiniz",
+   "text": "Bu yüzden kural basittir: emin değilseniz dokunmayın, yetkili kişiye haber verin",
+   "steps": [
+    "Elektriği diğer tehlikelerden ayıran şey görünmez olmasıdır. Bir kablonun içinde akım olup olmadığını bakarak anlayamazsınız. Gerilim altındaki bir tel ile gerilimsiz bir tel aynı görünür.",
+    "Bu yüzden elektrikle ilgili temel kuralımız çok basit: emin değilseniz dokunmayın. Elektrik tesisatında arıza bulmak, onarmak ya da pano içinde işlem yapmak, yalnızca bu konuda eğitimli ve yetkili kişilerin işidir. Siz fark eder, uzak durur ve bildirirsiniz."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Tehlike kaynakları",
+   "title": "İşyerinde elektrik tehlikesi nerede?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1725550364000-a0df5b5abac4?w=1200",
+     "tag": "Hasar",
+     "title": "Yalıtımı bozuk kablolar",
+     "text": "Ezilmiş, kesilmiş, soyulmuş ya da bantla tamir edilmiş kablolar ve kırık fişler."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1628870571159-82001646505b?w=1200",
+     "tag": "Su",
+     "title": "Islak ortamlar",
+     "text": "Islak eller, ıslak zemin, sıvıların yakınındaki prizler ve cihazlar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1781331534854-c75885f01c01?w=1200",
+     "tag": "Yük",
+     "title": "Aşırı yüklenme",
+     "text": "Birbirine eklenmiş çoklu prizler, çok sayıda yüksek güçlü cihaz."
+    }
+   ],
+   "steps": [
+    "Peki az tehlikeli bir işyerinde elektrik tehlikesi en çok nerelerde karşımıza çıkar? Üç başlıkta toplayabiliriz.",
+    "Birincisi, yalıtımı bozulmuş kablolar. Masa ayağının ya da kapının altında ezilmiş, kemirilmiş, soyulmuş veya bantla geçici olarak tamir edilmiş kablolar ve kırık fişler en sık karşılaşılan tehlikedir.",
+    "İkincisi, su. Su elektriği iletir. Islak ellerle bir fişe dokunmak, ıslak zeminde elektrikli bir cihaz kullanmak ya da prizlerin yanında sıvı bulundurmak çarpılma riskini büyük ölçüde artırır.",
+    "Üçüncüsü, aşırı yüklenme. Birbirine eklenmiş çoklu prizler ve aynı prize takılı çok sayıda yüksek güçlü cihaz, kablonun ısınmasına ve hem çarpılma hem yangın riskine yol açar."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1738520420715-23a83fd078f7?w=2400",
+   "kicker": "Uyarı işaretleri",
+   "title": "Elektrik size önceden haber verir",
+   "bullets": [
+    "Isınan priz, fiş ya da kablo",
+    "Yanık kokusu, çıtırtı veya kıvılcım",
+    "Sık sık atan sigorta, titreyen ışıklar"
+   ],
+   "steps": [
+    "Elektrik görünmez dedik, ama bir arıza çoğu zaman kendini önceden belli eder. Bu işaretleri tanırsanız, bir kazayı ya da yangını daha başlamadan önleyebilirsiniz.",
+    "Birincisi ısınma. Elinizi sürdüğünüzde normalden sıcak gelen bir priz, fiş ya da kablo, aşırı yüklenme ya da gevşek bağlantı belirtisidir. O prizi kullanmayı bırakın.",
+    "İkincisi yanık kokusu, çıtırtı sesi ya da prizden çıkan küçük kıvılcımlar. Bunları gördüğünüzde güvenliyse cihazın fişini çekin ve durumu hemen bildirin.",
+    "Üçüncüsü sık sık atan sigortalar ve titreyen ışıklar. Sigorta bir koruma sistemidir; atıyorsa bir sebebi vardır. Sigortayı tekrar tekrar kaldırmak yerine sebebinin yetkili kişi tarafından araştırılmasını isteyin."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Hasarlı kablo",
+   "title": "Yalıtımı hasarlı kablo gördüğünüzde",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1544672531-c546e93e2cfb?w=1200",
+     "ok": false,
+     "title": "Bantlayıp kullanmak",
+     "text": "Bant yalıtımı geri getirmez; çarpılma ve yangın tehlikesi sürer. Elle düzeltmek de çok tehlikelidir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758101755915-462eddc23f57?w=1200",
+     "ok": true,
+     "title": "Kullanmamak ve bildirmek",
+     "text": "Güvenliyse fişi çekin, cihazı kullanmayın, kullanılmasın diye işaretleyin ve yetkiliye bildirin."
+    }
+   ],
+   "steps": [
+    "Diyelim ki masanızın altında, bir cihazın kablosunun yalıtımının soyulduğunu ve içindeki tellerin göründüğünü fark ettiniz. Ne yaparsınız?",
+    "Yanlış olan, kabloyu bantlayıp kullanmaya devam etmektir. Bant, kablonun orijinal yalıtımının yerini tutmaz; zamanla açılır, ısınır ve tehlike sürer. Kabloyu elle düzeltmeye çalışmak ya da fişi takılı bırakmak da sizi doğrudan çarpılma tehlikesiyle karşı karşıya bırakır.",
+    "Doğru olan şudur: hasarlı kabloyu ya da cihazı kullanmazsınız ve durumu yetkili kişiye bildirirsiniz. Hasarlı bölgeye dokunmadan, güvenle yapabiliyorsanız fişi prizden çekin ve cihazın kullanılmaması için üzerine bir not bırakın. Onarım ya da değişim, yetkili bir elektrikçi tarafından yapılmalıdır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1773526927906-e4f46086afb4?w=2400",
+   "kicker": "Örnek olay · Mağaza",
+   "title": "Islak zemin ve uzatma kablosu",
+   "bullets": [
+    "Paspas yapılan zeminde uzatma kablosu vardı",
+    "Kablonun ek yeri suyun içinde kaldı",
+    "Kablolar zeminden kaldırılmalı, ek yerleri kuru olmalıydı"
+   ],
+   "steps": [
+    "Bir örnek olay paylaşalım. Bir giyim mağazasında, vitrin aydınlatması için koridor boyunca bir uzatma kablosu çekilmiş. Kablonun ek yeri yerde, bir rafın dibinde duruyor.",
+    "Akşam kapanıştan önce zemin bol suyla paspaslanıyor. Su, kablonun ek yerinin bulunduğu köşede birikiyor. Bunu fark eden olmuyor.",
+    "Temizliği yapan çalışan, ıslak ellerle rafın dibindeki ek yere dokunduğunda elektrik çarpması yaşıyor. Neyse ki mağazanın panosunda kaçak akım rölesi bulunduğu için akım çok kısa sürede kesiliyor ve çalışan ciddi bir zarar görmeden kurtuluyor.",
+    "Ne yapılmalıydı? Kalıcı ihtiyaçlar için uzatma kablosu yerine sabit priz tesis edilmeli, kablolar zeminden kaldırılmalı ve ek yerleri kuru tutulmalıydı. Islak temizlik öncesinde de yerdeki kablolar kontrol edilmeliydi."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1781866075332-79e3b4cf7df5?w=2400",
+   "kicker": "Güvenli kullanım",
+   "title": "Her gün uygulayacağımız elektrik kuralları",
+   "bullets": [
+    "Fişi kablosundan değil, gövdesinden tutarak çekin",
+    "Islak elle elektrikli cihaza ve prize dokunmayın",
+    "Elektrik panolarının önünü boş tutun, kapağını açmayın",
+    "Yetkiniz yoksa tesisata ve cihaz içine müdahale etmeyin",
+    "Kaçak akım rölesinin olduğunu ve test edildiğini bilin"
+   ],
+   "steps": [
+    "Şimdi elektrikle ilgili her gün uygulayabileceğimiz kurallara bakalım. Bunlar basit görünür ama çarpılma kazalarının büyük kısmını önler.",
+    "Fişi prizden çekerken kablosundan değil, fişin gövdesinden tutun. Kablodan çekmek zamanla iç bağlantıları gevşetir ve yalıtımı bozar.",
+    "Islak ellerle elektrikli cihazlara, fişlere ve prizlere dokunmayın. Mutfakta, lavabo yanında ve temizlik sırasında buna özellikle dikkat edin.",
+    "Elektrik panolarının önünü boş tutun; önüne koli, dolap ya da malzeme koymayın. Bir arıza anında panoya hızla ulaşılabilmelidir. Panonun kapağını açmak ve içinde işlem yapmak yalnızca yetkili kişinin işidir.",
+    "Yetkiniz yoksa elektrik tesisatına, prizlerin içine ya da cihazların iç aksamına müdahale etmeyin; sigorta atıyorsa defalarca kaldırmak yerine sebebini bildirin.",
+    "Kaçak akım rölesi, vücuttan toprağa kaçan akımı algılayıp elektriği çok kısa sürede keserek hayat kurtarır. İşyerinizdeki rölelerin yetkili kişilerce düzenli olarak test edilmesi gerekir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "İlk müdahale",
+   "title": "Elektrik çarpan birine nasıl yardım edilir?",
+   "items": [
+    {
+     "title": "Dokunmayın",
+     "text": "Kişi akıma temas halindeyken çıplak elle tutmayın"
+    },
+    {
+     "title": "Akımı kesin",
+     "text": "Sigortayı, şalteri indirin ya da fişi çekin"
+    },
+    {
+     "title": "Kesemiyorsanız",
+     "text": "Kuru tahta gibi yalıtkan bir cisimle uzaklaştırın"
+    },
+    {
+     "title": "112'yi arayın",
+     "text": "Bilinç ve solunumu kontrol edin, yardım gelene dek yanında kalın"
+    }
+   ],
+   "steps": [
+    "Şimdi dersin en kritik bölümlerinden birine geliyoruz. Birinin elektrik çarpmasına maruz kaldığını gördünüz. İlk refleksiniz ne olur? Çoğu insan hemen koşup kişiyi tutup çekmek ister. Ama bu, ikinci bir kazaya yol açabilir.",
+    "Birinci kural: kişi hâlâ akıma temas ediyorsa ona çıplak elle dokunmayın. Akım onun bedeninden sizin bedeninize de geçer ve bir yerine iki kazazede olur. Su dökmek de kesinlikle yanlıştır.",
+    "Önce elektrik akımını kesin. Sigortayı ya da ana şalteri indirin veya güvenle yapabiliyorsanız fişi prizden çekin. Bu yüzden panonun nerede olduğunu bilmek ve önünü boş tutmak hayat kurtarır.",
+    "Akımı hemen kesemiyorsanız, kuru bir zeminde durarak kuru bir tahta, plastik bir süpürge sapı gibi yalıtkan bir cisimle kişiyi ya da kabloyu akım kaynağından uzaklaştırın. Metal ya da ıslak bir cisim asla kullanmayın.",
+    "Kişi akımdan ayrıldıktan sonra hemen 112'yi arayın. Bilincini ve solunumunu kontrol edin; ilk yardım eğitiminiz varsa uygulayın, yoksa sağlık ekibi gelene kadar yanında kalın. Kişi iyi görünse bile mutlaka sağlık kontrolünden geçmelidir, çünkü iç hasar sonradan ortaya çıkabilir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1576446468729-7674e99608f5?w=2400",
+   "kicker": "Ara özet",
+   "title": "Elektrik konusunda öğrendiklerimiz",
+   "bullets": [
+    "Elektrik görünmez: emin değilseniz dokunmayın",
+    "Hasarlı kabloyu bantlamayın: kullanmayın, yetkiliye bildirin",
+    "Islak el ve ıslak zeminden uzak durun",
+    "Çarpılan kişiye önce akımı kesin ya da yalıtkan cisimle uzaklaştırın"
+   ],
+   "steps": [
+    "İş kazalarına geçmeden önce elektrikle ilgili öğrendiklerimizi kısaca bir kez daha, dört madde halinde birlikte toparlayalım.",
+    "Elektrik görünmez ve dikkatsizliği affetmez. Bu yüzden emin olmadığınız bir durumda dokunmayın, yetkili kişiye haber verin.",
+    "Yalıtımı hasarlı bir kablo gördüğünüzde onu bantlayıp kullanmaya devam etmezsiniz. Kullanmaz ve yetkili kişiye bildirirsiniz.",
+    "Islak ellerle elektrikli cihazlara dokunmaz, ıslak zeminde elektrikli cihaz kullanmaz, kabloları ve ek yerlerini sudan uzak tutarsınız.",
+    "Elektrik çarpan birine çıplak elle dokunmazsınız. Önce elektrik akımını keser ya da yalıtkan bir cisimle kişiyi akımdan uzaklaştırır, sonra 112'yi ararsınız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=2400",
+   "kicker": "İş kazaları",
+   "title": "İş kazası nedir ve neden olur?",
+   "bullets": [
+    "İş kazası: işyerinde veya işin yürütümü nedeniyle meydana gelen, zarara yol açan olay",
+    "Ramak kala: zarar verme potansiyeli olduğu halde zarar vermeyen olay",
+    "Kazalar şans eseri değil, sebepleri olan olaylardır"
+   ],
+   "steps": [
+    "Dersin ikinci bölümüne geçiyoruz: iş kazaları. Önce kavramları netleştirelim, çünkü doğru tanım, doğru önlemin ilk adımıdır.",
+    "6331 sayılı Kanuna göre iş kazası, işyerinde veya işin yürütümü nedeniyle meydana gelen, ölüme sebep olan veya vücut bütünlüğünü ruhen ya da bedenen engelli hale getiren olaydır.",
+    "Ramak kala olay ise işyerinde meydana gelen ve çalışanı, işyerini ya da iş ekipmanını zarara uğratma potansiyeli olduğu halde zarara uğratmayan olaydır. Kayıp ayağınızın kurtulması ya da raftan düşen kolinin yanınıza düşmesi buna örnektir.",
+    "En önemli mesajımız şu: kazalar kader ya da şans değildir. Her kazanın, önceden fark edilip giderilebilecek sebepleri vardır."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Kazaların sebepleri",
+   "title": "Güvensiz davranış ve güvensiz koşul",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1762962051819-e69f0a39cde8?w=1200",
+     "tag": "Davranış",
+     "title": "Güvensiz davranışlar",
+     "text": "Kurala uymamak, kestirme yol, koruyucuyu sökmek, telefona bakarak yürümek, acele."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1695886517975-b010be190375?w=1200",
+     "tag": "Koşul",
+     "title": "Güvensiz koşullar",
+     "text": "Yerdeki kablolar, ıslak zemin, kötü aydınlatma, arızalı ekipman, kapalı kaçış yolu."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1200",
+     "tag": "Kök neden",
+     "title": "Yönetim ve organizasyon",
+     "text": "Eksik eğitim, belirsiz talimat, yetersiz denetim, aşırı iş yükü ve zaman baskısı."
+    }
+   ],
+   "steps": [
+    "Peki kazalar neden olur? İş kazalarının en sık nedenleri iki başlıkta toplanır: güvensiz davranışlar ve güvensiz koşullar. Bu iki kavram, kazaları anlamanın anahtarıdır.",
+    "Güvensiz davranış, kişinin kendisinin ya da başkasının güvenliğini tehlikeye atan hareketidir. Kurala uymamak, kestirme yol kullanmak, koruyucuyu sökmek, merdiven yerine sandalyeye çıkmak, telefona bakarak merdiven inmek ya da acele etmek buna örnektir.",
+    "Güvensiz koşul ise çalışma ortamındaki tehlikeli durumdur. Yere uzanan kablolar, ıslak zemin, yetersiz aydınlatma, arızalı ekipman ya da önü kapatılmış bir kaçış yolu buna örnektir.",
+    "Bu ikisinin arkasında çoğu zaman bir kök neden bulunur: eksik eğitim, belirsiz talimatlar, yetersiz denetim, aşırı iş yükü ve zaman baskısı. Kalıcı çözüm, bu kök nedenlere de bakmaktır. Hava durumu, takvim ya da şans ise kazaların sebebi değildir."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Klasik bir model",
+   "title": "Kaza piramidi",
+   "items": [
+    {
+     "value": "1",
+     "unit": "ağır kaza",
+     "label": "piramidin tepesi"
+    },
+    {
+     "value": "29",
+     "unit": "hafif kaza",
+     "label": "orta katman"
+    },
+    {
+     "value": "300",
+     "unit": "olay",
+     "label": "zararsız atlatılan ramak kala"
+    }
+   ],
+   "steps": [
+    "İş güvenliğinde sık kullanılan klasik bir model var: Heinrich'in kaza piramidi. Rakamlar her işyerinde birebir aynı çıkmaz, ama verdiği mesaj çok değerlidir.",
+    "Bu modele göre piramidin tepesinde bir ağır kaza bulunur. Herkesin konuştuğu, kayıtlara geçen, sonuçları ağır olan olaydır.",
+    "Onun altında yirmi dokuz hafif kaza vardır. Küçük kesikler, burkulmalar, hafif çarpmalar; çoğu zaman önemsenmeyen olaylar.",
+    "Ve en altta, kimsenin yaralanmadığı üç yüz ramak kala olay bulunur. Mesaj şu: ağır kazayı önlemenin yolu, tabandaki ramak kala olayları fark edip bildirmek ve sebeplerini ortadan kaldırmaktır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Güvensiz davranış",
+   "title": "Merdivende telefon ve acele",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1762962051819-e69f0a39cde8?w=1200",
+     "ok": false,
+     "title": "Telefona bakarak inmek",
+     "text": "Dikkat ekranda, eller dolu, tırabzan tutulmuyor. Tek bir yanlış basamak düşmeye yeter."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1744663835766-0f9970e7aa65?w=1200",
+     "ok": true,
+     "title": "Tırabzana tutunmak",
+     "text": "Telefon cepte, bir el tırabzanda, adımlar sakin. Acil bir iş olsa bile önce güvenlik."
+    }
+   ],
+   "steps": [
+    "Güvensiz davranışın en tanıdık örneklerinden birine bakalım. Ofis binalarında, okul ve mağazalarda en sık yaşanan kazalardan biri merdivenden düşmektir.",
+    "Yanlış olan, merdivenden telefona bakarak ya da mesaj yazarak, elleriniz doluyken ve aceleyle inmektir. Dikkatiniz ekrandayken bir basamağı kaçırmanız için tek bir an yeter. Bu davranış çoğu zaman kimseye tehlikeli görünmez, çünkü hepimiz yaparız.",
+    "Doğru olan ise merdivenlerde telefonu cebinizde tutmak, bir elinizi tırabzanda bulundurmak ve basamakları sakin adımlarla inip çıkmaktır. Taşıdığınız yük önünüzü görmenizi engelliyorsa, onu iki seferde taşıyın ya da yardım isteyin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1725550364000-a0df5b5abac4?w=2400",
+   "kicker": "Örnek olay · Okul",
+   "title": "Görmezden gelinen ramak kala",
+   "bullets": [
+    "Öğretmenler odasında yere uzanan projektör kablosu",
+    "Haftalarca birkaç kişi takılıp sendeledi",
+    "Bildirilmeyen tehlike sonunda kazaya dönüştü"
+   ],
+   "steps": [
+    "Bir örnek olayla devam edelim. Bir özel okulun öğretmenler odasında, projektörün kablosu priz uzakta olduğu için odanın ortasından geçirilmiş ve yerde duruyor.",
+    "Haftalar boyunca birkaç öğretmen kabloya takılıp sendeliyor. Herkes gülüp geçiyor; kimse bu ramak kala olayları bildirmiyor. Herkes birinin zaten söylediğini düşünüyor.",
+    "Bir gün elinde çay tepsisiyle odaya giren bir personel kabloya takılıp düşüyor. Bileği burkuluyor ve birkaç gün işe gelemiyor.",
+    "Ne yapılmalıydı? İlk ramak kala olayında bildirim yapılmalı, kablo uygun bir kablo kanalına alınmalı ya da projektör prize yakın bir yere taşınmalıydı. Gördüğümüz bir tehlikeyi bildirmek, belki de bir arkadaşımızın bileğini kurtarır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Korunma prensipleri",
+   "title": "Önce kaynağında, en son KKD",
+   "items": [
+    {
+     "title": "Riskten kaçının",
+     "text": "Mümkünse tehlikeyi tamamen ortadan kaldırın"
+    },
+    {
+     "title": "Daha az tehlikeliyle",
+     "text": "Tehlikeli olanı daha az tehlikeli olanla değiştirin"
+    },
+    {
+     "title": "Kaynağında mücadele",
+     "text": "Tehlikeyi kaynağında yalıtın, koruyucu kullanın"
+    },
+    {
+     "title": "Toplu korunma önce",
+     "text": "Önce herkesi koruyan önlem, sonra talimat ve eğitim"
+    },
+    {
+     "title": "En son KKD",
+     "text": "Kalan risk için kişisel koruyucu donanım"
+    }
+   ],
+   "steps": [
+    "Kazalardan nasıl korunuruz? 6331 sayılı Kanun, işverenin önlem alırken izleyeceği genel ilkeleri belirler. Bunları bir öncelik sırası gibi düşünebilirsiniz.",
+    "En iyi önlem, riskten tamamen kaçınmaktır. Örneğin yerden geçen kabloya gerek bırakmayacak şekilde prizi doğru yere taşımak, takılma tehlikesini tamamen ortadan kaldırır.",
+    "Kaçınılamıyorsa tehlikeli olanı daha az tehlikeli olanla değiştiririz. Örneğin aşındırıcı bir temizlik kimyasalı yerine daha zararsız bir ürün kullanmak.",
+    "Sonra riskle kaynağında mücadele ederiz. Makineye koruyucu takmak, kabloyu kanal içine almak, kaçak akım rölesi kullanmak bu tür önlemlerdir.",
+    "Kanun, toplu korunma önlemlerine kişisel korunma önlemlerinden öncelik verilmesini ister. Önce herkesi koruyan önlemler alınır, talimat ve eğitimle desteklenir.",
+    "Kişisel koruyucu donanım, yani KKD, ise diğer önlemlere rağmen kalan risk için kullanılır. KKD önemlidir ama tek başına çözüm değildir; son savunma hattıdır."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Kaza ve ramak kala sonrası",
+   "title": "Bildirmek önlemenin parçasıdır",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1762341104168-63ddb56e9805?w=1200",
+     "title": "Çalışan",
+     "text": "Kazayı ve ramak kala olayı hemen amirine bildirir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1770816307800-72ba937620fe?w=1200",
+     "title": "İşveren",
+     "text": "Kayıt tutar, iş kazasını 3 iş günü içinde SGK'ya bildirir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1573164574572-cb89e39749b4?w=1200",
+     "title": "İSG ekibi",
+     "text": "Olayı inceler, kök nedeni bulur, yeni önlemleri belirler."
+    }
+   ],
+   "steps": [
+    "Bir kaza ya da ramak kala olay yaşandığında yapılacak en önemli şey, onu saklamak değil bildirmektir. Çünkü bildirilmeyen bir olaydan ders çıkarılamaz.",
+    "Çalışan olarak size düşen, yaşadığınız ya da gördüğünüz her kazayı ve ramak kala olayı hemen amirinize bildirmektir. Bu bir şikâyet değil, işyerinin güvenliğine katkıdır.",
+    "İşveren, iş kazalarının ve ramak kala olaylarının kaydını tutar. İş kazasını da kazadan sonraki üç iş günü içinde SGK'ya bildirir.",
+    "İş güvenliği uzmanı ve işyeri hekimi olayı inceler, kök nedeni araştırır ve benzer bir olayın tekrar yaşanmaması için yeni önlemleri belirler. Amaç suçlu bulmak değil, sebebi ortadan kaldırmaktır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=2400",
+   "kicker": "Sizin işyeriniz",
+   "title": "Bugün etrafınıza bakın",
+   "bullets": [
+    "Yerde ya da kapı altında ezilen kablo var mı",
+    "Panonun önü boş ve kolay ulaşılabilir mi",
+    "Bildirmediğim bir ramak kala olay oldu mu"
+   ],
+   "steps": [
+    "Dersi bitirmeden önce sizden küçük bir uygulama istiyorum. Bugün işyerinizde beş dakikanızı ayırıp etrafınıza bir iş güvenliği gözüyle bakın.",
+    "Masanızın altında, kapı aralıklarında ya da yürüme yollarında ezilen, yere uzanan veya hasarlı görünen bir kablo var mı? Varsa yerini not edin ve bildirin.",
+    "Elektrik panosunun yeri neresi, önü boş ve kolayca ulaşılabilir durumda mı? Bir acil durumda akımı kesmek için oraya saniyeler içinde gidebilmelisiniz.",
+    "Ve son olarak kendinize sorun: son haftalarda yaşadığım ya da gördüğüm, ama bildirmediğim bir ramak kala olay var mı? Varsa bugün amirinize anlatın. Bu küçük adım, bir sonraki kazayı önleyebilir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1576446470246-499c738d1c8e?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Hasarlı kablo: kullanmayın, yetkili kişiye bildirin",
+    "Elektrik çarpan kişiye: önce akımı kesin ya da yalıtkan cisimle uzaklaştırın",
+    "Kazaların sık nedenleri: güvensiz davranışlar ve güvensiz koşullar",
+    "Önce kaynağında ve toplu önlem, en son KKD",
+    "Ramak kala olayları da mutlaka bildirin"
+   ],
+   "steps": [
+    "Dersimizi özetleyelim. Hem elektrik hem iş kazaları konusunda aklınızda kalması gereken beş temel bilgi var.",
+    "Yalıtımı hasarlı bir kablo gördüğünüzde onu bantlamaz, elle düzeltmez, kullanmaya devam etmezsiniz; yetkili kişiye bildirirsiniz.",
+    "Elektrik çarpan birine çıplak elle dokunmazsınız. Önce elektrik akımını keser ya da yalıtkan bir cisimle kişiyi uzaklaştırır, ardından 112'yi ararsınız.",
+    "İş kazalarının en sık nedenleri arasında güvensiz davranışlar ve güvensiz koşullar yer alır. Şans, hava durumu ya da takvim değil.",
+    "Korunmada öncelik riskten kaçınmak ve tehlikeyle kaynağında mücadele etmektir; toplu önlemler önce gelir, KKD en son savunma hattıdır.",
+    "Ve ramak kala olayları da mutlaka bildirin. Dersin sonunda birkaç kısa soru sizi bekliyor. Sağlıklı ve güvenli günler dilerim."
+   ]
+  }
+ ]
+}

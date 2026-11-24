@@ -1,0 +1,578 @@
+{
+ "code": "az8_g2",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "1. Bölüm · Genel Konular",
+ "title": "Çalışanların yasal hak ve sorumlulukları",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1590649681928-4b179f773bd5?w=2400",
+   "kicker": "1. Bölüm · Ders 2",
+   "title": "Çalışanların yasal hak ve sorumlulukları",
+   "subtitle": "Haklarınızı bilin, sorumluluğunuzu üstlenin",
+   "steps": [
+    "Tekrar merhaba. Önceki derste iş sağlığı ve güvenliği mevzuatının genel yapısını konuştuk. Bu derste ise işin en çok sizi ilgilendiren kısmına geçiyoruz: çalışan olarak yasal haklarınız ve sorumluluklarınız.",
+    "Neden önemli? Çünkü hakkını bilmeyen çalışan, tehlike karşısında ne yapacağını bilemez. Sorumluluğunu bilmeyen çalışan ise farkında olmadan hem kendini hem de arkadaşlarını riske atabilir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1573164574572-cb89e39749b4?w=2400",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "bullets": [
+    "İşveren ile çalışan arasındaki sorumluluk dengesi",
+    "Bilgilendirilme, eğitim, sağlık gözetimi ve katılım hakları",
+    "Ciddi ve yakın tehlikede çalışmaktan kaçınma hakkı",
+    "Çalışanın kanundan doğan yükümlülükleri ve sonuçları"
+   ],
+   "steps": [
+    "Önce bu dersin yol haritasına bakalım. Dört ana başlığımız var.",
+    "İlk olarak işveren ile çalışan arasındaki sorumluluk dengesini konuşacağız. Kim neden sorumlu, kimin sorumluluğu kimi etkiler?",
+    "Sonra haklarınızı tek tek göreceğiz: bilgilendirilme, eğitim, sağlık gözetimi ve güvenlik kararlarına katılım hakkı.",
+    "Üçüncü olarak, belki de en önemli hakkınızı ayrıntılı ele alacağız: ciddi ve yakın bir tehlike karşısında çalışmaktan kaçınma hakkı. Bu hakkın nasıl ve hangi adımlarla kullanılacağını bilmek çok önemli.",
+    "Son olarak, 6331 sayılı Kanunun size yüklediği yükümlülükleri ve bunlara uyulmazsa ortaya çıkabilecek sonuçları konuşacağız. Yol boyunca ofis, mağaza, depo ve kafe gibi işyerlerinden örnek olaylar da göreceğiz."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1767972159871-b9f5d320be2b?w=2400",
+   "kicker": "Temel ilke",
+   "value": "Denge",
+   "title": "Çalışanların yükümlülükleri, işverenin sorumluluklarını etkilemez",
+   "text": "İşveren, çalışanların işle ilgili sağlık ve güvenliğini sağlamakla yükümlüdür ve bu tedbirlerin maliyetini çalışana yansıtamaz.",
+   "steps": [
+    "Haklara geçmeden önce temel bir ilkeyi yerleştirelim. 6331 sayılı Kanuna göre işveren, çalışanların işle ilgili sağlık ve güvenliğini sağlamakla yükümlüdür. Ana sorumluluk işverendedir.",
+    "Kanun bir adım daha ileri gider ve şunu söyler: çalışanların iş sağlığı ve güvenliği alanındaki yükümlülükleri, işverenin sorumluluklarını etkilemez. Yani bir çalışan kurala uymadı diye işverenin sorumluluğu ortadan kalkmaz. Aynı şekilde işveren dışarıdan bir OSGB'den hizmet alsa bile, sorumluluk yine işverende kalır.",
+    "Bir de maliyet kuralı var: işveren, iş sağlığı ve güvenliği tedbirlerinin maliyetini çalışanlara yansıtamaz. Size verilen koruyucu donanım, yapılan sağlık muayenesi ya da aldığınız eğitim için sizden para istenemez, maaşınızdan kesinti yapılamaz."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Haklarınız",
+   "title": "Kanunun size tanıdığı temel haklar",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1573167507387-6b4b98cb7c13?w=1200",
+     "tag": "Bilgi",
+     "title": "Bilgilendirilme hakkı",
+     "text": "İşyerindeki riskleri, alınan tedbirleri ve acil durumda görevli kişileri öğrenmek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200",
+     "tag": "Eğitim",
+     "title": "Eğitim hakkı",
+     "text": "Ücretsiz ve çalışma süresi içinde iş sağlığı ve güvenliği eğitimi almak."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=1200",
+     "tag": "Sağlık",
+     "title": "Sağlık gözetimi hakkı",
+     "text": "İşe girişte ve düzenli aralıklarla, ücretsiz sağlık muayenesinden geçmek."
+    }
+   ],
+   "steps": [
+    "Şimdi haklarınıza geçelim. Kanun size birçok hak tanır; önce üç temel hakla başlayalım. Bunlar günlük çalışma hayatınızda en sık karşılaşacağınız haklardır.",
+    "Birincisi bilgilendirilme hakkı. Çalıştığınız yerin risklerini ve bu risklere karşı alınan önlemleri bilmek sizin hakkınızdır. Bilmediğiniz bir tehlikeden korunamazsınız.",
+    "İkincisi eğitim hakkı. Şu anda kullandığınız hak tam olarak bu. İş sağlığı ve güvenliği eğitimi, işveren tarafından ücretsiz olarak ve çalışma süreniz içinde sağlanır.",
+    "Üçüncüsü sağlık gözetimi hakkı. İşe girerken ve çalıştığınız süre boyunca düzenli aralıklarla sağlık muayenesinden geçmek hakkınızdır. Şimdi bu üç hakkı biraz daha yakından inceleyelim."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1743698296692-60a3867ef2b4?w=2400",
+   "kicker": "Bilgilendirilme",
+   "title": "Hangi konularda bilgilendirilirsiniz?",
+   "bullets": [
+    "İşyerindeki sağlık ve güvenlik riskleri ve alınan tedbirler",
+    "Yasal hak ve sorumluluklarınız",
+    "İlk yardım, yangın, tahliye ve acil durumda görevli kişiler",
+    "Ciddi ve yakın tehlike olduğunda derhal bilgilendirme"
+   ],
+   "steps": [
+    "6331 sayılı Kanuna göre işveren, çalışanları ve çalışan temsilcilerini belirli konularda bilgilendirmek zorundadır. Bu konular nelerdir, birlikte görelim.",
+    "İlk olarak, işyerindeki sağlık ve güvenlik riskleri ile bunlara karşı alınan koruyucu ve önleyici tedbirler. Örneğin bir mağazada yüksek raflardan malzeme indirmenin riski ve bunun için kullanılacak uygun merdiven.",
+    "İkincisi, yasal hak ve sorumluluklarınız. Bu ders de o bilgilendirmenin bir parçası.",
+    "Üçüncüsü, ilk yardım, olağan dışı durum, afet, yangınla mücadele ve tahliye işleri için görevlendirilen kişiler. Yani yangın çıktığında kimin söndürmeye, kimin tahliyeye yardım edeceğini bilmeniz gerekir. Siz biliyor musunuz?",
+    "Ve dördüncüsü: ciddi ve yakın bir tehlikeye maruz kalan ya da kalma ihtimali olan çalışanlar, tehlike ve alınacak tedbirler konusunda derhal bilgilendirilir. Başka işyerlerinden gelen çalışanların bilgilendirilmesi için de onların işverenlerine gerekli bilgi verilir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=2400",
+   "kicker": "Eğitim hakkı",
+   "value": "Mesai",
+   "title": "İSG eğitiminde geçen süre çalışma süresinden sayılır",
+   "text": "Haftalık çalışma süresini aşarsa aşan kısım fazla çalışma sayılır. Eğitimin maliyeti çalışana yansıtılamaz.",
+   "steps": [
+    "Eğitim hakkınızla ilgili bilmeniz gereken en önemli kural şu: iş sağlığı ve güvenliği eğitimleri için harcanan süre, çalışma süresinden sayılır. Bu kural hem 6331 sayılı Kanunda hem de 2026 tarihli eğitim yönetmeliğinde açıkça yer alır.",
+    "Yani bu eğitimi alırken geçirdiğiniz zaman mesainizin bir parçasıdır. Yıllık izninizden düşülemez, ücretsiz izin sayılamaz. Ders sonunda bununla ilgili bir soru göreceksiniz; cevabı aklınızda olsun: çalışma süresinden sayılır.",
+    "Eğitim nedeniyle haftalık çalışma süreniz aşılırsa, aşan süre fazla çalışma ya da fazla sürelerle çalışma olarak değerlendirilir. Eğitimin maliyeti de, ister yüz yüze ister online olsun, hiçbir şekilde size yansıtılamaz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1624638760852-8ede1666ab07?w=2400",
+   "kicker": "Sağlık gözetimi",
+   "title": "Ne zaman sağlık muayenesi yapılır?",
+   "bullets": [
+    "İşe girişte ve iş değişikliğinde",
+    "Kaza veya hastalık sonrası işe dönüşte, talep halinde",
+    "Çalışma süresince düzenli aralıklarla"
+   ],
+   "steps": [
+    "Sağlık gözetimi, işinizin sağlığınızı nasıl etkilediğinin düzenli olarak izlenmesidir. Kanun, işverenin çalışanlarına hangi durumlarda sağlık muayenesi yaptırması gerektiğini sayar.",
+    "İlk olarak işe girişte ve iş değişikliğinde. Yeni bir göreve başlarken sağlığınızın o işe uygun olup olmadığı değerlendirilir.",
+    "İkinci olarak, iş kazası, meslek hastalığı ya da sağlık nedeniyle tekrarlanan işten uzaklaşmalardan sonra, işe dönüşte talep etmeniz halinde.",
+    "Üçüncü olarak, çalıştığınız süre boyunca düzenli aralıklarla. Az tehlikeli işyerlerinde periyodik muayeneler, işyeri hekimi daha sık gerekli görmedikçe beş yılda bir yapılır. Bu muayenelerin ve tetkiklerin maliyeti de çalışana yansıtılamaz. Ayrıca sağlık bilgileriniz gizli tutulur."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1787647560392-82f62ae82005?w=2400",
+   "kicker": "Katılım hakkı",
+   "title": "Güvenlik kararlarında sesiniz olsun",
+   "bullets": [
+    "İSG konularında görüş bildirme ve öneride bulunma",
+    "Yeni teknoloji ve ekipman kararlarında görüş alınması",
+    "Temsilciler aracılığıyla risk değerlendirmesine katılım",
+    "Tedbirler yetersizse yetkili makama başvurma"
+   ],
+   "steps": [
+    "Haklarınız sadece bilgi almakla sınırlı değil. Kanun, güvenlik kararlarına katılmanızı da güvence altına alır. Çünkü işi en iyi bilen, o işi her gün yapan kişidir.",
+    "İşveren, iş sağlığı ve güvenliği ile ilgili konularda çalışanların görüşünü alır; çalışanlara öneride bulunma ve bu konudaki tartışmalara katılma hakkı tanır.",
+    "Yeni teknolojilerin, yeni iş ekipmanının ya da çalışma ortamındaki değişikliklerin sağlığa etkisi konusunda da görüşünüz alınır. Örneğin ofise yeni bir yazıcı sistemi ya da depoya yeni bir raf düzeni gelecekse, bunun güvenliğe etkisi konusunda söz hakkınız vardır.",
+    "Çalışan temsilcileri ve destek elemanları; risk değerlendirmesi, koruyucu tedbirler, eğitim planlaması ve İSG profesyonellerinin görevlendirilmesi gibi konularda önceden görüşleri alınarak sürece katılır.",
+    "Çalışan temsilcileri, alınan tedbirleri yetersiz bulurlarsa yetkili makama başvurma hakkına sahiptir ve bu nedenle hakları kısıtlanamaz. Yani sesinizi yükselttiğiniz için cezalandırılamazsınız."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Çalışan temsilcisi",
+   "title": "Kaç çalışan temsilcisi seçilir?",
+   "items": [
+    {
+     "value": "1",
+     "unit": "temsilci",
+     "label": "2–50 çalışan"
+    },
+    {
+     "value": "2",
+     "unit": "temsilci",
+     "label": "51–100 çalışan"
+    },
+    {
+     "value": "3",
+     "unit": "temsilci",
+     "label": "101–500 çalışan"
+    },
+    {
+     "value": "6",
+     "unit": "temsilci",
+     "label": "2001 ve üzeri çalışan"
+    }
+   ],
+   "steps": [
+    "Katılım hakkınızı çoğu zaman çalışan temsilciniz aracılığıyla kullanırsınız. Temsilci, çalışanlar arasından seçimle belirlenir; seçim yapılamazsa atama yoluyla görevlendirilir. Peki kaç temsilci olur?",
+    "İki ile elli arasında çalışanı olan işyerlerinde bir çalışan temsilcisi bulunur. Az tehlikeli işyerlerinin çoğu bu gruptadır.",
+    "Elli bir ile yüz arasında çalışanı olan işyerlerinde iki temsilci bulunur.",
+    "Yüz bir ile beş yüz arasında çalışanı olan işyerlerinde üç temsilci bulunur.",
+    "Sayı çalışan sayısıyla artmaya devam eder ve iki bin bir ve daha fazla çalışanı olan işyerlerinde altı temsilciye ulaşır. Birden fazla temsilci varsa aralarından bir baş temsilci seçilir. Temsilcinin görevi nedeniyle hakları kısıtlanamaz; işveren de görevini yapabilmesi için gerekli imkânları sağlar."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Yanınızdakiler",
+   "title": "Haklarınızı kullanırken kime başvurursunuz?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1659353586512-bcc4c7182d01?w=1200",
+     "title": "İSG profesyonelleri",
+     "text": "İş güvenliği uzmanı ve işyeri hekimi; risk, sağlık ve eğitim konularında ilk danışacağınız kişiler."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1573164574572-cb89e39749b4?w=1200",
+     "title": "Çalışan temsilcisi",
+     "text": "Sizin adınıza öneride bulunur, tedbir ister; gerektiğinde yetkili makama başvurabilir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1775893748979-a985524cfbaf?w=1200",
+     "title": "Destek elemanı",
+     "text": "İlk yardım, yangınla mücadele ve tahliye gibi konularda görevlendirilmiş çalışan."
+    }
+   ],
+   "steps": [
+    "Haklarınızı kullanırken yalnız değilsiniz. İşyerinizde, bu konuda başvurabileceğiniz kişiler var. Onları tanımak, bir sorun yaşadığınızda zaman kazandırır.",
+    "İlki İSG profesyonelleri: iş güvenliği uzmanı ve işyeri hekimi. Bir riskin ne kadar ciddi olduğunu, bir KKD'nin uygun olup olmadığını ya da bir sağlık şikâyetinizin işinizle ilgisini onlara danışabilirsiniz. Az tehlikeli işyerlerinde bu hizmet çoğunlukla bir OSGB'den alınır.",
+    "İkincisi çalışan temsilciniz. Temsilci, tehlike kaynağının giderilmesi için işverene öneride bulunur ve tedbir alınmasını ister. Doğrudan söylemekte çekindiğiniz bir konuyu temsilciniz aracılığıyla iletebilirsiniz.",
+    "Üçüncüsü destek elemanları. Bunlar ilk yardım, yangınla mücadele, tahliye gibi konularda özel olarak görevlendirilmiş ve eğitilmiş çalışanlardır. Acil bir durumda ilk yönelmeniz gereken kişiler onlardır. Destek elemanlarının da görevleri nedeniyle hakları kısıtlanamaz."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1549194388-f61be84a6e9e?w=2400",
+   "kicker": "En önemli hakkınız",
+   "value": "Kaçınma",
+   "title": "Ciddi ve yakın tehlike karşısında çalışmaktan kaçınma hakkı",
+   "text": "İlk adım: İSG kuruluna, kurul yoksa işverene başvurup durumun tespit edilmesini ve tedbir alınmasını talep etmek.",
+   "steps": [
+    "Şimdi belki de en önemli hakkınıza geldik: çalışmaktan kaçınma hakkı. Bu hak, 6331 sayılı Kanunun 13. maddesinde düzenlenmiştir.",
+    "Ciddi ve yakın bir tehlike ile karşılaştığınızda, ilk hakkınız şudur: işyerinde İSG kurulu varsa kurula, kurul yoksa işverene başvurarak durumun tespit edilmesini ve gerekli tedbirlerin alınmasını talep etmek. Dikkat edin: ilk adım işi bırakıp eve gitmek ya da tehlikeyi görmezden gelip çalışmaya devam etmek değildir. İlk adım, başvurmaktır.",
+    "Bu ayrım ders sonundaki sorulardan birinin cevabı. Hakkınızı doğru kullanırsanız hem kendinizi korursunuz hem de haklarınızı güvence altına alırsınız. Şimdi bu hakkın adım adım nasıl işlediğine bakalım."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Çalışmaktan kaçınma",
+   "title": "Hak adım adım nasıl kullanılır?",
+   "items": [
+    {
+     "title": "Başvuru",
+     "text": "Kurula, kurul yoksa işverene tespit ve tedbir talebi"
+    },
+    {
+     "title": "Tespit ve karar",
+     "text": "Kurul acilen toplanır, işveren derhal karar verir"
+    },
+    {
+     "title": "Yazılı bildirim",
+     "text": "Durum tutanakla tespit edilir, karar yazılı bildirilir"
+    },
+    {
+     "title": "Çalışmaktan kaçınma",
+     "text": "Tedbir alınıncaya kadar; ücret ve haklar saklı"
+    },
+    {
+     "title": "Fesih hakkı",
+     "text": "Tedbir alınmazsa iş sözleşmesi feshedilebilir"
+    }
+   ],
+   "steps": [
+    "Çalışmaktan kaçınma hakkı belirli adımlarla kullanılır. Bu adımları bilmek, hakkınızı güvence altına alır.",
+    "Birinci adım başvuru. Ciddi ve yakın tehlikeyi fark ettiğinizde İSG kuruluna, kurul yoksa işverene başvurur; durumun tespit edilmesini ve tedbir alınmasını talep edersiniz. Az tehlikeli küçük işyerlerinin çoğunda kurul olmadığı için başvuru doğrudan işverene yapılır.",
+    "İkinci adım karar. Kurul acilen toplanarak, işveren ise derhal kararını verir. Bu konu bekletilecek bir konu değildir.",
+    "Üçüncü adım kayıt. Durum bir tutanakla tespit edilir ve verilen karar yazılı olarak hem size hem de çalışan temsilcisine bildirilir.",
+    "Dördüncü adım: kurul veya işveren talebiniz yönünde karar verirse, gerekli tedbirler alınıncaya kadar çalışmaktan kaçınabilirsiniz. Bu dönemde ücretiniz ve kanunlardan ya da iş sözleşmenizden doğan diğer haklarınız saklıdır.",
+    "Beşinci adım: talep etmenize rağmen gerekli tedbirler alınmazsa, iş sözleşmesiyle çalışanlar, tabi oldukları kanun hükümlerine göre iş sözleşmelerini feshedebilir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1554280955-b112f2babdc0?w=2400",
+   "kicker": "Önlenemez tehlike",
+   "title": "Tehlike önlenemiyorsa güvenli yere gidin",
+   "bullets": [
+    "Belirlenen kurala uygun şekilde işyerini veya tehlikeli bölgeyi terk edin",
+    "Güvenli bir yere gidin; bu nedenle haklarınız kısıtlanamaz",
+    "İş müfettişince iş durdurulmuşsa bu prosedür uygulanmaz"
+   ],
+   "steps": [
+    "Peki tehlike o kadar acil ve önlenemez ise, yani başvuru yapıp karar beklemeye vakit yoksa ne olacak? Kanun bu durumu da düşünmüştür.",
+    "Ciddi, yakın ve önlenemez bir tehlike durumunda çalışanlar, belirlenen kurala uygun şekilde işyerini veya tehlikeli bölgeyi terk ederek güvenli bir yere gider. Bu durumda başvuru şartı aranmaz. Örneğin binada yoğun bir gaz kokusu ya da yangın varsa, önce güvenli yere geçilir.",
+    "Bu davranışınız nedeniyle haklarınız kısıtlanamaz. Ama dikkat edin: kastedilen, belirlenen kurala uygun bir tahliyedir; işi bırakıp gitmek ya da panikle hareket etmek değildir. Acil durum planında belirlenen yollar ve toplanma yeri kullanılır.",
+    "Bir de istisna var: iş müfettişleri işyerinde hayati tehlike tespit edip işi durdurmuşsa, çalışmaktan kaçınma hakkına ilişkin bu hükümler uygulanmaz; çünkü iş zaten resmî olarak durdurulmuştur."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Örnek olay 1",
+   "title": "Depoda eğilen raf",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1672552226604-4ab36b7e5ca6?w=1200",
+     "ok": false,
+     "title": "Paylaşmak ya da susmak",
+     "text": "Fotoğrafı sosyal medyada paylaşmak, işi bırakıp eve gitmek ya da tutanaksız çalışmaya devam etmek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1762341104168-63ddb56e9805?w=1200",
+     "ok": true,
+     "title": "Başvurup tespit istemek",
+     "text": "Alandan uzaklaşıp işverene başvurmak, tespit ve tedbir istemek, kararı yazılı almak."
+    }
+   ],
+   "steps": [
+    "Şimdi ilk örnek olayımız. Bir elektronik mağazasının deposunda çalışan Murat, ağır kolilerin durduğu metal rafın belirgin şekilde eğildiğini ve bağlantı vidalarından birinin çıktığını fark ediyor. Raf her an devrilebilir ve depo görevlisi gün boyu o rafın önünde çalışıyor.",
+    "Murat'ın yapabileceği yanlış davranışlar şunlar: rafın fotoğrafını sosyal medyada paylaşıp işine devam etmek, hiçbir şey söylemeden işi bırakıp eve gitmek ya da raf zaten yıllardır böyle diyerek tutanak tutulmadan çalışmayı sürdürmek. Bunların hiçbiri tehlikeyi gidermez ve hiçbiri Murat'ın haklarını korumaz.",
+    "Doğrusu şu: Murat önce kendini ve arkadaşlarını rafın önünden uzaklaştırır. Sonra işyerinde kurul olmadığı için doğrudan işverene başvurur, durumun tespit edilmesini ve tedbir alınmasını ister. Durum tutanakla tespit edilir, karar yazılı bildirilir. Raf onarılana ya da boşaltılana kadar Murat orada çalışmaktan kaçınabilir; ücreti ve hakları saklıdır."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1590649681928-4b179f773bd5?w=2400",
+   "kicker": "Ara özet",
+   "title": "Haklarınızı özetleyelim",
+   "bullets": [
+    "Bilgilendirilme, eğitim ve sağlık gözetimi hakkı",
+    "Eğitim süresi çalışma süresinden sayılır",
+    "Görüş bildirme, öneride bulunma ve temsilci aracılığıyla katılım",
+    "Ciddi ve yakın tehlikede önce kurula veya işverene başvuru"
+   ],
+   "steps": [
+    "Dersin yarısına geldik. Haklarınızı kısaca toparlayalım.",
+    "İşyerinizdeki riskler ve alınan tedbirler hakkında bilgilendirilme, ücretsiz eğitim ve ücretsiz sağlık gözetimi temel haklarınızdır.",
+    "İş sağlığı ve güvenliği eğitimlerinde geçen süre çalışma süresinden sayılır. Yıllık izinden düşülemez, ücretsiz izin sayılamaz.",
+    "İş sağlığı ve güvenliği konularında görüş bildirme, öneride bulunma ve çalışan temsilciniz aracılığıyla kararlara katılma hakkınız vardır.",
+    "Ve ciddi ve yakın bir tehlikeyle karşılaştığınızda ilk hakkınız, İSG kuruluna ya da kurul yoksa işverene başvurarak durumun tespit edilmesini ve tedbir alınmasını talep etmektir. Şimdi madalyonun öbür yüzüne, yani sorumluluklarınıza geçelim."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1758691737003-2edd1be8b891?w=2400",
+   "kicker": "Sorumluluklarınız",
+   "title": "Kendinizi ve başkalarını tehlikeye atmamak",
+   "bullets": [
+    "Aldığınız eğitim ve işverenin talimatlarına uygun davranmak",
+    "Kendi sağlığınızı ve güvenliğinizi korumak",
+    "İşinizden etkilenen diğer kişileri de tehlikeye atmamak"
+   ],
+   "steps": [
+    "Haklar ne kadar önemliyse, sorumluluklar da o kadar önemli. Çünkü güvenlik, herkesin kendi payına düşeni yapmasıyla sağlanır. 6331 sayılı Kanunun 19. maddesi, çalışanların yükümlülüklerini düzenler.",
+    "Genel kural şudur: çalışanlar, aldıkları iş sağlığı ve güvenliği eğitimi ve işverenin bu konudaki talimatları doğrultusunda davranmakla yükümlüdür.",
+    "Bu davranışın amacı, öncelikle kendi sağlığınızı ve güvenliğinizi korumaktır. Eğitimde öğrendiğiniz bir kuralı uygulamamak, ilk önce sizi riske atar.",
+    "Ama sorumluluğunuz sadece kendinizle sınırlı değil. Hareketlerinizden ya da yaptığınız işten etkilenen diğer çalışanların sağlık ve güvenliğini de tehlikeye atmamakla yükümlüsünüz. Koridora bıraktığınız bir koli, başka birinin düşmesine neden olabilir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Kanun madde 19",
+   "title": "Çalışanın yükümlülükleri",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1517373116369-9bdb8cdc9f62?w=1200",
+     "tag": "Ekipman",
+     "title": "Kurala uygun kullanmak",
+     "text": "Makine, cihaz ve araçları kurallara uygun kullanmak; güvenlik donanımını çıkarmamak, değiştirmemek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1567954970774-58d6aa6c50dc?w=1200",
+     "tag": "KKD",
+     "title": "KKD'yi doğru kullanmak",
+     "text": "Size verilen kişisel koruyucu donanımı doğru kullanmak ve korumak."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1773526927906-e4f46086afb4?w=1200",
+     "tag": "Bildirim",
+     "title": "Tehlikeyi bildirmek",
+     "text": "Ciddi ve yakın tehlikeyi veya koruma tedbirindeki eksikliği işverene ya da temsilciye derhal bildirmek."
+    }
+   ],
+   "steps": [
+    "Kanun, bu genel kuralı somut yükümlülüklerle de belirtir. En önemli üç tanesine bakalım.",
+    "Birincisi: işyerindeki makine, cihaz, araç, gereç, tehlikeli madde ve taşıma ekipmanını kurallara uygun şekilde kullanmak. Bunların güvenlik donanımlarını doğru kullanmak, keyfi olarak çıkarmamak ve değiştirmemek.",
+    "İkincisi: kendilerine verilen kişisel koruyucu donanımı doğru kullanmak ve korumak. Bu, ders sonundaki sorulardan birinin cevabı. Risk değerlendirmesini yapmak, işyeri hekimini görevlendirmek ya da acil durum planını onaylamak çalışanın değil, işverenin görevleridir. Sizin yükümlülüğünüz, size verilen KKD'yi doğru kullanmak ve korumaktır.",
+    "Üçüncüsü: ciddi ve yakın bir tehlikeyle karşılaştığınızda ya da koruma tedbirlerinde bir eksiklik gördüğünüzde, bunu işverene veya çalışan temsilcisine derhal haber vermek."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1681726267024-04427f16ad45?w=2400",
+   "kicker": "KKD",
+   "title": "KKD'yi doğru kullanmak ve korumak",
+   "bullets": [
+    "İşe ve riske uygun KKD'yi takın",
+    "Temiz ve sağlam tutun, hasarı bildirin",
+    "KKD ücretsizdir, maliyeti size yansıtılamaz"
+   ],
+   "steps": [
+    "Az tehlikeli işyerlerinde de kişisel koruyucu donanım kullanılır. Depoda koli taşırken iş ayakkabısı, keskin kenarlı malzemeyle çalışırken iş eldiveni, temizlik kimyasalı kullanırken koruyucu eldiven ve gözlük buna örnektir.",
+    "Doğru kullanmak, KKD'yi işe ve riske uygun şekilde, doğru beden ve doğru biçimde takmak demektir. Eldiveni cebinizde taşımak ya da gözlüğü alnınızda tutmak, kullanmak sayılmaz.",
+    "Korumak ise KKD'yi temiz ve sağlam tutmak, uygun yerde saklamak ve yırtılan, kırılan ya da işlevini yitiren bir donanımı hemen bildirip değiştirilmesini istemek demektir.",
+    "Ve hatırlatalım: KKD'nin maliyeti çalışana yansıtılamaz. İşveren, riske uygun KKD'yi ücretsiz sağlamak zorundadır. Size düşen ise onu gerçekten kullanmaktır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=2400",
+   "kicker": "İş birliği",
+   "title": "İş birliği ve eğitime katılım yükümlülüğü",
+   "bullets": [
+    "Denetimde tespit edilen eksikliklerin giderilmesinde iş birliği",
+    "Kendi görev alanında işveren ve temsilci ile iş birliği",
+    "Eğitimlere katılmak, ölçme ve değerlendirmelere girmek",
+    "Öğrendiklerini işinde uygulamak"
+   ],
+   "steps": [
+    "Kanun, çalışandan iş birliği de bekler. Güvenlik, işverenin tek başına sağlayabileceği bir şey değildir.",
+    "Teftişe yetkili makamın, yani iş müfettişinin tespit ettiği eksikliklerin ve mevzuata aykırılıkların giderilmesi konusunda işveren ve çalışan temsilcisiyle iş birliği yapmak sizin yükümlülüğünüzdür.",
+    "Ayrıca kendi görev alanınızda, sağlık ve güvenliğin korunması ve geliştirilmesi için işveren ve çalışan temsilcisiyle iş birliği yaparsınız. Örneğin risk değerlendirmesi ekibi sizin bölümünüzü incelerken bildiklerinizi paylaşmak gibi.",
+    "2026 tarihli eğitim yönetmeliği de çalışana açık yükümlülükler getirir: eğitim programlarına katılmak, eğitimleri düzenli takip etmek, gerekli dikkat ve özeni göstermek ve ölçme değerlendirmelere katılmak.",
+    "Ve son olarak, eğitimde edindiğiniz bilgileri işinizde uygulamak ve talimatlara uymak. Bu dersi izlemek tek başına yeterli değil; asıl önemli olan, öğrendiklerinizi yarın işyerinizde uygulamanızdır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1783125385860-63de72acb0ac?w=2400",
+   "kicker": "Örnek olay 2",
+   "title": "Kafede çıkarılan koruma",
+   "bullets": [
+    "Güvenlik donanımı keyfi olarak çıkarılamaz",
+    "Arızalı veya zor kullanılan donanım bildirilir",
+    "Hızlı çalışmak, güvenli çalışmanın önüne geçemez"
+   ],
+   "steps": [
+    "İkinci örnek olayımız bir kafeden. Barista Can, yoğun saatlerde daha hızlı çalışmak için öğütücünün güvenlik kapağını çıkarıp tezgâhın altına koyuyor. Kapak olmadan makine çalışmaya devam ediyor ve Can, bu sayede zaman kazandığını düşünüyor.",
+    "Bu davranış, kanundaki yükümlülüğün açık bir ihlalidir. Makine ve cihazların güvenlik donanımları keyfi olarak çıkarılamaz ve değiştirilemez. O kapak, parmakların hareketli parçalara ulaşmasını engellemek için oradadır.",
+    "Peki Can ne yapmalıydı? Kapak işini zorlaştırıyorsa ya da arızalıysa, bunu yöneticisine veya çalışan temsilcisine bildirmeliydi. Belki daha uygun bir model, belki farklı bir çalışma düzeni bulunabilirdi.",
+    "Unutmayın: hız kazanmak için güvenlikten vazgeçmek, hiçbir zaman iyi bir pazarlık değildir. Siz de işyerinizde böyle kısayollar görüyor musunuz? Bir cihazın koruması bantla devre dışı bırakılmış mı, bir sensör kapatılmış mı?"
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Ofiste",
+   "title": "Hasarlı kablo fark ettiğinizde",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1521791055366-0d553872125f?w=1200",
+     "ok": true,
+     "title": "Kullanımı durdur, bildir",
+     "text": "Cihazı güvenli şekilde kapatmak, uyarı koymak ve durumu hemen yetkiliye bildirmek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1552879890-3a06dd3a06c2?w=1200",
+     "ok": false,
+     "title": "Bantlayıp devam etmek",
+     "text": "Kabloyu kendi kendine bantlamak, halının altına saklamak ya da kimseye söylememek."
+    }
+   ],
+   "steps": [
+    "Bildirim yükümlülüğünü günlük bir örnekle düşünelim. Bir ofiste, ortak kullanılan çay makinesinin kablosunun dış kılıfının yırtıldığını ve içindeki tellerin göründüğünü fark ettiniz. Ne yaparsınız?",
+    "Doğru olan: cihazı güvenli şekilde kapatıp fişini çekmek, kimsenin kullanmaması için üzerine bir uyarı koymak ve durumu hemen yöneticinize, işyerinizin iş güvenliği uzmanına ya da çalışan temsilcisine bildirmek. Onarımı, ehil bir kişi yapmalıdır.",
+    "Yanlış olan ise kabloyu kendi kendinize bantlamak, halının altına saklamak ya da başkası söyler diye susmak. Elektrik çarpması ve yangın, çoğu zaman tam olarak böyle başlayan olaylardır. Bildirmek, hem kanuni bir yükümlülük hem de arkadaşlarınıza yapabileceğiniz en büyük iyiliktir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1722639096485-7f48cae22a87?w=2400",
+   "kicker": "Ne bildirilir?",
+   "title": "Bildirmeniz gereken durumlar",
+   "bullets": [
+    "Ciddi ve yakın tehlikeler",
+    "Koruma tedbirlerindeki eksiklikler",
+    "Ramak kala olaylar",
+    "Küçük de olsa her iş kazası"
+   ],
+   "steps": [
+    "Peki hangi durumlarda bildirim yapmalısınız? Kısaca dört başlık sayabiliriz.",
+    "Birincisi ciddi ve yakın tehlikeler. Devrilmek üzere olan bir raf, kıvılcım çıkaran bir priz, kilitli bir acil çıkış kapısı gibi.",
+    "İkincisi koruma tedbirlerindeki eksiklikler. Boşalmış bir yangın tüpü, eksik ilk yardım dolabı, yanmayan acil aydınlatma ya da kaybolmuş bir uyarı levhası gibi.",
+    "Üçüncüsü ramak kala olaylar. Yani kazaya dönüşmesine az kalan, ama kimsenin zarar görmediği olaylar. Bir markette raftan düşen ağır bir kutu kimseye çarpmadıysa, bu bir ramak kala olaydır ve mutlaka bildirilmelidir; çünkü bir sonraki seferde biri yaralanabilir.",
+    "Dördüncüsü, küçük de olsa her iş kazası. Önceki dersten hatırlayın: işveren iş kazasını kazadan sonraki üç iş günü içinde SGK'ya bildirmek zorundadır. Bunu yapabilmesi için önce sizin ona haber vermeniz gerekir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Bildirim",
+   "title": "Bir tehlikeyi nasıl bildirirsiniz?",
+   "items": [
+    {
+     "title": "Fark et",
+     "text": "Tehlikeyi, eksikliği veya ramak kala olayı gör"
+    },
+    {
+     "title": "Güvenceye al",
+     "text": "Gücün yetiyorsa alanı işaretle, insanları uzaklaştır"
+    },
+    {
+     "title": "Hemen bildir",
+     "text": "Yöneticiye, İSG profesyoneline veya temsilciye ilet"
+    },
+    {
+     "title": "Kayda geçir",
+     "text": "Bildirimi yazılı ya da kayıt sistemine işle"
+    }
+   ],
+   "steps": [
+    "Bildirmenin de doğru bir yolu var. Dört basit adımla aklınızda tutabilirsiniz.",
+    "Birinci adım fark etmek. Bunun için gözünüzü işyerinize alıştırın: ıslak bir zemin, gevşemiş bir raf ya da önü kapanmış bir yangın tüpü dikkatinizi çekmeli.",
+    "İkinci adım, gücünüz yetiyorsa ve kendinizi riske atmadan yapabiliyorsanız durumu güvenceye almak. Islak zemine uyarı levhası koymak ya da insanları tehlikeli alandan uzaklaştırmak gibi. Ama kendi uzmanlığınız dışındaki bir onarıma girişmeyin.",
+    "Üçüncü adım, hemen bildirmek. Yöneticinize, iş güvenliği uzmanına ya da çalışan temsilcinize, gecikmeden haber verin. Birisi zaten söylemiştir diye düşünmeyin.",
+    "Dördüncü adım, bildirimi kayda geçirmek. İşyerinizde bir form, e-posta ya da dijital kayıt sistemi varsa bunu kullanın. Yazılı bir kayıt, sorunun takip edilmesini ve çözülmesini kolaylaştırır."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1752697589029-0fd0ce96a395?w=2400",
+   "kicker": "Sonuçlar",
+   "value": "Dikkat",
+   "title": "Kurallara uymamanın sonuçları olabilir",
+   "text": "Kendi isteği veya savsaması yüzünden iş güvenliğini tehlikeye düşürmek, İş Kanununa göre işverene haklı fesih imkânı verebilir.",
+   "steps": [
+    "Sorumluluklara uyulmazsa ne olur? Burada açık konuşalım. Yükümlülükleriniz sadece birer tavsiye değildir; hukuki sonuçları vardır.",
+    "4857 sayılı İş Kanununa göre, işçinin kendi isteği veya savsaması yüzünden iş güvenliğini tehlikeye düşürmesi, işverene iş sözleşmesini haklı nedenle feshetme imkânı verebilir. Yani kurallara bile bile uymamak, işinizi kaybetmenize yol açabilir.",
+    "Bunun yanında, kurallara aykırı bir davranış nedeniyle bir başkası zarar görürse, olayın niteliğine göre hukuki ve cezai sorumluluk da gündeme gelebilir. Ama bunu bir tehdit olarak değil, bir hatırlatma olarak görün: kurallar, hepimizi korumak için var."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Özel koruma",
+   "title": "Özel politika gerektiren gruplar",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1771033834141-023d630b3965?w=1200",
+     "title": "Genç çalışanlar",
+     "text": "15 yaşını bitirmiş, 18 yaşını doldurmamış çalışanlar özel olarak korunur."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=1200",
+     "title": "Gebe ve emziren",
+     "text": "Gebe ve emziren çalışanların durumu risk değerlendirmesinde ayrıca ele alınır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1573167507387-6b4b98cb7c13?w=1200",
+     "title": "Engelli ve yaşlı",
+     "text": "Engelli ve yaşlı çalışanlar için iş ve eğitim, ihtiyaçlarına göre düzenlenir."
+    }
+   ],
+   "steps": [
+    "Bazı çalışanlar, kanun tarafından ek koruma altına alınır. Bunlara özel politika gerektiren gruplar denir. Risk değerlendirmesinde bu grupların durumu ayrıca dikkate alınır.",
+    "Genç çalışanlar, yani 15 yaşını bitirmiş ama 18 yaşını doldurmamış çalışanlar bu gruptadır. Bir mağazada yaz döneminde çalışan bir lise öğrencisi buna örnektir; ona verilecek iş ve eğitim, yaşı ve deneyimi dikkate alınarak planlanır.",
+    "Gebe ve emziren çalışanlar da özel olarak korunur. Örneğin uzun süre ayakta kalmayı ya da ağır kaldırmayı gerektiren işler, bu dönemde yeniden değerlendirilmelidir.",
+    "Engelli ve yaşlı çalışanlar da bu gruptadır. Yeni eğitim yönetmeliğine göre engelli çalışanlara verilecek eğitim, erişilebilirlik standartlarına uygun ve gerektiğinde alternatif formatlarda hazırlanır. Kanun ayrıca risk değerlendirmesinde kadın çalışanların durumunun da dikkate alınmasını ister."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=2400",
+   "kicker": "Örnek olay 3",
+   "title": "Okulda kilitli yangın kapısı",
+   "bullets": [
+    "Tehlikeyi derhal yetkiliye bildirmek",
+    "Çalışan temsilcisini sürece dahil etmek",
+    "Bildirimi kayıt altına almak"
+   ],
+   "steps": [
+    "Son örnek olayımız bir özel okuldan. Öğretmen Ayşe, bir sabah koridorun sonundaki yangın merdiveni kapısının zincirle kilitlendiğini fark ediyor. Sebebi, öğrencilerin teneffüste o kapıdan dışarı çıkmasını engellemek.",
+    "Ayşe'nin yükümlülüğü açık: koruma tedbirlerinde bir eksiklik gördüğünde bunu işverene ya da çalışan temsilcisine derhal bildirmek. Ayşe aynı gün okul müdürüne durumu anlatıyor. Kilitli bir acil çıkış, bir yangında koridordaki herkesi tehlikeye atar.",
+    "Müdür ilk başta konuyu ertelemek isteyince, Ayşe okulun çalışan temsilcisiyle konuşuyor. Temsilci, tehlike kaynağının giderilmesi için işverene öneride bulunma ve tedbir isteme hakkını kullanıyor.",
+    "Bildirim, okulun kullandığı kayıt sistemine de yazılı olarak işleniyor. Sonuç olarak kapı, içeriden kolayca açılabilen ama dışarıdan izinsiz girişi engelleyen bir panik bar sistemiyle değiştiriliyor. Doğru bildirim, doğru kişiler ve kayıt: sorun çözüldü."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1758691737003-2edd1be8b891?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Ana sorumluluk işverendedir; İSG maliyeti çalışana yansıtılamaz",
+    "İSG eğitiminde geçen süre çalışma süresinden sayılır",
+    "Ciddi ve yakın tehlikede önce kurula veya işverene başvurulur",
+    "Size verilen KKD'yi doğru kullanmak ve korumak yükümlülüğünüzdür",
+    "Tehlikeleri, eksiklikleri ve ramak kala olayları derhal bildirin"
+   ],
+   "steps": [
+    "Dersimizin sonuna geldik. En önemli noktaları son kez birlikte hatırlayalım.",
+    "İş sağlığı ve güvenliğinde ana sorumluluk işverendedir. Çalışanın yükümlülükleri işverenin sorumluluğunu etkilemez ve güvenlik tedbirlerinin maliyeti çalışana yansıtılamaz.",
+    "İş sağlığı ve güvenliği eğitimlerinde geçen süre çalışma süresinden sayılır. Yıllık izinden düşülmez, ücretsiz izin sayılmaz.",
+    "Ciddi ve yakın bir tehlikeyle karşılaştığınızda ilk hakkınız, İSG kuruluna ya da kurul yoksa işverene başvurarak durumun tespit edilmesini ve tedbir alınmasını talep etmektir. Talebiniz yönünde karar verilirse, tedbir alınıncaya kadar çalışmaktan kaçınabilirsiniz ve haklarınız saklıdır.",
+    "Size verilen kişisel koruyucu donanımı doğru kullanmak ve korumak, makine ve cihazları kurallara uygun kullanmak sizin yükümlülüğünüzdür.",
+    "Ve tehlikeleri, koruma tedbirlerindeki eksiklikleri ve ramak kala olayları derhal bildirin. Dersin sonunda birkaç kısa soru sizi bekliyor. Anlattıklarımızı hatırlarsanız rahatlıkla cevaplayacaksınız. Bir sonraki derste görüşmek üzere."
+   ]
+  }
+ ]
+}

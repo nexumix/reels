@@ -1,0 +1,489 @@
+{
+ "code": "az8_s3",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "2. Bölüm · Sağlık Konuları",
+ "title": "Biyolojik ve psikososyal risk etmenleri",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1560264280-88b68371db39?w=2400",
+   "kicker": "2. Bölüm · Ders 3",
+   "title": "Biyolojik ve psikososyal risk etmenleri",
+   "subtitle": "Gözle görülmeyen iki risk: mikroplar ve iş stresi",
+   "steps": [
+    "Merhaba, yeniden hoş geldiniz. Bu derste ortak bir özelliği olan iki risk grubunu konuşacağız: ikisi de gözle görülmez. Biri mikroplar, yani biyolojik etkenler; diğeri ise iş stresi, mobbing ve aşırı iş yükü gibi psikososyal etkenler.",
+    "Gözle görülmedikleri için çoğu zaman hafife alınırlar. Oysa bir ofiste hızla yayılan bir grip salgını ya da aylarca süren iş stresi, en az bir iş kazası kadar ciddi sonuçlar doğurabilir. Bu iki riski tanımayı ve onlardan korunmayı birlikte öğreneceğiz."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Biyolojik etkenler",
+     "text": "Türleri, bulaşma yolları ve risk grupları"
+    },
+    {
+     "title": "Biyolojik korunma",
+     "text": "Az tehlikeli işyerlerinde riskler ve önlemler"
+    },
+    {
+     "title": "Psikososyal etkenler",
+     "text": "İş yükü, mobbing, belirsizlik, vardiya ve stres"
+    },
+    {
+     "title": "Stresle başa çıkma",
+     "text": "İşverenin ve çalışanın yapabilecekleri"
+    }
+   ],
+   "steps": [
+    "Önce bu dersin yol haritasına bakalım. Dört adımda ilerleyeceğiz ve her adımda işyerinizden bir örnek düşünmenizi isteyeceğim.",
+    "İlk olarak biyolojik etkenleri tanıyacağız: türleri neler, vücudumuza nasıl girerler ve mevzuat onları nasıl sınıflandırır?",
+    "Sonra ofis, mağaza, kafe ve okul gibi az tehlikeli işyerlerinde karşılaşabileceğimiz biyolojik riskleri ve bunlara karşı alınacak önlemleri konuşacağız.",
+    "Üçüncü adımda psikososyal etkenlere geçeceğiz: aşırı iş yükü, mobbing, belirsiz görevler, vardiyalı çalışma ve bunların yol açtığı iş stresi.",
+    "Son adımda da iş stresini azaltmak için işverenin ve sizin neler yapabileceğinizi, örnek olaylar üzerinden ele alacağız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1727091506038-5451111dc2fb?w=2400",
+   "kicker": "Biyolojik etkenler",
+   "title": "Biyolojik risk etmeni nedir?",
+   "bullets": [
+    "Canlı kaynaklı etkenler: bakteri, virüs, mantar, parazit",
+    "Enfeksiyon, alerji veya zehirlenmeye yol açabilirler",
+    "Gürültü, titreşim ve aydınlatma biyolojik değil, fiziksel etkendir"
+   ],
+   "steps": [
+    "Önce tanımla başlayalım. Biyolojik risk etmeni, canlı kaynaklı ve insan sağlığına zarar verebilecek etkenlerdir. Dersin sonunda bunu soracağım, o yüzden dikkatle dinleyin.",
+    "Bakteri ve virüsler biyolojik risk etmenlerinin en bilinen örnekleridir. Bunlara mantarlar, küfler ve parazitler de eklenir. Çoğu gözle görülemeyecek kadar küçüktür.",
+    "Bu etkenler bulaşıcı hastalıklara, yani enfeksiyonlara yol açabilir. Bazıları ise alerji, astım ya da zehirlenme yapabilir. Örneğin nemli bir duvardaki küf, hassas kişilerde solunum şikâyetlerine neden olur.",
+    "Burada sık yapılan bir karışıklığı düzeltelim: gürültü, titreşim ve aydınlatma biyolojik etken değildir. Bunlar fiziksel etkenlerdir. Biyolojik etkenin ayırt edici özelliği, canlı bir kaynaktan gelmesidir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Türler",
+   "title": "Biyolojik etkenleri tanıyalım",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1611694449252-02453c27856a?w=1200",
+     "tag": "Bakteri",
+     "title": "Bakteriler",
+     "text": "Gıda zehirlenmesi, yara enfeksiyonu, tetanoz, tüberküloz gibi hastalıklar yapabilir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1529386317747-0a2a51add902?w=1200",
+     "tag": "Virüs",
+     "title": "Virüsler",
+     "text": "Grip, soğuk algınlığı, hepatit gibi hastalıklar; insandan insana kolay yayılır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1765894518274-f53145743a46?w=1200",
+     "tag": "Mantar",
+     "title": "Mantar ve küfler",
+     "text": "Nemli, havasız ortamlarda çoğalır; alerji ve solunum şikâyeti yapabilir."
+    }
+   ],
+   "steps": [
+    "Biyolojik etkenleri üç ana grupta düşünebiliriz. Her birinin işyerinde karşımıza çıkış biçimi ve korunma yolu biraz farklıdır.",
+    "Bakteriler, gıda zehirlenmesinden yara enfeksiyonlarına, tetanozdan tüberküloza kadar pek çok hastalığa yol açabilir. Kafe ve restoran mutfaklarında, hijyen kurallarına uyulmadığında gıda yoluyla kolayca bulaşırlar.",
+    "Virüsler, grip ve soğuk algınlığı gibi her gün duyduğumuz hastalıkların sebebidir. Hepatit gibi daha ciddi hastalıklar da virüslerle bulaşır. Özellikle kalabalık ve kapalı ortamlarda insandan insana hızla yayılırlar.",
+    "Mantarlar ve küfler ise nemli, havasız ve iyi temizlenmeyen ortamlarda çoğalır. Rutubetli bir arşiv odası, bakımsız bir klima ya da su sızdıran bir tavan küf kaynağı olabilir. Alerji ve solunum yolu şikâyetlerine neden olurlar."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Bulaşma yolları",
+   "title": "Mikroplar bize nasıl ulaşır?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1594718153856-41a79679d114?w=1200",
+     "title": "Solunum yoluyla",
+     "text": "Öksürük, hapşırık ve konuşmayla saçılan damlacıklar; kirli havalandırma."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1596290618848-fcda233549e3?w=1200",
+     "title": "Temas ve gıda yoluyla",
+     "text": "Kirli eller, ortak yüzeyler, iyi pişmemiş ya da kötü saklanmış gıdalar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1748064716276-6fb0fc9da94a?w=1200",
+     "title": "Kan ve vücut sıvısıyla",
+     "text": "Atıktaki iğneye dokunma, kesik ve yaralar, korunmasız temizlik."
+    }
+   ],
+   "steps": [
+    "Peki bu mikroplar bize nasıl ulaşır? Bulaşma yolunu bilirsek, zinciri nerede kıracağımızı da biliriz. Üç ana yola bakalım.",
+    "Birincisi solunum yolu. Hasta bir kişi öksürdüğünde, hapşırdığında, hatta konuştuğunda havaya küçük damlacıklar saçılır. Kapalı ve havasız ortamlarda bu damlacıklar daha uzun süre havada kalır. Bakımı yapılmayan havalandırma sistemleri de mikropları taşıyabilir.",
+    "İkincisi temas ve gıda yolu. Kirli ellerle dokunulan kapı kolları, klavyeler ve telefonlar mikrobu bir kişiden diğerine taşır. Kötü saklanan ya da iyi pişmemiş gıdalar ise mide ve bağırsak enfeksiyonlarının en sık sebebidir.",
+    "Üçüncüsü kan ve vücut sıvıları yolu. Az tehlikeli işyerlerinde nadir gibi görünse de, çöp poşetindeki bir iğneye dokunmak, kırık camla kesilmek ya da eldivensiz temizlik yapmak bu yolla bulaşmaya yol açabilir."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Mevzuatta sınıflandırma",
+   "title": "Biyolojik etkenlerin 4 risk grubu",
+   "items": [
+    {
+     "value": "1",
+     "unit": "grup",
+     "label": "insanda hastalık yapma ihtimali yok"
+    },
+    {
+     "value": "2",
+     "unit": "grup",
+     "label": "hastalık yapabilir; yayılması zor, tedavisi var"
+    },
+    {
+     "value": "3",
+     "unit": "grup",
+     "label": "ciddi hastalık yapar; yayılabilir, tedavisi var"
+    },
+    {
+     "value": "4",
+     "unit": "grup",
+     "label": "ciddi hastalık; yayılma riski yüksek, tedavi çoğu zaman yok"
+    }
+   ],
+   "steps": [
+    "Biyolojik etkenlere maruziyetle ilgili yönetmelik, bu etkenleri enfeksiyon yapma güçlerine göre dört risk grubuna ayırır. Sınıflandırma; hastalığın ciddiyetine, topluma yayılma ihtimaline ve etkili bir korunma ya da tedavi yolu olup olmamasına bakar.",
+    "Birinci gruptaki etkenlerin insanda hastalık yapma ihtimali yoktur. Örneğin yoğurt yapımında kullanılan bazı bakteriler bu gruptadır.",
+    "İkinci gruptakiler hastalık yapabilir ve çalışanlar için tehlike oluşturabilir; ama topluma yayılmaları zordur ve genellikle etkili korunma ya da tedavi yöntemleri vardır. Günlük hayatta karşılaştığımız birçok mikrop bu gruptadır.",
+    "Üçüncü gruptakiler ciddi hastalıklara yol açar ve topluma yayılabilir; yine de genellikle etkili korunma ya da tedavi yöntemleri vardır.",
+    "Dördüncü grup en tehlikelisidir. Ciddi hastalık yapar, topluma yayılma riski yüksektir ve çoğu zaman etkili bir korunma ya da tedavi yöntemi yoktur. Bu etkenlerle yalnızca özel laboratuvarlarda, çok sıkı önlemlerle çalışılır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1770832161810-04cff861da2b?w=2400",
+   "kicker": "Az tehlikeli işyerlerinde",
+   "title": "Biyolojik riskler nerelerde karşımıza çıkar?",
+   "bullets": [
+    "Mutfak ve kafe: gıda kaynaklı enfeksiyonlar",
+    "Temizlik ve atık toplama: kesici atık, kirli yüzeyler",
+    "Okul ve kreş: çocuklar arasında yayılan hastalıklar",
+    "Ofis ve mağaza: kalabalık, kapalı ortam, ortak eşya"
+   ],
+   "steps": [
+    "Laboratuvar ve hastanelerin dışında da biyolojik risklerle karşılaşırız. Az tehlikeli işyerlerinde en sık nerede görüldüklerine bakalım ve sizin işyerinizde hangisi var, düşünelim.",
+    "Mutfak ve kafelerde gıda kaynaklı enfeksiyonlar öne çıkar. Çiğ et ve sebzenin aynı tezgâhta hazırlanması, gıdaların uygun sıcaklıkta saklanmaması ve el hijyenine uyulmaması hem çalışanı hem de müşteriyi hasta edebilir.",
+    "Temizlik ve atık toplama işlerinde, çöp poşetinden çıkan bir iğne ya da kırık cam ve kirli yüzeylerle temas riski vardır. Tuvalet ve lavabo temizliği de eldivensiz yapıldığında risklidir.",
+    "Okul ve kreşlerde çocuklar arasında hızla yayılan hastalıklar öğretmenleri ve çalışanları da etkiler. Çocukların öksürük ve hijyen alışkanlıkları henüz gelişmediği için bulaşma kolaydır.",
+    "Ofis ve mağazalarda ise kalabalık, kapalı ortamlar, ortak kullanılan eşyalar ve müşteriyle yakın temas solunum yolu hastalıklarının yayılmasını kolaylaştırır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Örnek olay",
+   "title": "Çöp poşetindeki iğne",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1758273238741-f33ab240baa0?w=1200",
+     "ok": false,
+     "title": "Poşeti elle bastırmak",
+     "text": "Eldivensiz, poşeti gövdeye yaslayarak taşımak; batmayı gizlemek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1748064716276-6fb0fc9da94a?w=1200",
+     "ok": true,
+     "title": "Güvenli toplama",
+     "text": "Dayanıklı eldiven, poşeti gövdeden uzak tutmak, batmada hemen yıkayıp bildirmek."
+    }
+   ],
+   "steps": [
+    "Bir örnek olay anlatayım. Bir alışveriş merkezinde temizlik görevlisi olarak çalışan Hasan Bey, tuvaletteki çöp kovası dolunca poşeti eliyle bastırarak sıkıştırıyor. O sırada poşetin içindeki, birinin attığı bir enjektör iğnesi parmağına batıyor. Hasan Bey önemsemiyor ve kimseye söylemiyor.",
+    "Ne oldu? Eldivensiz çalışma ve poşetin elle bastırılması, kan yoluyla bulaşan hastalıklar için ciddi bir risk yarattı. Üstelik olayın bildirilmemesi, işyeri hekiminin zamanında değerlendirme yapma şansını ortadan kaldırdı. Bazı hastalıklarda erken müdahale çok önemlidir.",
+    "Ne yapılmalıydı? Atıklar dayanıklı eldivenle toplanmalı, poşet asla bastırılmamalı ve gövdeden uzak tutularak taşınmalıydı. İğne batınca bölge hemen bol su ve sabunla yıkanmalı, olay vakit kaybetmeden yöneticiye ve işyeri hekimine bildirilmeliydi."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1761642119720-1ce47b16d09b?w=2400",
+   "kicker": "Gizli kaynak",
+   "title": "Klima ve su sistemleri de risk taşır",
+   "bullets": [
+    "Bakımsız filtrelerde mikrop ve küf birikir",
+    "Durgun ılık su bazı bakterileri çoğaltır",
+    "Çözüm: düzenli bakım, temizlik, kayıt"
+   ],
+   "steps": [
+    "Biyolojik risklerin bir kaynağı da çoğu zaman aklımıza gelmeyen yerdedir: klimalar ve su sistemleri. Ofisinizdeki klimanın filtresi en son ne zaman temizlendi, biliyor musunuz?",
+    "Bakımı yapılmayan klima filtrelerinde toz, mikrop ve küf birikir. Klima çalıştıkça bunlar ortam havasına karışır; baş ağrısı, alerji ve solunum yolu şikâyetleri artar.",
+    "Su depoları, sıcak su tesisatı ve büyük binaların soğutma sistemleri gibi yerlerde bekleyen ılık su, lejyonella gibi bazı bakterilerin çoğalmasına uygun ortam oluşturur. Bu bakteriler, su buharı ve damlacıklarla solunarak ciddi zatürreye yol açabilir.",
+    "Çözüm basittir: klima ve havalandırma sistemlerinin düzenli bakımı, filtrelerin temizlenmesi, su sistemlerinin kontrolü ve bunların kayıt altına alınması. Bu işler işverenin sorumluluğundadır; ama bir koku ya da arıza fark ederseniz bildirmek sizin katkınızdır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1596290618848-fcda233549e3?w=2400",
+   "kicker": "Korunma",
+   "title": "Biyolojik risklere karşı temel önlemler",
+   "bullets": [
+    "El hijyeni ve öksürük adabı",
+    "Düzenli havalandırma ve temizlik",
+    "Uygun eldiven ve gerekirse maske",
+    "Risk grubundaki çalışanlar için aşı",
+    "Yaralanma ve maruziyeti hemen bildirmek"
+   ],
+   "steps": [
+    "Biyolojik risklere karşı korunmanın temel kuralları, bir önceki derste öğrendiğimiz öncelik sırasıyla uyumludur. Önce ortamı düzenleriz, sonra kişiyi koruruz. Beş temel önleme bakalım.",
+    "El hijyeni ve öksürük adabı her zaman ilk sıradadır. Ellerinizi su ve sabunla en az 20 saniye yıkayın; öksürürken ve hapşırırken ağzınızı ve burnunuzu mendille ya da dirseğinizin içiyle kapatın.",
+    "Ortamın düzenli havalandırılması ve kapı kolu, tezgâh, klavye gibi ortak kullanılan yüzeylerin düzenli temizlenmesi, mikropların birikmesini ve yayılmasını önler.",
+    "Atık toplama ve tuvalet temizliği gibi işlerde uygun eldiven kullanılmalı; gerektiğinde maske takılmalıdır. Eldiven çıkarıldıktan sonra da eller mutlaka yıkanmalıdır.",
+    "Risk taşıyan çalışanlar için işyeri hekimi aşı önerebilir. Örneğin atıkla çalışan temizlik personeli için hepatit B ya da tetanoz aşısı gündeme gelebilir; karar her zaman hekimindir.",
+    "Ve unutmayın: bir iğne batması, kesik ya da kan ile temas gibi her maruziyet hemen yöneticiye ve işyeri hekimine bildirilmelidir. Erken bildirim, erken müdahale demektir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1765894518274-f53145743a46?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar öğrendiklerimiz",
+   "bullets": [
+    "Biyolojik etken: bakteri, virüs, mantar gibi canlı kaynaklı etkenler",
+    "Solunum, temas, gıda ve kan yoluyla bulaşırlar",
+    "Mevzuat biyolojik etkenleri 4 risk grubuna ayırır",
+    "El hijyeni, havalandırma, eldiven, aşı ve bildirim"
+   ],
+   "steps": [
+    "Psikososyal etkenlere geçmeden önce, biyolojik etkenlerle ilgili öğrendiklerimizi kısaca toparlayalım. Bu bilgiler dersin sonundaki ilk sorunun cevabını da içeriyor.",
+    "Biyolojik risk etmenleri; bakteri, virüs, mantar ve parazit gibi canlı kaynaklı etkenlerdir. Gürültü, titreşim ve aydınlatma ise fiziksel etkendir.",
+    "Bu etkenler solunum yoluyla, temas ve gıda yoluyla ya da kan ve vücut sıvılarıyla bulaşır. Bulaşma yolunu bilmek, korunma yolunu da gösterir.",
+    "Mevzuat biyolojik etkenleri; hastalığın ciddiyeti, yayılma ihtimali ve tedavi imkânına göre dört risk grubuna ayırır.",
+    "Korunmada el hijyeni, havalandırma, temizlik, uygun eldiven, gerektiğinde aşı ve her maruziyetin hemen bildirilmesi temel önlemlerdir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1758520145147-c30bc656f314?w=2400",
+   "kicker": "Psikososyal etkenler",
+   "value": "Görünmez",
+   "title": "Psikososyal riskler, işin tasarımı, yönetimi ve iş ilişkilerinden doğan; ruh ve beden sağlığını etkileyen risklerdir",
+   "text": "Aşırı iş yükü ve mobbing en bilinen örnekleridir. Kimyasal buhar, kaygan zemin ya da elektrik kaçağı bu gruba girmez",
+   "steps": [
+    "Şimdi gözle görülmeyen ikinci risk grubuna geçiyoruz: psikososyal risk etmenleri. Bunlar; işin nasıl tasarlandığından, nasıl yönetildiğinden ve işyerindeki insan ilişkilerinden doğan, ruh ve beden sağlığımızı etkileyen risklerdir.",
+    "Aşırı iş yükü ve mobbing, psikososyal risk etmenlerinin en bilinen örnekleridir. Bunu dersin sonunda soracağım. Karıştırmamak için şunu da ekleyelim: kimyasal buhar kimyasal, kaygan zemin ve elektrik kaçağı ise güvenlikle ilgili fiziksel tehlikelerdir; psikososyal etken değildir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "En sık görülenler",
+   "title": "İşyerinde psikososyal risk etmenleri",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1752650735615-9829d8008a01?w=1200",
+     "tag": "Yük",
+     "title": "Aşırı iş yükü",
+     "text": "Yetişmeyen işler, sürekli zaman baskısı, düzenli fazla mesai ve molasız çalışma."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758518730037-a16581a040e8?w=1200",
+     "tag": "İlişki",
+     "title": "Mobbing",
+     "text": "Bir çalışanı sistematik ve sürekli olarak yıldırmaya, dışlamaya yönelik davranışlar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1778790508237-3c6cb00f152a?w=1200",
+     "tag": "Dış etken",
+     "title": "Müşteriyle gerginlik",
+     "text": "Öfkeli müşteri, sözlü saldırı ve tehdit; mağaza, kafe ve çağrı merkezlerinde sık görülür."
+    }
+   ],
+   "steps": [
+    "Az tehlikeli işyerlerinde en sık karşılaşılan psikososyal risk etmenlerinden üçüne yakından bakalım. Hangisinin sizin işyerinizde olduğunu düşünün.",
+    "Birincisi aşırı iş yükü. Yetişmeyen işler, sürekli zaman baskısı, molasız çalışma ve neredeyse her gün fazla mesai. Kısa süreli yoğunluk her işte olur; sorun, bunun kalıcı hâle gelmesidir. Sürekli aşırı yük, tükenmişliğe giden yolun başlangıcıdır.",
+    "İkincisi mobbing, yani psikolojik taciz. Bir çalışanın sistematik ve sürekli olarak küçümsenmesi, dışlanması, işlerinin elinden alınması ya da anlamsız işlerle yıldırılmasıdır. Tek seferlik bir tartışma mobbing değildir; mobbingin ayırt edici özelliği tekrarlanması ve süreklilik göstermesidir.",
+    "Üçüncüsü müşteriyle yaşanan gerginlikler. Mağaza, kafe ve çağrı merkezlerinde öfkeli müşterilerle karşılaşmak, sözlü saldırıya ya da tehdide maruz kalmak ciddi bir stres kaynağıdır. Çalışanın bu durumlarda nasıl davranacağını bilmesi ve yalnız bırakılmaması gerekir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1766021736538-3208f2ad05f2?w=2400",
+   "kicker": "Diğer etkenler",
+   "title": "Stres yaratan diğer çalışma koşulları",
+   "bullets": [
+    "Belirsiz görev tanımı ve çelişen talimatlar",
+    "İş üzerinde hiç söz hakkı olmaması",
+    "Vardiyalı ve gece çalışması",
+    "Tekdüze, monoton işler",
+    "İş ile özel hayat arasında dengesizlik"
+   ],
+   "steps": [
+    "Psikososyal risk etmenleri bunlarla sınırlı değil. İşin düzenlenme biçimi de stres kaynağı olabilir. Beş etkene daha bakalım; kendi işinizde hangileri var, düşünün.",
+    "Belirsiz görev tanımları ve birbiriyle çelişen talimatlar. Neyi, ne zamana kadar ve hangi öncelikle yapacağını bilmeyen bir çalışan, sürekli hata yapma kaygısı yaşar.",
+    "İş üzerinde hiç söz hakkı olmaması. İşin hızını, sırasını ya da yöntemini hiç etkileyemeyen çalışanlarda stres daha yüksektir.",
+    "Vardiyalı ve gece çalışması. Uyku düzenini ve biyolojik saati bozar; yorgunluk, mide sorunları ve dikkat dağınıklığı yapabilir.",
+    "Tekdüze, monoton işler. Gün boyu aynı hareketi tekrarlamak ya da hiçbir şey öğrenmeden aynı işi yapmak, isteksizliğe ve dikkat kaybına yol açar.",
+    "İş ile özel hayat arasındaki dengesizlik de önemli bir stres kaynağıdır. Mesai saatleri dışında sürekli mesajlara cevap vermek zorunda kalmak, dinlenmeyi engeller ve tükenmişliği hızlandırır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1758874572670-63042c5448c6?w=2400",
+   "kicker": "Uyarı işaretleri",
+   "title": "İş stresi kendini nasıl gösterir?",
+   "bullets": [
+    "Bedensel: baş ağrısı, uykusuzluk, mide sorunları",
+    "Duygusal: kaygı, sinirlilik, isteksizlik",
+    "Davranışsal: hata, unutkanlık, işten kaçma"
+   ],
+   "steps": [
+    "Psikososyal riskler uzun süre devam ettiğinde iş stresine dönüşür. İş stresi, işin talepleri kişinin kaynaklarını ve baş etme gücünü aştığında ortaya çıkar. Peki kendini nasıl gösterir?",
+    "Bedensel belirtiler: baş ağrısı, kas gerginliği, uykusuzluk, mide sorunları ve sık hastalanma. Uzun süreli stres, kalp ve damar hastalıkları riskini de artırabilir.",
+    "Duygusal belirtiler: kaygı, sinirlilik, çabuk öfkelenme, isteksizlik ve işe karşı ilgi kaybı. İleri aşamada tükenmişlik ve depresyon görülebilir.",
+    "Davranışsal belirtiler: hata yapmanın artması, unutkanlık, dikkat dağınıklığı, işe geç kalma ya da işten kaçma. Dikkat dağınıklığı aynı zamanda iş kazası riskini de artırır. Bu belirtileri kendinizde ya da bir iş arkadaşınızda fark ederseniz önemseyin."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Mobbing",
+   "title": "Psikolojik tacize karşı ne yapılır?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1758518730037-a16581a040e8?w=1200",
+     "title": "Tanıyın",
+     "text": "Sistematik, tekrarlanan, kasıtlı yıldırma davranışları; tek seferlik tartışma değil."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1504261473209-7ccd7f92b205?w=1200",
+     "title": "Kayıt tutun",
+     "text": "Tarih, olay, tanık ve yazışmaları not edin; belgeler hakkınızı korur."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1766066014237-00645c74e9c6?w=1200",
+     "title": "Destek ve başvuru",
+     "text": "Yönetime, insan kaynaklarına başvurun; ALO 170 hattına ulaşabilirsiniz."
+    }
+   ],
+   "steps": [
+    "Mobbing konusunu biraz daha açalım, çünkü çoğu çalışan ne yapacağını bilemez. İşveren, çalışanları psikolojik tacize karşı korumakla yükümlüdür. Türk Borçlar Kanunu da işverenin işçiyi psikolojik ve cinsel tacize karşı korumak için gerekli önlemleri almasını ister.",
+    "Önce tanıyın. Mobbing; sürekli aşağılanma, toplantılardan ve iletişimden dışlanma, bilgi saklanması, yeteneğin altında işler verilmesi ya da asılsız eleştiriler gibi sistematik, tekrarlanan ve kasıtlı davranışlardır.",
+    "Kayıt tutun. Yaşadığınız olayları tarih, yer ve tanıklarıyla not edin; e-posta ve mesajları saklayın. Bu kayıtlar, başvuru yaptığınızda yaşadıklarınızı göstermenin en sağlam yoludur.",
+    "Yalnız kalmayın ve destek alın. Durumu yönetime ya da insan kaynaklarına bildirin, işyeri hekimiyle konuşun. Ayrıca Çalışma ve Sosyal Güvenlik Bakanlığının ALO 170 hattına da başvurabilirsiniz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1771033834141-023d630b3965?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Kampanya döneminde tükenen ekip",
+   "bullets": [
+    "Haftalarca molasız çalışma ve fazla mesai",
+    "Belirsiz hedefler, sürekli değişen talimatlar",
+    "Sonuç: hatalar, hastalık izinleri, istifalar"
+   ],
+   "steps": [
+    "Bir örnek olay. Bir giyim mağazasında indirim kampanyası başlıyor. Personel sayısı artırılmıyor; çalışanlar haftalarca molasız, neredeyse her gün fazla mesaiyle çalışıyor. Mağaza müdürü her gün yeni bir hedef koyuyor, talimatlar sık sık değişiyor.",
+    "Çalışanlar ne yapmaları gerektiğini tam bilemiyor, her gün eleştiriliyor. Kasada hatalar artıyor, müşterilerle gerginlik yaşanıyor. Bir çalışan merdivende dikkatsizlikle ayağını burkuyor.",
+    "Birkaç hafta sonra çalışanların bir kısmı uykusuzluk ve baş ağrısıyla hastalık izni alıyor, iki deneyimli çalışan da istifa ediyor. Yani aşırı iş yükü ve belirsizlik, hem sağlığa hem de işe zarar verdi.",
+    "Ne yapılmalıydı? Yoğun dönem önceden planlanmalı, geçici personel desteği sağlanmalı, hedefler ve görevler açıkça belirlenmeli ve molalar mutlaka verilmeliydi. Ekiple düzenli konuşmak da sorunların erkenden fark edilmesini sağlardı."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Karşılaştırma",
+   "title": "Stres yaratan ve azaltan yönetim",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1752650735615-9829d8008a01?w=1200",
+     "ok": false,
+     "title": "Stresi artıran",
+     "text": "Belirsiz görevler, sürekli fazla mesai, çalışanları birbirinden izole etmek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758518731706-be5d5230e5a5?w=1200",
+     "ok": true,
+     "title": "Stresi azaltan",
+     "text": "Açık iletişim, makul iş yükü, düzenli molalar ve ekip desteği."
+    }
+   ],
+   "steps": [
+    "Bu örnekten çıkan dersi iki farklı yönetim anlayışını karşılaştırarak görelim. Dersin sonundaki son sorunun cevabı tam olarak burada.",
+    "Stresi artıran uygulamalar: belirsiz görev tanımları, sürekli fazla mesai ve çalışanları birbirinden izole etmek. Çalışan neyi neden yaptığını bilmediğinde, sürekli yorgun olduğunda ve kimseden destek alamadığında stres hızla artar.",
+    "Stresi azaltan uygulamalar ise açık iletişim, makul iş yükü ve düzenli molalardır. Görevlerin net olduğu, sorunların konuşulabildiği, iş yükünün dengeli dağıtıldığı ve çalışanların birbirine destek olduğu bir ekipte stres azalır, iş kalitesi artar."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "İşyerinde önleme",
+   "title": "İş stresini azaltmanın adımları",
+   "items": [
+    {
+     "title": "Riski değerlendir",
+     "text": "Psikososyal riskleri de risk değerlendirmesine dahil et"
+    },
+    {
+     "title": "Görevi netleştir",
+     "text": "Kim, neyi, ne zamana kadar yapacak açık olsun"
+    },
+    {
+     "title": "Yükü dengele",
+     "text": "Makul iş yükü, planlı vardiya, düzenli molalar"
+    },
+    {
+     "title": "İletişimi aç",
+     "text": "Çalışanın görüşünü al, sorunları konuşulabilir kıl"
+    },
+    {
+     "title": "Destek ol",
+     "text": "Mobbinge sıfır tolerans, işyeri hekimi ve yönetim desteği"
+    }
+   ],
+   "steps": [
+    "Peki işyerinde iş stresi nasıl önlenir? Bu bir kişinin değil, bir sistemin işidir. Beş adımlı bir yaklaşıma bakalım.",
+    "Önce riski değerlendirin. Risk değerlendirmesi sadece kaygan zemin ya da elektrik tesisatı için yapılmaz; iş yükü, vardiya düzeni ve müşteri gerginliği gibi psikososyal riskler de bu değerlendirmeye dahil edilmelidir.",
+    "Görevleri netleştirin. Herkes kendi işini, sorumluluğunu ve önceliklerini açıkça bilmelidir. Belirsizliği azaltmak, stresi azaltmanın en hızlı yollarından biridir.",
+    "İş yükünü dengeleyin. Yoğun dönemleri planlayın, vardiyaları adil düzenleyin ve molaların gerçekten kullanılmasını sağlayın. Mola kâğıt üzerinde değil, gerçekte verilmelidir.",
+    "İletişimi açın. Çalışanların görüşlerini alın, sorunları cezalandırılma korkusu olmadan dile getirebilecekleri bir ortam oluşturun. Düzenli kısa ekip toplantıları bunun için iyi bir başlangıçtır.",
+    "Son olarak destek olun. Mobbinge sıfır tolerans gösterin, şikâyetleri ciddiye alıp gizlilik içinde inceleyin ve zor bir dönem yaşayan çalışanı işyeri hekimine ve gerekli desteğe yönlendirin."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1780838446048-4cdb6bf24090?w=2400",
+   "kicker": "Sizin elinizde",
+   "title": "İş stresiyle başa çıkmak için yapabilecekleriniz",
+   "bullets": [
+    "Molalarınızı gerçekten kullanın",
+    "İşleri önceliklendirin, gerektiğinde hayır deyin",
+    "Sorunu erken ve açıkça konuşun",
+    "Uyku, hareket ve sosyal destek",
+    "Gerekirse profesyonel yardım isteyin"
+   ],
+   "steps": [
+    "İşverenin sorumluluğu büyük; ama sizin de yapabilecekleriniz var. Stresle başa çıkmak için günlük hayatta uygulayabileceğiniz beş öneriye bakalım.",
+    "Molalarınızı gerçekten kullanın. Mola sırasında masanızdan kalkın, mümkünse kısa bir yürüyüş yapın. Telefonla e-postalara bakmak mola değildir.",
+    "İşleri önceliklendirin. Hepsini aynı anda yapamayacağınızı kabul edin, yöneticinizle öncelikleri konuşun. Gerçekçi olmayan bir talep karşısında nazikçe sınır koymak da bir beceridir.",
+    "Sorunu erken ve açıkça konuşun. Belirsiz bir görev, adil olmayan bir iş dağılımı ya da rahatsız edici bir davranış varsa büyümesini beklemeyin. Erken konuşulan sorun daha kolay çözülür.",
+    "Uykunuza, beslenmenize ve hareketinize özen gösterin; aileniz ve arkadaşlarınızla bağınızı koruyun. Sosyal destek, stresin etkisini azaltan en güçlü kalkanlardan biridir.",
+    "Belirtiler uzun sürüyorsa, işyeri hekiminden ya da bir ruh sağlığı uzmanından yardım istemekten çekinmeyin. Yardım istemek bir zayıflık değil, sağlığınıza sahip çıkmaktır."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1604881988758-f76ad2f7aac1?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Biyolojik risk etmenleri: bakteri, virüs, mantar gibi canlı etkenler",
+    "Psikososyal risk etmenleri: aşırı iş yükü, mobbing, belirsizlik",
+    "Stresi azaltan: açık iletişim, makul iş yükü, düzenli molalar",
+    "Her maruziyeti ve sorunu erken bildirin"
+   ],
+   "steps": [
+    "Dersimizin sonuna geldik. Öğrendiklerimizi son bir kez özetleyelim; dersin sonundaki soruların cevapları bu özette yer alıyor.",
+    "Biyolojik risk etmenleri; bakteri, virüs ve mantar gibi canlı kaynaklı etkenlerdir. Gürültü, titreşim ve aydınlatma ise fiziksel etkenlerdir.",
+    "Psikososyal risk etmenleri; aşırı iş yükü, mobbing, belirsiz görevler ve vardiyalı çalışma gibi işin düzenlenmesinden ve iş ilişkilerinden doğan risklerdir.",
+    "İş stresini azaltmaya yardımcı olan uygulamalar açık iletişim, makul iş yükü ve düzenli molalardır. Belirsiz görevler, sürekli fazla mesai ve çalışanları izole etmek ise stresi artırır.",
+    "Ve her iki risk grubunda da ortak kural şu: bir iğne batması da, aylardır süren bir mobbing de erken bildirilmelidir. Dersin sonunda birkaç kısa soru sizi bekliyor. Sağlıklı günler dilerim."
+   ]
+  }
+ ]
+}

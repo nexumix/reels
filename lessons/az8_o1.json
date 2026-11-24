@@ -1,0 +1,626 @@
+{
+ "code": "az8_o1",
+ "course": "Temel İSG Eğitimi · Az Tehlikeli",
+ "section": "4. Bölüm · Faaliyete Özgü Konular",
+ "title": "Faaliyetin genel tehlikeleri: yüksekte çalışma ve düşmeler",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1549030782-4935f80baeb6?w=2400",
+   "kicker": "4. Bölüm · Ders 1",
+   "title": "Faaliyetin genel tehlikeleri: yüksekte çalışma ve düşmeler",
+   "subtitle": "Seyyar merdiven, raflar, kayma ve takılma",
+   "steps": [
+    "Merhaba, hoş geldiniz. Faaliyete özgü konular bölümünün ilk dersindeyiz. Bugün, az tehlikeli işyerlerinde en sık karşılaşılan kazalardan biri olan düşmeleri konuşacağız.",
+    "Belki şöyle düşünüyorsunuz: ben ofiste çalışıyorum, yüksekte çalışmam. Ama bir raftan dosya almak için tabureye çıkmak, ıslak zeminde kaymak ya da bir kabloya takılmak da düşmedir. Bu ders tam olarak bu günlük anlarla ilgili."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Bu derste",
+   "title": "Neler öğreneceğiz?",
+   "items": [
+    {
+     "title": "Düşmenin türleri",
+     "text": "Yüksekten ve aynı seviyede düşme"
+    },
+    {
+     "title": "Önlem sırası",
+     "text": "Neden önce toplu koruma"
+    },
+    {
+     "title": "Seyyar merdiven",
+     "text": "Seçim, kontrol, kurulum ve kullanım"
+    },
+    {
+     "title": "Raflar ve istif",
+     "text": "Rafa tırmanmadan güvenli erişim"
+    },
+    {
+     "title": "Kayma ve takılma",
+     "text": "Zemin, kablo, merdiven ve düzen"
+    }
+   ],
+   "steps": [
+    "Önce dersin yol haritasına bakalım. Beş başlık altında ilerleyeceğiz ve her başlıkta mağaza, ofis, depo ve kafe gibi işyerlerinden örnekler vereceğim.",
+    "İlk olarak düşmenin iki türünü tanıyacağız: yüksekten düşme ve aynı seviyede düşme. İkisi de ciddi yaralanmalara yol açabilir.",
+    "Sonra düşme riskine karşı önlemlerin hangi sırayla alınması gerektiğini ve neden önce toplu korumanın geldiğini konuşacağız.",
+    "Üçüncü olarak seyyar merdiveni ayrıntılı ele alacağız: hangi merdiveni seçeceğinizi, nasıl kontrol edeceğinizi, nasıl kuracağınızı ve nasıl kullanacağınızı.",
+    "Dördüncü olarak raflara ve istiflemeye bakacağız: ürünleri nasıl yerleştirirsek yükseğe çıkma ihtiyacını azaltırız ve neden rafa asla tırmanmamalıyız.",
+    "Son olarak kayma, takılma ve tökezlemeye karşı alınacak basit ama etkili önlemleri konuşacağız. Yol boyunca üç kısa örnek olayı da birlikte değerlendireceğiz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1620517762957-3e4622447d9c?w=2400",
+   "kicker": "Temel kavram",
+   "title": "Düşmenin iki türü",
+   "bullets": [
+    "Yüksekten düşme: merdiven, raf, platform, basamak",
+    "Aynı seviyede düşme: kayma, takılma, tökezleme",
+    "Küçük bir yükseklik bile ciddi yaralanmaya yol açabilir"
+   ],
+   "steps": [
+    "Düşmeleri iki büyük gruba ayırabiliriz. Bu ayrım önemli, çünkü her birinin nedenleri farklıdır ve dolayısıyla alınacak önlemler de farklıdır.",
+    "Birincisi yüksekten düşme. Seyyar merdivenden, tabureden, bir rafın kenarından, yükleme rampasından ya da bir basamaktan aşağı düşmek bu gruptadır. Yani bir seviye farkı vardır.",
+    "İkincisi aynı seviyede düşme. Islak ya da yağlı zeminde kaymak, yerdeki bir kabloya takılmak ya da kalkmış bir halı kenarına takılıp tökezlemek bu gruptadır.",
+    "Şunu unutmayın: yüksekten düşme için çok büyük bir yükseklik gerekmez. Bir sandalyenin ya da merdivenin ikinci basamağından düşmek bile başınızı çarpmanıza, kırık ya da ciddi bir yaralanmaya yol açabilir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Sizin işyerinizde",
+   "title": "Az tehlikeli işyerinde yükseklik",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1764795849885-e226e3cabe87?w=1200",
+     "tag": "Mağaza",
+     "title": "Üst raflar ve vitrin",
+     "text": "Ürün dizmek, etiket değiştirmek, vitrin süslemek için yükseğe uzanmak."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1644079446600-219068676743?w=1200",
+     "tag": "Depo",
+     "title": "Yüksek raflı depolar",
+     "text": "Üst raflardaki kolilere ulaşmak, istif yapmak, yükleme rampasında çalışmak."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1676630656246-3047520adfdf?w=1200",
+     "tag": "Ofis ve okul",
+     "title": "Küçük bakım işleri",
+     "text": "Lamba değiştirmek, pano asmak, perde takmak, dolabın üstüne dosya koymak."
+    }
+   ],
+   "steps": [
+    "Şimdi bir an kendi işyerinizi düşünün. Az tehlikeli işyerlerinde yükseklikle karşılaştığımız yerler aslında hepimize çok tanıdık gelecek.",
+    "Mağazalarda üst raflara ürün dizmek, fiyat etiketi değiştirmek ya da vitrin süslemek için yükseğe uzanırız. Yoğun saatlerde acele de ekleyince risk artar.",
+    "Depolarda üst raflardaki kolilere ulaşmak, istif yapmak ya da yükleme rampasının kenarında çalışmak düşme riski taşır.",
+    "Ofislerde ve okullarda ise lamba değiştirmek, panoya afiş asmak, perde takmak ya da dolabın üstüne klasör koymak gibi küçük işler yaparız. Çoğu zaman bu işler için en yakındaki sandalyeye çıkılır; asıl tehlike de buradadır."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1630703103926-5168f111a868?w=2400",
+   "kicker": "Öncelik",
+   "value": "Önce toplu",
+   "title": "Düşme riskine karşı öncelikli önlem, korkuluk ve platform gibi toplu korumadır",
+   "text": "Sadece dikkatli olun demek önlem değildir; toplu koruma, kişisel önlemlerden önce gelir",
+   "steps": [
+    "Bu dersin en önemli kurallarından biri şu: düşme riskine karşı öncelikli önlem, korkuluk, sabit platform, güvenli erişim merdiveni gibi toplu korumayı sağlamaktır.",
+    "6331 sayılı Kanunun risklerden korunma ilkelerinde de toplu korunma tedbirlerine, kişisel korunma tedbirlerine göre öncelik verilmesi açıkça yer alır. Toplu koruma, herkesi aynı anda ve kişinin dikkatine bağlı olmadan korur. Sadece dikkatli olun demek ise tek başına bir önlem değildir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Önlem sırası",
+   "title": "Düşmeye karşı önlemler hangi sırayla?",
+   "items": [
+    {
+     "title": "Yüksekte çalışmayı önle",
+     "text": "İşi yerden yap, ürünü alt rafa indir"
+    },
+    {
+     "title": "Toplu koruma sağla",
+     "text": "Korkuluk, sabit platform, güvenli basamak"
+    },
+    {
+     "title": "Uygun ekipman seç",
+     "text": "Platformlu merdiven, tutamaklı basamak"
+    },
+    {
+     "title": "Eğitim ve talimat",
+     "text": "Kim, hangi işi, nasıl yapacak"
+    },
+    {
+     "title": "Kişisel önlemler",
+     "text": "Kaymaz ayakkabı, gerekirse KKD"
+    }
+   ],
+   "steps": [
+    "Önlemleri bir sıra halinde düşünelim. Yukarıdan aşağı doğru ilerledikçe önlemin etkisi azalır, kişinin dikkatine bağımlılığı artar.",
+    "En iyi önlem, yüksekte çalışma ihtiyacını hiç doğurmamaktır. Sık kullanılan ürünleri alt raflara koymak, uzun saplı araçlarla yerden temizlik yapmak ya da lambaları yerden indirilebilir tasarlamak bunun örnekleridir.",
+    "Yüksekte çalışmak gerçekten gerekiyorsa toplu koruma sağlanır: asma kat ve rampa kenarına korkuluk, sabit platform, güvenli bir erişim merdiveni gibi.",
+    "Ardından işe uygun ekipman seçilir. Kısa ve basit işler için tutamaklı, platformlu bir merdiven ya da güvenli bir basamak sandalyeden çok daha güvenlidir.",
+    "Sonra eğitim ve talimat gelir. Hangi işi kimin, hangi ekipmanla ve nasıl yapacağı belirlenir; bu bilgi çalışanlara açıkça anlatılır.",
+    "En sonda da kişisel önlemler yer alır: kaymaz tabanlı ayakkabı ve risk değerlendirmesi gerektiriyorsa kişisel koruyucu donanım."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1584986152939-01133e0d31a2?w=2400",
+   "kicker": "Seyyar merdiven",
+   "title": "Seyyar merdiven ne zaman kullanılır?",
+   "bullets": [
+    "Kısa süreli ve düşük riskli işler için",
+    "Daha güvenli bir ekipman kullanılamıyorsa",
+    "İşe uygun tür ve boyda olmalı",
+    "Sağlam, bakımlı ve işaretli olmalı"
+   ],
+   "steps": [
+    "Seyyar merdiven, ofislerde ve mağazalarda en sık kullanılan yükseğe erişim aracıdır. Ama her iş için doğru araç değildir.",
+    "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliğine göre merdiven, daha güvenli bir ekipmanın kullanılmasının gerekmediği düşük riskli ve kısa süreli işlerde kullanılır.",
+    "Yani merdiven, saatlerce sürecek ya da iki elle ağır yük taşımayı gerektiren işler için değil, bir lamba değiştirmek ya da raftan hafif bir koli almak gibi kısa işler içindir.",
+    "Merdiven işe uygun türde ve boyda olmalıdır. Kısa bir merdivenle uzanmaya çalışmak, düşmelerin en sık nedenlerinden biridir.",
+    "Ve merdiven sağlam ve bakımlı olmalıdır. Kırık basamaklı, eğilmiş ya da kaymaz ayakları eksik bir merdiven kullanılmaz; üzerine kullanılmaz etiketi asılarak bildirilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1544436530-ec6e298e9b0f?w=2400",
+   "kicker": "Kullanmadan önce",
+   "title": "Merdiveni 1 dakikada kontrol edin",
+   "bullets": [
+    "Basamaklar sağlam, temiz ve kuru mu?",
+    "Kaymaz ayaklar ve açılma kilidi yerinde mi?",
+    "Ayakkabınızın tabanı temiz mi?"
+   ],
+   "steps": [
+    "Merdivene çıkmadan önce bir dakikanızı ayırın ve merdiveni yakından inceleyin. Bu kısa kontrol, birçok kazayı daha başlamadan önler.",
+    "Basamaklara bakın: kırık, çatlak, eğilmiş ya da gevşemiş basamak var mı? Basamaklarda yağ, su, boya ya da toz var mı? Kaygan bir basamak, sağlam bir merdiveni bile tehlikeli hale getirir.",
+    "Merdivenin ayaklarına bakın: kaymaz lastik pabuçlar yerinde mi? A tipi merdivende iki kanadı birbirine bağlayan açılma kilidi ya da gergi tam olarak açılıp kilitleniyor mu?",
+    "Son olarak kendi ayakkabınıza bakın. Tabanı ıslak, çamurlu ya da yağlı bir ayakkabıyla merdivene çıkmak, kaymaya davetiye çıkarır. Terlik ya da topuklu ayakkabıyla merdivene çıkılmaz."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Kurulum",
+   "title": "Merdiven kurarken pratik ölçüler",
+   "items": [
+    {
+     "value": "4'e 1",
+     "unit": "eğim",
+     "label": "yükseklik 4 birimse taban duvardan 1 birim uzakta"
+    },
+    {
+     "value": "1 m",
+     "unit": "yaklaşık",
+     "label": "dayama merdiveni çıkılan yerin üstüne taşmalı"
+    },
+    {
+     "value": "3",
+     "unit": "nokta",
+     "label": "her an iki el bir ayak ya da iki ayak bir el temas"
+    }
+   ],
+   "steps": [
+    "Şimdi merdiveni kurarken ve kullanırken işinize yarayacak üç pratik ölçüye bakalım. Bunlar uygulamada yaygın kullanılan iyi uygulama kurallarıdır.",
+    "Dayama merdiveni için dört'e bir kuralı: merdivenin dayandığı yükseklik dört birimse, merdivenin tabanı duvardan yaklaşık bir birim uzakta olmalıdır. Bu, yaklaşık 75 derecelik güvenli bir açı verir.",
+    "Dayama merdiveniyle bir üst seviyeye çıkılacaksa merdiven, çıkılan yerin yaklaşık bir metre üstüne taşmalıdır. Böylece inip çıkarken tutunacak bir yeriniz olur.",
+    "Ve en önemlisi üç nokta teması: merdivende her an vücudunuzun üç noktası merdivenle temas halinde olmalı. Yani iki el ve bir ayak, ya da iki ayak ve bir el. Bu yüzden elinizde yük taşıyarak merdivene çıkmayın.",
+    "Peki yukarıya bir koli ya da alet çıkarmanız gerekiyorsa ne yapacaksınız? Küçük aletleri bir alet kemerinde taşıyın. Daha büyük bir yük için bir arkadaşınızdan yardım isteyin ya da merdiven yerine yük taşımaya uygun, platformlu bir ekipman kullanın."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1549030782-4935f80baeb6?w=2400",
+   "kicker": "Kurulum",
+   "title": "Merdiveni nereye ve nasıl kurmalı?",
+   "bullets": [
+    "Sağlam, düz ve kaymayan bir zemine",
+    "Kutu, kasa ya da masa üstüne asla",
+    "Kapı önüne kuruluyorsa kapı kilitlenir ya da gözcü konur",
+    "A tipi merdivenin kanatları tam açık ve kilitli"
+   ],
+   "steps": [
+    "Doğru merdiveni seçtiniz ve kontrol ettiniz. Şimdi sıra kurulumda. Nereye ve nasıl kurduğunuz, merdivenin kendisi kadar önemlidir.",
+    "Merdiven her zaman sağlam, düz ve kaymayan bir zemine kurulur. Islak zemin, kaygan fayans ya da gevşek bir halı merdivenin ayaklarını kaydırabilir.",
+    "Merdiveni daha yüksek olsun diye kutuların, plastik kasaların ya da bir masanın üstüne koymak kesinlikle yanlıştır. Bu durumda merdivenin ayakları sabit bir zemine basmaz ve en ufak harekette devrilir.",
+    "Merdiveni bir kapının önüne kurmanız gerekiyorsa kapı kilitlenir ya da biri kapının önünde bekler. Aksi halde biri kapıyı açtığında merdivene çarpabilir.",
+    "A tipi merdivenlerde iki kanat tam olarak açılmalı ve açılma kilidi yerine oturmalıdır. Yarı açık bir A merdivenini duvara dayayarak kullanmak doğru değildir."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru mu, yanlış mı?",
+   "title": "Sandalye mi, merdiven mi?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1758707844956-46c413db58e8?w=1200",
+     "ok": false,
+     "title": "Sandalyeye çıkmak",
+     "text": "Döner ve kayar; sandalye, kutu ya da masa yükseğe çıkmak için tasarlanmamıştır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1584986152939-01133e0d31a2?w=1200",
+     "ok": true,
+     "title": "Uygun merdiven kullanmak",
+     "text": "Sağlam zemine kurulmuş, kontrol edilmiş ve işe uygun boyda bir merdiven."
+    }
+   ],
+   "steps": [
+    "Şimdi ofislerde belki her gün görülen bir durumu değerlendirelim. Dolabın en üst rafındaki bir klasöre ulaşmanız gerekiyor. Ne yaparsınız?",
+    "Yanlış olan, en yakındaki tekerlekli ofis sandalyesine çıkmaktır. Tekerlekli sandalye döner ve kayar; üstüne çıktığınız anda altınızdan kaçabilir. Sabit sandalye, kutu, masa ya da çöp kovası da yükseğe çıkmak için tasarlanmamıştır.",
+    "Doğru olan, işyerinde bulunan uygun bir merdiveni ya da tutamaklı bir basamağı almak, kontrol edip sağlam zemine kurmak ve öyle çıkmaktır. Birkaç saniyelik zahmet, aylarca sürebilecek bir yaralanmayı önler."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1676630656246-3047520adfdf?w=2400",
+   "kicker": "Merdivende çalışırken",
+   "title": "Merdivende çalışmanın altın kuralları",
+   "bullets": [
+    "Yüzünüz merdivene dönük çıkın ve inin",
+    "Gövdenizi merdivenin ortasında tutun, yana uzanmayın",
+    "En üst basamaklara çıkmayın",
+    "Merdivende tek kişi çalışır"
+   ],
+   "steps": [
+    "Merdiveni kontrol ettiniz, doğru yere kurdunuz ve çıktınız. Şimdi merdivende çalışırken uyulması gereken altın kurallara bakalım.",
+    "Merdivene her zaman yüzünüz merdivene dönük çıkın ve inin. Sırtınız merdivene dönük inmek, dengenizi kaybetmenize neden olabilir. Aletlerinizi ceplerinizde değil, bir alet kemerinde ya da çantada taşıyın ki elleriniz serbest kalsın.",
+    "Gövdenizi, kemer tokanızın merdivenin iki dikmesi arasında kaldığını düşünerek ortada tutun. Yana uzanmak, merdivenin devrilmesinin en sık nedenidir. Ulaşamıyorsanız inin ve merdiveni kaydırın.",
+    "Merdivenin en üst basamaklarına çıkmayın. Merdivenin üzerindeki etiket genellikle hangi basamağın en yüksek güvenli basamak olduğunu gösterir; bu basamağı aşmayın.",
+    "Ve merdivende aynı anda tek kişi çalışır. Bir arkadaşınızın merdiveni aşağıdan tutması ise özellikle dayama merdivenlerinde iyi bir ek güvenliktir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1586528116493-a029325540fa?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Markette kasaların üstünde",
+   "bullets": [
+    "Acele eden çalışan plastik kasaların üstüne çıktı",
+    "Kasa kaydı, çalışan düştü",
+    "Merdiven depoda duruyordu"
+   ],
+   "steps": [
+    "Şimdi bir örnek olaya bakalım. Bir süpermarkette akşam yoğunluğu başlamadan reyonların doldurulması gerekiyor. Bir çalışan, en üst rafa deterjan dizmek istiyor.",
+    "Merdiven depoda ama depo uzak. Çalışan, iki plastik kasayı üst üste koyup üstüne çıkıyor ve bir elinde ürünle rafa uzanıyor. Kasa kayıyor, çalışan dengesini kaybedip düşüyor ve kolunu kırıyor.",
+    "Neden oldu? Kasa çıkılacak bir yer değildi, zemin düz değildi, üç nokta teması yoktu ve çalışan yana uzanıyordu. Kısacası bu derste konuştuğumuz kuralların hemen hepsi ihlal edildi.",
+    "Ne yapılmalıydı? Uygun bir merdiven reyonun yakınında tutulmalı, ağır ürünler alt raflara konmalı ve çalışanlara acele işlerde bile merdiven kullanma kuralı hatırlatılmalıydı. Yöneticinin de acele yerine güvenliği öne koyması gerekirdi."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1754548930574-6a995e5eb5a7?w=2400",
+   "kicker": "Ara özet",
+   "title": "Yüksekte çalışma: hatırlayalım",
+   "bullets": [
+    "Öncelik toplu korumada: korkuluk, platform",
+    "Merdiveni kullanmadan önce kontrol edin",
+    "Sağlam zemine kurun, üç nokta temasını koruyun",
+    "Sandalye, kutu ve kasa merdiven değildir"
+   ],
+   "steps": [
+    "Dersin yarısına geldik. Raflara, kayma ve takılmaya geçmeden önce, yüksekte çalışma hakkında öğrendiklerimizi birlikte toparlayalım.",
+    "Düşme riskine karşı öncelikli önlem, korkuluk ve platform gibi toplu korumadır. Sadece dikkatli olmak ya da hızlı çalışmak bir önlem değildir.",
+    "Merdiveni kullanmadan önce basamakları, kaymaz ayakları ve açılma kilidini kontrol edin. Hasarlı bir merdiveni kullanmayın, hemen bildirin.",
+    "Merdiveni sağlam ve düz bir zemine kurun, en üst basamağa çıkmayın, yana uzanmayın ve her an üç nokta temasını koruyun.",
+    "Ve unutmayın: sandalye, kutu, kasa ya da masa merdiven değildir. Şimdi düşmelerin diğer büyük grubuna geçelim."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1774273177345-ff6a25515a3c?w=2400",
+   "kicker": "Raflar ve istif",
+   "title": "Raflarda güvenli düzen",
+   "bullets": [
+    "Ağır ve sık kullanılanlar alt ve orta raflara",
+    "Raflar duvara ya da birbirine sabitlenir",
+    "Rafa basılmaz, raf tırmanılacak yer değildir",
+    "Raf taşıma sınırı aşılmaz, istif dengeli yapılır"
+   ],
+   "steps": [
+    "Yüksekte çalışma ihtiyacının büyük bölümü raflardan doğar. Rafları doğru düzenlemek, merdivene çıkma ihtiyacını da azaltır.",
+    "Ağır ürünler ve en sık kullanılan malzemeler alt ve orta raflara konur. Üst raflar hafif ve seyrek kullanılan malzemeye ayrılır. Böylece hem yüksekte çalışma hem de üstten düşen cisim riski azalır.",
+    "Raflar devrilmeye karşı duvara ya da birbirine sabitlenir. Bu, deprem ülkesi olan Türkiye'de ayrıca önemlidir.",
+    "Bir rafa basarak ya da rafın kenarına tutunarak yukarı tırmanmak çok tehlikelidir. Raf, insan ağırlığı için tasarlanmamıştır; rafa tırmanan biri rafı üzerine devirebilir.",
+    "Son olarak rafın taşıma sınırı aşılmaz ve istif dengeli yapılır. Koliler raf kenarından taşmamalı, üst üste konan koliler eğilmemelidir. Devrilmek üzere olan bir istif görürseniz bildirin."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1554280955-b112f2babdc0?w=2400",
+   "kicker": "Aynı seviyede düşme",
+   "value": "Aynı zemin",
+   "title": "Düşmelerin önemli bir kısmı yüksekten değil, yürüdüğümüz zeminde kayma ve takılmayla olur",
+   "text": "Islak zemin, dağınık kablo, kalkmış halı ve kötü aydınlatma en yaygın nedenlerdendir",
+   "steps": [
+    "Şimdi düşmelerin diğer yüzüne geçiyoruz. Pek çoğumuz düşme deyince yüksekliği düşünürüz; oysa işyerlerindeki düşmelerin önemli bir kısmı, yürüdüğümüz zeminde gerçekleşir.",
+    "Islak ya da yağlı bir zemin, yere uzanan bir kablo, kenarı kalkmış bir halı, ortada bırakılmış bir koli ya da yeterince aydınlatılmamış bir koridor; bunların hepsi aynı seviyede düşmenin en yaygın nedenleridir. İyi haber şu ki önlemleri de çoğu zaman çok basittir.",
+    "Bu önlemlerin çoğu büyük bir bütçe ya da özel bir ekipman gerektirmez. Bir kablo kanalı, bir uyarı levhası, yerine kaldırılan bir koli ya da değiştirilen bir ampul yeterlidir. Asıl gereken, fark etmek ve harekete geçmektir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Üç tehlike",
+   "title": "Kayma, takılma ve tökezleme",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1740657254989-42fe9c3b8cce?w=1200",
+     "tag": "Kayma",
+     "title": "Islak ve yağlı zemin",
+     "text": "Dökülen sıvı, yeni silinmiş zemin, yağmurlu günde giriş kapısı."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1766040923580-16ad32fae8b4?w=1200",
+     "tag": "Takılma",
+     "title": "Yerdeki engeller",
+     "text": "Koli, kablo, çanta, kalkmış halı kenarı ya da açık bırakılmış çekmece."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1775923080621-cbe5cea2bbed?w=1200",
+     "tag": "Tökezleme",
+     "title": "Görüş ve dikkat",
+     "text": "Kötü aydınlatma, beklenmedik basamak, yürürken telefona bakmak."
+    }
+   ],
+   "steps": [
+    "Aynı seviyede düşmeyi üç başlıkta inceleyebiliriz. Ekrandaki her birini dinlerken kendi işyerinizde nerede görüldüğünü düşünmeye çalışın.",
+    "Kayma, ayağınızla zemin arasındaki tutunmanın kaybolmasıdır. Dökülen bir içecek, yeni silinmiş zemin, mutfakta yağlı fayans ya da yağmurlu bir günde giriş kapısının önü en tipik örneklerdir.",
+    "Takılma, ayağınızın yerdeki bir engele çarpmasıdır. Geçiş yoluna bırakılmış bir koli, masanın altından geçen bir kablo, yerdeki bir çanta, kenarı kalkmış bir halı ya da açık bırakılmış alt çekmece bunlara örnektir.",
+    "Tökezleme ise genellikle görüş ve dikkatle ilgilidir. Kötü aydınlatılmış bir koridor, fark edilmeyen tek bir basamak ya da yürürken telefona bakmak dengenizi kaybetmenize yol açar."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Uygulama",
+   "title": "Yere dökülen sıvıyı görünce",
+   "items": [
+    {
+     "title": "Durun ve uyarın",
+     "text": "Yakındakileri sözlü olarak uyarın"
+    },
+    {
+     "title": "Alanı işaretleyin",
+     "text": "Kaygan zemin levhası ya da şerit"
+    },
+    {
+     "title": "Temizleyin",
+     "text": "Ya da hemen temizlenmesini sağlayın"
+    },
+    {
+     "title": "Kuruyunca kaldırın",
+     "text": "Levha zemin kurumadan kaldırılmaz"
+    }
+   ],
+   "steps": [
+    "Yere dökülen bir sıvıyı fark ettiniz. Görmezden gelmek ya da üstüne bir karton koyup geçmek çözüm değildir. Doğru davranış dört adımdan oluşur.",
+    "Önce durun ve yakınınızdaki kişileri sözlü olarak uyarın. Özellikle müşteri ya da öğrenci gibi işyerini iyi tanımayan kişiler varsa bu çok önemlidir.",
+    "Sonra alanı sarı kaygan zemin uyarı levhasıyla ya da şeritle işaretleyin. Bu levhanın işyerinde nerede durduğunu herkes bilmelidir.",
+    "Ardından sıvıyı hemen temizleyin ya da temizlik görevlisine haber vererek hemen temizlenmesini sağlayın. Mesai bitimini beklemek kabul edilemez.",
+    "Son olarak uyarı levhasını ancak zemin tamamen kuruyunca kaldırın. Unutmayın, yeni silinmiş ıslak bir zemin, dökülen sıvının kendisi kadar kaygandır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1560264280-88b68371db39?w=2400",
+   "kicker": "Ofiste",
+   "title": "Kablolar ve geçiş yolları",
+   "bullets": [
+    "Kablolar yürüme yolundan geçmez",
+    "Çekmeceler ve dolap kapakları kapalı tutulur",
+    "Geçiş yollarına malzeme bırakılmaz"
+   ],
+   "steps": [
+    "Ofisler düzenli görünür ama takılma tehlikesi çoğu zaman masaların arasında saklıdır. Şimdi bir ofisi gözünüzün önüne getirin.",
+    "Bilgisayar, şarj aleti ve uzatma kabloları yürüme yolundan geçirilmez. Masaların altından, kablo kanallarından ya da duvar kenarından toplanır. Geçici bir kablo yolu gerekiyorsa üzeri kablo koruyucuyla kapatılır.",
+    "Alt çekmeceler ve dolap kapakları kullanıldıktan sonra kapatılır. Açık bırakılmış alt çekmece, ofislerde en sık takılma nedenlerinden biridir.",
+    "Geçiş yollarına, koridorlara ve merdiven sahanlıklarına koli, sandalye ya da çanta bırakılmaz. Bu sadece takılmayı önlemekle kalmaz, acil bir durumda tahliye yolunu da açık tutar."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1519737461811-29f817b5e61c?w=2400",
+   "kicker": "Merdivenler",
+   "title": "Bina merdivenlerinde güvenli kullanım",
+   "bullets": [
+    "Tırabzanı tutun, basamakları atlamayın",
+    "Merdivende telefona bakmayın",
+    "Görüşünüzü kapatan yük taşımayın",
+    "Hasarlı basamak ve yanmayan lambayı bildirin"
+   ],
+   "steps": [
+    "Bina merdivenleri her gün defalarca kullandığımız için tehlikesini unuturuz. Oysa merdivende düşme, ciddi yaralanmalara yol açabilir.",
+    "Merdiven inip çıkarken tırabzanı tutun ve basamakları ikişer ikişer atlamayın. Acele ettiğiniz anlarda bile bu alışkanlığı bırakmayın.",
+    "Merdivende yürürken telefona bakmak, mesaj yazmak ya da konuşmaya dalmak, bir basamağı kaçırmanıza neden olabilir.",
+    "Önünüzü görmenizi engelleyen büyük bir koli ya da yükle merdiven inmeyin. Yükü bölün, yardım isteyin ya da varsa yük asansörünü kullanın.",
+    "Kaydırmaz bandı kopmuş bir basamak, gevşemiş bir tırabzan ya da yanmayan bir merdiven lambası görürseniz hemen bildirin. Bunlar küçük arızalar gibi görünür ama düşmeye davetiye çıkarır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1776584339515-f85590182189?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Kafe mutfağında kapanış saati",
+   "bullets": [
+    "Fritöz yağı zemine sıçramıştı",
+    "Terlikle koşan çalışan kaydı",
+    "Kaymaz ayakkabı, anında temizlik, koşmamak"
+   ],
+   "steps": [
+    "İkinci örnek olayımız bir kafeden. Kapanışa yakın saatler, mutfakta herkes işi bir an önce bitirmek istiyor. Fritöz temizlenirken zemine biraz yağ sıçramış ama kimse fark etmemiş.",
+    "Bir çalışan elinde tepsiyle hızla mutfaktan salona geçerken yağlı zemine basıyor. Ayağında kaymaz tabanlı iş ayakkabısı yerine terlik var. Kayıyor, düşüyor ve belini incitiyor.",
+    "Bu olayda birden fazla neden bir araya geldi: zemine sıçrayan yağ hemen temizlenmedi, çalışanın ayakkabısı uygun değildi ve mutfakta koşuldu.",
+    "Ne yapılmalıydı? Mutfakta kaymaz tabanlı iş ayakkabısı giyilmeli, sıçrayan yağ hemen temizlenmeli ve kapanış saatinde bile mutfakta koşulmamalıydı. Islak ve yağlı alanlara kaymaz paspas konması da riski azaltır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1606036525923-525fa3b35465?w=2400",
+   "kicker": "Ayakkabı ve kıyafet",
+   "title": "Ayağınızın altındaki güvenlik",
+   "bullets": [
+    "Kaymaz, kapalı ve sağlam tabanlı ayakkabı",
+    "Terlik, topuklu ve aşınmış taban riskli",
+    "Bol paça ve sarkan bağcık takılmaya yol açar",
+    "Yağmurlu günde girişte paspas ve uyarı"
+   ],
+   "steps": [
+    "Kayma ve takılmaya karşı en kolay önlemlerden biri, doğru ayakkabıdır. Ayakkabınız, zeminle aranızdaki tek bağlantıdır.",
+    "Özellikle mutfak, depo ve temizlik işlerinde kaymaz tabanlı, kapalı ve sağlam bir ayakkabı giyin. İşvereniniz risk değerlendirmesine göre iş ayakkabısı veriyorsa onu kullanın.",
+    "Terlik, yüksek topuklu ayakkabı ya da tabanı aşınmış bir ayakkabı, ıslak bir zeminde kolayca kaymanıza neden olur. Merdivene çıkarken bu ayakkabılar hiç kullanılmaz.",
+    "Yerlere değen bol paçalar ve çözülmüş bağcıklar da takılmaya yol açar. Basit görünür ama bir merdiven basamağında ciddi bir düşmeye neden olabilir.",
+    "Yağmurlu günlerde bina girişleri hızla ıslanır. Girişe emici paspas serilmesi ve gerekirse kaygan zemin levhası konması, hem çalışanları hem de müşterileri korur."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru mu, yanlış mı?",
+   "title": "Geçiş yolunda düzen",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1730154838368-c37b1fdebcf6?w=1200",
+     "ok": false,
+     "title": "Koridoru depo yapmak",
+     "text": "Geçiş yoluna bırakılan koliler takılmaya ve tahliyenin engellenmesine yol açar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1775923080621-cbe5cea2bbed?w=1200",
+     "ok": true,
+     "title": "Açık ve aydınlık yol",
+     "text": "Engelsiz, iyi aydınlatılmış ve kuru bir geçiş yolu herkesi korur."
+    }
+   ],
+   "steps": [
+    "Bir karşılaştırma daha yapalım. Sabah mal kabulü yapıldı ve gelen koliler depo dolu olduğu için koridora bırakıldı. Bu durum size tanıdık geliyor mu?",
+    "Yanlış olan, koridoru geçici depo gibi kullanmaktır. Geçiş yollarına bırakılan malzemeler takılma ve düşmelere yol açar, acil bir durumda ise tahliyeyi engeller.",
+    "Doğru olan, geçiş yollarını her zaman açık, kuru ve iyi aydınlatılmış tutmaktır. Malzeme için yer yoksa bunu yöneticinize bildirin; geçici çözüm koridor olmamalıdır."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Görev paylaşımı",
+   "title": "Düşmeleri önlemekte kimin görevi ne?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1200",
+     "title": "İşveren",
+     "text": "Riskleri değerlendirir, uygun merdiven, korkuluk ve düzeni sağlar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1754548930574-6a995e5eb5a7?w=1200",
+     "title": "İSG profesyonelleri",
+     "text": "Sahayı gözlemler, riskleri belirler, eğitim ve önerilerle yol gösterir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1631856955350-77f4023dff2b?w=1200",
+     "title": "Çalışan",
+     "text": "Kurallara uyar, uygun ekipmanı kullanır, tehlikeyi ve hasarı bildirir."
+    }
+   ],
+   "steps": [
+    "Düşmeleri önlemek de tıpkı diğer İSG konuları gibi ortak bir sorumluluktur. Kimin ne yapacağına kısaca bakalım.",
+    "İşveren, düşme risklerini risk değerlendirmesinde ele alır. İşe uygun merdiveni, gerekli korkulukları ve platformları sağlar, rafların düzenini ve zeminlerin bakımını organize eder.",
+    "İş güvenliği uzmanı ve işyeri hekimi sahayı gözlemler, kaygan zeminleri, güvensiz merdivenleri ve düzensiz istifleri tespit eder ve işverene önerilerde bulunur. Eğitimlerle de çalışanlara yol gösterirler.",
+    "Size düşen görev ise öğrendiklerinizi uygulamak: uygun ekipmanı kullanmak, sandalyeye ya da kasaya çıkmamak, döküntüyü işaretleyip temizletmek ve fark ettiğiniz tehlikeyi ya da hasarlı ekipmanı hemen bildirmek."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1630703103926-5168f111a868?w=2400",
+   "kicker": "Kenarlar ve boşluklar",
+   "title": "Asma kat, rampa ve pencereler",
+   "bullets": [
+    "Korkuluklar sağlam ve eksiksiz olmalı",
+    "Korkuluğa yaslanılmaz, üzerine istif yapılmaz",
+    "Açık pencereden sarkılmaz"
+   ],
+   "steps": [
+    "Az tehlikeli işyerlerinde de düşme kenarları bulunabilir: mağaza ve depolarda asma katlar, yükleme rampaları, galeri boşlukları ve açılan pencereler.",
+    "Bu kenarlarda korkuluk bulunmalı ve korkuluklar sağlam ve eksiksiz olmalıdır. Gevşemiş, sökülmüş ya da geçici olarak kaldırılmış bir korkuluk gördüğünüzde o alana yaklaşmayın ve hemen bildirin.",
+    "Korkuluğa yaslanmak, üzerine oturmak ya da korkuluk dibine istif yapmak doğru değildir. Kolilerin üstüne çıkan biri korkuluğun üzerinden düşebilir.",
+    "Pencere silerken ya da bir şey uzatırken açık pencereden dışarı sarkmayın. Dış cephe camlarının temizliği, uygun ekipmanı ve eğitimi olan kişilerce yapılmalıdır.",
+    "İşyerinizde böyle bir kenar ya da boşluk var mı? Bir dahaki turunuzda korkulukların sağlam olup olmadığına ve önlerinin boş tutulup tutulmadığına bir göz atın."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1624638760852-8ede1666ab07?w=2400",
+   "kicker": "Bir düşme olursa",
+   "title": "Düşen birine nasıl yardım edilir?",
+   "bullets": [
+    "Ortamı güvenli hale getirin",
+    "Ciddi yaralanma şüphesinde hareket ettirmeyin",
+    "İlk yardımcıya haber verin, gerekirse 112'yi arayın",
+    "Olayı bildirin; kayıt nedenin bulunmasını sağlar"
+   ],
+   "steps": [
+    "Tüm önlemlere rağmen bir çalışma arkadaşınız düştüyse ne yapmalısınız? Kısaca konuşalım; ayrıntılarını ilk yardım dersinde öğreniyorsunuz.",
+    "Önce ortamı güvenli hale getirin. Örneğin kaygan zemin varsa siz de kaymamak için dikkatli yaklaşın, devrilen merdiveni ya da düşen kolileri kenara alın.",
+    "Başını çarpan, belinden ya da boynundan ağrı hisseden ya da kalkamayan birini zorla ayağa kaldırmayın ve gereksiz yere hareket ettirmeyin. Sakinleştirin ve yanında kalın.",
+    "İşyerinizdeki ilk yardımcıya hemen haber verin. Ciddi bir yaralanma şüphesi varsa vakit kaybetmeden 112'yi arayın ve görevlinin söylediklerini uygulayın.",
+    "Olay hafif atlatılmış olsa bile mutlaka amirinize bildirin. Kayda geçen her düşme, nedenin bulunmasını ve aynı yerde başka birinin düşmesinin önlenmesini sağlar."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1758707844956-46c413db58e8?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Okulda pano süslemesi",
+   "bullets": [
+    "Öğretmen masanın üstüne sandalye koydu",
+    "Sandalye kaydı, düşme kıl payı atlatıldı",
+    "Ramak kala bildirildi, merdiven alındı"
+   ],
+   "steps": [
+    "Son örnek olayımız bir okuldan. Bir öğretmen, koridordaki yüksek panoya etkinlik afişleri asmak istiyor. Okulda merdiven var ama hademe odası kilitli.",
+    "Öğretmen bir masanın üstüne bir sandalye koyup çıkıyor. Afişi asarken sandalye masanın üstünde kayıyor. Öğretmen son anda panonun kenarına tutunarak düşmekten kurtuluyor. Kimse yaralanmıyor.",
+    "Bu bir ramak kala olaydır. İyi haber şu ki öğretmen olayı okul yönetimine bildiriyor. Yönetim de koridorlarda kullanılmak üzere tutamaklı bir platform merdiveni alıyor ve merdivenin herkesin ulaşabileceği bir yerde durmasını sağlıyor.",
+    "Bu örnekten çıkan ders şu: ramak kala olayları bildirmek, bir sonraki seferde gerçek bir kazanın önlenmesini sağlar. Bir de şu soruyu sorun: işyerinizde ihtiyaç anında merdivene kolayca ulaşılabiliyor mu?"
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1764795849885-e226e3cabe87?w=2400",
+   "kicker": "Günlük alışkanlık",
+   "title": "Her gün 2 dakikalık düşme kontrolü",
+   "bullets": [
+    "Zemin kuru ve temiz mi?",
+    "Geçiş yollarında koli, kablo ya da çanta var mı?",
+    "Aydınlatma yeterli, lambalar yanıyor mu?",
+    "Merdiven yerinde ve sağlam mı?"
+   ],
+   "steps": [
+    "Dersi kapatmadan önce size her gün uygulayabileceğiniz basit bir kontrol listesi vermek istiyorum. Vardiyanın başında iki dakikanızı ayırmanız yeterli.",
+    "Çalıştığınız alanın zemini kuru ve temiz mi? Girişte, mutfakta ya da tuvalet önünde ıslaklık var mı?",
+    "Geçiş yollarında koli, kablo, çanta ya da açık kalmış bir çekmece var mı? Varsa hemen kaldırın ya da kaldırılmasını sağlayın.",
+    "Koridorlarda, depoda ve merdivenlerde aydınlatma yeterli mi? Yanmayan ya da titreyen bir lamba fark ederseniz hemen bildirin.",
+    "Ve gün içinde ihtiyaç duyacağınız merdiven yerinde, sağlam ve kolay ulaşılabilir mi? Bu dört soru, düşmelerin büyük bölümünü daha başlamadan önler."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1544436530-ec6e298e9b0f?w=2400",
+   "kicker": "Ders özeti",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Öncelikli önlem toplu koruma: korkuluk, platform",
+    "Merdiven sağlam zemine kurulur, üç nokta teması korunur",
+    "Rafa, sandalyeye, kasaya çıkılmaz",
+    "Döküntü işaretlenir, hemen temizlenir; geçiş yolları açık tutulur"
+   ],
+   "steps": [
+    "Dersimizin sonuna geldik. Yüksekte çalışma ve düşmelerle ilgili en önemli noktaları bir kez daha hatırlayalım.",
+    "Düşme riskine karşı öncelikli önlem, korkuluk ve platform gibi toplu korumadır. Sadece dikkatli olmak yeterli değildir.",
+    "Seyyar merdiven kullanmadan önce kontrol edilir, sağlam ve düz bir zemine kurulur. Merdivende en üst basamağa çıkılmaz, yana uzanılmaz ve üç nokta teması korunur.",
+    "Rafa, sandalyeye, kutuya ya da kasaya çıkılmaz. Ağır ve sık kullanılan ürünler alt raflara konur ve raflar sabitlenir.",
+    "Yere dökülen sıvı işaretlenir ve hemen temizlenir, geçiş yolları açık tutulur. Dersin sonunda birkaç kısa soru sizi bekliyor. Hazırsanız başlayalım."
+   ]
+  }
+ ]
+}
