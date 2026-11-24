@@ -1,0 +1,48 @@
+name: Render lessons
+on:
+  push:
+    paths: ["lessons/**.json"]
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "lessons/xxx.json (boş = son committeki tüm yeni/değişen dersler)"
+        required: false
+permissions:
+  contents: write
+concurrency:
+  group: lessons
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Install tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-dejavu-core > /dev/null
+          pip install -q pillow
+          mkdir -p .fonts
+          base=https://github.com/google/fonts/raw/main/ofl
+          curl -sL -o .fonts/SchibstedGrotesk.ttf "$base/schibstedgrotesk/SchibstedGrotesk%5Bwght%5D.ttf"
+          for f in Lato-Regular Lato-Bold; do curl -sL -o .fonts/$f.ttf "$base/lato/$f.ttf"; done
+      - name: Render
+        env:
+          GOOGLE_TTS_KEY: ${{ secrets.GOOGLE_TTS_KEY }}
+        run: |
+          if [ -n "${{ github.event.inputs.job }}" ]; then JOBS="${{ github.event.inputs.job }}";
+          else JOBS=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'lessons/*.json'); fi
+          echo "Lessons: $JOBS"
+          for j in $JOBS; do FONT_DIR=.fonts python3 tools/lesson_render.py "$j" || echo "FAILED $j" >> render_errors.txt; done
+          test ! -f render_errors.txt || (cat render_errors.txt; exit 1)
+      - name: Commit videos
+        run: |
+          git config user.name "reels-bot"
+          git config user.email "reels-bot@users.noreply.github.com"
+          git add out/lessons
+          git diff --cached --quiet && exit 0
+          git commit -m "Render lessons [skip ci]"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
