@@ -4,7 +4,7 @@ GitHub Actions'ta GOOGLE_TTS_KEY secret'ı ile çalışır. Job alanı:
  "tts": {"lang": "tr-TR" | "en-US", "gender": "MALE"|"FEMALE", "voice": "<opsiyonel tam ad>",
          "rate": 1.0, "lines": ["sahne 1 konuşma", "sahne 2", ...]}   (lines sayısı = sahne sayısı)
 Sahne süreleri seslendirmeye göre otomatik uzatılır; karışık ses loudnorm I=-14 ile normalize edilir."""
-import base64, json, os, re, subprocess, urllib.request
+import base64, json, os, re, subprocess, urllib.request, urllib.error
 
 # TELAFFUZ (kullanıcı 23.11: "kısaltmaları yanlış okuyorlar, tek parça okumalı: NACE, DASK gibi")
 # Kelime gibi okunan kısaltmalar TEK PARÇA yazılır (büyük harf TTS'te harf harf okunuyor).
@@ -28,10 +28,15 @@ def say(text, lang, extra=None):
 API = "https://texttospeech.googleapis.com/v1"
 PREF = ["Chirp3-HD", "Neural2", "Wavenet", "Standard"]
 
-def _req(url, body=None):
+def _req(url, body=None, tries=8):
     data = json.dumps(body).encode() if body is not None else None
-    r = urllib.request.Request(url, data=data, headers={"Content-Type": "application/json"})
-    with urllib.request.urlopen(r, timeout=60) as resp: return json.load(resp)
+    for k in range(tries):
+        r = urllib.request.Request(url, data=data, headers={"Content-Type": "application/json"})
+        try:
+            with urllib.request.urlopen(r, timeout=60) as resp: return json.load(resp)
+        except urllib.error.HTTPError as e:   # 429/5xx: paralel işlerde kota; bekleyip tekrar dene
+            if e.code not in (429, 500, 502, 503) or k == tries - 1: raise
+            import time, random; time.sleep(min(60, 4 * 2 ** k) + random.random() * 3)
 
 def pick_voice(key, lang, gender, wanted=None):
     vs = _req(f"{API}/voices?languageCode={lang}&key={key}").get("voices", [])
