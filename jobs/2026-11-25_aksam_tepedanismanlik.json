@@ -158,7 +158,7 @@
     {
      "text": "3 · ELEKTRİK VE TOPRAKLAMA",
      "x": 96,
-     "y": 880,
+     "y": 900,
      "w": 900,
      "size": 32,
      "font": "bold",
@@ -177,7 +177,7 @@
      "w": 936,
      "size": 96,
      "font": "head",
-     "color": "#F28C0F",
+     "color": "#FFFFFF",
      "at": 0.5,
      "anim": "up"
     },
