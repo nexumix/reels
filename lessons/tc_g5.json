@@ -1,0 +1,658 @@
+{
+ "code": "tc_g5",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "1. Bölüm · Genel Konular",
+ "title": "İşyeri temizliği ve düzeni",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1793934914834-9f9d91b80b6a?w=2400",
+   "kicker": "1. Bölüm · Ders 5",
+   "title": "İşyeri temizliği ve düzeni",
+   "subtitle": "Düzenli işyeri, güvenli işyeridir",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste işyerinizin düzeniyle ilgileneceğiz. Konu basit görünüyor: temizlik, toplama, düzen. Ama tehlikeli ve çok tehlikeli işyerlerinde, yani şantiyede, atölyede, fabrikada ve depoda, bu konu çoğu zaman bir kazanın başladığı ya da önlendiği yerdir.",
+    "Bu derste 5S yaklaşımını, depolama ve istifleme kurallarını, yol ve kaçış yollarını, kayma, takılma ve düşme önlemlerini, atık yönetimini ve vardiya devri düzenini konuşacağız. Önce bakın, sonra birlikte düşünelim: işyerinizde şu an ayağınızın altında ne var?"
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Düzen ve 5S",
+     "text": "Düzenin kazayla ilişkisi ve 5S adımları"
+    },
+    {
+     "title": "Depolama ve istifleme",
+     "text": "Güvenli yığma, raf ve yük düzeni"
+    },
+    {
+     "title": "Yollar ve kaçış yolları",
+     "text": "Geçitler her zaman açık kalmalı"
+    },
+    {
+     "title": "Kayma, takılma, düşme",
+     "text": "Atölye ve şantiyede önlemler"
+    },
+    {
+     "title": "Atık ve vardiya devri",
+     "text": "Hurda, atık ve devir teslim düzeni"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Bu ders altı durakta ilerleyecek.",
+    "İlk durakta düzen ile güvenlik arasındaki bağı kuracağız ve 5S yaklaşımını öğreneceğiz.",
+    "İkinci durakta depolama ve istifleme kurallarını görüp yük taşıyan alanlarda nelere dikkat edileceğini konuşacağız.",
+    "Üçüncü durak yollar, geçitler ve kaçış yolları. Bunlar kazada da yangında da hayat kurtaran alanlardır.",
+    "Dördüncü durakta atölye ve şantiye düzenini, kayma, takılma ve düşmeyi önleyen alışkanlıkları ele alacağız.",
+    "Son durakta atık ve hurda yönetimini, vardiya devrinde düzenin nasıl teslim edildiğini göreceğiz. Yol boyunca gerçek işyerlerinden örnek olaylar da var."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1713593930871-e21d7f9ef4a1?w=2400",
+   "kicker": "Neden düzen?",
+   "title": "Düzensizlik riski gizler, düzen riski gösterir",
+   "bullets": [
+    "Yerdeki her engel takılma ve düşme sebebidir",
+    "Dağınıklık asıl tehlikeyi görünmez yapar",
+    "Açık yollar kazada hızlı müdahale sağlar",
+    "Düzen zaman ve malzeme kaybını azaltır"
+   ],
+   "steps": [
+    "İşe şu soruyla başlayalım: düzen sizce bir güzellik meselesi mi, yoksa güvenlik meselesi mi? Tehlikeli ve çok tehlikeli işyerlerinde cevap açık: güvenlik meselesi.",
+    "Bir kaynak atölyesinde yerde sürünen kablo, bir şantiyede yürüyüş yoluna bırakılmış kalıp tahtası ya da fabrikada makinenin dibinde biriken talaş, tek başına bir yaralanma sebebi olabilir.",
+    "Dağınık bir alanda tehlikeyi görmek de zorlaşır. Gözünüz yüzlerce nesne arasında asıl riski seçemez. Düzenli bir alanda ise yerinde olmayan her şey hemen dikkat çeker.",
+    "Üstelik bir kaza anında ilk yardım ekibinin, itfaiyenin ya da tahliye eden çalışanların hızı, yolların açık olmasına bağlıdır. Yani düzen, kaza olduktan sonra da işe yarar.",
+    "Son olarak düzen kayıpları azaltır. Düzenli bir alanda iş de daha hızlı akar. Aletini aramak için harcanan zaman, çarpıp devrilen malzeme, bozulan ürün, hepsi hem para hem risk demektir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1578651714116-2a1645b70c0f?w=2400",
+   "kicker": "Alışmak tehlikeli",
+   "title": "Bir dakikalığına bırakılan engel",
+   "bullets": [
+    "Geçici dediğimiz şey kalıcı olur",
+    "Alışınca engeli görmezsiniz"
+   ],
+   "steps": [
+    "Şimdi bir an gözünüzün önüne getirin: vardiya başı, yoğun bir üretim günü. Her şey acele, her şey geçici. Makinenin yanına bırakılan bir palet, merdiven altına atılan bir hortum, tezgâhın üstüne yığılan parçalar.",
+    "Bunların her biri 'bir dakikalığına' bırakılmıştır. Ama o bir dakika çoğu zaman bir vardiyaya, hatta bir haftaya uzar. Sonra da herkes oradaki engele alışır ve görmemeye başlar.",
+    "İşte tehlikeli işyerlerinde en büyük düşman, alışmaktır. Bugün sizi uyaran şey, yarın görünmez olur. Bu yüzden düzeni kişilerin hatırlamasına değil, kurallara ve alışkanlıklara bağlamamız gerekir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "5S yaklaşımı",
+   "title": "5S: düzeni kalıcı yapmanın beş adımı",
+   "items": [
+    {
+     "title": "Ayıkla",
+     "text": "Gereksiz, bozuk ve fazla olanı alandan çıkar"
+    },
+    {
+     "title": "Düzenle",
+     "text": "Her şeyin yeri belli ve işaretli olsun"
+    },
+    {
+     "title": "Temizle",
+     "text": "Temizlerken arıza ve kaçakları fark et"
+    },
+    {
+     "title": "Standartlaştır",
+     "text": "Düzeni yazılı ve görsel kurala çevir"
+    },
+    {
+     "title": "Sürdür",
+     "text": "Denetle, hatırlat ve herkes sahiplensin"
+    }
+   ],
+   "steps": [
+    "Düzeni kalıcı kılmak için dünyada çok yaygın kullanılan bir yöntem var: 5S. Adını beş Japonca kelimenin baş harfinden alır. Bizde de kısaca 'ayıkla, düzenle, temizle, standartlaştır, sürdür' diye özetlenir.",
+    "Birinci adım ayıklamak. Alanda gerçekten gerekli olanı belirleyin. Kullanılmayan, bozuk ya da fazla olanı çıkarın. Gereksiz eşya, hem yer kaplar hem tehlike yaratır.",
+    "İkinci adım düzenlemek. Kalan her şeyin bir yeri olsun ve herkes o yeri bilsin. Alet panosundaki siluet, zemindeki çizgi, rafın üzerindeki etiket bu işe yarar.",
+    "Üçüncü adım temizlemek. Temizlik sadece süpürmek değildir. Temizlerken makinedeki yağ kaçağını, aşınmış kabloyu, gevşeyen bağlantıyı da fark edersiniz.",
+    "Dördüncü adım standartlaştırmak. Yani iyi düzeni yazılı ve görsel kurala çevirmek: hangi alan nasıl duracak, kim ne zaman bakacak.",
+    "Beşinci adım sürdürmek. Düzen bir kez yapılıp bırakılmaz. Denetim, hatırlatma ve herkesin sahiplenmesiyle devam eder."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "5S uygulamada",
+   "title": "İlk üç adımı sahada nasıl yaparsınız",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1578651714116-2a1645b70c0f?w=1200",
+     "tag": "1. adım",
+     "title": "Ayıkla",
+     "text": "Gereksiz ve bozuk malzemeyi alandan çıkarın"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1759922378222-47ad736a174d?w=1200",
+     "tag": "2. adım",
+     "title": "Düzenle",
+     "text": "Her alete ve malzemeye işaretli bir yer verin"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1747999610489-de5c0ad00e56?w=1200",
+     "tag": "3. adım",
+     "title": "Temizle",
+     "text": "Temizlerken arızaları ve kaçakları da gözleyin"
+    }
+   ],
+   "steps": [
+    "5S'in ilk üç adımını işyerinizden somut örneklerle görelim.",
+    "Ayıklamada sorun şu: bu alanda bu şey gerçekten lazım mı? Kırık palet, kullanılmayan kalıp, eski ambalaj varsa onları ayırıp uygun yere ya da atığa göndermek gerekir. Şüphe duyduğunuz şeyi amirinize sorun, kendi başınıza atmayın.",
+    "Düzenlemede mantık basit: sık kullandığınız şey elinizin altında, ağır olan şey yere yakın, tehlikeli olan şey kilitli ve işaretli yerde durmalı. Yerin işaretlenmesi, aranan şeyi bulmayı kolaylaştırır.",
+    "Temizlikte ise yöntem önemli. Önce kuru tozu ya da talaşı doğru ekipmanla toplayın, sonra sıvıyı temizleyin. Basınçlı havayla toz uçurmak çoğu yerde hem gözü hem akciğeri tehdit eder, uygun yöntemi sorun."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1758640920659-0bb864175983?w=2400",
+   "kicker": "5S: son iki adım",
+   "title": "Düzen yazılı, görünür ve sahipli olursa yaşar",
+   "bullets": [
+    "Alanın düzenli hâlini görünür hâle getirin",
+    "Her alanın bir sorumlusu olsun",
+    "Vardiya sonu toplama ve haftalık tur yapın",
+    "Düzensizliği görünce amire bildirin"
+   ],
+   "steps": [
+    "Son iki adım, yani standartlaştırmak ve sürdürmek, çoğu işyerinde atlanır. Oysa asıl kalıcılığı bunlar sağlar.",
+    "Standartlaştırmak için önce 'iyi durum' neye benziyor, onu görünür kılın. Alanın temiz hâlinin fotoğrafını panoya asmak, zemine yürüyüş yolu çizgisi çekmek, kutu ve raflara etiket koymak buna örnektir.",
+    "Ardından düzeni kime bağlayacağınızı belirleyin. Her alanın bir sorumlusu olsun. Sorumlusu olmayan alanı herkes 'başkası halleder' diye bırakır.",
+    "Sürdürmek için vardiya sonunda kısa bir toplama süresi, haftalık düzen turu ve aylık değerlendirme çok işe yarar. Burada amaç suçlu aramak değil, düzenin bozulduğu noktayı bulmaktır.",
+    "Çalışan olarak sizden beklenen de açık: iş bitince alanı bulduğunuzdan daha iyi bırakmak ve düzensizliği gördüğünüzde amirinize haber vermek."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1785484267531-0bbcb4733352?w=2400",
+   "kicker": "Örnek olay 1",
+   "title": "Atölyede kablo ve talaş",
+   "bullets": [
+    "Yerdeki kablo takılma sebebidir",
+    "Talaş yığını kaymaya yol açar",
+    "Güzergâhı ve toplamayı sistem belirlemeli"
+   ],
+   "steps": [
+    "Örnek bir olay anlatayım. Küçük bir metal işleme atölyesinde Ahmet usta, tezgâhında parça işlerken ucu açık bir uzatma kablosuna ayağı takılıyor. Kablo, vardiya boyunca tezgâhların arasından geçen en kısa yoldan çekilmişti.",
+    "Ahmet usta dengesini kaybediyor ve çalışan bir matkap tezgâhına doğru savruluyor. Şansı yaver gidiyor, elini son anda çekiyor. Ama yan taraftaki iş arkadaşı, o gün tezgâhın yanındaki talaş yığınında kayıp düşüyor.",
+    "Olaydan sonra yapılan incelemede şu çıktı: kablo için tavandan sarkan ya da yer altından geçen bir güzergâh yoktu. Talaş da vardiya sonunda toplanmıyordu. İkisi birleşince kaza zinciri oluştu.",
+    "Burada kusur kişi değil, düzendi. Küçük işyerlerinde bu tür kazaların çoğu, 'idare ederiz' diyerek ertelenen basit önlemlerden çıkar. Çözüm de basitti: kablo güzergâhını yukarıdan geçirmek, her tezgâh için talaş kabı koymak ve vardiya sonunda toplama süresi ayırmak."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1644079446600-219068676743?w=2400",
+   "kicker": "Depolama",
+   "title": "Güvenli depolamanın dört temel kuralı",
+   "bullets": [
+    "Malzeme yalnızca belirlenen alana konur",
+    "Raf ve zemin yük sınırı aşılmaz",
+    "Ağır malzeme alta, hafif malzeme üste",
+    "İstif düzgün, dengeli ve devrilmeyecek yükseklikte"
+   ],
+   "steps": [
+    "Şimdi depolama ve istifleme kurallarına geçelim. Depo sadece depoda değildir: şantiyede çimento çuvalları, atölyede sac levhalar, fabrikada ara ürün paletleri de depolanır.",
+    "Birinci kural, malzemeyi belirlenen alana koymaktır. Bu alanlar önceden planlanır ve işaretlenir. Yürüyüş yollarının, makine çevresinin, elektrik panosunun ve yangın ekipmanının önü depo alanı değildir.",
+    "İkinci kural, yük sınırlarına uymaktır. Raf, palet ve zemin belli bir yükü taşıyabilir. Bu sınır raf üzerinde yazılı olmalı ve aşılmamalıdır.",
+    "Üçüncü kural, ağır malzemeyi alt raflara, hafif malzemeyi üst raflara koymaktır. Böylece hem raf dengede kalır hem de yukarıdan ağır parça düşme riski azalır.",
+    "Dördüncü kural, istifin devrilmeyecek şekilde yapılmasıdır. Yığın düzgün, dengeli ve yatay zemin üzerinde olmalı; yükseklik, malzemenin cinsine ve zemine göre sınırlanmalıdır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "İstifleme",
+   "title": "Güvenli istifleme sırası",
+   "items": [
+    {
+     "title": "Yükü tanıyın",
+     "text": "Ağırlık, şekil ve kayma ihtimalini bilin"
+    },
+    {
+     "title": "Zemini kontrol edin",
+     "text": "Düz, kuru ve sağlam zemin seçin"
+    },
+    {
+     "title": "Dengeli kurun",
+     "text": "Ağır ve geniş parça altta, hizalı yükselin"
+    },
+    {
+     "title": "Sabitleyin",
+     "text": "Takoz, bant ya da kama kullanın"
+    },
+    {
+     "title": "Boşluk bırakın",
+     "text": "Yol, makine ve duvarla mesafe koruyun"
+    }
+   ],
+   "steps": [
+    "İstifleme bir tür mühendislik işidir. Kafanıza göre yığmak yerine şu adımları izleyin.",
+    "Önce yükü tanıyın: ağırlığı, şekli, kayma ya da yuvarlanma ihtimali nedir. Silindirik borular ile düz sac levhalar aynı şekilde istiflenmez.",
+    "Sonra zemini kontrol edin. Islak, eğimli ya da yumuşak zemin istifi dengesiz yapar. Gerekirse takoz ya da ayırıcı kullanın.",
+    "Üçüncüsü, yığını dengeli ve düzgün kurmak. En geniş ve ağır parça altta olur; yığın dikey ve hizalı yükselir.",
+    "Dördüncüsü, yükü sabitlemek. Gerekirse bant, kama ya da çevre koruma kullanılır. Yuvarlanma riski olan malzemeye mutlaka takoz konur.",
+    "Sonuncusu, istifin etrafında yeterli boşluk bırakmak. Yığın ile duvar, makine ve yürüyüş yolu arasında güvenli mesafe olmalıdır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru ve yanlış",
+   "title": "Aynı depoda iki farklı istif",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1644079446600-219068676743?w=1200",
+     "ok": true,
+     "title": "Düzgün ve işaretli istif",
+     "text": "Hizalı, dengeli, yük sınırı belli, geçit açık"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1779155413504-7608a08d4873?w=1200",
+     "ok": false,
+     "title": "Eğri ve taşmış yığın",
+     "text": "Yolu daraltıyor ve devrilme riski taşıyor"
+    }
+   ],
+   "steps": [
+    "Aynı depo, iki farklı tavır. Bakalım fark nerede.",
+    "Solda doğrusu: palet düz zeminde, ağır kutular altta, yığın hizalı, etrafında geçiş payı var. Raf üzerinde yük sınırı etiketi bulunuyor ve forklift yolu serbest.",
+    "Sağda yanlışı: yığın eğri, üst üste fazla yükseltilmiş, koridora taşmış. Biri koşarak geçerken ya da forklift dönerken devrilme riski vardır. Bir sonraki vardiya da bu yığını fark etmeden altına girebilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1791421870389-d9fa98e7e1fc?w=2400",
+   "kicker": "Depoda araç trafiği",
+   "title": "Yaya ve forklift yolu ayrı olmalı",
+   "bullets": [
+    "Yollar çizgiyle ayrılmalı",
+    "Köşelerde görüş sağlanmalı"
+   ],
+   "steps": [
+    "Depo denince forklift de aklınıza gelmeli. Forklift ve transpalet kullanımı ayrıca eğitimli, belgeli operatörlerce yapılır; o konuya başka derslerde gireceğiz. Burada düzen açısından bakıyoruz.",
+    "Forklift yolları işaretli ve yaya yollarından ayrı olmalı. Yaya geçidi, kavşak ve köşelerde ayna ya da uyarı ışığı bulunması çok işe yarar.",
+    "Yük taşıyan araç, önündeki yük yüzünden görüşünü kaybedebilir. Bu yüzden yola bırakılan en küçük engel bile bir çarpışmaya dönüşebilir.",
+    "Siz yaya olarak çalışıyorsanız, forklift yolunda durmayın, araç yaklaşırken göz teması kurun ve operatör sizi görmeden yanından geçmeyin."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1731983587570-99567f02f910?w=2400",
+   "value": "Her zaman",
+   "title": "Acil çıkış kapıları ve kaçış yolları daima açık ve engelsiz tutulur",
+   "text": "'Geçici' bir palet bile kaçış yolunu kapatırsa tahliyeyi geciktirebilir",
+   "steps": [
+    "Şimdi yollara geçelim. Çalışma alanlarındaki geçitlerin, koridorların ve özellikle kaçış yollarının bir tek kuralı vardır.",
+    "Acil çıkış kapıları ve kaçış yolları, işyeri açıkken her zaman açık ve engelsiz olmalıdır. Önlerine geçici de olsa malzeme, palet ya da araç bırakılmaz, kapılar kilitlenmez."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1631249008619-8be5db7b4995?w=2400",
+   "kicker": "Yollar ve geçitler",
+   "title": "Yürüyüş yolu işaretli, aydınlık ve düzgün olmalı",
+   "bullets": [
+    "Yol genişliği işe ve trafiğe göre belirlenir",
+    "Zemine çizgi veya bantla işaretlenir",
+    "Yeterli aydınlatma ile görülebilir olur",
+    "Zemin düzgün ve sağlam tutulur",
+    "Kaçış levhaları görünür kalır"
+   ],
+   "steps": [
+    "Önce yürüdüğümüz yollara bakalım. Çalışma alanındaki yol ve geçitler, sadece bir ulaşım hattı değil, aynı zamanda kaza anında kurtuluş yoludur. Bu yüzden beş ölçüt üzerinden değerlendireceğiz.",
+    "Yollar ve geçitlerde işyerinin işine uygun genişlik ve düzen olmalıdır. Yolun genişliği, kullanan kişi sayısına, taşınan yüke ve araç trafiğine göre belirlenir.",
+    "Yürüyüş yolları işaretli olmalı. Zemine çizilen çizgi, sarı-siyah uyarı bandı ya da boyalı alanlar yayaya nerede yürümesi gerektiğini gösterir.",
+    "Yollar yeterince aydınlatılmalı. Loş bir geçitte yerdeki çıkıntı, basamak ya da hortum görülmez. Yanan olmayan lambaları bildirmek hepimizin görevidir.",
+    "Zemin düzgün ve sağlam olmalı. Kırık plaka, çukur, yağlı leke ve su birikintisi hemen giderilmeli ya da işaretlenmeli.",
+    "Kaçış yolları işaretlenmeli ve işaretler görünür olmalı. Acil durum levhası kapının arkasında ya da kutunun gölgesinde kalmışsa işe yaramaz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1730154838368-c37b1fdebcf6?w=2400",
+   "kicker": "Örnek olay 2",
+   "title": "Yan çıkışın önündeki koliler",
+   "bullets": [
+    "Geçici yığın tahliyeyi geciktirdi",
+    "Çıkış yolu her vardiya başı kontrol edilmeli"
+   ],
+   "steps": [
+    "Örnek olay iki. Bir mobilya atölyesinde sezon yoğunluğu var. Sevkiyata hazırlanan koliler, işçilerin kullandığı yan çıkış kapısının önüne yığılıyor. Müdür 'bu iki günlük' diyor.",
+    "Üçüncü gün, atölyenin boya bölümünde küçük bir yangın çıkıyor. Çalışanların çoğu ana kapıya yöneliyor ama orada yoğunluk var. Yan kapıya gidenler kolilerin arkasında kalıyor.",
+    "Çalışanlar ellerinde olanla kolileri çekip yolu açıyor ve herkes dışarı çıkıyor. Yangın söndürücüyle kontrol altına alınıyor, kimse ciddi şekilde yaralanmıyor. Ama birkaç dakika kaybedilmişti.",
+    "Bu olay, çıkış yollarının neden her zaman açık olması gerektiğini çok net gösteriyor. Yangında kaybedilen her saniye, nefes demektir. Sonrasında işveren yan kapının önünün hiçbir koşulda kullanılmayacağını, sevkiyat alanı için ayrı bir yer belirleneceğini ve çıkış yollarının her vardiya başında kontrol edileceğini duyuruyor. Dersi pahalıya ama büyük kayıp olmadan almışlardı."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1793934914834-9f9d91b80b6a?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar neler öğrendik",
+   "bullets": [
+    "Düzen riski görünür kılar; 5S bunu kalıcı yapar",
+    "İstifte yük sınırı ve denge esastır",
+    "Yollar işaretli, aydınlık ve temiz olmalı",
+    "Acil çıkış ve kaçış yolu daima açık"
+   ],
+   "steps": [
+    "Ders ortasına geldik, kısa bir özet yapalım.",
+    "Düzen, güvenliğin ayrılmaz bir parçasıdır. Dağınıklık riski gizler, düzen riski gösterir. 5S ile ayıklarız, düzenleriz, temizleriz, standartlaştırırız ve sürdürürüz.",
+    "Depolamada malzeme belirlenen alana konur, yük sınırı aşılmaz, ağır olan alta gider ve istif dengeli yapılır.",
+    "Yollar işaretli, aydınlık ve düzgün olmalıdır. Acil çıkış kapıları ve kaçış yolları her zaman açık ve engelsiz tutulur.",
+    "Bunları şimdi akılda tutun, çünkü işyerinde her gün karşınıza çıkacaklar. Bundan sonra atölye ve şantiye düzenine, kayma ve düşmelere ve atığa bakacağız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1694521787162-5373b598945c?w=2400",
+   "kicker": "Şantiye düzeni",
+   "title": "Şantiyede düzen her gün yeniden kurulur",
+   "bullets": [
+    "Yaya ve araç yolları ayrılmalı",
+    "Malzeme belirlenen alanda istiflenmeli",
+    "Çıkıntılı uçlar korunmalı",
+    "Moloz ve atık her gün toplanmalı"
+   ],
+   "steps": [
+    "Şantiyeler, dinamik ve değişken alanlardır. Her gün yeni bir bölüm kurulur, malzeme gelir, iş ilerler. Bu yüzden şantiye düzeni 'bir kez kur, bitti' diyemeyeceğimiz bir konudur.",
+    "Önce giriş ve çıkış ile yaya yolları belirlenmelidir. Araç ve iş makinesi yolları yayalarından ayrılmalı, gerekirse bariyerle korunmalıdır.",
+    "Malzeme depolama alanı belirli olmalı. Kalıp tahtası, demir, tuğla ya da boru şantiyenin yol kenarına gelişigüzel bırakılmaz; istifleme kurallarına uygun yapılır.",
+    "Çivili tahta, çıkıntılı demir ve kesilmiş boru uçları gibi tehlikeler temizlenmeli ya da korunmalıdır. Çıkıntılara koruyucu başlık takılır.",
+    "Her gün sonunda moloz ve atık toplanmalı. Düşen enkaz yürüyüş yolunu kapatır; yüksekten düşen küçük bir parça bile ciddi yaralanmaya yol açabilir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Atölye düzeni",
+   "title": "Atölyede üç kritik nokta",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=1200",
+     "tag": "Tezgâh",
+     "title": "Sade tezgâh",
+     "text": "Sadece kullanılan parça ve takım tezgâhta durur"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1766040923580-16ad32fae8b4?w=1200",
+     "tag": "Kablo ve hortum",
+     "title": "Yerde bırakmayın",
+     "text": "Tavandan, duvardan ya da koruyucu kanaldan geçirin"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1763665814546-27c2c003317e?w=1200",
+     "tag": "Alet yeri",
+     "title": "Her aletin yeri",
+     "text": "Alet panosu ve siluet eksik olanı gösterir"
+    }
+   ],
+   "steps": [
+    "Atölyelerde ise düzen üç ana noktada kendini gösterir.",
+    "Birincisi tezgâh çevresi. Tezgâhın üstünde yalnızca o anda kullanılan parça ve takım bulunur. Kesici aletler yerinde, keskin uçlar kapalıdır.",
+    "İkincisi kablo, hortum ve borulardır. Yerde sürünen elektrik kablosu ya da basınçlı hava hortumu hem takılma hem de ezilme riskidir. Mümkünse tavandan ya da duvar boyunca geçirilir, geçmek zorundaysa koruyucu kanal kullanılır.",
+    "Üçüncüsü alet ve malzemenin yeridir. Alet panosu, her alet için bir yeri olduğunu gösterir. Eksik alet hemen fark edilir, yeri belli olmayan alet tehlikeli şekilde yerde kalır."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1628870571159-82001646505b?w=2400",
+   "value": "Hemen",
+   "title": "Dökülen sıvıyı gördüğünüzde alanı işaretleyin ve temizleyin ya da temizlenmesini sağlayın",
+   "text": "Üzerine karton koymak ya da vardiya sonunu beklemek çözüm değildir",
+   "steps": [
+    "Şimdi kayma, takılma ve düşmelere gelelim. Bu üçlü, sanayide ve inşaatta çok sık görülen kaza türleridir.",
+    "Yere dökülen sıvı fark edildiğinde, alan hemen uyarı ile işaretlenmeli ve sıvı vakit kaybetmeden temizlenmeli ya da temizlenmesi sağlanmalıdır. Görüp geçmek, bir sonraki kişiyi kazaya hazırlar."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Kayma, takılma, düşme",
+   "title": "Beş adımda kayma ve takılma önlemi",
+   "items": [
+    {
+     "title": "Görün",
+     "text": "Yolunuzu tarayın, görüşünüzü kapatmayın"
+    },
+    {
+     "title": "İşaretleyin",
+     "text": "Uyarı levhası ya da bantla belirleyin"
+    },
+    {
+     "title": "Giderin",
+     "text": "Uygun yöntem ve ekipmanla temizleyin"
+    },
+    {
+     "title": "Bildirin",
+     "text": "Kaynağı olan kaçağı amire haber verin"
+    },
+    {
+     "title": "Uygun ayakkabı giyin",
+     "text": "Kaymaz tabanlı iş ayakkabısı kullanın"
+    }
+   ],
+   "steps": [
+    "Kayma, takılma ve düşmeyi önlemek için işyerinde şu sıra işe yarar.",
+    "Önce görün. Yürürken önünüze bakın, telefonu ya da ağır yükü görüşünüzü kapatacak şekilde taşımayın, geçeceğiniz yeri tarayın.",
+    "Sonra durdurun ya da işaretleyin. Tehlikeyi gördüyseniz uyarı levhası, bant ya da bariyerle belirleyin. Başkasının gelmesini beklemeyin.",
+    "Üçüncü adım gidermek. Yağı, suyu ya da talaşı yetkili ekipmanla temizleyin. Kimyasal döküntü ise kendi başınıza değil, yetkili kişi ve uygun KKD ile müdahale edilir.",
+    "Dördüncüsü bildirmek. Kaynağı belirsiz bir kaçak ya da çıkıntı varsa amirinize haber verin. Aynı yerde tekrar tekrar kayıyorsanız sebep bulunmalı ve kalıcı çözüm üretilmelidir.",
+    "Beşincisi uygun ayakkabı giymek. Kaymaz tabanlı ve çelik burunlu iş ayakkabısı bu yüzden KKD'dir. Terlik ya da spor ayakkabıyla atölyeye girilmez."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1735494032948-14ef288fc9d3?w=2400",
+   "kicker": "Örnek olay 3",
+   "title": "Yağ lekesi ve bir kırık bilek",
+   "bullets": [
+    "Dökülen anında işaretlenmeli",
+    "Emici malzeme hazır bulunmalı"
+   ],
+   "steps": [
+    "Örnek olay üç. Bir otomotiv servisinde usta Hasan, yağ değişimi yaparken yere yağ döküyor. 'Şimdi kâğıt havluyla alırım' diyor ama telefon çalıyor ve işe devam ediyor.",
+    "Yarım saat sonra stajyer genç elinde bir lastikle koşarak geçerken yağ lekesine basıyor ve arkasına doğru düşüyor. Bileğini kırıyor, birkaç ay iş göremiyor.",
+    "İncelemede, yağın döküldüğü anda alan işaretlenseydi ve iki dakika ayrılsaydı, bu kazanın olmayacağı sonucuna varılıyor. Kimse kötü niyetli değildi. Sadece 'şimdi' ile 'sonra' arasındaki farkı bilmiyorlardı.",
+    "Servis, bu olaydan sonra her tezgâhın yanına emici malzeme ve uyarı levhası koydu. Dökülenin ilk gören tarafından işaretlenmesi kuralı oldu."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru ve yanlış",
+   "title": "Dökülmeyi gören iki farklı tavır",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1628870571159-82001646505b?w=1200",
+     "ok": true,
+     "title": "İşaretle ve temizle",
+     "text": "Alan çevrilir, levha konur, emici ile temizlenir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1740657254989-42fe9c3b8cce?w=1200",
+     "ok": false,
+     "title": "Görmezden gel",
+     "text": "Görüp geçmek bir sonraki kişiyi tehlikeye atar"
+    }
+   ],
+   "steps": [
+    "Dökülmeyi fark eden iki farklı çalışan düşünelim.",
+    "Birincisi durup alanı bantla çeviriyor, uyarı levhasını koyuyor ve emici malzemeyle temizliyor. Gerekirse amirine ya da temizlik ekibine haber veriyor. Bir dakikalık iş, bir kazayı önlüyor.",
+    "İkincisi 'benim işim değil' diyerek yürüyüp gidiyor. Ya da dökülmeyi ayağıyla yana itiyor. Sonuçta bir sonraki geçen kişi aynı noktaya basıyor. Düzen herkesin işidir; başkasının dökmesi sizi sorumluluktan kurtarmaz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=2400",
+   "kicker": "Atık yönetimi",
+   "title": "Atık kaynağında ayrılır, doğru kapta ve yerde bekler",
+   "bullets": [
+    "Atık türlerine göre ayrı kaplarda toplanır",
+    "Tehlikeli atık etiketli kapta bekler",
+    "Hurda uygun konteynerde toplanır",
+    "Atık alanı yangın kaynaklarından uzak olur"
+   ],
+   "steps": [
+    "Atık ve hurda yönetimine gelelim. Bu konu çoğu işyerinde 'çöp meselesi' gibi görülür, oysa tehlikeli ve çok tehlikeli işyerlerinde atığın cinsi, toplanma biçimi ve bekletilme yeri güvenlik açısından kritiktir.",
+    "Atık, kaynağında ayrıştırılmalıdır. Kâğıt, plastik, metal, talaş, yağlı bez, boya kutusu, kırık cam, pil gibi atıklar aynı kutuya atılmaz. Karışan atık hem tehlike hem de maliyet yaratır.",
+    "Tehlikeli atıklar, yani yağlı bez, boya ve çözücü artığı, kimyasal ambalaj, akü, pil gibi maddeler, özel ve etiketli kaplarda toplanır. Bunları normal çöpe ya da kanalizasyona atmak hem yasak hem de tehlikelidir.",
+    "Hurda metal ve kesik parçalar çıkıntılı ve keskin uçludur. Uygun kutu ya da konteynerde toplanmalı, yerde yığın bırakılmamalıdır. Taşırken eldiven ve uygun KKD kullanılır.",
+    "Atık alanı belirli olmalı. Yangın riski taşıyan atıklar, ısı ve kıvılcım kaynaklarından uzakta bekletilmeli, kaplar ağzı kapalı tutulmalıdır."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Atık türleri",
+   "title": "Üç tür atık, üç farklı dikkat",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1508935620299-047e0e35fbe3?w=1200",
+     "tag": "Kesici",
+     "title": "Hurda ve kırık parça",
+     "text": "Konteynerde toplayın, eldivenle taşıyın"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1722289016701-7661d52f38c5?w=1200",
+     "tag": "Tehlikeli",
+     "title": "Pil, akü, kimyasal kap",
+     "text": "Etiketli ve ayrı kapta bekletilir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=1200",
+     "tag": "Yanıcı",
+     "title": "Yağlı bez ve talaş",
+     "text": "Kapaklı metal kapta, gün sonunda boşaltılır"
+    }
+   ],
+   "steps": [
+    "Üç tür atığa kısaca bakalım.",
+    "Birincisi yağlı bez ve kâğıt. Yağ, boya ve çözücü emmiş bez, belli koşullarda kendiliğinden ısınıp tutuşabilir. Bu yüzden kapaklı, metal ve yanmaz kaplarda saklanır, günün sonunda boşaltılır.",
+    "İkincisi talaş ve toz. Ahşap ve metal talaşı, kaymaya yol açar; ahşap tozu ise ortamda birikince patlayıcı olabilir. Düzenli ve uygun yöntemle toplanmalıdır, süpürmek yerine çoğu zaman emici sistem tercih edilir.",
+    "Üçüncüsü hurda ve kırık parça. Kesici, batıcı ve ağır olduğundan kontrollü toplanmalı, elle çıplak kavranmamalıdır."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Sorumluluk",
+   "title": "Düzen herkesin işidir",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1659353586512-bcc4c7182d01?w=600",
+     "title": "İşveren",
+     "text": "Alan, ekipman ve süreyi sağlar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1768158988512-ad31657fe5b8?w=600",
+     "title": "Amir",
+     "text": "Düzeni denetler, uyarır, bildirir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1779034642860-914e59da762f?w=600",
+     "title": "Çalışan",
+     "text": "Alanı düzenli bırakır, tehlikeyi bildirir"
+    }
+   ],
+   "steps": [
+    "Düzen kimin işi? Cevap herkesin, ama herkesin payı farklı.",
+    "İşveren, düzenin sağlanması için gerekli alanı, rafı, konteyneri, işaretlemeyi ve temizlik olanaklarını sağlar. Yeterli süre ve personel ayırır. Düzensizliği 'işçinin tembelliği' sayarak geçemez.",
+    "Amir ya da ustabaşı, alanın düzenini denetler, kurala uymayanı uyarır ve eksikliği işverene bildirir. Vardiya devrinde de alanın düzenli teslimini sağlar.",
+    "Çalışan olarak siz, çalıştığınız alanı bulduğunuz hâlden iyi bırakırsınız, tehlikeyi bildirirsiniz ve talimatlara uyarsınız. Üçü birlikte çalıştığında düzen yaşar."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Vardiya devri",
+   "title": "Vardiya devrinde düzeni teslim edin",
+   "items": [
+    {
+     "title": "Alanı toplayın",
+     "text": "Alet, atık ve zemin düzenli bırakılır"
+    },
+    {
+     "title": "Durumu aktarın",
+     "text": "Arıza, bakım ve açık işi anlatın"
+    },
+    {
+     "title": "Birlikte kontrol edin",
+     "text": "Giden ve gelen alanı birlikte gezer"
+    },
+    {
+     "title": "Kaydedin",
+     "text": "Devir formu yazılır, sorunlar bildirilir"
+    }
+   ],
+   "steps": [
+    "Son konumuz vardiya devri. Birçok kaza, vardiya değişimindeki boşluktan çıkar. Önceki vardiya ne bıraktı, hangi makine arızalı, yerde ne döküldü, bunu bilmeyen yeni vardiya riske girer.",
+    "Birinci adım alanı toplamak. Giden vardiya, kendi alanını işe başlarkenki hâline getirir: aletler yerine, atıklar kaplara, zemin temiz.",
+    "İkinci adım durumu aktarmak. Hangi makine bakımda, hangi alan işaretli, kim hangi işi yarım bıraktı? Bu bilgi sözlü ve yazılı olarak yeni vardiyaya iletilir.",
+    "Üçüncü adım birlikte kontrol etmek. Giden ve gelen çalışan alanı beraber gözden geçirir, eksik varsa devir formuna yazar.",
+    "Dördüncü adım kaydetmek. Devir formu imzalanır, sorunlar amire bildirilir. Kapatılmayan açık risk varsa bu açıkça belirtilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1765021690115-08b5a1e363c0?w=2400",
+   "kicker": "Örnek olay 4",
+   "title": "Sabah vardiyasına devredilmeyen sızıntı",
+   "bullets": [
+    "Gece fark edilen sorun yazılmadı",
+    "Devir formu boşluğu kapattı"
+   ],
+   "steps": [
+    "Son örnek olay. Bir plastik enjeksiyon fabrikasında gece vardiyası biterken makine başındaki Selin, bir kalıbın sıvı yağ sızdırdığını fark ediyor. Ama saat 06.00 ve sabah vardiyası gelmek üzere. 'Zaten bir şey olmaz' diyor ve gidiyor.",
+    "Sabah vardiyasından Murat, makine başına geliyor. Yağ sızıntısından haberi yok. Makineyi çalıştırıp çevresine bakıyor, yağ zeminde bir leke bırakmış. Ayağı kayıyor, ucu ucuna makineye tutunarak düşmekten kurtuluyor.",
+    "O gün amir devir kayıtlarını inceleyince, Selin'in sızıntıyı kayda geçirmediğini fark ediyor. Selin'e kızmak yerine eksik olan bir devir formu olduğunu görüyor ve form uygulamaya konuyor.",
+    "Bir de şunu unutmayın: gördüğünüz bir sızıntıyı, arızayı ya da engeli yazılı bildirmek, sizi suçlu değil, güvenlik kültürüne katkı sağlayan kişi yapar. Dikkat ederseniz çözüm, kişiyi suçlamak değil, sistemin boşluğunu kapatmaktı. Vardiya devrinde söylenmeyen her şey, bir sonraki vardiya için bir sürpriz demektir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1743698296692-60a3867ef2b4?w=2400",
+   "kicker": "İşyerinizde bunu nasıl görürsünüz?",
+   "title": "Bugün kendi alanınıza bu gözle bakın",
+   "bullets": [
+    "Yürüdüğünüz yolda engel var mı",
+    "Acil çıkışın önü açık mı",
+    "Her aletin yeri belli mi",
+    "Atıklar doğru kapta mı",
+    "Eksik olanı amirinize bildirdiniz mi"
+   ],
+   "steps": [
+    "Dersin bu son bölümünde sizden bir şey rica ediyorum: bu ders bitince bile kendi çalışma alanınıza bir de eğitmen gözüyle bakın. Birkaç soru sorarak başlayalım; cevaplar sizi hemen harekete geçirecektir.",
+    "Şimdi kendi işyerinize dönelim. Kendinize sorun: yürüdüğüm yollarda hiç yerde kablo, hortum ya da malzeme var mı?",
+    "Acil çıkış kapısının önünü en son ne zaman kontrol ettiniz? İçeride neler duruyor, orada ne eksik, her şey yerinde mi?",
+    "Alet panonuzda her aletin bir yeri var mı? Eksik alet hemen fark ediliyor mu? Tezgâhınız ve zemininiz iş bittiğinde nasıl kalıyor?",
+    "Atıklarınız ayrı ayrı kaplarda mı toplanıyor? Yağlı bez ya da kimyasal atık için ayrı, kapaklı ve etiketli kaplar var mı?",
+    "Bu soruların bazılarının cevabı 'hayır' ise, bunu amirinize ya da işyeri güvenlik ekibine söyleyin. Sizin işyerinize özgü riskleri yüz yüze eğitimde İSG uzmanınızla ayrıca konuşacaksınız; bu derste öğrendiklerinizi o konuşmaya hazırlık olarak düşünün."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1598302936625-6075fbd98dd7?w=2400",
+   "kicker": "Kapanış özeti",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "5S düzeni kalıcı yapar",
+    "Depolama yük sınırına ve dengeye uygun yapılır",
+    "Çıkış yolları ve kaçış kapıları daima açık",
+    "Dökülen sıvı hemen işaretlenir ve temizlenir",
+    "Atık ayrılır, vardiya devri düzenle yapılır"
+   ],
+   "steps": [
+    "Dersin sonuna geldik, toparlayalım.",
+    "Düzen ve temizlik, tehlikeli ve çok tehlikeli işyerlerinde kazaların önlenmesinde ilk basamaktır. 5S yaklaşımı, düzeni kalıcı hâle getirir.",
+    "Malzeme belirlenen yerde, yük sınırına uygun ve dengeli depolanır. Yollar işaretli, aydınlık ve açık tutulur. Acil çıkış kapıları ve kaçış yolları her zaman açık ve engelsiz olmalıdır.",
+    "Yere dökülen sıvı fark edildiğinde alan uyarı ile işaretlenir ve hemen temizlenir ya da temizlenmesi sağlanır. Atıklar kaynağında ayrılır, tehlikeli atıklar etiketli kapta bekletilir.",
+    "Vardiya devrinde alanın durumu ve açık riskler yeni vardiyaya aktarılır; düzen herkesin işidir.",
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Bu derste anlattığımız bilgilerle rahatlıkla cevaplayabilirsiniz. Başarılar dilerim."
+   ]
+  }
+ ]
+}

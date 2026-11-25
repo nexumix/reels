@@ -1,0 +1,730 @@
+{
+ "code": "tc_g3",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "1. Bölüm · Genel Konular",
+ "title": "Çalışanların yasal hakları",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1665576005564-0eeaeb59ab44?w=2400",
+   "kicker": "1. Bölüm · Ders 3",
+   "title": "Çalışanların yasal hakları",
+   "subtitle": "Bilmek, hakkınızı kullanmanın ilk adımıdır",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste, işyerinde çalışan biri olarak kanunun size tanıdığı hakları konuşacağız. Tehlikeli ve çok tehlikeli işlerde çalışıyorsanız, yani şantiyede, atölyede, fabrikada ya da depoda, bu haklar sizin için çok daha önemli.",
+    "Çünkü işinizde makine, yüksek yer, ağır yük ya da kimyasal varsa, hakkınızı bilmek bazen bir kazayı önleyebilir. Hakların bir kısmı bilgi almakla ilgili, bir kısmı sağlığınızı korumakla, bir kısmı da gerektiğinde işi durdurmakla. Hepsine sırayla bakacağız."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Bilgilendirilme",
+     "text": "Risklerden ve önlemlerden haberdar olma hakkı"
+    },
+    {
+     "title": "Eğitim ve sağlık",
+     "text": "Eğitim alma, muayene ve rapor hakkı"
+    },
+    {
+     "title": "Görüş ve katılım",
+     "text": "Çalışan temsilcisi ve İSG kurulu"
+    },
+    {
+     "title": "Çalışmaktan kaçınma",
+     "text": "Ciddi ve yakın tehlikede ne yapılır"
+    },
+    {
+     "title": "Başvuru yolları",
+     "text": "Önlem alınmazsa nereye gidilir"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Bu derste beş başlığı işleyeceğiz.",
+    "Birincisi bilgilendirilme hakkı. İşyerinizdeki riskleri, alınan önlemleri ve kendi sorumluluklarınızı bilmek hakkınız.",
+    "İkincisi eğitim ve sağlık gözetimi. Eğitim almak, muayene olmak ve işinize uygun olduğunuzu gösteren raporu görmek de bu kapsamda.",
+    "Üçüncüsü görüş bildirme ve katılım. Çalışan temsilcisinin ve İSG kurulunun ne iş yaptığını anlatacağım.",
+    "Dördüncüsü, derslerin en kritiği: çalışmaktan kaçınma hakkı.",
+    "Beşincisi, önlem alınmazsa nereye başvuracağınız. Hepsini işyerinizden örneklerle konuşacağız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1622612063021-116cc3407145?w=2400",
+   "kicker": "Neden önemli",
+   "title": "Haklarınız kanunla güvence altında",
+   "bullets": [
+    "Haklar 6331 sayılı Kanunda yazılıdır",
+    "İşveren bu hakları kısıtlayamaz",
+    "Hakkı bilmek, görevi bilmekle birlikte gelir"
+   ],
+   "steps": [
+    "Önce temel bir noktayı netleştirelim. Bu haklar işverenin iyi niyetine bırakılmış nezaket kuralları değil. İş Sağlığı ve Güvenliği Kanunu, yani 6331 sayılı Kanun, bunları açıkça yazar.",
+    "Kanun, çalışanların bilgilendirilmesini, eğitilmesini, sağlık gözetimini, görüşlerinin alınmasını ve ciddi tehlikede çalışmaktan kaçınmayı ayrı ayrı düzenler.",
+    "Bir çalışan bu haklarını kullandı diye işveren onun hakkını kısıtlayamaz. Örneğin çalışan temsilcisine görevi nedeniyle baskı yapılamaz, yetkili makama başvuran çalışanın hakkı elinden alınamaz.",
+    "Ama bir not düşelim. Haklar tek başına yürümez. Bir sonraki derste göreceğimiz sorumluluklarla birlikte düşünülmeli. Hakkını bilen çalışan, görevini de bilen çalışandır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1781157080615-ffde66c035a5?w=2400",
+   "kicker": "1. hak",
+   "title": "Bilgilendirilme hakkı",
+   "bullets": [
+    "Riskleri bilmek",
+    "Önlemleri bilmek",
+    "Görevli kişileri bilmek"
+   ],
+   "steps": [
+    "İlk hakkımız bilgilendirilme. Kanuna göre işveren, çalışanları ve çalışan temsilcilerini işyerindeki sağlık ve güvenlik risklerinden haberdar etmek zorunda.",
+    "Yani çalışacağınız yerde hangi tehlikelerin olduğunu, örneğin yüksekte çalışma, sıcak metal, kimyasal buhar ya da hareketli makine, size anlatmak işverenin görevi.",
+    "Aynı şekilde, bu risklere karşı hangi koruyucu ve önleyici tedbirlerin alındığını bilmeniz gerekir. Tehlikeyi bilip önlemi bilmemek yarım bilgidir.",
+    "Son olarak, acil durumlarda, yangında, tahliyede ve ilk yardımda kimin görevli olduğunu da öğrenme hakkınız var. Kritik bir anda kime koşacağınızı bilmelisiniz."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Bilgilendirme",
+   "title": "Size neler anlatılmalı",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1786356470225-efdefbef1cf3?w=1200",
+     "title": "Riskler",
+     "text": "İşinizdeki tehlikeler ve olası sonuçları",
+     "tag": "Neyi bilmeli"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1665020070174-7a241db428cc?w=1200",
+     "title": "Önlemler",
+     "text": "Koruyucu tedbirler ve KKD kullanımı",
+     "tag": "Nasıl korunur"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1673865641073-4479f93a7776?w=1200",
+     "title": "Görevliler",
+     "text": "İlk yardım, yangın ve tahliye görevlileri",
+     "tag": "Kime başvurulur"
+    }
+   ],
+   "steps": [
+    "Bilgilendirmenin üç ana parçasını kartlarda görüyorsunuz.",
+    "Birinci kart riskler. İşyerinizdeki tehlikeler ve gerçekleşirse ne olabileceği anlatılmalı. Sadece dikkatli olun demek bilgilendirme sayılmaz.",
+    "İkinci kart önlemler. Hangi koruyucu kapağın neden orada olduğunu, hangi KKD'nin hangi iş için gerektiğini bilmelisiniz.",
+    "Üçüncü kart görevliler. Yangında, kazada ve tahliyede görevli kişileri tanımak, acil bir durumda dakikalar kazandırır."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1786356470225-efdefbef1cf3?w=2400",
+   "kicker": "Hemen",
+   "value": "Gecikmeden",
+   "title": "Ciddi ve yakın tehlikeyle karşı karşıya olan çalışan derhal bilgilendirilir",
+   "text": "Bu bilgi, yıllık bir toplantıyı ya da bir sonraki eğitimi beklemez.",
+   "steps": [
+    "Bilgilendirmede özel bir kural var. Ciddi ve yakın bir tehlikeyle karşı karşıya kalan çalışanın bu durumdan gecikmeksizin haberdar edilmesi gerekir.",
+    "Bu bilgi bir sonraki eğitimi ya da aylık toplantıyı beklemez. Mesela vardiya sırasında bir vinç halatında hasar fark edildiyse, o hattaki herkesin o anda bilgilendirilmesi lazım.",
+    "Bunu işyerinizde bir soru olarak düşünün. Bir tehlike çıktığında size en hızlı hangi yolla haber verilir? Anons, amir, uyarı levhası ya da çalışan temsilcisi. Bu cevabı bilmek de bilgilendirme hakkının parçası."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1787647561912-660e537b0c65?w=2400",
+   "kicker": "2. hak",
+   "title": "Eğitim alma hakkı",
+   "bullets": [
+    "İşe başlamadan önce",
+    "Çalışma yeri veya iş değişince",
+    "Yeni ekipman ya da teknolojide",
+    "6 aydan uzun yokluktan sonra",
+    "Ücretsiz ve çalışma süresi içinde"
+   ],
+   "steps": [
+    "İkinci hakkımız eğitim. Kanun, çalışanın işe başlamadan önce eğitilmesini zorunlu tutar. Aynı zamanda çalışma yeri ya da iş değiştiğinde de yeniden eğitim gerekir.",
+    "İlk madde işe başlamadan önce. Sahaya çıkmadan önce, işe başlama eğitimi dediğimiz ilk bilgilendirmeyi almanız gerekir.",
+    "İkinci madde yer ya da iş değişikliği. Boya hattından depoya geçtiyseniz, yeni işin riskleri için yeni eğitim almalısınız.",
+    "Üçüncü madde, ekipman ve teknoloji değişikliği. Yeni bir pres, yeni bir forklift ya da farklı bir kimyasal geldiğinde, onunla ilgili eğitim önce gelir.",
+    "Dördüncü madde, uzun yokluk. Herhangi bir nedenle altı aydan fazla işten uzak kalan çalışanlara, işe dönüşte tazeleme eğitimi verilmesi gerekir.",
+    "Beşinci madde çok önemli. Eğitim maliyeti size yansıtılamaz ve eğitim süresi çalışma süresinden sayılır. Yani eğitim için ücretinizden bir kesinti yapılamaz, eğitimde geçen zaman da mesaidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1628147529780-36964fbb8d54?w=2400",
+   "kicker": "Eğitim",
+   "title": "İşe başlama ve temel eğitim",
+   "bullets": [
+    "İşe başlama eğitimi yüz yüze",
+    "Temel eğitim ilk 3 ayda"
+   ],
+   "steps": [
+    "Eğitimin iki ayağı olduğunu bilmekte fayda var. İlki işe başlama eğitimi. Bu eğitim işe başlamadan önce verilir, en az 2 ders saatidir ve yüz yüze yapılır. Amacı, işyerine ve işe ilk gün güvenle adım atmanızı sağlamak.",
+    "İkincisi temel İSG eğitimi. Bu eğitim, işe başladıktan sonra üç ay içinde alınır. İşte şu anda izlediğiniz ders de bu eğitimin bir parçası.",
+    "Tehlikeli ve çok tehlikeli işyerlerinde, işyerinize özgü riskleri anlatan bölüm online verilmez. Onu yüz yüze eğitimde uzmanınızla birlikte konuşacaksınız. Kendi makinenizi, kendi kimyasalınızı ve kendi iş sahanızı orada ele alacaksınız.",
+    "Kendinize sorun: işe başladığınızda gerçekten bu eğitimi aldınız mı? Aldıysanız belgeniz var mı? Almadıysanız bu bir eksik, ve bunu sormak hakkınız."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Temel eğitim",
+   "title": "Tehlike sınıfına göre temel eğitim",
+   "items": [
+    {
+     "value": "12",
+     "unit": "ders saati",
+     "label": "Tehlikeli sınıf, en az"
+    },
+    {
+     "value": "2 yıl",
+     "unit": "tekrar",
+     "label": "Tehlikeli sınıfta eğitim yenilenir"
+    },
+    {
+     "value": "16",
+     "unit": "ders saati",
+     "label": "Çok tehlikeli sınıf, en az"
+    },
+    {
+     "value": "1 yıl",
+     "unit": "tekrar",
+     "label": "Çok tehlikeli sınıfta eğitim yenilenir"
+    }
+   ],
+   "steps": [
+    "Eğitim hakkının sınırlarını rakamlarla görelim. Bu rakamlar yeni Çalışanların İSG Eğitimleri Yönetmeliğine göre.",
+    "Tehlikeli sınıftaki işyerlerinde temel İSG eğitimi en az 12 ders saatidir. Bu sınıfta eğitim, her 2 yılda bir yenilenir.",
+    "Çok tehlikeli sınıfta ise süre en az 16 ders saatidir ve eğitim her yıl tekrarlanır.",
+    "Çok tehlikeli sınıf daha sık eğitim ister, çünkü kaza ve meslek hastalığı riski daha yüksektir. İnşaat, maden ve bazı kimya işleri bu gruba girer.",
+    "Bu eğitimi aldığınızda, hakkınızı kullanmış oluyorsunuz. İşyerinize özgü riskleri ise yüz yüze eğitimde uzmanınızla ayrıca konuşacaksınız."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1532635026-d12867005472?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Eğitimsiz forklift kullanımı",
+   "bullets": [
+    "Eğitim yok, yetki yok",
+    "Hak talep edildi"
+   ],
+   "steps": [
+    "Şimdi bir örnek olaya bakalım. Bir lojistik deposuna yeni giren Murat, ilk gün amirinden bir forklifti kullanması isteniyor. Murat daha önce hiç kullanmamış, işe başlama eğitimini de almamış.",
+    "Amir, acelemiz var, bir şey olmaz diyor. Murat tereddüt ediyor ama sesini çıkarmıyor. Forklifti çalıştırıp raflar arasında ilerlerken palet devriliyor. Neyse ki kimseye çarpmıyor, ama ucuz atlatılan bir olay.",
+    "Ne yapılmalıydı? Murat'ın eğitim alma hakkı var, işveren de işe başlamadan önce eğitim vermek zorunda. Murat bu hakkını hatırlatıp, eğitim ve yetki belgesi olmadan o araca binmeyeceğini söyleyebilirdi.",
+    "Bu hak sadece Murat'ı değil, rafların arasında yürüyen herkesi korur. Eğitimsiz bir operatör, bütün deponun riskidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=2400",
+   "kicker": "3. hak",
+   "title": "Sağlık gözetimi hakkı",
+   "bullets": [
+    "İşe girişte muayene",
+    "Düzenli aralıklarla kontrol",
+    "Maliyet işverene aittir"
+   ],
+   "steps": [
+    "Üçüncü hakkımız sağlık gözetimi. İşveren, çalışanları maruz kaldıkları risklere göre sağlık gözetiminden geçirmek zorundadır.",
+    "Sağlık gözetimi, işe girişte yapılan muayeneyle başlar. İşin sizin sağlığınıza uygun olup olmadığına bakılır. Tehlikeli ve çok tehlikeli işlerde, işe uygunluğunu gösteren sağlık raporu olmadan çalışmaya başlatılmak olmaz.",
+    "Sonrasında muayeneler belirli aralıklarla tekrarlanır. Bu süre, işin tehlike sınıfına ve çalışanın maruz kaldığı riske göre belirlenir.",
+    "Bu muayenelerin masrafı işverene aittir. Size yansıtılamaz. Sağlık bilgileriniz de gizli tutulur, herkese açık bir liste gibi dolaşmaz."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1673865641073-4479f93a7776?w=2400",
+   "kicker": "Gizlilik",
+   "value": "Gizli",
+   "title": "Sağlık verileriniz sizin kişisel bilginizdir",
+   "text": "Sağlık gözetimi kayıtları gizli tutulur, herkesin göreceği yere asılmaz.",
+   "steps": [
+    "Sağlık gözetimi konusunda çok sorulan bir şey var: işveren hastalıklarımı öğrenecek mi? Kanun, sağlık gözetimi kayıtlarının gizli tutulmasını öngörür.",
+    "Muayene bilgileriniz işyeri hekiminde kalır. İşveren ise işe uygunluk sonucunu dikkate alarak işi düzenler. Hekimin görevi sizi korumak, sizi şikâyet etmek değil.",
+    "Bu güven duygusu önemli. Çünkü çalışan hekime dürüst konuşmazsa, ne gürültüden kaynaklanan işitme kaybı ne de kimyasalın yol açtığı deri sorunu zamanında fark edilir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Muayene",
+   "title": "Ne zaman muayene olursunuz",
+   "items": [
+    {
+     "title": "İşe girişte",
+     "text": "Rapor olmadan tehlikeli işe başlanmaz"
+    },
+    {
+     "title": "İş değişikliğinde",
+     "text": "Yeni işin riskleri farklı olabilir"
+    },
+    {
+     "title": "Dönüşte",
+     "text": "Kaza, hastalık ya da uzun izin sonrası"
+    },
+    {
+     "title": "Periyodik",
+     "text": "Bakanlıkça belirlenen aralıklarla"
+    }
+   ],
+   "steps": [
+    "Muayenelerin hangi durumlarda yapıldığını sırayla görelim.",
+    "Birincisi işe girişte. Tehlikeli ve çok tehlikeli işlerde, çalışan sağlık raporu olmadan işe başlatılamaz. Rapor işyeri hekiminden alınır.",
+    "İkincisi iş değişikliğinde. Kaynak atölyesinden boyahaneye geçen çalışan, farklı bir riske maruz kalacağı için yeniden değerlendirilir.",
+    "Üçüncüsü dönüşte. Bir iş kazası, meslek hastalığı ya da sağlık nedeniyle uzun süre işten uzak kalan çalışan, isterse işe dönüşte muayene olabilir.",
+    "Dördüncüsü periyodik muayene. Gürültü, toz ya da kimyasal gibi riskler varsa muayene aralığı kısalır. Bu aralıklar yönetmelikle düzenlenir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1665020070174-7a241db428cc?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Boya atölyesinde öksürük",
+   "bullets": [
+    "Belirti ihmal edildi",
+    "Muayene ile fark edildi"
+   ],
+   "steps": [
+    "Bir örnek daha. Bir mobilya fabrikasının boya atölyesinde çalışan Fatma, birkaç aydır sabahları öksürüyor, nefesi daralıyor. Ama rapor çıkmasın, işten ayrılmak zorunda kalmayayım diye kimseye bir şey söylemiyor.",
+    "Periyodik muayene günü işyeri hekimi, Fatma'nın şikâyetini fark ediyor. Akciğer fonksiyon testi yapılıyor. Boya buharı ve tozun akciğere etkisi görülüyor.",
+    "Atölyede havalandırma yeniden gözden geçiriliyor, Fatma'ya uygun solunum maskesi veriliyor. Erken fark edildiği için durum ilerlemeden kontrol altına alınıyor.",
+    "Dersi ne? Muayene hakkınız, hastalığı erken yakalamak için var. Hekime anlatmak, işinizi kaybetmenize değil, sağlığınızı korumanıza yarar."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru ve yanlış",
+   "title": "Sağlık gözetiminde tutum",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1673865641073-4479f93a7776?w=1200",
+     "title": "Açık ve dürüst olun",
+     "text": "Öksürük, nefes darlığı, işitme sorunu gibi belirtileri hekime anlatın.",
+     "ok": true
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1754666104636-bd983a5ad660?w=1200",
+     "title": "Belirtiyi saklamayın",
+     "text": "Rapor çıkmaz diye şikâyeti gizlemek, hastalığın ilerlemesine yol açar.",
+     "ok": false
+    }
+   ],
+   "steps": [
+    "Sağlık gözetimi bir hak, ama bu hakkın faydası sizin katılımınıza bağlı.",
+    "Doğru tutum açık olmak. Öksürük, nefes darlığı, kulakta çınlama ya da ciltte tahriş gibi bir şey fark ederseniz, bunu işyeri hekimine anlatmalısınız. Çünkü erken fark edilen sorun, çoğu zaman geri döndürülebilir.",
+    "Yanlış tutum ise belirtiyi saklamak. İşten çıkarılırım ya da rapor çıkmaz diye şikâyeti gizleyen çalışan, hastalığı ilerlettiği gibi aynı ortamdaki arkadaşlarını da riske sokabilir. Sağlık bilgileriniz gizlidir, bunun için de güvendesiniz."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1758691462123-8a17ae95d203?w=2400",
+   "kicker": "Ara özet",
+   "title": "Şimdiye kadar öğrendiklerimiz",
+   "bullets": [
+    "Riskleri, önlemleri ve görevlileri bilme hakkınız var",
+    "Eğitim ücretsizdir ve çalışma süresinden sayılır",
+    "Altı aydan uzun yokluktan sonra tazeleme eğitimi gerekir",
+    "Sağlık gözetimi masrafı işverene aittir"
+   ],
+   "steps": [
+    "Yarı yolu geçtik, kısa bir özet yapalım.",
+    "Birincisi, işveren sizi risklerden, önlemlerden ve acil durum görevlilerinden haberdar etmek zorunda.",
+    "İkincisi, eğitim işe başlamadan önce, iş değişince ve yeni ekipman geldiğinde verilir. Eğitim ücretsizdir ve çalışma süresinden sayılır. Altı aydan uzun yokluktan sonra tazeleme eğitimi gerekir.",
+    "Üçüncüsü, sağlık gözetimi. Muayene masrafı işverene aittir ve tehlikeli işlerde rapor olmadan işe başlanmaz.",
+    "Şimdi geri kalan haklara geçiyoruz. Sıra görüş bildirme, katılım ve çalışmaktan kaçınma hakkında."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1787647559651-feeb17fb13d1?w=2400",
+   "kicker": "4. hak",
+   "title": "Görüş bildirme ve katılım hakkı",
+   "bullets": [
+    "Danışılma hakkı",
+    "Öneride bulunma hakkı",
+    "Çalışan temsilcisi aracılığıyla katılım"
+   ],
+   "steps": [
+    "Dördüncü hakkımız görüş bildirme ve katılım. İşyerinde alınan kararlar sizi doğrudan etkiliyor. O yüzden kanun, çalışanın da söz sahibi olmasını ister.",
+    "Danışılma hakkı şu demek. İşveren, risk değerlendirmesi, önleme tedbirleri ve eğitim planı gibi konularda çalışan temsilcilerinin görüşünü almak zorundadır.",
+    "Öneri hakkı da var. Bir iş akışında tehlike görüyorsanız, çözüm önerinizi temsilciniz aracılığıyla işverene iletebilir ve tedbir alınmasını isteyebilirsiniz.",
+    "Katılım ise çalışan temsilcisi ve İSG kurulu üzerinden olur. Şimdi bu iki yapıya yakından bakalım."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Temsil",
+   "title": "Sesinizi duyuran yapılar",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1622612063021-116cc3407145?w=1200",
+     "title": "Çalışan temsilcisi",
+     "text": "Çalışanlar adına İSG konularında işverenle konuşur"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1787647561912-660e537b0c65?w=1200",
+     "title": "İSG kurulu",
+     "text": "İşveren, uzman, hekim ve temsilcinin bir araya geldiği yapı"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1673865641073-4479f93a7776?w=1200",
+     "title": "İşyeri hekimi",
+     "text": "Sağlık gözetimini yürütür, belirtilerinizi dinler"
+    }
+   ],
+   "steps": [
+    "Üç yapıyı sırayla tanıyalım.",
+    "Çalışan temsilcisi, sizin adınıza konuşan kişidir. İşyerindeki çalışanlar arasından seçilir ya da seçim mümkün değilse atanır. Önlem önerebilir, işverenden bunların alınmasını isteyebilir.",
+    "İSG kurulu, işveren ya da vekili, İSG uzmanı, işyeri hekimi, insan kaynakları ya da idari işlerden sorumlu kişi, ustabaşı ve çalışan temsilcisinden oluşur. Kurul, işyerindeki iş sağlığı ve güvenliği konularını karara bağlar.",
+    "İşyeri hekimi de sizin doğrudan başvurabileceğiniz bir kaynak. Sağlık şikâyetlerinizi ona iletebilirsiniz."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Temsilci sayısı",
+   "title": "Çalışan sayısına göre temsilci",
+   "items": [
+    {
+     "value": "1",
+     "unit": "temsilci",
+     "label": "2 ile 50 çalışan"
+    },
+    {
+     "value": "2",
+     "unit": "temsilci",
+     "label": "51 ile 100 çalışan"
+    },
+    {
+     "value": "3",
+     "unit": "temsilci",
+     "label": "101 ile 500 çalışan"
+    },
+    {
+     "value": "4",
+     "unit": "temsilci",
+     "label": "501 ile 1000 çalışan"
+    }
+   ],
+   "steps": [
+    "Kaç temsilci olacağı, işyerinin büyüklüğüne bağlı. Tabloda ilk dört basamağı görüyorsunuz.",
+    "İki ile elli arasında çalışanı olan işyerinde bir çalışan temsilcisi bulunur.",
+    "Elli bir ile yüz çalışan arasında iki temsilci olur.",
+    "Yüz bir ile beş yüz arasında üç temsilci seçilir.",
+    "Beş yüz bir ile bin arasında dört temsilci olur. Bin birin üzerinde sayı beşe, iki bin birin üzerinde altıya çıkar."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1644522248824-ed975fd9ee81?w=2400",
+   "kicker": "İSG kurulu",
+   "title": "Kurul ne zaman kurulur",
+   "bullets": [
+    "50 ve üzeri çalışan",
+    "6 aydan uzun süren sürekli iş"
+   ],
+   "steps": [
+    "Peki kurul her işyerinde var mı? Hayır. İSG kurulu, elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde kurulur.",
+    "Yani kırk beş kişilik küçük bir atölyede kurul olmaz. Orada işveren çalışan temsilcisiyle konuşur. Ama elli kişilik bir fabrikada kurul zorunludur.",
+    "Altı aydan kısa süren geçici işler, mesela kısa süreli bir tadilat, bu kapsamın dışında kalır. Şantiyenizde çalışan sayısına ve işin süresine göre durumunuz değişebilir. Bu konuyu yüz yüze eğitimde uzmanınıza sorabilirsiniz.",
+    "Kurul olmasa bile işyeriniz çalışan temsilcisi konusunda yükümlüdür. Yani elli kişiden az çalışan olan yerde de sesinizi duyuracak bir temsilci bulunur. İki ya da daha fazla çalışanı olan her işyerinde en az bir temsilci vardır. Bu kişinin kim olduğunu bilmek, haklarınızı kullanmanın ilk adımıdır."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1636362006544-22445420703f?w=2400",
+   "kicker": "Toplantı sıklığı",
+   "value": "Her ay",
+   "title": "Kurul, tehlike sınıfına göre düzenli toplanır",
+   "text": "Tehlikeli sınıfta en az iki ayda bir, az tehlikelide üç ayda bir toplanır.",
+   "steps": [
+    "Kurul ne sıklıkla toplanır? Yönetmelik bunu tehlike sınıfına göre belirler. Kurul, belirli bir plan dahilinde, az tehlikeli sınıfta üç ayda bir, tehlikeli sınıfta iki ayda bir toplanır.",
+    "Çok tehlikeli sınıfta ise kurul her ay toplanır. Bunun nedeni basit: riskin yüksek olduğu yerde konuşmalar da sık olmalı. Toplantı tarihlerini kurul üyelerinden öğrenebilirsiniz. Gündemi de önceden duyurulur.",
+    "Ölümlü kaza, uzuv kaybı ya da ciddi bir olay olursa, olağanüstü toplantı da yapılır. Bir üye talep etse yeter. Kurul kararları, tutanağa imzalandığında işverene bildirilmiş sayılır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1636362556682-11231883c01c?w=2400",
+   "kicker": "5. hak",
+   "title": "Çalışmaktan kaçınma hakkı",
+   "bullets": [
+    "Ciddi ve yakın tehlike",
+    "Önce kurul ya da işveren",
+    "Ücret ve haklar saklı"
+   ],
+   "steps": [
+    "Şimdi dersin en kritik konusuna geldik: çalışmaktan kaçınma hakkı. Bu hak, hayati risk olduğunda kullanabileceğiniz en güçlü araç.",
+    "Ciddi ve yakın tehlike derken kastedilen, işin o anda sizin ya da arkadaşlarınızın hayatını ya da sağlığını ciddi biçimde tehdit etmesi. Üstü açık bir çukur, korkuluksuz çatı kenarı ya da gaz kaçağı gibi.",
+    "Kanun, böyle durumda çalışanın kurula, kurul olmayan işyerlerinde işverene başvurmasını ister. Kurul ya da işveren tehlikenin varlığını değerlendirir ve karar verir.",
+    "Karar çalışan lehineyse, tedbirler alınana kadar çalışmaktan kaçınabilirsiniz. Bu süre boyunca ücretiniz ve diğer hakların aynen saklı kalır. Yani hak kaybı olmaz, işten de çıkarılamazsınız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1748640857973-93524ef0fe7d?w=2400",
+   "kicker": "Ciddi ve yakın tehlike",
+   "title": "Ciddi ve yakın tehlike nasıl anlaşılır",
+   "bullets": [
+    "Ciddi: ölüm ya da kalıcı zarar riski",
+    "Yakın: her an gerçekleşebilir",
+    "Hemen önlem gerekir",
+    "Normal işin riskinden farklıdır"
+   ],
+   "steps": [
+    "Çalışmaktan kaçınma hakkını doğru kullanmak için ciddi ve yakın tehlikeyi iyi tanımak lazım.",
+    "Ciddi, sonucunun ağır olması demek. Ölüm, uzuv kaybı ya da kalıcı yaralanma ihtimali gibi.",
+    "Yakın, bu sonucun her an gerçekleşebilecek kadar yaklaşmış olması demek. Birkaç gün sonra olabilecek bir şey yakın değildir.",
+    "Bu durumda beklemek de mümkün değildir. Çünkü önlem alınması gereken an, tehlikenin başladığı andır.",
+    "Son olarak, işin doğal riski ile ciddi ve yakın tehlike aynı şey değil. Kaynak yapmak risklidir ama koruyucular yerindeyse bu bir ciddi ve yakın tehlike sayılmaz. Gaz kaçağı varken kaynak yapmak ise sayılır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Adım adım",
+   "title": "Çalışmaktan kaçınma süreci",
+   "items": [
+    {
+     "title": "Tehlikeyi fark edin",
+     "text": "Ciddi ve yakın bir tehlike var mı"
+    },
+    {
+     "title": "Güvenli yere çekilin",
+     "text": "Gerekirse alanı hemen terk edin"
+    },
+    {
+     "title": "Başvurun",
+     "text": "Kurula ya da kurul yoksa işverene"
+    },
+    {
+     "title": "Karar bekleyin",
+     "text": "Kurul hemen toplanır, tutanak tutulur"
+    },
+    {
+     "title": "Yazılı bildirim",
+     "text": "Karar size ve temsilciye yazılı verilir"
+    }
+   ],
+   "steps": [
+    "Süreci beş adımda özetleyelim.",
+    "Birinci adım, tehlikeyi fark etmek. Gördüğünüz şey gerçekten ciddi ve yakın mı, onu değerlendirin.",
+    "İkinci adım, güvenli yere çekilmek. Kanun, çalışanın bir tehlike halinde, başvuru sürecini beklemeden güvenli bir yere gitmesine izin verir. Bu durumda hakları kısıtlanamaz.",
+    "Üçüncü adım başvuru. Kurulu olan işyerlerinde kurula, olmayanlarda işverene başvurursunuz ve durumun tespit edilmesini, gerekli kararın verilmesini istersiniz.",
+    "Dördüncü adım karar. Kurul, işveren çalışan başvurusunu aldığında derhal toplanır, tehlikeyi inceler, tutanak tutar.",
+    "Beşinci adım, kararın yazılı olarak çalışana ve çalışan temsilcisine bildirilmesi. Karar sizin lehinize olursa, önlem alınana kadar çalışmaktan kaçınabilirsiniz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1626471671222-9d89fe4c2668?w=2400",
+   "kicker": "Dikkat",
+   "title": "Çalışmaktan kaçınma hakkının sınırları",
+   "bullets": [
+    "Bahane değil, gerçek tehlike için",
+    "Karar yazılı verilir",
+    "Kaçınılan sürede ücret ödenir",
+    "Önlem alınmazsa fesih hakkı doğar"
+   ],
+   "steps": [
+    "Bu hakkın doğru kullanılması önemli. Çünkü her rahatsızlık, her yorgunluk bu kapsama girmez.",
+    "Hak, gerçek bir ciddi ve yakın tehlike için var. Canım istemiyor, hava soğuk ya da iş yorucu diye kullanılan bir şey değil.",
+    "Kurulun ya da işverenin kararı yazılı verilir. Bu kararda, çalışanın çalışmaktan kaçınıp kaçınamayacağı açıkça belirtilir.",
+    "Çalışmaktan kaçındığınız süre içinde, ücretiniz ve kanundan ve iş sözleşmesinden doğan diğer haklarınız ödenmeye devam eder.",
+    "Eğer tehlike giderilmezse ve talebinize rağmen önlem alınmazsa, kanun çalışana iş sözleşmesini sona erdirme yolunu da açar. Bu çok uç bir seçenek ve mutlaka hukuki destekle değerlendirilmelidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1636362006544-22445420703f?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Korkuluksuz iskele",
+   "bullets": [
+    "Eksik korkuluk",
+    "Temsilciye bildirim",
+    "Kurul kararı"
+   ],
+   "steps": [
+    "İkinci örnek olayımız bir inşaat şantiyesinden. Ahmet usta ve ekibi, dördüncü kat cephesinde boya işi yapıyor. İskelenin bir bölümünde korkuluk yok, tahta döşeme de yer yer gevşemiş.",
+    "Ahmet usta durumu şantiye şefine söylüyor. Şef, bugün bitirmemiz lazım, dikkatli olun diyor. Ahmet usta işi bırakıp önce çalışan temsilcisine gidiyor. Temsilci durumu yazılı olarak kuruldan istiyor.",
+    "Kurul aynı gün toplanıyor, iskeleyi inceliyor ve işin tedbirler alınana kadar durdurulması yönünde karar veriyor. Karar ekibe yazılı bildiriliyor, korkuluklar tamamlanıyor, döşeme yenileniyor.",
+    "Bu süre içinde ekibin günlük ücretinden kesinti yapılmıyor. Ahmet usta hem kendini hem arkadaşlarını korudu, üstelik hakkını usulüne uygun kullandı."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru ve yanlış",
+   "title": "Tehlike karşısında tutum",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1748640857973-93524ef0fe7d?w=1200",
+     "title": "Güvenli yere çekil, bildir",
+     "text": "Alanı terk edin, temsilciye ya da kurula başvurun.",
+     "ok": true
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1579107821380-a2f5df32d67f?w=1200",
+     "title": "Sessizce devam etme",
+     "text": "Tehlikeyi görüp çalışmaya devam etmek, ya da sadece arkadaşa söylemek yetmez.",
+     "ok": false
+    }
+   ],
+   "steps": [
+    "Şimdi iki farklı tutumu karşılaştıralım.",
+    "Doğru tutum, tehlikeyi görünce güvenli bir yere çekilmek ve durumu hemen bildirmek. Çalışan temsilcisine, kurula ya da kurul yoksa işverene.",
+    "Yanlış tutum, tehlikeyi gördüğü halde kimseye söylemeden çalışmaya devam etmek. Ya da sadece yanındaki arkadaşa mırıldanıp geçmek. Bu hem sizi hem ekibi riske atar, ayrıca hakkınızı da kullanmamış olursunuz."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Önlem alınmazsa",
+   "title": "Başvuru yolları",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1787647561912-660e537b0c65?w=1200",
+     "title": "İSG kurulu",
+     "text": "Kurul olan işyerinde ilk adres",
+     "tag": "Kurul"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1622612063021-116cc3407145?w=1200",
+     "title": "İşveren",
+     "text": "Kurul yoksa doğrudan işverene başvurulur",
+     "tag": "İşveren"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?w=1200",
+     "title": "Yetkili makam",
+     "text": "Önlem yetersizse Bakanlığa başvuru yapılabilir",
+     "tag": "Bakanlık"
+    }
+   ],
+   "steps": [
+    "Önlem alınmazsa nereye başvurulur? Üç yolu kartlarda görüyorsunuz.",
+    "Birincisi kurul. İşyerinizde İSG kurulu varsa önce oraya gidersiniz. Kurul derhal toplanmak zorunda.",
+    "İkincisi işveren. Kurulun olmadığı işyerlerinde başvurunuzu doğrudan işverene yaparsınız.",
+    "Üçüncüsü yetkili makam. Alınan önlemler yetersizse, Çalışma ve Sosyal Güvenlik Bakanlığına, yani iş müfettişliğine başvurabilirsiniz. Alo 170 hattı bunun en bilinen yolu. Bu başvuruyu yaptığınız için hakkınız kısıtlanamaz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=2400",
+   "kicker": "İpucu",
+   "title": "Hakkınızı kullanırken kayıt tutun",
+   "bullets": [
+    "Tarih, saat ve yer yazın",
+    "Mümkünse yazılı başvurun",
+    "Temsilciyi sürece dahil edin"
+   ],
+   "steps": [
+    "Bir pratik ipucu verelim. Bir güvenlik sorununu bildirdiğinizde, kayıt oluşturmak hem sizi hem işvereni korur.",
+    "Neyi, nerede, hangi tarihte ve saatte gördüğünüzü kısa bir notla yazın. Belirsiz bir şikâyet, belirli bir şikâyetten çok daha zor çözülür.",
+    "Mümkünse başvurunuzu yazılı yapın ve bir kopyasını saklayın. Yazılı başvuru, ne zaman ve kime bildirildiğini gösterir.",
+    "Çalışan temsilcinizi de sürece dahil edin. Onun adına yapılan bildirim daha etkili olur ve sizin baskı altında kalma riskinizi azaltır."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Kime söylerim",
+   "title": "Aklınıza takılanı kime iletirsiniz",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1622612063021-116cc3407145?w=1200",
+     "title": "Çalışan temsilciniz",
+     "text": "Her konuda ilk durak, adınıza işverene taşır"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1644522248824-ed975fd9ee81?w=1200",
+     "title": "Amiriniz ya da ustabaşınız",
+     "text": "Günlük işte anında düzeltme için"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1673865641073-4479f93a7776?w=1200",
+     "title": "İşyeri hekimi ve uzman",
+     "text": "Sağlık ve teknik sorularda başvuru adresi"
+    }
+   ],
+   "steps": [
+    "Hakkınızı kullanmak için bazen büyük bir resmi süreç gerekmez. Günlük hayatta kime ne söyleyeceğinizi bilmek yetebilir.",
+    "Çalışan temsilciniz ilk durak olabilir. Özellikle işveren ya da amirle doğrudan konuşmakta zorlanıyorsanız, sizin adınıza yazılı bildirim yapabilir.",
+    "Amiriniz ya da ustabaşınız, günlük işte hızlı çözüm için ideal kişi. Kırık bir kapak, eksik bir uyarı levhası ya da dağınık bir yol bu şekilde hemen düzelebilir.",
+    "İşyeri hekimi ve İSG uzmanı da sağlık ve teknik konularda size açık kapı olmalı. Onların adını ve ulaşma yolunu bildiğinizden emin olun."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?w=2400",
+   "kicker": "Güvence",
+   "title": "Hakkınızı kullandınız diye ceza almazsınız",
+   "bullets": [
+    "Temsilci haklarına dokunulamaz",
+    "Başvuru nedeniyle hak kısıtlanamaz"
+   ],
+   "steps": [
+    "Çoğu çalışanın aklında şu soru var: şikâyet edersem işimden olur muyum? Kanun bu endişeyi önceden düşünmüş.",
+    "Çalışan temsilcilerinin ve destek elemanlarının, görevlerini yürütmeleri nedeniyle hakları kısıtlanamaz. İşveren de onlara görevleri için gerekli kolaylığı sağlamak zorundadır.",
+    "Yetkili makama başvuran çalışanın hakları da kısıtlanamaz. Yani önlemlerin yetersiz olduğunu bildirmek, hak kaybı sebebi olamaz.",
+    "Yine de emin olamadığınız bir durumda, çalışan temsilcinizle ya da yüz yüze eğitimde İSG uzmanınızla konuşun. Yanınızda yol gösterecek insanlar var."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1754666104636-bd983a5ad660?w=2400",
+   "kicker": "Kendinize sorun",
+   "title": "İşyerinizde haklarınız nasıl işliyor",
+   "bullets": [
+    "Temsilciniz kim",
+    "Son eğitiminizi ne zaman aldınız",
+    "Acil durumda kime koşarsınız"
+   ],
+   "steps": [
+    "Dersi bitirmeden önce, işyerinizi düşünerek dürüst bir kontrol yapalım. Cevapları kendinize söyleyin.",
+    "Çalışan temsilcinizin kim olduğunu biliyor musunuz? Ona nasıl ulaşacağınızı? Bilmiyorsanız, bu hafta öğrenin.",
+    "Son İSG eğitiminizi ne zaman aldınız? Yeni bir makineye geçtiğinizde ya da iş değiştirdiğinizde ek eğitim verildi mi? Çok tehlikeli sınıftaysanız eğitiminiz yılda bir yenilenmeli, tehlikeli sınıftaysanız iki yılda bir.",
+    "Acil bir durumda, örneğin yangında ya da kazada, kime koşacağınızı biliyor musunuz? İlk yardımcı ve yangın ekibindeki kişileri tanıyor musunuz?",
+    "Bu soruların hepsine evet diyebiliyorsanız, haklarınız işyerinizde iyi işliyor demektir. Bazılarına hayır diyorsanız, bu ders size nereye başvuracağınızı gösterdi."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1455165814004-1126a7199f9b?w=2400",
+   "kicker": "Sık yapılan hatalar",
+   "title": "Haklar konusunda yaygın yanlışlar",
+   "bullets": [
+    "Eğitimi mesai dışında almak",
+    "Raporsuz işe başlamak",
+    "Tehlikeyi sadece sözle söylemek",
+    "Temsilcinizi tanımamak"
+   ],
+   "steps": [
+    "Şimdi sahada en sık gördüğümüz dört yanlışı sıralayalım. Bunları bilmek, hakkınızı kaybetmemenizi sağlar.",
+    "Birincisi, eğitimi mesai dışında almak. Çalışan, eğitimin bitiminde evine geç gidiyorsa ya da hafta sonu çağrılıyorsa, eğitim süresinin çalışma süresinden sayılması gerektiğini hatırlatmalı.",
+    "İkincisi, raporsuz işe başlamak. Tehlikeli sınıfta, sağlık raporu olmadan işe başlatılmak hem sizin hem işverenin aleyhinedir. Hızlı başlayalım diye bu adım atlanmamalı.",
+    "Üçüncüsü, tehlikeyi sadece sözle söylemek. Kulağınıza gelen bir uyarı unutulabilir. Yazılı ya da çalışan temsilcisi üzerinden iletilen bildirim kayda geçer.",
+    "Dördüncüsü, çalışan temsilcisini tanımamak. Çoğu işyerinde temsilcinin kim olduğunu bilmeyen çalışan vardır. Bu hakkı ilk kullanacağınız günden önce temsilcinizin adını öğrenin."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1781157080615-ffde66c035a5?w=2400",
+   "kicker": "Kapanış özeti",
+   "title": "Dersin özeti",
+   "bullets": [
+    "Bilgilendirme, eğitim ve sağlık gözetimi sizin hakkınız",
+    "Çalışan temsilcisi ve İSG kurulu sesinizi duyurur",
+    "50 çalışan ve 6 ay üzeri işyerlerinde kurul kurulur",
+    "Ciddi ve yakın tehlikede başvurun, ücretiniz saklıdır"
+   ],
+   "steps": [
+    "Dersi toparlayalım.",
+    "Bilgilendirilmek, eğitim almak ve sağlık gözetimi altında olmak sizin hakkınız. Bunların masrafı ve zamanı size yüklenemez.",
+    "Çalışan temsilcisi ve İSG kurulu, sesinizi işverene taşıyan yapılar. İSG kurulu elli ve üzeri çalışanı olan, altı aydan uzun süren sürekli işlerde kurulur.",
+    "Ciddi ve yakın bir tehlikede güvenli yere çekilin, kurula ya da işverene başvurun. Karar lehinize olursa, çalışmaktan kaçındığınız sürede ücretiniz ve diğer haklarınız saklıdır.",
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Bu derste öğrendiklerinizi test ederken rahat olun. Haklarınızı bilen çalışan, daha güvenli bir işyerinin en önemli parçasıdır. Teşekkürler."
+   ]
+  }
+ ]
+}

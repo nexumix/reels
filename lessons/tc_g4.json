@@ -1,0 +1,710 @@
+{
+ "code": "tc_g4",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "1. Bölüm · Genel Konular",
+ "title": "Çalışanların yasal sorumlulukları",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1781157080615-ffde66c035a5?w=2400",
+   "kicker": "1. Bölüm · Ders 4",
+   "title": "Çalışanların yasal sorumlulukları",
+   "subtitle": "Güvenlik hem hak hem görevdir",
+   "steps": [
+    "Merhaba, hoş geldiniz. Geçen derste çalışanların haklarını konuştuk. Bu derste madalyonun öbür yüzüne bakıyoruz: çalışanların yasal sorumlulukları.",
+    "Tehlikeli ve çok tehlikeli işyerlerinde, yani şantiyede, atölyede, fabrikada ya da depoda, bir kişinin dikkatsizliği sadece kendini değil, yanındaki arkadaşını da etkiler. O yüzden sorumluluklarınızı bilmek, hem sizi hem ekibinizi korur. Ezber yapmayacağız, gerçek örneklerle ilerleyeceğiz."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Talimatlara uyum",
+     "text": "Eğitim ve işveren talimatlarına göre çalışmak"
+    },
+    {
+     "title": "Ekipman ve KKD",
+     "text": "Makineyi doğru kullanmak, donanımı bozmamak"
+    },
+    {
+     "title": "Bildirim",
+     "text": "Tehlikeyi ve eksikleri gecikmeden iletmek"
+    },
+    {
+     "title": "İş birliği",
+     "text": "İşveren, temsilci ve denetçiyle birlikte çalışmak"
+    },
+    {
+     "title": "Hukuki sonuçlar",
+     "text": "Sorumluluk ihlalinin iş hukukundaki karşılığı"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamız. Beş durağımız var.",
+    "İlk durak, eğitime ve talimatlara uygun çalışmak. İkinci durak makine, ekipman ve KKD kullanımı, özellikle güvenlik donanımlarını devre dışı bırakmamak.",
+    "Üçüncü durak tehlikeyi bildirmek. Dördüncü durak iş birliği, yani işveren, çalışan temsilcisi ve denetçilerle birlikte hareket etmek.",
+    "Beşinci durak ise sorumluluk ihlal edilirse ne olur sorusu. Burada iş hukukunun sonuçlarına bakacağız.",
+    "Bütün bunları tehlikeli işlerden örneklerle, kaynak atölyesinden forklift sahasına kadar anlatacağım.",
+    "Hazırsanız başlayalım."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1622612063021-116cc3407145?w=2400",
+   "kicker": "Temel ilke",
+   "title": "Güvenlik ortak bir iştir",
+   "bullets": [
+    "İşverenin yükümlülükleri vardır",
+    "Çalışanın da yükümlülükleri vardır",
+    "Hareketleriniz başkalarını da etkiler"
+   ],
+   "steps": [
+    "6331 sayılı İş Sağlığı ve Güvenliği Kanunu, güvenliği tek taraflı bir yük olarak görmez. İşverene ağır yükümlülükler yükler, ama çalışana da görevler verir.",
+    "İşveren eğitim vermek, ekipmanı sağlamak, önlem almak zorunda. Bu sizin hakkınız, geçen derste görmüştük.",
+    "Çalışan ise bu önlemlerin işe yaraması için gerekeni yapmak zorunda. En güzel koruyucu kapak, sökülmüşse bir işe yaramaz. En iyi eğitim, uygulanmazsa boşa gider.",
+    "Kanunun bu konudaki ifadesi çok açık. Çalışanlar, kendilerinin ve hareketlerinden ya da yaptıkları işten etkilenen diğer kişilerin sağlık ve güvenliğini tehlikeye düşürmemekle yükümlü."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1636362556682-11231883c01c?w=2400",
+   "kicker": "Kimleri etkilersiniz",
+   "value": "Herkes",
+   "title": "Yaptığınız işten etkilenen herkes sizin sorumluluk alanınızdadır",
+   "text": "Aynı vardiyadaki arkadaşınız, alt işveren çalışanı, ziyaretçi ve sonraki vardiya.",
+   "steps": [
+    "Kanundaki ifade ilginç: çalışan, kendisinin ve hareketlerinden ya da yaptığı işten etkilenen diğer kişilerin sağlık ve güvenliğini tehlikeye düşürmemekle yükümlüdür.",
+    "Bu sadece yan yana çalışan arkadaşınız değil. İskelede sizin altınızdan geçen biri, atölyeye teslimat için gelen şoför, hatta bir sonraki vardiyada makineyi devralacak arkadaşınız da bu kapsamda.",
+    "Yüksekte çalışırken bir cıvatayı aşağı düşürmek, forklift ile dönerken arkaya bakmamak, ya da kaynak kıvılcımını yanıcı malzemenin yanına saçmak başkalarını da etkiler. O yüzden dikkat, sadece kendimize değil, çevremize de yöneliktir.",
+    "Bunu işyerinizde düşünün. Bugün yaptığım işin sonucundan kimler etkilenebilir? Bu soruyu sormak, sorumluluğun ilk adımıdır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1628147529780-36964fbb8d54?w=2400",
+   "kicker": "1. sorumluluk",
+   "title": "Eğitime ve talimatlara uymak",
+   "bullets": [
+    "Aldığınız eğitimi uygulayın",
+    "Yazılı ve sözlü talimata uyun",
+    "Emin değilseniz sorun"
+   ],
+   "steps": [
+    "Birinci sorumluluk, eğitim ve işverenin talimatları doğrultusunda çalışmak. Kanun bunu açıkça ister.",
+    "Bu şu demek. Eğitimde öğrendiğiniz sıra, yöntem ve kuralları sahada da uygularsınız. Eğitimde forklift yüklü iken yokuşta dönmeyi öğrenmediyseniz, sahada da dönmezsiniz.",
+    "Talimat yazılı olabilir, sözlü olabilir. İş izin formu, makine üzerindeki işaret, kilitleme prosedürü ya da amirin verdiği güvenlik uyarısı, hepsi talimat sayılır.",
+    "Talimatı anlamadıysanız ya da güvenli olmadığını düşünüyorsanız, işe başlamadan sorun. Sormak zayıflık değil, sorumluluktur."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Talimat türleri",
+   "title": "Hangi talimatlar bağlayıcıdır",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1786356470225-efdefbef1cf3?w=1200",
+     "title": "Levha ve işaretler",
+     "text": "Uyarı, yasak ve zorunluluk işaretleri",
+     "tag": "Görsel"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=1200",
+     "title": "İş izni ve prosedür",
+     "text": "Sıcak çalışma, kapalı alan, kilitleme gibi yazılı kurallar",
+     "tag": "Yazılı"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1787647559651-feeb17fb13d1?w=1200",
+     "title": "Amir ve eğitim notları",
+     "text": "Vardiya başı toplantı ve günlük güvenlik uyarıları",
+     "tag": "Sözlü"
+    }
+   ],
+   "steps": [
+    "Talimat deyince akla sadece amirin sözü gelmesin. Üç ana türü görelim.",
+    "Birincisi levha ve işaretler. Kırmızı yasak, mavi zorunluluk, sarı uyarı işaretleri sessiz talimatlardır. Çoğu kaza, okunmayan bir levhanın yanında olur.",
+    "İkincisi yazılı kurallar. Kaynak ya da kesme gibi sıcak işlerde, kapalı alanda ve bakım sırasında enerjiyi kesmede iş izni ve prosedürler vardır. Bunlara uymadan işe başlanmaz.",
+    "Üçüncüsü sözlü talimat ve eğitim notları. Vardiya başındaki kısa uyarı ya da araç trafiğinin değiştiğini söyleyen bir not da bağlayıcıdır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1748640857973-93524ef0fe7d?w=2400",
+   "kicker": "2. sorumluluk",
+   "title": "Makine ve ekipmanı doğru kullanmak",
+   "bullets": [
+    "Yetkiniz olmayan makineye dokunmayın",
+    "Kullanım kılavuzuna ve eğitime uyun",
+    "Arızalı ekipmanı kullanmayın",
+    "Çalışma sonrası güvenli duruma getirin"
+   ],
+   "steps": [
+    "İkinci sorumluluk makine, alet, tesis ve taşıma araçlarını doğru kullanmak. Tehlikeli işlerde çoğu ağır kaza tam burada yaşanır.",
+    "Birinci kural yetki. Yetkiniz ve eğitiminiz olmayan makineye dokunmayın. Pres, testere, tezgah ya da forklift için eğitim ve yetki belgesi gerekir.",
+    "İkinci kural, kılavuz ve eğitime uymak. Üretici, makineyi nasıl kullanacağınızı yazmıştır. Daha hızlı bitirmek için usulünü değiştirmek, riski de değiştirir.",
+    "Üçüncü kural, arızalı ekipmanı kullanmamak. Çatlak bir taş, yıpranmış bir halat ya da kablosu sıyrılmış bir el aleti, sizi de ekibi de tehlikeye atar. Etiketleyin ve bildirin.",
+    "Dördüncü kural, işi bitirdiğinizde makineyi güvenli duruma getirmek. Enerjiyi kesmek, kilitlemek, temizlemek ve bir sonraki vardiyaya anlaşılır bir not bırakmak."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1579107821380-a2f5df32d67f?w=2400",
+   "kicker": "Kritik kural",
+   "value": "Yasak",
+   "title": "Güvenlik donanımlarını kendi isteğinizle devre dışı bırakmak yasaktır",
+   "text": "Koruyucu kapak, emniyet şalteri, ışık perdesi ve acil durdurma sökülemez, bypass edilemez.",
+   "steps": [
+    "Şimdi en önemli kurallardan birine geldik. Kanun, çalışanın makinelerdeki güvenlik donanımlarını kendi keyfiyle çıkarmasını ya da değiştirmesini yasaklar.",
+    "Güvenlik donanımı derken neyi kastediyoruz? Koruyucu kapakları, emniyet şalterlerini, ışık perdelerini, sensörleri, iki elle kumanda düzenini, acil durdurma düğmelerini.",
+    "Bu parçalar işi yavaşlatmak için değil, uzvunuzu korumak için orada. İşi hızlandırmak için kapağı sökmek ya da şalteri bantla basılı tutmak, kazaya davetiye çıkarmaktır.",
+    "Bir donanım gerçekten işi engelliyor ya da bozuksa, çözüm onu bypass etmek değil, bildirmek ve düzeltilmesini istemektir."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru ve yanlış",
+   "title": "Koruyucu kapak karşısında tutum",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1579107821380-a2f5df32d67f?w=1200",
+     "title": "Kapak yerinde çalış",
+     "text": "Bakım gerekiyorsa enerjiyi kesin, kilitleyin, sonra açın.",
+     "ok": true
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1668140736531-d23950307b3c?w=1200",
+     "title": "Kapağı sökmek",
+     "text": "Hızlanmak ya da kolaylık için kapağı çıkarıp çalışmak ağır yaralanma riskidir.",
+     "ok": false
+    }
+   ],
+   "steps": [
+    "Bir torna ya da pres başında düşünelim. Bu iki tutumu karşılaştıralım.",
+    "Doğru tutum, kapak yerindeyken çalışmak. Temizlik ya da bakım için kapağın açılması gerekiyorsa, önce makinenin enerjisi kesilir, kilitlenir ve etiketlenir. Ancak o zaman kapak açılır.",
+    "Yanlış tutum, parça takılıyor ya da yavaşlıyor diye kapağı sökmek, sonra yerine takmamak. Bir vardiyada yapılan bu küçük kolaylık, bir sonraki vardiyada başkasının eline mal olabilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=2400",
+   "kicker": "Sıcak çalışma",
+   "title": "İş izni ve yangın önlemi",
+   "bullets": [
+    "İzinsiz kaynak yapılmaz",
+    "Yanıcıları uzaklaştırın",
+    "Yangın söndürücü hazır olsun"
+   ],
+   "steps": [
+    "Kaynak, kesme, taşlama gibi kıvılcım çıkaran işlere sıcak çalışma diyoruz. Bu işlerde sorumluluk, genellikle yazılı bir iş izni ile başlar.",
+    "İş izni olmadan başlamak, hem sizi hem tüm tesisi tehlikeye atar. İzin formunda neyin kontrol edileceği yazar: yanıcı malzeme var mı, havalandırma yeterli mi, yangın söndürücü hazır mı.",
+    "İşe başlamadan önce çevredeki yanıcı malzemeleri uzaklaştırın ya da koruyun. İş bittikten sonra da bir süre yangın gözetimi yapın, çünkü kıvılcım yarım saat sonra bile yangın çıkarabilir.",
+    "Bu sorumluluklar sadece kaynakçıya ait değil. Aynı alanda çalışan ve yanıcı malzeme taşıyan herkesin dikkat etmesi gerekir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1579107821380-a2f5df32d67f?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Sökülen koruyucu kapak",
+   "bullets": [
+    "Hızlanma isteği",
+    "Eli makineye kapıldı",
+    "Soruşturma ve sonuç"
+   ],
+   "steps": [
+    "Bir metal işleme atölyesinden gerçekçi bir örnek olay anlatayım. Usta Hasan, işleri yetiştirmek için tezgahın koruyucu kapağını çıkarıp bir kenara koyuyor. Böylece parçaları daha hızlı değiştirebiliyor.",
+    "Birkaç gün sorunsuz geçiyor. Bir akşam, yorgun bir anda parçayı düzeltmeye çalışırken eli dönen mile yaklaşıyor ve eldiveni kapılıyor. Neyse ki makine acil durdurma ile hemen durduruluyor ve yaralanma hafif atlatılıyor.",
+    "İşyerinde yapılan incelemede, kapağın Hasan'ın isteğiyle sökülmüş olduğu anlaşılıyor. Bu hem kazanın bir nedeni olarak kayıtlara geçiyor, hem de kendisi için iş hukukunda ciddi bir sorun yaratıyor. Bunu dersin ilerleyen bölümünde göreceğiz.",
+    "Ders şu: hız kazandıran her kısayol, güvenlik kazancını yok etmişse, kısayol değildir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1748640857973-93524ef0fe7d?w=2400",
+   "kicker": "Bakım ve onarım",
+   "title": "Kilitle etiketle uygulamasına uymak",
+   "bullets": [
+    "Bakımdan önce enerjiyi kesin",
+    "Kendi kilidinizi kendiniz takın",
+    "Etiket koyun ve doğrulayın",
+    "Başkasının kilidini açmayın"
+   ],
+   "steps": [
+    "Makine bakımı, tehlikeli işlerde en riskli anlardan biridir. Bu yüzden kilitle ve etiketle uygulaması, çalışanın önemli sorumluluklarından biridir.",
+    "Birinci adım, bakıma ya da temizliğe başlamadan önce makinenin enerjisini kesmek. Elektrik, hava ve hidrolik, hepsi.",
+    "İkinci adım, kendi kilidinizi kendiniz takmak. Çünkü işin içindeyken makineyi çalıştırabilecek biri olursa, kaza kaçınılmaz olur. Anahtar sizde olduğu sürece makine güvende.",
+    "Üçüncü adım, etiket koymak ve makinenin gerçekten durduğunu denemek. Butona basın, hiçbir şey olmuyorsa güvendesiniz.",
+    "Dördüncü kural, başkasının kilidini asla açmamak. Kilit sahibi işini bitirip kendi kilidini almadan, makine yeniden çalıştırılmaz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1643704169438-efd6d5707214?w=2400",
+   "kicker": "3. sorumluluk",
+   "title": "KKD'yi doğru kullanmak ve korumak",
+   "bullets": [
+    "Verilen KKD'yi iş boyunca kullanın",
+    "Uygun beden ve tipte olmasına dikkat edin",
+    "Kullanmadan önce kontrol edin",
+    "Hasarlı olanı bildirin ve değiştirin"
+   ],
+   "steps": [
+    "Üçüncü sorumluluk, kişisel koruyucu donanımı, yani KKD'yi doğru kullanmak ve korumak. Baret, gözlük, kulak koruyucu, eldiven, solunum maskesi, emniyet kemeri gibi.",
+    "Birinci kural, KKD'yi iş boyunca kullanmak. Kaynak yaparken 'sadece iki dakika' diye gözlüğü çıkarmak, bir ömür sürecek göz hasarına yol açabilir.",
+    "İkinci kural, size uygun olanı kullanmak. Büyük gelen eldiven, makineye kapılma riskini artırır, bol gelen maske de hava sızdırır. Uygun olmuyorsa söyleyin.",
+    "Üçüncü kural, kullanmadan önce kontrol etmek. Baretteki çatlak, emniyet kemerindeki yıpranma, filtrenin süresi gibi şeyleri her vardiya başında göz atın.",
+    "Dördüncü kural, hasarlı KKD'yi kullanmamak ve bildirmek. Yenisi işverenin sorumluluğundadır, ücretsiz verilir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Uygulama",
+   "title": "KKD'yi her vardiya böyle kullanın",
+   "items": [
+    {
+     "title": "Doğru olanı seç",
+     "text": "İşin riskine uygun KKD'yi alın"
+    },
+    {
+     "title": "Kontrol et",
+     "text": "Çatlak, yırtık ve süre doldu mu bakın"
+    },
+    {
+     "title": "Doğru tak",
+     "text": "Gevşek ya da yamuk olmasın"
+    },
+    {
+     "title": "İş boyunca kullan",
+     "text": "Kısa süreli işlerde de çıkarmayın"
+    },
+    {
+     "title": "Bakımı yap",
+     "text": "Temiz saklayın, hasarlıyı bildirin"
+    }
+   ],
+   "steps": [
+    "KKD kullanımını beş adıma indirelim.",
+    "Önce doğru olanı seçin. Kaynak için kaynak maskesi, gürültü için kulak koruyucu, boya için solunum koruyucu gibi. Yanlış KKD, yok demektir.",
+    "Sonra kontrol edin. Çatlak, yırtık ya da süresi dolmuş bir ekipmanla çalışmak, KKD'siz çalışmaktan bile aldatıcı olabilir.",
+    "Üçüncüsü doğru takın. Baret çenelikle sabitlenmeli, gözlük yüze oturmalı, emniyet kemeri sabitleme noktasına bağlanmalı.",
+    "Dördüncüsü iş boyunca kullanın. Kısa süreli işlerde bile çıkarmayın. Çoğu kaza kısa süreli işte olur.",
+    "Beşincisi bakım ve bildirim. Temiz saklayın, hasar gördüyse söyleyin."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1665020070174-7a241db428cc?w=2400",
+   "kicker": "Ara özet",
+   "title": "Şimdiye kadar öğrendiklerimiz",
+   "bullets": [
+    "Eğitim ve talimatlara uygun çalışmak zorundasınız",
+    "Yetkisiz makineye dokunmayın, arızalıyı kullanmayın",
+    "Güvenlik donanımı kendi isteğinizle devre dışı bırakılamaz",
+    "KKD'yi doğru kullanıp korumak sizin görevinizdir"
+   ],
+   "steps": [
+    "Kısa bir ara özet yapalım.",
+    "Birincisi, eğitim ve talimatlara uygun çalışmak. Yazılı, sözlü, levha ve işaret şeklinde gelen hepsi geçerlidir.",
+    "İkincisi, makine ve ekipmanı yetkinizle ve doğru şekilde kullanmak, arızalıyı kullanmamak.",
+    "Üçüncüsü, güvenlik donanımlarını, yani kapakları, şalterleri, sensörleri keyfi şekilde devre dışı bırakmamak.",
+    "Dördüncüsü, KKD'yi doğru kullanmak ve korumak.",
+    "Şimdi sırada bildirim ve iş birliği sorumluluğu var."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1759733440040-d608027b62e3?w=2400",
+   "kicker": "4. sorumluluk",
+   "title": "Tehlikeyi gecikmeden bildirmek",
+   "bullets": [
+    "Ciddi ve yakın tehlike",
+    "Koruma eksiklikleri",
+    "İşverene ya da çalışan temsilcisine"
+   ],
+   "steps": [
+    "Dördüncü sorumluluk, tehlikeyi bildirmek. Kanun, çalışanın ciddi ve yakın tehlike ile koruma tedbirlerindeki eksiklikleri gecikmeksizin işverene ya da çalışan temsilcisine bildirmesini ister.",
+    "Neden önemli? Çünkü sahadaki tehlikeyi çoğu zaman ilk siz görürsünüz. Çatlayan bir halat, akan bir hidrolik yağ, işlemeyen bir acil durdurma, korkuluğu eksik bir platform.",
+    "Ya hiç kimse söylemezse? O tehlike, bir sonraki vardiyada başka birinin karşısına çıkar. Bildirmeyen çalışan, bilmeden bir arkadaşının kazasına zemin hazırlamış olur.",
+    "Gecikmeksizin ifadesine dikkat. Hemen bildirmek demek, vardiya sonuna kadar beklememek, 'yarın söylerim' dememek demek."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1759733440040-d608027b62e3?w=2400",
+   "kicker": "Hatırlatma",
+   "value": "Bildirim",
+   "title": "Bildirmek ihbar değil, iş arkadaşlığıdır",
+   "text": "Kanun, çalışanı bildirdiği için korur; çalışan temsilcisi ve başvuran çalışan hakları kısıtlanamaz.",
+   "steps": [
+    "Bazı çalışanlar, bildirmeyi ispiyonculuk gibi görür. Oysa bir tehlikeyi bildirmek, arkadaşınızı kazadan korumaktır.",
+    "Kanun, bu konuda çalışanı korur. Yetkili makama başvuran çalışanın hakları kısıtlanamaz, çalışan temsilcisi de görevi nedeniyle baskı göremez.",
+    "Bildirim kültürü güçlü olan işyerlerinde kaza sayısı düşer, çünkü sorunlar büyümeden çözülür. Böyle bir kültürün parçası olmak, sizin elinizde.",
+    "Şu soruyu da kendinize sorun: dün gördüğüm tehlikeyi bildirdim mi? Bildirmediysem bugün bildirmek için geç değil.",
+    "Unutmayın, sahadaki gözünüz, kurulun ya da uzmanın göremediği yerleri görür. Bu yüzden sizin bildiriminiz, işyerinin güvenlik sisteminin en değerli parçalarından biridir. Ne kadar küçük görünürse görünsün, söyleyin. Sessiz kalmanın bedelini çoğu zaman başkası öder, bu bedel de çoğunlukla çok ağırdır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Kaza anında",
+   "title": "Bir olay olursa çalışan ne yapar",
+   "items": [
+    {
+     "title": "Kendini koru",
+     "text": "Önce kendi güvenliğinizi sağlayın"
+    },
+    {
+     "title": "Makineyi durdur",
+     "text": "Tehlike kaynağını güvenle kesin"
+    },
+    {
+     "title": "Yardım çağır",
+     "text": "Amire, ilk yardımcıya, gerekirse 112"
+    },
+    {
+     "title": "İlk yardım yap",
+     "text": "Eğitiminiz varsa ve güvenliyse"
+    },
+    {
+     "title": "Olayı bildir",
+     "text": "Alanı değiştirmeden anlatın"
+    }
+   ],
+   "steps": [
+    "Bir kaza ya da yaralanma olursa çalışan nasıl davranmalı? Beş adımda toplayalım.",
+    "Birinci adım, kendi güvenliğinizi sağlamak. Yaralıya koşarken siz de yaralanırsanız, iki yaralı olur.",
+    "İkinci adım, tehlike kaynağını durdurmak. Makinenin acil durdurma düğmesine basmak, enerjiyi kesmek gibi.",
+    "Üçüncü adım yardım çağırmak. Amiri, ilk yardımcıyı, gerekiyorsa 112'yi arayın.",
+    "Dördüncü adım, ilk yardım eğitiminiz varsa ve ortam güvenliyse yardım etmek. Bilmiyorsanız, yaralıyı hareket ettirmeden yardım bekleyin.",
+    "Beşinci adım, olayı bildirmek. Mümkünse alanı değiştirmeden, gördüklerinizi doğru ve eksiksiz anlatın. Bu bilgi, kazanın nedeninin bulunması için çok önemlidir."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Kime bildirilir",
+   "title": "Bildirim kanalları",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1644522248824-ed975fd9ee81?w=1200",
+     "title": "Amir ya da usta",
+     "text": "Anında müdahale için ilk adres"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1622612063021-116cc3407145?w=1200",
+     "title": "Çalışan temsilcisi",
+     "text": "Yazılı bildirim ve takip için güvenli yol"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1673865641073-4479f93a7776?w=1200",
+     "title": "İşyeri hekimi ve uzman",
+     "text": "Sağlık ve risk şikâyetleri için başvuru"
+    }
+   ],
+   "steps": [
+    "Bildirimi nereye yapacaksınız? Üç kanalı görelim.",
+    "İlk adres amir ya da usta. Yıpranmış bir ekipman ya da dökülen yağ gibi acil şeyleri o an çözmek en kolay onunla.",
+    "İkinci adres çalışan temsilcisi. Eğer sorun çözülmüyorsa, ya da amire söylemek zor geliyorsa, temsilciniz yazılı bildirim yapabilir ve takip edebilir.",
+    "Üçüncü adres işyeri hekimi ve İSG uzmanı. Kimyasalın kokusu, kulak çınlaması, deri tahrişi gibi sağlık belirtilerini ya da teknik risk kaygılarınızı onlara iletin."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru ve yanlış",
+   "title": "Ramak kala olayı karşısında",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=1200",
+     "title": "Hemen bildir",
+     "text": "Kimse yaralanmasa da kayda geçirin, kök nedeni bulunsun.",
+     "ok": true
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1754666104636-bd983a5ad660?w=1200",
+     "title": "Önemsememek",
+     "text": "Sorun olmadı deyip geçmek, aynı olayı bir gün yaralanmaya çevirir.",
+     "ok": false
+    }
+   ],
+   "steps": [
+    "Ramak kala olay, yani yaralanmasız atlatılan kaza, bir uyarıdır. Bu uyarıya nasıl yanıt verdiğimiz çok önemli.",
+    "Doğru tutum, ne kadar küçük olursa olsun hemen bildirmek. Bildirilen olay kayda geçer, nedeni araştırılır ve düzeltici önlem alınır.",
+    "Yanlış tutum, bir şey olmadı deyip geçmek ya da azar işiteceğim diye gizlemek. Gizlenen her ramak kala olay, bir sonraki ağır kazanın provasıdır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1532635042-a6f6ad4745f9?w=2400",
+   "kicker": "Dikkat",
+   "title": "Dikkat dağıtıcılar ve çalışma düzeni",
+   "bullets": [
+    "Telefon ve kulaklık",
+    "Yorgunluk ve acele",
+    "Alkol ve ilaç etkisi"
+   ],
+   "steps": [
+    "Güvenlik sorumluluğunun bir bölümü, dikkatinizi korumaktır. Tehlikeli işte bir saniyelik dalgınlık, ağır sonuçlar doğurabilir.",
+    "Telefon ve kulaklık, forklift, vinç ve makine başında en yaygın dikkat dağıtıcılardır. Kulaklıkla çalışan biri uyarı sesini ya da yaklaşan aracı duymayabilir.",
+    "Yorgunluk ve acele de benzer şekilde reaksiyon süresini uzatır. Uyku düzeninizi korumak, molaları kullanmak, bir anlamda iş güvenliği önlemidir.",
+    "Alkol, uyuşturucu ve bazı ilaçlar da dikkat ve reaksiyonu bozar. Kullandığınız bir ilacın uyuşukluk yapıp yapmadığını hekiminize sorun ve gerekiyorsa amirinize ya da işyeri hekimine bildirin. Bu konuyu sağlık derslerinde daha ayrıntılı göreceğiz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1787647561912-660e537b0c65?w=2400",
+   "kicker": "5. sorumluluk",
+   "title": "İşveren ve çalışan temsilcisiyle iş birliği",
+   "bullets": [
+    "Sağlık ve güvenlik çalışmalarına katılın",
+    "Denetimlerde iş birliği yapın",
+    "Tespit edilen eksiklerin giderilmesine yardımcı olun"
+   ],
+   "steps": [
+    "Beşinci sorumluluk iş birliği. Kanuna göre çalışanlar, işyerinde sağlık ve güvenliği sağlamak için işveren ve çalışan temsilcisiyle iş birliği yapmak zorundadır.",
+    "Bu, risk değerlendirmesine görüş vermek, tatbikatlara katılmak, kurul kararlarına uymak anlamına gelir. Sahadaki işi en iyi siz bildiğiniz için, katkınız çok değerlidir.",
+    "Denetim sırasında da iş birliği beklenir. İş müfettişi ya da işyeri denetçisi geldiğinde bilgi vermek, sorulara doğru yanıt vermek sizin göreviniz.",
+    "Son olarak, denetimde tespit edilen eksiklerin giderilmesinde de işverene destek olmak gerekir. Güvenlik takım çalışmasıdır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1764115424769-ebdd2683d5a8?w=2400",
+   "kicker": "Bilgi",
+   "title": "Eğitimden sonra da sorumluluk sürer",
+   "bullets": [
+    "Eğitime katılmak görevdir",
+    "Öğrendiğinizi sahada uygulayın",
+    "Yeni riskte yeniden sorun"
+   ],
+   "steps": [
+    "Eğitime katılmak da bir sorumluluk. Eğitim size verilen bir hak olduğu gibi, katılmak ve öğrenmek de görevinizdir.",
+    "Ama asıl önemli kısım, eğitimden sonra başlar. Öğrendiğiniz kuralları sahada her gün uygulamak gerekir. Eğitimde dinlediğiniz forklift kuralı, vardiyada acele ettiğinizde unutulursa, eğitim boşa gitmiş olur.",
+    "İş değiştirdiğinizde, yeni bir makineye geçtiğinizde ya da yeni bir kimyasalla çalışmaya başladığınızda, yeni risk için yeniden eğitim isteyin. Çünkü önceki bilgi, yeni işi karşılamayabilir.",
+    "Unutmayın, işveren size eğitim vermek zorunda, ama o eğitimden sonra sahada sorumluluk almak sizin göreviniz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1787647559651-feeb17fb13d1?w=2400",
+   "kicker": "Yüz yüze eğitim",
+   "title": "İşyerinize özgü sorumluluklar",
+   "bullets": [
+    "Kendi makinelerinizin kuralları",
+    "Kendi iş izni ve prosedürleriniz",
+    "Acil durum görevleriniz"
+   ],
+   "steps": [
+    "Bu derste genel sorumlulukları konuştuk. Ama her işyerinin kendine özgü kuralları var.",
+    "Sizin makinelerinizin kullanım kuralları, hangi alanda hangi KKD'nin zorunlu olduğu, hangi işin hangi izne bağlı olduğu, işyerinizin prosedürlerinde yazar.",
+    "Acil durum görevleriniz de farklıdır. Yangında toplanma yeri neresi, ilk yardım kimde, kimler tahliyeden sorumlu, bunları yüz yüze eğitimde uzmanınızla konuşacaksınız.",
+    "Soruları şimdiden toplayın. Hangi makinede kapak sorunu var, hangi KKD uygun değil, hangi işte talimat belirsiz. Yüz yüze eğitim, bunları sormak için ideal fırsat."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1532635026-d12867005472?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Forklift sahasında telefon",
+   "bullets": [
+    "Dikkat dağınıklığı",
+    "Yaya yoluna girme",
+    "Paylaşılan sorumluluk"
+   ],
+   "steps": [
+    "Bir depodan örnek olay. Forklift operatörü Kemal, yüklü bir palet taşırken telefonuna gelen mesaja bakıyor. Bir an gözünü yoldan ayırıyor ve yaya yoluna giriyor.",
+    "Yaya yolunda yürüyen depo çalışanı Ayşe, son anda kenara atlıyor. Palet devriliyor, Ayşe'nin ayağı hafif sıyrılıyor. İş durduruluyor, olay tutanakla kayda geçiyor.",
+    "İncelemede hem Kemal'in kuralı ihlali, yani çalışma sırasında telefonla ilgilenmesi, hem de işverenin yaya ve araç yollarını yeterince ayırmamış olması tartışılıyor. Kusur, olayın şartlarına göre yetkili merciler tarafından belirleniyor.",
+    "Ama temel ders şu: Kemal'in sorumluluğu, kendisi için de ciddi sonuçlar doğurabilirdi. Çünkü talimata aykırı davranarak hem kendini hem başkasını tehlikeye attı."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=2400",
+   "kicker": "İş hukuku",
+   "value": "Fesih",
+   "title": "Güvenliği isteyerek ya da ihmalle tehlikeye düşürmek haklı fesih nedenidir",
+   "text": "4857 sayılı İş Kanunu madde 25/II-ı: işçinin isteği ya da işini ihmal etmesi sonucu işin güvenliğini tehlikeye düşürmesi.",
+   "steps": [
+    "Şimdi sorumluluğun ihlal edilmesinin hukuki sonuçlarına bakalım. İlk olarak iş hukukunda ne olur?",
+    "4857 sayılı İş Kanununun 25. maddesi, işverenin iş sözleşmesini haklı nedenle derhal feshedebileceği halleri sayar. Bunlardan biri, işçinin isteği ya da işini ihmal etmesi sonucu işyerindeki işin güvenliğini tehlikeye düşürmesidir.",
+    "Haklı nedenle fesihte, işveren ihbar süresine uymak zorunda değildir ve işçiye kıdem tazminatı da ödenmez. Yargıtay kararlarında, güvenlik kurallarına aykırı davranışta önceden ihtara gerek olmayabileceği ve kazanın gerçekleşmesinin de şart olmadığı kabul edilmiştir.",
+    "Yani bir çalışan, hiç kimseye zarar vermeden bile, sadece güvenliği tehlikeye attığı için işini kaybedebilir. Bu yüzden talimatlara uymak sadece bir görev değil, işinizi korumanın da yoludur."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Sonuçlar",
+   "title": "Sorumluluk ihlalinin yansımaları",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?w=1200",
+     "title": "İş hukuku",
+     "text": "İşveren haklı nedenle sözleşmeyi feshedebilir",
+     "tag": "Fesih"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1754666104636-bd983a5ad660?w=1200",
+     "title": "Kusur ve tazminat",
+     "text": "Kazada çalışanın kusuru tazminattan indirim sebebi olabilir",
+     "tag": "Tazminat"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1786356470225-efdefbef1cf3?w=1200",
+     "title": "Ceza hukuku",
+     "text": "Başkasının yaralanmasına yol açan ihmal cezai sorumluluk doğurabilir",
+     "tag": "Ceza"
+    }
+   ],
+   "steps": [
+    "Bir güvenlik ihlalinin sonuçlarını üç başlıkta toplayalım.",
+    "Birincisi iş hukuku. Az önce gördüğümüz gibi, güvenliği tehlikeye düşüren davranış, haklı nedenle fesih sebebi olabilir.",
+    "İkincisi kusur ve tazminat. Bir iş kazasında çalışanın da kusuru varsa, bu kusur, ödenecek tazminattan indirim yapılmasına yol açabilir. Ancak işverenin sorumluluğu bu nedenle ortadan kalkmaz. Kusur oranını mahkeme ve bilirkişi belirler.",
+    "Üçüncüsü ceza hukuku. Başka bir çalışanın yaralanmasına ya da ölümüne ihmalinizle sebep olduysanız, kusurunuz oranında cezai sorumluluğunuz olabilir. Ayrıca kanunda, çalışanlar için de idari para cezası hükümleri bulunur."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1626471671222-9d89fe4c2668?w=2400",
+   "kicker": "Dengeli bakış",
+   "title": "Sorumluluk karşılıklıdır",
+   "bullets": [
+    "İşveren önce önlemini almak zorundadır",
+    "Çalışan talimatı uygulamak zorundadır",
+    "Kusur olayın bütününe göre değerlendirilir",
+    "Bildirmek sizi korur"
+   ],
+   "steps": [
+    "Bu bölümde yanlış anlaşılmaması gereken bir şey var. Sorumluluk, tek taraflı bir suçlama değildir.",
+    "Önce işveren eğitim, ekipman ve önlemi sağlamakla yükümlüdür. Çalışan eğitimsiz, koruyucusuz, kapaksız bir makinede çalıştırılıyorsa, olayın sorumlusu önce işverendir.",
+    "Çalışan da kendisine verilen eğitim ve talimata uymak zorundadır. İkisi birlikte işleyince güvenli bir işyeri ortaya çıkar.",
+    "Bir kaza olursa, kusur yalnızca tek kişiye bakılarak değil, olayın bütününe bakılarak belirlenir. Bu işi uzmanlar, müfettişler ve mahkemeler yapar.",
+    "Ve bildirim, sizi korur. Eksik koruma tedbirini zamanında bildirdiğinizi gösteren bir kayıt, olası bir tartışmada sizin lehinize olur."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1626471671222-9d89fe4c2668?w=2400",
+   "kicker": "Sık hatalar",
+   "title": "Sahada en sık görülen sorumluluk ihlalleri",
+   "bullets": [
+    "Baret, gözlük, eldivenin çıkarılması",
+    "Emniyet kemerinin bağlanmaması",
+    "Koruyucu kapağın sökülmesi",
+    "Arızayı bildirmeden işe devam etmek"
+   ],
+   "steps": [
+    "Sahada en sık gördüğümüz ihlalleri sıralayalım. Hepsi tanıdık gelecektir.",
+    "Birincisi, kısa süreli bir iş için KKD'yi çıkarmak. Baretini, gözlüğünü ya da eldivenini iki dakika diye bırakmak. Kaza iki dakikayı bekler.",
+    "İkincisi, yüksekte emniyet kemerini bağlamamak ya da sabitleme noktasına bağlamadan çalışmak. Düşme, tehlikeli işlerdeki ölümlü kazaların başında gelir.",
+    "Üçüncüsü, koruyucu kapağın sökülmesi ya da bypass edilmesi. Bunu zaten ayrıntılı konuştuk.",
+    "Dördüncüsü, bir arızayı bildirmeden çalışmaya devam etmek. Söylerim, uğraştırır diye düşünmek, bir başkasının yaralanmasına sebep olabilir."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Tehlikeli işlerden örnekler",
+   "title": "Meslekler ve sorumluluklar",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1455165814004-1126a7199f9b?w=1200",
+     "title": "Kaynakçı",
+     "text": "İş izni, yangın tedbiri, gözlük ve havalandırma"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1532635042-a6f6ad4745f9?w=1200",
+     "title": "Forklift operatörü",
+     "text": "Yetki belgesi, yaya yolu, hız ve yük sınırı"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1636362006544-22445420703f?w=1200",
+     "title": "İnşaat çalışanı",
+     "text": "Emniyet kemeri, korkuluk ve iskele kullanımı"
+    }
+   ],
+   "steps": [
+    "Şimdi mesleklere göre sorumluluk örneklerine bakalım.",
+    "Kaynakçı için sorumluluk, sıcak çalışma iznini almak, yanıcı malzemeyi uzaklaştırmak, gözlük ve havalandırma kullanmaktır. Kıvılcım düşecek alana bakmadan kaynak yapmak, yangın ve patlama riskidir.",
+    "Forklift operatörü için sorumluluk, eğitimini ve yetki belgesini taşımak, yaya yollarında yavaş gitmek, yük sınırına uymak, vardiya başı kontrol yapmaktır.",
+    "İnşaat çalışanı için sorumluluk, yüksekte çalışırken emniyet kemerini bağlamak, korkuluksuz bölgeye girmemek, iskeleye izinsiz müdahale etmemektir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1689942010216-dc412bb1e7a9?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Vardiya devrinde söylenmeyen uyarı",
+   "bullets": [
+    "Raf güvenliği",
+    "Bildirim yapılmadı",
+    "Sonraki vardiya etkilendi"
+   ],
+   "steps": [
+    "Son bir örnek olay. Bir depoda gece vardiyasında çalışan Selim, rafın bir ayağının forklift çarpmasıyla hasar gördüğünü fark ediyor. Ama sabah vardiyası geliyor diye uzatmak istemiyor, kimseye söylemeden çıkıyor.",
+    "Sabah vardiyasında rafa palet yerleştirilirken raf eğiliyor. Palet devriliyor, kimse yaralanmıyor ama yoğun bir ürün zararı oluşuyor. İncelemede Selim'in bu durumu bildirmediği anlaşılıyor.",
+    "Selim, kimseye zarar vermemiş olsa da, bildirim sorumluluğunu yerine getirmemiş. İşyerinde bu durum için tutanak tutuluyor ve olay kurulda görüşülüyor.",
+    "Ders çok basit: Gördüğünüzü, vardiya bitmeden, yazılı ya da sözlü olarak, ama mutlaka bildirin. Bildirim, bir sonraki vardiyadaki arkadaşınıza hediyenizdir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1622612063021-116cc3407145?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Doğru davranan çalışan",
+   "bullets": [
+    "Eksik fark edildi",
+    "Hemen bildirildi",
+    "Kaza önlendi"
+   ],
+   "steps": [
+    "Her örnek olay kötü bitmek zorunda değil. Şimdi doğru davranışın nasıl sonuç verdiğini görelim. Bir inşaat şantiyesinde çalışan Osman, sabah vardiyasında vinç halatındaki bir telin koptuğunu fark ediyor.",
+    "Osman, işi bitireyim diye beklemiyor. Vinç operatörüne ve şantiye şefine durumu hemen söylüyor, halatın altına kimsenin girmemesini istiyor. Vinç çalışması durduruluyor, halat değiştiriliyor.",
+    "O gün kimse yaralanmıyor. Osman'ın bildirimi kayda geçiyor ve şantiyede halat kontrolü haftalık listeye ekleniyor.",
+    "Bu davranış hem kanundaki bildirim sorumluluğunu yerine getirmek hem de arkadaşlarını korumak demek. Sorumluluk, böyle bir anda anlam kazanıyor."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1754666104636-bd983a5ad660?w=2400",
+   "kicker": "Pratik",
+   "title": "Gün içinde sorumluluk alışkanlıkları",
+   "bullets": [
+    "Vardiya başında ekipmanı ve KKD'yi kontrol edin",
+    "Kısayol ararken durup kendinize sorun",
+    "Gördüğünüzü gecikmeden bildirin",
+    "Yeni gelen arkadaşınıza yol gösterin"
+   ],
+   "steps": [
+    "Sorumluluk büyük sözlerle değil, küçük alışkanlıklarla yaşanır. Dört alışkanlık önerelim.",
+    "Birincisi, vardiya başı kontrol. Makinenin kapakları yerinde mi, acil durdurma çalışıyor mu, KKD sağlam mı? Beş dakika sürer ama saatlerce koruma sağlar.",
+    "İkincisi, kısayol ararken durmak. Bu işi daha hızlı yapmak için bir güvenlik önlemini atlıyorsam, ben ne yapıyorum diye sorun.",
+    "Üçüncüsü, gördüğünüzü gecikmeden bildirmek. Dökülen yağ, kopuk kablo, eksik levha. Küçük gelen şey, bir başkasının büyük kazası olabilir.",
+    "Dördüncüsü, yeni arkadaşa yol göstermek. Yeni gelen çalışan, tehlikeyi bilmeyebilir. Ona işyerinin kurallarını göstermeniz, hem onu hem sizi korur."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1781157080615-ffde66c035a5?w=2400",
+   "kicker": "Kapanış özeti",
+   "title": "Dersin özeti",
+   "bullets": [
+    "Eğitim ve talimatlara uygun çalışın",
+    "Güvenlik donanımlarını asla devre dışı bırakmayın",
+    "Tehlikeyi gecikmeden işverene ya da temsilciye bildirin",
+    "İhlalin iş hukukunda haklı fesih dahil sonuçları olabilir"
+   ],
+   "steps": [
+    "Dersi toparlayalım.",
+    "Güvenlik hem işverenin hem çalışanın görevidir. Siz eğitime ve talimatlara uygun çalışır, makine ve ekipmanı yetkinizle ve doğru kullanır, KKD'yi kullanıp korursunuz.",
+    "Güvenlik donanımlarını, yani kapakları, şalterleri ve sensörleri kendi isteğinizle devre dışı bırakmazsınız. Bir sorun varsa bypass değil, bildirim yaparsınız.",
+    "Ciddi ve yakın tehlikeyi ve koruma eksikliklerini gecikmeden işverene ya da çalışan temsilcisine bildirir, işveren ve denetçilerle iş birliği yaparsınız.",
+    "Bu sorumlulukları ihlal etmek, iş hukukunda haklı nedenle fesih de dahil sonuçlar doğurabilir.",
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Haydi başlayalım. Güvenli bir işyeri, her çalışanın kendi sorumluluğunu taşımasıyla mümkündür. Teşekkürler."
+   ]
+  }
+ ]
+}

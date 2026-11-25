@@ -1,0 +1,680 @@
+{
+ "code": "tc_t5",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "3. Bölüm · Teknik Konular",
+ "title": "İş kazalarının sebepleri ve korunma; güvenlik ve sağlık işaretleri; kişisel koruyucu donanım",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1775880303572-791fbbb73d32?w=2400",
+   "kicker": "3. Bölüm · Ders 5",
+   "title": "İş kazalarının sebepleri ve korunma; güvenlik işaretleri ve KKD",
+   "subtitle": "Kazanın zincirini tanımak, işareti okumak, donanımı doğru kullanmak",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste, tehlikeli ve çok tehlikeli işyerlerinde en çok merak edilen soruyu konuşacağız: iş kazaları neden olur ve biz bunları nasıl önleriz?",
+    "Şantiyede, atölyede, depoda ya da üretim hattında çalışıyor olabilirsiniz. Hangisi olursa olsun, kazaların arkasındaki mantık şaşırtıcı biçimde birbirine benzer. Bu mantığı bir kez anladığınızda, işyerinize bambaşka bir gözle bakmaya başlayacaksınız."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Kazanın sebepleri",
+     "text": "Güvensiz durum, güvensiz davranış, ramak kala"
+    },
+    {
+     "title": "Korunma sırası",
+     "text": "Önce kaynakta çözüm, en son KKD"
+    },
+    {
+     "title": "Güvenlik işaretleri",
+     "text": "Renkler, şekiller ve anlamları"
+    },
+    {
+     "title": "KKD",
+     "text": "Seçim, CE, doğru kullanım ve bakım"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Ders dört ana başlıktan oluşuyor.",
+    "İlk olarak iş kazalarının neden olduğunu göreceğiz: güvensiz durum, güvensiz davranış ve kazanın habercisi olan ramak kala olayları.",
+    "Sonra korunmanın sırasını konuşacağız. Tehlikeyi kaynağında yok etmek neden her zaman ilk tercihtir, kişisel koruyucu donanım neden en sonda gelir?",
+    "Üçüncü adımda güvenlik ve sağlık işaretlerinin renk ve şekil diline bakacağız.",
+    "Son olarak kişisel koruyucu donanımı ele alacağız: nasıl seçilir, nasıl kullanılır, nasıl bakım yapılır. İşyerinize özgü riskleri ise yüz yüze eğitimde uzmanınızla ayrıntılı konuşacaksınız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1646082276009-bb35409086ed?w=2400",
+   "kicker": "Temel kavram",
+   "title": "İş kazası kader değil, sonucu önceden belli bir zincirdir",
+   "bullets": [
+    "İşyerinde ya da iş nedeniyle ani gelişen olay",
+    "Ölüme, yaralanmaya ya da bedensel zarara yol açar",
+    "Çoğu zaman önlenebilir nedenlerden doğar"
+   ],
+   "steps": [
+    "İş kazası nedir? Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu, çalışanın işyerinde bulunduğu sırada ya da işveren tarafından yürütülen iş nedeniyle uğradığı, ölüme veya bedence ya da ruhça engelliliğe yol açan olayı iş kazası olarak tanımlar.",
+    "Burada kilit kelime ani gelişmesidir. Kaza bir anda olur, ama o ana gelene kadar çoğu zaman uzun bir hazırlık sürecinden geçilmiştir.",
+    "Sonuç ağırdır: ölüm, uzuv kaybı, yaralanma, bazen de kalıcı bir ruhsal yük. İşin acı yanı, bu sonuçlar bir ailenin tüm hayatını değiştirir.",
+    "Ama iyi haber şu: iş kazalarının büyük çoğunluğu önlenebilir. Neden olduğunu anlarsak, nerede kıracağımızı da biliriz. Hadi nedenlere bakalım."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1632914146475-bfe6fa6b2a12?w=2400",
+   "kicker": "Birinci neden",
+   "title": "Güvensiz durum: ortam ve ekipman",
+   "bullets": [
+    "Koruyucusu çıkarılmış ya da bozuk makine",
+    "Kaygan, dağınık, yetersiz aydınlatılmış alan",
+    "Bakımsız kablo, merdiven ve el aleti"
+   ],
+   "steps": [
+    "Kazaların nedenlerini iki ana grupta toplarız. Birincisi güvensiz durumdur. Bu, işin yapıldığı ortamda ve ekipmandaki tehlikeli koşullardır.",
+    "Örneğin pres makinesinin koruyucusu sökülmüşse, ya da bir freze tezgâhının acil durdurma düğmesi çalışmıyorsa güvensiz bir durum vardır.",
+    "Zemin yağlıysa, iskele korkuluğu eksikse, depoda geçiş yolu paletlerle kapanmışsa ya da aydınlatma yetersizse yine ortam tehlikelidir.",
+    "Kablosu soyulmuş bir spiral, çatlak bir ayak basamağı, tutuşu gevşemiş bir çekiç: bunların hepsi gözümüzün önünde duran ama çoğu zaman 'idare eder' dediğimiz güvensiz durumlardır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1762962051819-e69f0a39cde8?w=2400",
+   "kicker": "İkinci neden",
+   "title": "Güvensiz davranış: yapılan hatalı iş",
+   "bullets": [
+    "Koruyucuyu çıkarmak, kuralı atlamak",
+    "Acele etmek, dikkatsiz ve bilgisiz çalışmak",
+    "Yetkisi olmadığı işe girişmek"
+   ],
+   "steps": [
+    "İkinci grup güvensiz davranıştır. Burada tehlike, kişinin yaptığı ya da yapmadığı bir şeyden doğar.",
+    "Hızlı çalışmak için makine koruyucusunu kaldırmak, baret ya da emniyet kemerini 'bir dakikalık iş' diye takmamak, bu grubun klasik örnekleridir.",
+    "Acele de en büyük suç ortağıdır. Vardiya bitmek üzereyken, sevkiyat beklerken işi kestirmeden bitirmeye çalışırız ve riski göze alırız.",
+    "Yetkisi olmadığı halde forklift kullanmak, elektrik panosunu açmak, kilitleme yapmadan makinenin içine elini sokmak da güvensiz davranıştır. Hepsinde ortak nokta, bilerek ya da bilmeyerek kuralın dışına çıkılmasıdır."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Arkadaki asıl neden",
+   "title": "Kazayı hazırlayan kök nedenler",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1758518731706-be5d5230e5a5?w=1200",
+     "tag": "Yönetim",
+     "title": "Talimat ve denetim eksik",
+     "text": "Yazılı talimat yok, gözetim yok, eğitim yetersiz. Kazanın zemini hazırdır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1493129922668-fcb1a8514643?w=1200",
+     "tag": "Ekipman",
+     "title": "Bakım ertelenir",
+     "text": "Arıza bildirilir ama giderilmez. Kısa süre sonra herkes bozuk makineye alışır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1630703103926-5168f111a868?w=1200",
+     "tag": "Kültür",
+     "title": "Kural esnetilir",
+     "text": "Üretim önce gelir, güvenlik sonra. Çalışan da bunu görerek öğrenir."
+    }
+   ],
+   "steps": [
+    "Peki güvensiz durum ve güvensiz davranış kazanın sebebinin tamamı mıdır? Hayır. Onların da arkasında bir kök neden vardır.",
+    "Birincisi yönetim ve organizasyondur. Yazılı çalışma talimatı yoksa, işi kimin denetlediği belli değilse, eğitim eksikse çalışanın hatası aslında sistemin hatasıdır.",
+    "İkincisi bakım ve ekipmandır. Arıza defalarca bildirildiği halde giderilmediğinde, çalışanlar bozuk ekipmanla çalışmaya alışır ve tehlike görünmez hale gelir.",
+    "Üçüncüsü kültürdür. Kural esnetildiğinde ve bunun bir bedeli olmadığında, güvenli çalışmak 'gereksiz titizlik' gibi görünmeye başlar. Kazayı önlemek bu üç kökle uğraşmak demektir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1560131914-2e469a0e8607?w=2400",
+   "kicker": "İşyerinizde",
+   "title": "Güvensiz davranışın en sık duyulan mazeretleri",
+   "bullets": [
+    "Hep böyle yapıyoruz, bir şey olmadı",
+    "Çok kısa sürecek, acelem var",
+    "Ustam da böyle yapıyor"
+   ],
+   "steps": [
+    "Güvensiz davranışın arkasında çoğu zaman kötü niyet değil, mazeret vardır. Atölyelerde, şantiyelerde hep aynı üç cümleyi duyarız. Gelin bunlara birlikte bakalım.",
+    "Birincisi: hep böyle yapıyoruz, bir şey olmadı. Bir şey olmaması, güvenli olduğu anlamına gelmez. Sadece şans henüz sizden yana çalışmıştır.",
+    "İkincisi: çok kısa sürecek. Kazaların önemli bir kısmı tam da bu kısa işlerde olur, çünkü o sırada koruyucu, kilit ya da kemer atlanır.",
+    "Üçüncüsü: ustam da böyle yapıyor. Deneyim değerlidir ama kötü bir alışkanlığı aktarırsa tehlikelidir. Deneyimli bir çalışan güvenli çalışarak örnek olur. Siz de yeni gelen birine hangi alışkanlığı öğreteceğinizi düşünün."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1738520420715-23a83fd078f7?w=2400",
+   "kicker": "Kazanın habercisi",
+   "value": "Ramak kala",
+   "title": "Zarar vermeyen ama zarar verme potansiyeli taşıyan olay, bir sonraki kazanın uyarısıdır",
+   "text": "Yüzlerce ramak kala olayından birinin sonu ciddi yaralanma olabilir",
+   "steps": [
+    "Şimdi çok değerli bir kavrama geldik: ramak kala. 6331 sayılı Kanun bunu, işyerinde meydana gelen, çalışanın, işyerinin ya da iş ekipmanının zarar görmesiyle sonuçlanmayan ama zarar verme potansiyeli olan olay olarak tanımlar.",
+    "Yani bir yük bir metre yanınıza düşmüş, forklift son anda frenlemiş, kıvılcım yağın yanından geçmiş. Kimse yaralanmadı, 'neyse ki' dediniz ve işe devam ettiniz.",
+    "İşte tam burada hata yapılır. Çünkü aynı koşullar aynı gün tekrar kurulduğunda bu kez sonuç farklı olabilir. Güvenlik çalışmalarında kabul edilen yaygın görüş şudur: çok sayıdaki ramak kala olayının altında az sayıda hafif yaralanma, onun da üstünde nadir ama ağır bir kaza yatar.",
+    "O yüzden ramak kala olayını ayıp ya da suçlama konusu olarak değil, bedava bir ders olarak görün. Bildirin; çünkü kazayı olmadan önlemenin en ucuz yolu budur."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Kaza zinciri",
+   "title": "Bir kaza nasıl oluşur",
+   "items": [
+    {
+     "title": "Kök neden",
+     "text": "Eksik talimat, bakım, eğitim"
+    },
+    {
+     "title": "Güvensiz durum",
+     "text": "Koruyucusuz makine, kaygan zemin"
+    },
+    {
+     "title": "Güvensiz davranış",
+     "text": "Acele, kuralın atlanması"
+    },
+    {
+     "title": "Ramak kala",
+     "text": "Zarar yok ama uyarı var"
+    },
+    {
+     "title": "Kaza",
+     "text": "Yaralanma, kayıp, iş durması"
+    }
+   ],
+   "steps": [
+    "Bu parçaları bir araya getirelim. Kaza bir zincirin halkaları gibi oluşur.",
+    "Zincirin başında kök neden vardır: eksik talimat, ertelenen bakım, verilmeyen eğitim.",
+    "Bunun üzerine güvensiz durum oluşur: koruyucusu olmayan bir makine ya da kaygan bir zemin.",
+    "Bir de buna güvensiz davranış eklenir: acele, dikkatsizlik ya da kuralın atlanması.",
+    "Çoğu zaman bu noktada ramak kala olay yaşanır ve zincir bir kez kırılma fırsatı verir. Fırsat değerlendirilmezse...",
+    "...bir sonraki halka kazadır. Zincirin herhangi bir halkasını kırarsanız kaza olmaz. Siz de her gün o halkaları kırma konumundasınız."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1791421870389-d9fa98e7e1fc?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Depoda her gün olan ramak kala",
+   "bullets": [
+    "Forklift geçişinde yaya yolu işaretsiz",
+    "Palet yüksek, operatörün görüşü kapalı"
+   ],
+   "steps": [
+    "Bir örnek olay anlatayım. Büyük bir lojistik deposunda forklift operatörü Mehmet, yüklü paletle geri geri giderken yaya geçidini kullanan bir arkadaşını son anda fark ediyor.",
+    "Frene basıyor, palet sarsılıyor, ama kimse yaralanmıyor. İkisi de gülüp geçiyor. Kimse bir şey bildirmiyor, çünkü zaten bir şey olmadı.",
+    "Oysa o gün orada aslında birden çok halka vardı. Yaya yolu yerde işaretli değildi, güvensiz durum. Palet çok yüksek istiflenmişti ve görüş kapalıydı. Operatör geri giderken uyarı vermemişti, güvensiz davranış.",
+    "Üç hafta sonra aynı noktada bir hamal ağır yaralandı. Ramak kala bildirilip yaya yolu çizilseydi ve istif yüksekliği düzenlenseydi o kaza olmayabilirdi."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru mu, yanlış mı?",
+   "title": "Ramak kala olayını ne yapmalı?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1640101086894-7d70c3e70179?w=1200",
+     "ok": false,
+     "title": "Üzerini kapatıp geçmek",
+     "text": "Kimse yaralanmadı, şikâyet de yok. Aynı tehlike yerinde durur ve bir gün tekrar eder."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=1200",
+     "ok": true,
+     "title": "Hemen amire bildirmek",
+     "text": "Olayı anlatın, kayda geçirin. Neden olduğu bulunur, zincir kırılır."
+    }
+   ],
+   "steps": [
+    "Şimdi bir durum düşünün. Üretim hattında bir çalışma arkadaşınızın elindeki alet kayıp yere düştü ve tam ayağının yanına indi. Neyse ki hiçbir şey olmadı. Siz ne yaparsınız?",
+    "Birinci yol, 'şükür bir şey olmadı' deyip konuyu kapatmaktır. Bu yol, tehlikenin yerinde kalması demektir. Aynı tezgâhta, aynı alet bir gün birinin ayağına ya da elinin üstüne düşer.",
+    "Doğru yol ise olayı amirinize ya da iş güvenliği uzmanınıza bildirmek ve kayda geçirilmesini sağlamaktır. Böylece neden bulunur, tezgâh düzeltilir. İyi bir işyeri, bildirimi cezalandırmaz; teşekkür eder."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Görev paylaşımı",
+   "title": "Kazayı önlemede kim ne yapar",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1721673028717-23c15f9a02bc?w=1200",
+     "title": "İşveren",
+     "text": "Riskleri değerlendirir, önlemleri alır, eğitim verir, donanımı sağlar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1675860094441-5127d5b05820?w=1200",
+     "title": "İSG ekibi",
+     "text": "İş güvenliği uzmanı ve işyeri hekimi riskleri izler, öneri sunar, ramak kalayı inceler."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1740657254989-42fe9c3b8cce?w=1200",
+     "title": "Çalışan",
+     "text": "Kurala uyar, tehlikeyi ve ramak kalayı bildirir, kendisini ve başkalarını gözetir."
+    }
+   ],
+   "steps": [
+    "Kazayı önlemek tek kişinin işi değildir. Her tarafın görevi farklıdır, birlikte çalıştıklarında zincir kırılır.",
+    "İşveren, kanun gereği çalışanların sağlık ve güvenliğini sağlamakla yükümlüdür. Riskleri değerlendirir, gerekli önlemleri alır, eğitim verir ve donanım sağlar. Bu yükümlülük çalışanlara yüklenemez.",
+    "İş güvenliği uzmanı ile işyeri hekimi ise işyerini gezer, riskleri tespit eder ve öneriler sunar. Ramak kala olaylarını birlikte inceleyip kök nedeni ararlar.",
+    "Sizin göreviniz kurallara uymak, tehlikeyi ve ramak kalayı bildirmek, kendinizi ve çevrenizdekileri tehlikeye atmamaktır. Çünkü sahada ilk gören, çoğu zaman sizsiniz."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Korunma sırası",
+   "title": "Önce tehlikeyi ortadan kaldırın",
+   "items": [
+    {
+     "title": "Yok et",
+     "text": "Tehlikeyi tamamen ortadan kaldırın"
+    },
+    {
+     "title": "Değiştir",
+     "text": "Daha az tehlikeli olanla ikame edin"
+    },
+    {
+     "title": "Mühendislik önlemi",
+     "text": "Koruyucu, havalandırma, korkuluk"
+    },
+    {
+     "title": "İdari önlem",
+     "text": "Eğitim, talimat, vardiya düzeni"
+    },
+    {
+     "title": "KKD",
+     "text": "Son çare olarak kullanılır"
+    }
+   ],
+   "steps": [
+    "Kazanın zincirini gördük. Şimdi onu nasıl kıracağımıza bakalım. 6331 sayılı Kanun, işverenin korunma önlemlerini belli bir ilkeler çerçevesinde almasını ister; yani önlemler gelişigüzel değil, sıralıdır.",
+    "İlk tercih tehlikeyi tamamen ortadan kaldırmaktır. Boyayı kimyasal çözücüyle çıkarmak yerine hiç çözücü gerektirmeyen bir yöntem bulmak gibi.",
+    "Olmuyorsa tehlikeli olanı daha az tehlikeli olanla değiştirirsiniz: çözücü bazlı boya yerine su bazlı boya kullanmak gibi.",
+    "Sonraki adım mühendislik önlemleridir. Makineye sabit koruyucu takmak, kaynak dumanı için lokal havalandırma kurmak, yüksekte korkuluk yapmak. Bunlar herkesi aynı anda korur ve çalışanın dikkatine bağlı değildir.",
+    "Dördüncü basamak idari önlemlerdir: talimat, eğitim, iş izni, vardiya düzenlemesi.",
+    "En sonda kişisel koruyucu donanım gelir. KKD çok önemlidir ama yalnızca tehlikeyi ortadan kaldıramadığımız ya da yeterince azaltamadığımız durumlarda, diğer önlemlerin yanında son çare olarak kullanılır."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1754548930574-6a995e5eb5a7?w=2400",
+   "kicker": "Ara özet",
+   "title": "Kazaların sebepleri hakkında hatırlayalım",
+   "bullets": [
+    "Kazalar çoğunlukla güvensiz durum ve güvensiz davranıştan doğar",
+    "Bunların arkasında eksik eğitim, bakım ve denetim vardır",
+    "Ramak kala olayı kazanın habercisidir, mutlaka bildirilir",
+    "Önce kaynağında çözüm, en son KKD gelir"
+   ],
+   "steps": [
+    "Dersin ilk yarısı bitti. Küçük bir nefes alıp özetleyelim.",
+    "İş kazaları kader değildir. Çoğu zaman güvensiz durum ya da güvensiz davranıştan, onların arkasında da eksik talimat, bakım ve denetimden doğar.",
+    "Bu nedenle bir şeyin ters gittiğini gördüğünüz anda, yani kazadan çok önce, bunu bildirmek sizin en güçlü korunma yolunuzdur.",
+    "Ramak kala olayı, hiçbir şey olmadığı anlamına gelmez; kazanın kapıyı çaldığı anlamına gelir.",
+    "Korunmada sıra bellidir: önce tehlikeyi kaynağında yok etmek ya da azaltmak, kişisel koruyucu donanımı ise son çare olarak yanında bulundurmak."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1743698296692-60a3867ef2b4?w=2400",
+   "kicker": "Güvenlik işaretleri",
+   "title": "İşaret, tehlikenin dili",
+   "bullets": [
+    "Renk ve şekille okunur",
+    "Sağlık ve Güvenlik İşaretleri Yönetmeliği düzenler"
+   ],
+   "steps": [
+    "Şimdi ikinci başlığa geçelim: güvenlik ve sağlık işaretleri. Fabrikaya girdiğinizde, şantiyede ya da depoda yürürken duvarlarda, makinelerin üstünde ve zeminde bir sürü işaret görürsünüz.",
+    "Bunlar süs değildir. Sağlık ve Güvenlik İşaretleri Yönetmeliği'ne göre işveren, risk değerlendirmesinde riskin kolektif önlemlerle ya da iş organizasyonuyla ortadan kaldırılamadığı ya da yeterince azaltılamadığı durumlarda uygun işaretleri uygun yerlere koymak zorundadır.",
+    "İşaretlerin görevi tehlikeyi yok etmek değil, sizi uyarmak ve davranışınızı yönlendirmektir. Doğru okuduğunuzda saniyeler içinde hayat kurtarabilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1593505681742-8cbb6f44de25?w=2400",
+   "kicker": "Yasak işareti",
+   "title": "Kırmızı daire ve çapraz çizgi",
+   "bullets": [
+    "Beyaz zemin, kırmızı çerçeve",
+    "Çizginin altındaki resim yasak olan davranıştır"
+   ],
+   "steps": [
+    "Önce kırmızıyla başlayalım. Beyaz zemin üzerinde kırmızı çerçeve ve çapraz çizgili daire, yasak işaretidir. Tehlikeye yol açabilecek bir davranışı yasaklar.",
+    "Çizginin altında kalan siyah resim yasaklanan şeyi gösterir: sigara içilmez, açık ateşle girilmez, yetkisiz kişi giremez, ellerle dokunulmaz.",
+    "Boya atölyesinde ya da akaryakıt ikmal alanında bu işaretin yoksayılması, bir kıvılcımla çok ağır sonuçlar doğurabilir. Kırmızı daire gördüğünüzde şunu aklınıza yazın: bu davranış burada yapılmaz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1555699875-5773b06e8ee2?w=2400",
+   "kicker": "Uyarı işareti",
+   "title": "Sarı zemin, siyah üçgen",
+   "bullets": [
+    "Tehlike var, dikkatli olun",
+    "Elektrik, kayma, düşme, kimyasal"
+   ],
+   "steps": [
+    "Sarı renkli ve siyah çerçeveli üçgen, uyarı işaretidir. Size bu alanda bir tehlike olduğunu söyler ve dikkatli olmanızı ister.",
+    "Yüksek gerilim, ıslak zemin, asılı yük, forklift trafiği, korozif madde gibi pek çok uyarı vardır. Pano kapağında şimşek işareti görmüşsünüzdür; bu, içeride elektrik tehlikesi olduğunun haberidir.",
+    "Uyarı işareti 'yapma' demez, 'dikkat et' der. Yani o alandan geçerken hızınızı kesin, çevreye bakın, gerekiyorsa KKD'nizi takın."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1628246941071-0788e88e2b32?w=2400",
+   "kicker": "Emredici işaret",
+   "title": "Mavi daire: bu kural zorunlu",
+   "bullets": [
+    "Mavi zemin, beyaz piktogram",
+    "Baret, gözlük, kulaklık, eldiven"
+   ],
+   "steps": [
+    "Mavi zemin üzerinde beyaz resim bulunan daire, emredici işarettir. Uyulması zorunlu bir davranışı belirtir.",
+    "Baret takınız, koruyucu gözlük takınız, kulak koruyucu kullanınız, emniyet kemeri takınız gibi. Bu işaret, 'burada bu donanımsız çalışılmaz' demektir.",
+    "Şantiyeye girişte ya da gürültülü pres hattının başında mavi işareti görüyorsanız, 'birazcık' mazeretine yer yoktur. Önce donanım, sonra iş."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1739567773441-c3e7a1da4fb5?w=2400",
+   "kicker": "Acil çıkış ve ilk yardım",
+   "title": "Yeşil: güvenli yol ve yardım",
+   "bullets": [
+    "Yeşil zemin, beyaz resim",
+    "Çıkış yönü, ilk yardım dolabı, duş"
+   ],
+   "steps": [
+    "Yeşil renkli işaretler acil çıkış ve ilk yardım bilgisi verir. Bunlar yönlendiren işaretlerdir.",
+    "Yeşil zemin üzerinde koşan insan ve ok, acil çıkış yönünü gösterir. Haç işareti, ilk yardım dolabının ya da revirin yerini söyler. Kimyasal çalışılan yerlerde göz duşu ve acil duş da yeşil işaretle belirtilir.",
+    "Bu işaretlerin yerini işe girdiğiniz ilk gün öğrenin. Çünkü acil durumda dumanın içinde okuma değil, hatırlama zamanı olur."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1712640379137-6d2532f887a7?w=2400",
+   "kicker": "Yangın ve diğerleri",
+   "title": "Kırmızı kare yangın ekipmanını gösterir",
+   "bullets": [
+    "Kırmızı zemin, beyaz resim: söndürücü, yangın dolabı",
+    "Yön oku: ekipmanın nerede olduğunu gösterir",
+    "Mavi ya da beyaz kare: yalnızca bilgi verir"
+   ],
+   "steps": [
+    "Bir de yangın ekipmanı işaretleri var. Kırmızı zemin üzerindeki beyaz resim, yangın söndürücünün, yangın dolabının ya da yangın alarm butonunun yerini gösterir.",
+    "Yanında bir ok varsa ekipmana giden yönü belirtir. Karanlıkta ya da dumanda görülebilsin diye bu işaretler çoğunlukla ışıklı ya da yansıtıcı malzemeden yapılır.",
+    "Bazı işaretler ise yalnızca bilgi verir. Yeri, yönü, bir tesisin bölümünü gösteren bu işaretler yasak, uyarı ya da zorunluluk getirmez ama yönlendirir.",
+    "Özetle kural basittir: kırmızı yasak ve yangın, sarı uyarı, mavi zorunluluk, yeşil kurtuluş. Bunu aklınızda tutarsanız bilmediğiniz bir işaretin bile genel anlamını çıkarabilirsiniz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1743698205310-cd814a95afab?w=2400",
+   "kicker": "Işıklı, sesli ve el işaretleri",
+   "title": "Her işaret levha değildir",
+   "bullets": [
+    "Dönen ışık, siren, geri vites uyarısı",
+    "Vinç ve forklift için el işaretleri"
+   ],
+   "steps": [
+    "İşaretlerin hepsi levha biçiminde olmak zorunda değildir. Işıklı ve sesli işaretler de var: yangın alarmı sireni, forkliftin geri vites uyarısı, vincin dönen sarı lambası gibi.",
+    "Bir de el işaretleri ve sözlü iletişim vardır. Gürültülü bir ortamda vinç operatörüne yük taşırken verilen el işaretleri bunun en iyi örneğidir. Tek bir yetkili kişi işaret verir ve herkes onu izler.",
+    "Önemli olan, sizin bu işaretlerin anlamını bilmenizdir. Yönetmelik gereği işveren, işyerinde kullanılan işaretlerin anlamları ve gerektirdiği davranışlar konusunda çalışanı bilgilendirmek ve eğitmek zorundadır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1775923080621-cbe5cea2bbed?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Solmuş işaret, kayıp dikkat",
+   "bullets": [
+    "Boya atölyesinde yangın işareti kapalı",
+    "İşareti görünür tutmak herkesin işi"
+   ],
+   "steps": [
+    "Bir boya ve vernik atölyesinde Ayşe usta, her sabah girişteki 'sigara içilmez' ve 'yanıcı madde' işaretlerini görüyordu. Sonra duvar boyandı, işaretler tekrar asılmadı.",
+    "Bir süre sonra yeni gelen bir taşeron işçisi, kapının önünde sigarasını yaktı. Levhalar yoktu, kimse ona söylememişti. Çözücü buharı ile sigara kıvılcımı karşılaşınca küçük ama panik yaratan bir parlama oldu.",
+    "Şans eseri kimse yaralanmadı. Ama ders açık: işaret yerinde ve görünür olmazsa işe yaramaz. Eksik, solmuş ya da önü kapanmış bir işaret görürseniz bunu bildirmek sizin de görevinizdir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1484999691661-51b16a51d1d1?w=2400",
+   "kicker": "Üçüncü başlık",
+   "title": "Kişisel koruyucu donanım nedir ve kime düşer",
+   "bullets": [
+    "Çalışanı, işten doğan tehlikelerden koruyan giysi ve donanım",
+    "İşveren riske uygun donanımı ücretsiz sağlar",
+    "Çalışan talimata uygun kullanır ve korur"
+   ],
+   "steps": [
+    "Şimdi KKD'ye, yani kişisel koruyucu donanıma geçelim. Kişisel Koruyucu Donanımların İşyerlerinde Kullanılması Hakkında Yönetmelik bu konuyu düzenler.",
+    "KKD, çalışanı sağlığını ya da güvenliğini tehdit eden bir veya birden fazla riske karşı korumak için kullanılan, giyilen veya takılan her türlü donanımdır. Baret, gözlük, eldiven, güvenlik ayakkabısı, kaynak maskesi, emniyet kemeri hepsi buna girer.",
+    "Burada çok önemli bir kural var: işveren, risk değerlendirmesine göre gereken KKD'yi ücretsiz sağlar. Bedeli çalışana yansıtılamaz. Ayrıca kullanımını öğretir ve bakım ile yenilemeyi yapar.",
+    "Sizin göreviniz ise verilen donanımı talimata uygun kullanmak, korumak ve bozulduğunda ya da kaybolduğunda bildirmektir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1766021736538-3208f2ad05f2?w=2400",
+   "kicker": "Unutmayın",
+   "value": "Son çare",
+   "title": "KKD tehlikeyi ortadan kaldırmaz; yalnızca siz ile tehlike arasına bir engel koyar",
+   "text": "Önce kaynağında önlem, KKD ancak onun yetmediği yerde devreye girer",
+   "steps": [
+    "Yönetmelik burada net: KKD, riskler kolektif korunma yöntemleriyle ya da iş organizasyonu yoluyla önlenemiyor ya da yeterince azaltılamıyorsa kullanılır. Yani son çaredir.",
+    "Bunu şöyle düşünün: gürültülü bir makine için kulaklık takmak kolaydır. Ama makineyi sessiz çalışan bir modelle değiştirmek ya da kabine almak herkesi korur.",
+    "KKD'nin zayıf yanları var. Yanlış bedenseniz, delikse, kirliyse ya da takmayı unuttuysanız koruma sıfırdır. Hata payı yüksektir ve tamamen sizin dikkatinize bağlıdır.",
+    "Bu yüzden KKD'yi hiçbir zaman 'tehlikeli ortamı kabul etme izni' olarak görmeyin. O, son ve vazgeçilmez ama her zaman en zayıf savunma hattıdır."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Baş, göz ve kulak",
+   "title": "Başı, gözü ve kulağı korumak",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1775880303572-791fbbb73d32?w=1200",
+     "tag": "Baş",
+     "title": "Baret",
+     "text": "Düşen cisim ve çarpmaya karşı. Çatlayan ya da darbe alan baret değiştirilir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1484999691661-51b16a51d1d1?w=1200",
+     "tag": "Göz ve yüz",
+     "title": "Gözlük, siperlik",
+     "text": "Taşlama, kesme ve kimyasal sıçramaya karşı. Kaynakta uygun filtreli maske gerekir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1598302936625-6075fbd98dd7?w=1200",
+     "tag": "Kulak",
+     "title": "Kulak tıkacı, kulaklık",
+     "text": "Gürültülü bölgede hasar yavaş ve geri dönüşsüzdür. Zamanında takın."
+    }
+   ],
+   "steps": [
+    "Hangi donanım nerede lazım, şimdi biraz ona bakalım. Önce baş, göz ve kulak.",
+    "Baret, düşen alet, malzeme ve çarpmalara karşı başınızı korur. Darbe almış ya da çatlamış bir baret hasarlıdır ve tekrar kullanılmamalıdır. Çenelik, rüzgârlı yüksek çalışmada düşmesini önler.",
+    "Taşlama, kesme ve talaşlı imalat yapılan yerlerde kıymık ve kıvılcım gözler için büyük tehlikedir. Kimyasal sıçrama olabilecek yerlerde ise yandan kapalı gözlük ya da yüz siperliği gerekir. Kaynakta özel filtreli kaynak maskesi şarttır.",
+    "Gürültü ise sessiz bir tehlikedir. Zarar yavaş yavaş oluşur ve geri dönmez. Gürültülü bölgede kulak tıkacı ya da kulaklık takmak, işitmenizi yıllarca korur."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "El, ayak ve solunum",
+   "title": "Eli, ayağı ve solunumu korumak",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1627905646269-7f034dcc5738?w=1200",
+     "tag": "El",
+     "title": "Eldiven",
+     "text": "Kesik, ısı, kimyasal. Her iş için farklı eldiven gerekir, tek eldiven her işe uymaz."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1606036525923-525fa3b35465?w=1200",
+     "tag": "Ayak",
+     "title": "Güvenlik ayakkabısı",
+     "text": "Çelik burun ve kaymaz taban. Ezilme, çivi ve kayma tehlikesine karşıdır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1605043607110-df2e2f642ef1?w=1200",
+     "tag": "Solunum",
+     "title": "Maske, respiratör",
+     "text": "Toz, buhar ve gaza göre filtre seçilir. Yanlış filtre koruma sağlamaz."
+    }
+   ],
+   "steps": [
+    "Şimdi el, ayak ve solunumu ele alalım.",
+    "Eldiven konusunda en yaygın hata, her işte aynı eldiveni kullanmaktır. Kesilmeye karşı olan eldiven kimyasaldan korumayabilir; kimyasal eldiveni ise sıcak yüzeyde işe yaramaz. Dönen makinede ise eldiven takmamak gerekebilir, çünkü makineye sürüklenebilir. Bu kararı risk değerlendirmesi verir.",
+    "Güvenlik ayakkabısında çelik ya da kompozit burun, kaymaz taban, gerekirse ezilmeye ve deliciye karşı taban korumaları bulunur. Terlik, spor ayakkabı ya da bağcığı çözülmüş ayakkabı ile üretim alanında dolaşmayın.",
+    "Solunum koruyucularında ise doğru seçim hayati önem taşır. Toz maskesi gaz ve buhara, gaz filtresi toza karşı koruma sağlamaz. Hangi iş için hangi maske ve filtre uygunsa onu kullanın; süresi dolmuş filtre de korumaz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1630703103926-5168f111a868?w=2400",
+   "kicker": "Yüksekte çalışma",
+   "title": "Düşmeye karşı: emniyet kemeri ve ağ",
+   "bullets": [
+    "Tam vücut kemeri, çift kancalı kuşanım",
+    "Doğru ankraj noktası şart",
+    "Önce korkuluk, sonra kemer"
+   ],
+   "steps": [
+    "Çok tehlikeli işlerde en ağır kazalardan biri yüksekten düşmedir. İnşaatta, çatıda ve iskelede çalışırken bu risk her zaman vardır.",
+    "Birinci tercih toplu korumadır: korkuluk, platform ve güvenli iskele. Bunlar kurulamıyorsa, ya da işin doğası gereği kurulması mümkün değilse düşmeye karşı koruma donanımı gerekir.",
+    "Bu donanım tam vücut kuşanımı, çift kancalı bağlantı halatı ve sağlam bir ankraj noktasından oluşur. Kemeri takmak yetmez, kancayı da doğru noktaya bağlamanız gerekir.",
+    "Her kullanımdan önce dikişleri, kancayı ve halatı gözle kontrol edin. Düşme yaşamış donanım, dışarıdan sağlam görünse bile kullanımdan kaldırılır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1681726267024-04427f16ad45?w=2400",
+   "kicker": "Seçim",
+   "title": "Doğru KKD nasıl seçilir",
+   "bullets": [
+    "Risk değerlendirmesinde belirlenen riske uygun olmalı",
+    "CE işareti taşımalı ve kullanma kılavuzu bulunmalı",
+    "Kullanıcıya uymalı: beden, ergonomi, rahatlık",
+    "Birlikte kullanılan donanımlar birbirini engellememeli"
+   ],
+   "steps": [
+    "Peki işyerinizde KKD'yi kim, neye göre seçer? Bu, tahmine değil risk değerlendirmesine göre yapılır. Önce riskler belirlenir, sonra onlara karşı hangi donanımın yeterli olduğuna bakılır.",
+    "Donanım, mevcut riske uygun olmalı. Bir kimyasala karşı koruyan eldiven, başka bir kimyasala karşı korumayabilir.",
+    "İkinci ölçüt CE işaretidir. Piyasaya sunulan KKD'lerin ilgili düzenlemelere uygun olması ve CE işareti taşıması gerekir. Üzerinde işaret yoksa ya da kullanma kılavuzu yoksa şüphelenin.",
+    "Üçüncüsü, donanım size uygun olmalı. Bedeni küçük ya da büyük, ağır ve rahatsız bir donanım zamanla çıkarılır. İşveren seçimde çalışanın görüşünü almalı.",
+    "Son olarak, aynı anda birden fazla donanım kullanılacaksa, örneğin baret, kulaklık ve gözlük, bunların birbirinin korumasını bozmaması gerekir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Doğru kullanım ve bakım",
+   "title": "KKD'nin yaşam döngüsü",
+   "items": [
+    {
+     "title": "Kontrol et",
+     "text": "Her kullanımdan önce göz muayenesi"
+    },
+    {
+     "title": "Doğru tak",
+     "text": "Beden, ayar, kapanma ve filtre"
+    },
+    {
+     "title": "Kullan",
+     "text": "Riskli alanda bir an bile çıkarma"
+    },
+    {
+     "title": "Temizle",
+     "text": "Talimata göre bakım ve dezenfeksiyon"
+    },
+    {
+     "title": "Sakla, yenile",
+     "text": "Temiz yerde tut, hasarlıyı bildir"
+    }
+   ],
+   "steps": [
+    "Donanımı doğru seçmek yarı yoldur; doğru kullanmak da bir o kadar önemlidir. KKD'nin yaşam döngüsü beş adımda özetlenebilir.",
+    "Birincisi kontrol. İşe başlamadan her seferinde bakın: çatlak, yırtık, delik, gevşek bağ, süresi dolmuş filtre var mı?",
+    "İkincisi doğru takmak. Maskenin yüzünüze tam oturması, kulaklığın doğru yerleşmesi, kemerin sıkılması gerekir. Sakal, maskenin sızdırmazlığını bozabilir.",
+    "Üçüncüsü kullanmak. 'Sadece bir dakika' diye çıkarmayın. Kaza genellikle çıkardığınız o kısa anda olur.",
+    "Dördüncüsü temizlik ve bakım. Üreticinin kullanma talimatına uygun temizleyin. Ortak kullanılan kask ya da maske hijyen bakımından sorun yaratır; mümkünse KKD kişiye özel olmalıdır.",
+    "Beşincisi saklama ve yenileme. Güneşte, kimyasal yanında ya da ezilecek şekilde bırakmayın. Bozulan donanımı bildirin ve yenisini isteyin."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru mu, yanlış mı?",
+   "title": "Hasarlı KKD ile ne yapılmalı?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1758685848561-3658f433e6a0?w=1200",
+     "ok": false,
+     "title": "İdare edip kullanmak",
+     "text": "Çatlak gözlük, delik eldiven ya da yıpranmış kemer korumaz; çoğu zaman yanlış güven verir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1774273177345-ff6a25515a3c?w=1200",
+     "ok": true,
+     "title": "Bildirip yenisini almak",
+     "text": "Hasarı hemen amire bildirin, işe yenisiyle devam edin. Yenisi işverenden ücretsizdir."
+    }
+   ],
+   "steps": [
+    "Şimdi bir uygulama sorusu. Taşlama işi yaparken koruyucu gözlüğünüzün camı çatladı. Vardiyanın bitmesine iki saat var ve yedek gözlük depoda, uzakta. Ne yaparsınız?",
+    "Çatlak gözlükle devam etmek cazip görünebilir ama bu, gözünüzü tehlikeye atmaktır. Parça fırlarsa çatlak cam, tam da en büyük darbeyi taşıyacak yerde zayıftır.",
+    "Doğru davranış, işi durdurmak, amirinize bildirmek ve yenisini almaktır. İşveren yeni donanımı ücretsiz verir, çünkü bu onun görevidir. Sizin görevinizse bozuk donanımla çalışmamaktır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1567954970774-58d6aa6c50dc?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Kaynakta bir saniyelik ihmal",
+   "bullets": [
+    "Kaynak maskesi yerine kayıtsız bakış",
+    "Gözde kaynak çakması ve uzun süreli rahatsızlık"
+   ],
+   "steps": [
+    "Bir metal imalat atölyesinde kaynakçı Ali, hızlı bir punto kaynağı için maskesini takmadan ark ışığına birkaç saniye baktı. 'Sadece bir saniye' diye düşündü.",
+    "Gece gözleri yanmaya ve sulanmaya başladı. Uyuyamadı, ertesi gün de işe gidemedi. Ark ışığı, korunmayan gözde kornea yanığı yapar ve çok acı verir. Geçici de olsa ağır bir sonuçtur.",
+    "Aslında atölyede ek bir şey daha eksikti: yanındaki çalışanlar için ışığı engelleyen kaynak perdesi yoktu. Yani önce mühendislik önlemi, sonra KKD. Ali'nin ve yanındakilerin gözlerini perde ve doğru maske birlikte korur.",
+    "Ders açık: KKD kullanmak 'sonra yaparım' denecek bir iş değildir. En kısa süre bile yeterli olabilir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1764795849885-e226e3cabe87?w=2400",
+   "kicker": "Kapanış özeti",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Kazalar güvensiz durum, güvensiz davranış ve kök nedenlerden doğar",
+    "Ramak kala olayını bildirmek kazayı olmadan önler",
+    "Kırmızı yasak, sarı uyarı, mavi zorunluluk, yeşil acil çıkış ve ilk yardım",
+    "KKD son çaredir; ücretsizdir, CE'li olmalı, doğru kullanılmalı"
+   ],
+   "steps": [
+    "Dersimizin sonuna geldik. Birlikte neler öğrendiğimizi özetleyelim.",
+    "Kazalar tesadüf değildir. Güvensiz durum, güvensiz davranış ve onların arkasındaki yönetim, bakım ve kültür eksiklikleri zinciri oluşturur. Ramak kala olayı da zincirin kırılabileceği son fırsattır; onu bildirin.",
+    "Güvenlik işaretlerini renkten ve şekilden okuyabiliyorsunuz: kırmızı yasak, sarı uyarı, mavi zorunluluk, yeşil acil çıkış ve ilk yardım, kırmızı kare ise yangın ekipmanı.",
+    "KKD'nin önemini de gördük. İşveren ücretsiz sağlar, siz talimata uygun kullanırsınız. Ama unutmayın, son çaredir; önce tehlikeyi kaynağında çözmek gerekir.",
+    "Bu bilgileri yarından itibaren işyerinizde uygulayın. İşyerinize özgü riskleri ve donanımları ise yüz yüze eğitimde uzmanınızla ayrıntılı konuşacaksınız."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=2400",
+   "kicker": "Sırada ne var",
+   "title": "Şimdi birkaç kısa soru",
+   "bullets": [],
+   "steps": [
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Cevaplamadan önce acele etmeyin; ders içinde konuştuklarımızı hatırlayın. Hazırsanız başlayalım.",
+    "Son bir hatırlatma: bu derste öğrendiklerinizi yalnızca sınav için değil, yarın sabah vardiyaya girdiğiniz anda kullanın. Bir işaret görün, bir donanımı kontrol edin, bir ramak kalayı bildirin. Güvenlik, küçük ve her gün tekrarlanan doğru kararlardan oluşur. Hepinize güvenli ve sağlıklı çalışmalar dilerim."
+   ]
+  }
+ ]
+}

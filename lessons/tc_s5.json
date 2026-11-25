@@ -1,0 +1,750 @@
+{
+ "code": "tc_s5",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "2. Bölüm · Sağlık Konuları",
+ "title": "İlk yardım",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1622115297822-a3798fdbe1f6?w=2400",
+   "kicker": "2. Bölüm · Ders 5",
+   "title": "İlk yardım",
+   "subtitle": "İlk dakikalar hayat kurtarır",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste ilk yardımı konuşacağız. Yani bir iş arkadaşınız yere yığıldığında, bir makinede el sıkıştığında ya da biri kimyasal sıçrama nedeniyle yanıp acı içinde kaldığında, ambulans gelene kadar neler yapabileceğinizi.",
+    "Tehlikeli ve çok tehlikeli işyerlerinde ağır makineler, yüksek yerler, elektrik, sıcak metal ve kimyasallar var. Bu yüzden ilk yardım bilgisi burada bir lüks değil, ihtiyaçtır. Hem arkadaşınız hem siz için. Ezber istemiyoruz; sakin kalıp doğru sırayla hareket etmeyi öğreneceğiz."
+   ],
+   "type": "cover"
+  },
+  {
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Olay yeri ve 112",
+     "text": "Önce güvenlik, sonra doğru çağrı"
+    },
+    {
+     "title": "Bilinç ve solunum",
+     "text": "Yaralıyı hızlı ve doğru değerlendirmek"
+    },
+    {
+     "title": "Temel yaşam desteği",
+     "text": "Göğüs basısı, soluk ve defibrilatör"
+    },
+    {
+     "title": "Kanama, şok, yanık",
+     "text": "İş kazalarında en sık görülen durumlar"
+    },
+    {
+     "title": "İşyerindeki düzen",
+     "text": "İlk yardımcı sayısı ve sizin göreviniz"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Beş durağımız var.",
+    "Her durakta, işyerinizde karşınıza çıkabilecek örnekleri ve yapılan sık hataları da konuşacağız. Amacımız size ezber vermek değil, sakin ve sıralı düşünme alışkanlığı kazandırmak.",
+    "Birinci durak, olay yerinde ilk yapılacaklar ve 112'nin doğru aranması. Çünkü yardım etmek isterken ikinci bir yaralı olmak istemeyiz.",
+    "İkinci durakta, yaralının bilincinin ve solunumunun nasıl kontrol edildiğini göreceğiz.",
+    "Üçüncü durakta temel yaşam desteğine, yani kalp durduğunda yapılacaklara geçeceğiz. Göğüs basısı, soluk verme ve otomatik defibrilatör burada.",
+    "Dördüncü durakta kanamayı, şoku ve yanıkları konuşacağız. Beşinci durakta ise işyerinde kaç ilk yardımcı bulunması gerektiğini ve sizin neleri bilmeniz gerektiğini öğreneceğiz."
+   ],
+   "type": "process"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1769758915068-a9a82f9c00ef?w=2400",
+   "kicker": "İlk yardım nedir?",
+   "title": "İlk yardımın üç amacı vardır",
+   "bullets": [
+    "Hayati tehlikenin devamını önlemek",
+    "Durumun daha kötüye gitmesini engellemek",
+    "İyileşmeyi kolaylaştırmak"
+   ],
+   "steps": [
+    "İlk yardım, sağlık görevlileri gelene kadar, eldeki imkânlarla yapılan ilk müdahaledir. Doktorun yerine geçmek değildir. Amacı, yaralıyı sağlık ekibine mümkün olan en iyi durumda ulaştırmaktır.",
+    "Birinci amaç, hayati tehlikenin sürmesini önlemek. Soluk almayan ya da kanaması durmayan birinde zaman çok hızlı akar.",
+    "İkinci amaç, durumun kötüleşmesini engellemek. Örneğin bel ya da boyun yaralanması şüphesi olan birini gereksiz yere kımıldatmamak bunun parçasıdır.",
+    "Üçüncü amaç, iyileşmeyi kolaylaştırmak. Yanığı doğru soğutmak ya da yarayı temiz örtmek, sonraki tedavinin seyrini iyi yönde etkiler."
+   ],
+   "type": "split"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1764115424769-ebdd2683d5a8?w=2400",
+   "kicker": "Zaman",
+   "value": "4-6 dk",
+   "title": "Kalbi duran birinde beyin hasarı birkaç dakika içinde başlar",
+   "text": "Her dakika önemli: ambulansı beklerken yapılan müdahale hayat kurtarır",
+   "steps": [
+    "Şu rakama dikkat edin. Kalbi duran ve solunum yapmayan birinde beyin, oksijensiz kalmaya yalnızca birkaç dakika dayanabilir. Genel kabul gören süre, dört ile altı dakikadır.",
+    "Ambulans en hızlı gelse bile bu süreyi bazen bulabilir. İşte bu yüzden olay yerinde bulunan sizin gibi kişilerin yaptığı ilk müdahale, sağlık ekibinin yapacağı iş kadar önemlidir. Cesaret verecek bir bilgi: ilk yardım için doktor olmak gerekmez, doğru sırayı bilmek yeter."
+   ],
+   "type": "fact"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1576446470246-499c738d1c8e?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Panoda çarpılan arkadaş",
+   "bullets": [
+    "Ahmet usta panoda akıma kapıldı",
+    "Yanındaki hemen yapışmaya koştu",
+    "Önce enerji kesilmeliydi"
+   ],
+   "steps": [
+    "Bir örnek olay anlatayım. Bir üretim tesisinde bakım yapan Ahmet usta, elektrik panosunda çalışırken akıma kapılıyor ve yere düşüyor, ama eli hâlâ kabloya temas ediyor.",
+    "Yanındaki genç çalışan panikle koşup arkadaşına sarılmak istiyor. Tam o anda vardiya amiri Selin bağırıyor: dokunma, önce şalteri indir.",
+    "Çünkü akım hâlâ açıkken yaralıya dokunan kişi de çarpılır. Böylece bir yaralı iki olur, yardım edecek kimse kalmaz.",
+    "Selin ana şalteri indiriyor, ortam güvenli olunca yaralıyı kontrol ediyor ve 112'yi arıyor. Ahmet usta zamanında müdahale sayesinde kurtuluyor. Bu olaydan çıkan ders çok net: önce kendi güvenliğiniz. Sonra zaman kaybetmeden ama sakin biçimde yardıma geçin. Acele, panik demek değildir."
+   ],
+   "type": "photo"
+  },
+  {
+   "kicker": "Doğru ve yanlış",
+   "title": "Yardıma koşarken ilk refleks",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1734888369502-3e01d4c0a46e?w=1200",
+     "title": "Önce çevreye bak",
+     "text": "Tehlike kaynağını kes, güvenli değilse yaklaşma",
+     "ok": true
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1695886517975-b010be190375?w=1200",
+     "title": "Düşünmeden dokunmak",
+     "text": "Akım, gaz ya da makine açıkken yaralıya koşmak",
+     "ok": false
+    }
+   ],
+   "steps": [
+    "İki tepkiyi karşılaştıralım. Soldaki doğru olan: durup çevreye bakmak, tehlike kaynağını kesmek ya da ortam güvenli değilse yaklaşmamak.",
+    "Sağdaki yanlış olan: ne olduğuna bakmadan yaralıya koşmak. Elektrik, gaz, sıcak metal ya da çalışan bir makine varken bu tepki, iyi niyetli ama tehlikeli bir hatadır.",
+    "Hatırlayın: kendinizi koruyamıyorsanız yardım edemezsiniz. Yaklaşmanın güvenli olmadığı durumlarda en doğru ilk yardım, uzaktan ve hemen yardım çağırmaktır."
+   ],
+   "type": "dodont"
+  },
+  {
+   "kicker": "Temel ilke",
+   "title": "Koruma, bildirme, kurtarma",
+   "items": [
+    {
+     "title": "Koruma",
+     "text": "Olay yerini güvenli hale getir, tehlikeyi gider"
+    },
+    {
+     "title": "Bildirme",
+     "text": "112'yi ve işyeri yetkililerini haberdar et"
+    },
+    {
+     "title": "Kurtarma",
+     "text": "Güvenliyse yaralıya ilk yardım uygula"
+    }
+   ],
+   "steps": [
+    "İlk yardımın temel ilkesi üç kelimeyle özetlenir: koruma, bildirme, kurtarma. Bu sırayı değiştirmeyin.",
+    "Koruma: önce olay yerini güvenli hale getirin. Elektriği kesin, makineyi durdurun, kalabalığı uzaklaştırın, trafik varsa uyarın. Kendinizi de korumayı unutmayın.",
+    "Bildirme: 112'yi arayın ve işyerinin acil durum sorumlularına, ilk yardımcıya haber verin. Yardım ne kadar erken gelirse o kadar iyi.",
+    "Kurtarma: ortam güvenliyse yaralıya ilk yardımı uygulayın. Bu sırada sakin kalmak, hızlı davranmaktan daha değerlidir."
+   ],
+   "type": "process"
+  },
+  {
+   "kicker": "Olay yeri",
+   "title": "Tehlikeli işyerinde dikkat edilecekler",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1595306394931-b35768661692?w=1200",
+     "title": "Elektrik",
+     "text": "Önce enerjiyi kesin, ıslak zeminde dikkat",
+     "tag": "Elektrik"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1626379481874-3dc5678fa8ca?w=1200",
+     "title": "Gaz ve kimyasal",
+     "text": "Havasız ortama korumasız girmeyin",
+     "tag": "Kimyasal"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1717386255773-1e3037c81788?w=1200",
+     "title": "Çalışan makine",
+     "text": "Önce durdurun, enerjisini kesin",
+     "tag": "Makine"
+    }
+   ],
+   "steps": [
+    "Tehlikeli ve çok tehlikeli işyerlerinde olay yerinde sık karşılaşılan üç tehlikeye bakalım.",
+    "Birincisi elektrik. Çarpılan kişiye dokunmadan önce şalteri indirin ya da fişi çekin. Zemin ıslaksa ya da emin değilseniz yaklaşmayın ve yetkili birini çağırın.",
+    "İkincisi gaz ve kimyasal. Kapalı bir tankta ya da kuyuda bayılan arkadaşınızı kurtarmak için korumasız girmeyin. Aynı havayı siz de solursunuz. Önce yardım çağırın, uygun donanımı bekleyin.",
+    "Üçüncüsü çalışan makine. Kolu ya da elinin sıkıştığı kişiyi, makine enerjisi kesilmeden çekmeye çalışmayın. Önce acil durdurmayı kullanın, sonra enerjiyi kesin."
+   ],
+   "type": "cards"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1684655570542-55afe322a74b?w=2400",
+   "kicker": "Olay yeri güvenliği",
+   "title": "Yardıma başlamadan önce dört soru",
+   "bullets": [
+    "Kendim için tehlike var mı",
+    "Tehlike kaynağını kesebilir miyim",
+    "Yaralıya kaç kişi ulaşmış durumda",
+    "Yaralıyı gerçekten hareket ettirmem gerekir mi"
+   ],
+   "steps": [
+    "Yaralıya ulaşmadan önce kendinize dört kısa soru sorun. Bu sorular birkaç saniye sürer ama sizi çoğu hatadan korur.",
+    "Birinci soru: kendim için tehlike var mı? Düşen yük, yangın, zehirli gaz, hareket eden araç olabilir.",
+    "İkinci soru: tehlike kaynağını güvenle kesebilir miyim? Şalter, vana, acil durdurma düğmesi gibi.",
+    "Üçüncü soru: yaralıya kaç kişi var? Kalabalık varsa görev paylaşın. Biri 112'yi arasın, biri ilk yardımcıyı çağırsın, biri alanı boşaltsın.",
+    "Dördüncü soru: yaralıyı kımıldatmam gerekir mi? Yangın ya da çökme tehlikesi gibi zorunlu hâller dışında yaralıyı yerinden oynatmayın. Özellikle yüksekten düşenlerde omurga yaralanması olabilir."
+   ],
+   "type": "split"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1554734867-bf3c00a49371?w=2400",
+   "kicker": "Bildirme",
+   "title": "112'yi doğru arayın",
+   "bullets": [
+    "Telefonla ya da işyeri telefonundan 112",
+    "Sakin ve açık konuşun",
+    "Sorular bitmeden kapatmayın"
+   ],
+   "steps": [
+    "Türkiye'de ambulans, polis ve itfaiye gibi acil çağrıların hepsi için tek numara var: 112. Cep telefonundan da işyeri telefonundan da arayabilirsiniz.",
+    "Arama ücretsizdir, gece gündüz hizmet verir ve ülkenin her yerinde aynıdır.",
+    "Arayan kişi sakin ve açık konuşmalı. Başkasına arattırıyorsanız, arayan kişiden geri dönüp bilgi vermesini isteyin; çünkü çağrıyı kimin yaptığı ve ne söylediği önemlidir. Heyecandan kelimeler karışabilir, bu yüzden derin bir nefes alın ve aşağıdaki sırayla bilgi verin.",
+    "En önemlisi, çağrı görevlisi kapatmanızı söylemeden telefonu kapatmayın. Size soracağı sorular, ambulansın doğru yere ve doğru donanımla gelmesini sağlar. Gerekirse size telefonda ilk yardım talimatı da verir. Bu talimatları uygulamak, ambulans yolda iken yaralının hayatta kalma şansını yükseltir."
+   ],
+   "type": "photo"
+  },
+  {
+   "kicker": "112'de neler söylenir",
+   "title": "Çağrı sırası",
+   "items": [
+    {
+     "title": "Neredesiniz",
+     "text": "Adres, işyeri adı, kapı ve blok"
+    },
+    {
+     "title": "Ne oldu",
+     "text": "Kaza türü: düşme, yanık, çarpılma"
+    },
+    {
+     "title": "Kaç yaralı",
+     "text": "Sayı ve genel durumları"
+    },
+    {
+     "title": "Yaralı nasıl",
+     "text": "Bilinç ve solunum var mı"
+    },
+    {
+     "title": "Telefonunuz",
+     "text": "Geri aranabilecek numara"
+    }
+   ],
+   "steps": [
+    "112'yi aradığınızda şu beş bilgiyi sırasıyla verin.",
+    "Birincisi konum. İşyerinin adresi, hangi kapıdan, hangi blok ya da bölümde olduğunuz. Büyük sanayi sitelerinde ve şantiyelerde bu çok önemlidir, çünkü ambulans yanlış kapıya gidebilir.",
+    "İkincisi olayın ne olduğu: yüksekten düşme, elektrik çarpması, yanık, kimyasal temas ya da ezilme gibi.",
+    "Üçüncüsü yaralı sayısı. Birden fazla yaralı varsa bunu mutlaka söyleyin, çünkü ambulans sayısı buna göre ayarlanır.",
+    "Dördüncüsü yaralının durumu: bilinci ve solunumu var mı, kanaması var mı. Bunu görevliye aktarmanız, ona öncelik belirleme ve telefonda yönlendirme imkânı verir.",
+    "Beşincisi kendi telefon numaranız. Çağrı kesilirse sizi geri arayabilsinler. Bunları söyledikten sonra görevlinin talimatını bekleyin. Mümkünse biri kapıya çıkıp ambulansı karşılasın."
+   ],
+   "type": "process"
+  },
+  {
+   "kicker": "Doğru ve yanlış",
+   "title": "112 çağrısında davranış",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1758691462123-8a17ae95d203?w=1200",
+     "title": "Yanıtla ve hatta kal",
+     "text": "Soruları yanıtla, talimata uy, kapatılınca kapat",
+     "ok": true
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1655952325939-24bfbbdaee98?w=1200",
+     "title": "Aceleyle kapatmak",
+     "text": "Sadece 'kaza oldu' deyip telefonu kapatmak",
+     "ok": false
+    }
+   ],
+   "steps": [
+    "Çağrı sırasında davranışı karşılaştıralım.",
+    "Doğru olan: soruları sakin yanıtlamak, konumu net vermek ve görevli kapatana kadar hatta kalmak. Gerekirse hoparlöre alıp ellerinizi serbest bırakarak ilk yardıma devam edebilirsiniz.",
+    "Yanlış olan: sadece kaza oldu deyip telefonu kapatmak. Adres eksik kalır, ambulans gecikebilir. Bunu şantiye gibi adresi zor bulunan yerlerde sakın yapmayın."
+   ],
+   "type": "dodont"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1585036929642-7c366129ca43?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar öğrendiklerimiz",
+   "bullets": [
+    "Önce kendi güvenlik, sonra yaralı",
+    "Sıra: koruma, bildirme, kurtarma",
+    "Tek acil çağrı numarası 112",
+    "Konum, olay, yaralı sayısı ve durumu"
+   ],
+   "steps": [
+    "Kısa bir ara özet yapalım. Şimdiye kadar neler konuştuk?",
+    "Her şeyden önce kendi güvenliğiniz geliyor. Tehlike sürüyorsa yaralıya koşmayın, tehlikeyi kesin.",
+    "İlk yardımın temel sırası koruma, bildirme, kurtarma.",
+    "Acil çağrı için aranacak numara 112. Telefon da yanınızdaysa dakikalar kazanırsınız.",
+    "112'ye konumu, olayı, yaralı sayısını ve durumlarını söylüyoruz. Şimdi yaralının durumunu nasıl değerlendireceğimize geçelim."
+   ],
+   "type": "check"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1694521787673-28cbd8830ea5?w=2400",
+   "kicker": "Bilinç kontrolü",
+   "title": "Yaralı sizi duyuyor mu",
+   "bullets": [
+    "Yüksek sesle seslenin: 'İyi misiniz?'",
+    "Omuzlarından hafifçe sarsın, çok kuvvetli değil",
+    "Tepki yoksa yaralı bilinçsiz kabul edilir",
+    "Yardım isteyin, solunumu hemen kontrol edin"
+   ],
+   "steps": [
+    "Yaralıya ulaştığınızda ilk işiniz bilincini kontrol etmek. Bu, birkaç saniyelik bir iştir.",
+    "Yaralının yanına çömelin, yüksek sesle seslenin: iyi misiniz, beni duyuyor musunuz?",
+    "Aynı anda omuzlarından hafifçe sarsın. Sert sallamayın, özellikle düşme olayında boyun ve sırt yaralanması olabilir.",
+    "Ses ve dokunmaya hiçbir tepki yoksa yaralı bilinçsizdir. Yüksek sesle yardım isteyin, çevrenizdekilerden birini 112'yi aramaya yollayın.",
+    "Bu noktada hemen ikinci basamağa geçin: solunum kontrolü. Bilinçsiz birinde en büyük tehlike, solunumun durması ya da dilin hava yolunu kapatmasıdır."
+   ],
+   "type": "split"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1609840534277-88833ef3ddeb?w=2400",
+   "kicker": "Solunum kontrolü",
+   "title": "Hava yolu ve solunum",
+   "bullets": [
+    "Başı geriye, çeneyi yukarı kaldırın",
+    "Bak, dinle, hisset: en çok 10 saniye",
+    "Normal soluk yoksa göğüs basısına geçin"
+   ],
+   "steps": [
+    "Bilinçsiz yaralıyı sırtüstü yatırın. Bir elinizi alnına, diğerini çenesinin altına koyun. Başı hafifçe geriye, çeneyi yukarı kaldırın. Böylece dil geriye kayıp hava yolunu kapatmaz.",
+    "Bilinçsiz birinde kasların gevşemesiyle dil, boğazın gerisine düşüp soluk yolunu tıkayabilir. Bu basit hareket, çoğu zaman tek başına soluğu geri getirmeye yeter. Boyun yaralanması şüphesi varsa başı çok oynatmadan, yalnızca çeneyi nazikçe yukarı kaldırın.",
+    "Sonra bak, dinle, hisset yöntemini uygulayın. Göğüs kafesinin kalkıp indiğine bakın, soluk sesini dinleyin, yanağınızda soluğun sıcaklığını hissedin. Bu işlem en çok on saniye sürsün.",
+    "Normal soluk yoksa ya da yaralı hırıltılı, düzensiz nefes alıyorsa, bunu normal kabul etmeyin. Kalp durmasının ilk işareti olabilir. Bu tür soluk normal sayılmaz; yanlış okunursa yardım gecikir. Hemen 112 aranmamışsa arayın ve göğüs basısına başlayın."
+   ],
+   "type": "photo"
+  },
+  {
+   "kicker": "Temel yaşam desteği",
+   "title": "Göğüs basısında üç sayı",
+   "items": [
+    {
+     "value": "30:2",
+     "unit": "",
+     "label": "30 bası, ardından 2 soluk"
+    },
+    {
+     "value": "5-6",
+     "unit": "cm",
+     "label": "Yetişkinde bası derinliği"
+    },
+    {
+     "value": "~110",
+     "unit": "bası/dk",
+     "label": "Hız dakikada 100 ile 120 arası"
+    }
+   ],
+   "steps": [
+    "Kalbi duran yetişkine uygulanan temel yaşam desteğinde akılda tutmanız gereken üç sayı var.",
+    "Birincisi otuz ikiye iki. Her otuz göğüs basısından sonra iki soluk veriyoruz. Soluk vermekten çekinirseniz ya da bunu bilmiyorsanız, yalnızca kesintisiz göğüs basısı da yapabilirsiniz. Hiç yapmamaktan çok daha iyidir.",
+    "İkincisi derinlik. Yetişkinde göğüs kemiğini beş ile altı santimetre çökertin. Çok yüzeysel basılarda kalp etkili şekilde pompalayamaz.",
+    "Üçüncüsü hız. Dakikada yüz ile yüz yirmi bası, yani saniyede yaklaşık iki bası. Bu hız, yorulana kadar sabit kalmalı."
+   ],
+   "type": "stats"
+  },
+  {
+   "kicker": "Temel yaşam desteği",
+   "title": "Adım adım uygulama",
+   "items": [
+    {
+     "title": "Güvenliği sağla",
+     "text": "Çevreyi kontrol et, bilinç ve solunuma bak"
+    },
+    {
+     "title": "112'yi arat",
+     "text": "Yardım iste, defibrilatör getirilsin"
+    },
+    {
+     "title": "Bası uygula",
+     "text": "Göğüs kemiğinin alt yarısına, 30 kez"
+    },
+    {
+     "title": "2 soluk ver",
+     "text": "Burnu kapat, göğsün kalktığını gör"
+    },
+    {
+     "title": "Sürdür",
+     "text": "Defibrilatör ya da ekip gelene kadar"
+    }
+   ],
+   "steps": [
+    "Şimdi tüm adımları sıraya koyalım.",
+    "Önce güvenliği sağlayın, bilinci ve solunumu kontrol edin. Tepki ve normal soluk yoksa devam edin.",
+    "Sonra 112'yi arayın ya da başkasına aratın. Çevredekilere otomatik defibrilatör varsa getirmelerini söyleyin.",
+    "Ellerinizi üst üste, göğüs kemiğinin alt yarısına yerleştirin. Kolları dik tutup vücut ağırlığınızla otuz kez bastırın.",
+    "Sonra başı geriye alıp çeneyi kaldırarak burnu kapatın ve iki soluk verin. Her soluk yaklaşık bir saniye sürsün, göğüs kafesinin kalktığını görün.",
+    "Bunu, defibrilatör gelene, sağlık ekibi devralana ya da yaralı hareket edip soluk almaya başlayana kadar durmadan sürdürün. Yorulursanız yanınızdakiyle nöbetleşin."
+   ],
+   "type": "process"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1702951390446-1128a52875b8?w=2400",
+   "kicker": "Defibrilatör",
+   "title": "Otomatik eksternal defibrilatör",
+   "bullets": [
+    "Cihaz sesli komutla yönlendirir",
+    "Pedleri çıplak göğse yapıştırın",
+    "Şok verilirken kimse dokunmasın"
+   ],
+   "steps": [
+    "Birçok fabrika, alışveriş merkezi ve büyük şantiyede, duvarda yeşil kalpli bir kutu görmüşsünüzdür. Bu, otomatik eksternal defibrilatör, kısaca AED'dir.",
+    "Kullanımı sanıldığından kolay. Cihazı açınca sesli komutlarla sizi yönlendirir. Pedleri yaralının çıplak, kuru göğsüne cihazdaki resme göre yapıştırın. Cihaz kalp ritmini kendisi inceler ve şok gerekip gerekmediğine kendi karar verir.",
+    "Yanlış kullanmaktan korkmayın. Üstelik cihazın kutusunda, hangi pedin nereye yapıştırılacağını gösteren çizimler vardır. Cihaz şok gerekmeyen birine şok vermez. Yani yapabileceğiniz en büyük hata, cihazı hiç kullanmamaktır.",
+    "Şok verileceği zaman cihaz uyarır. O an hiç kimse yaralıya dokunmamalı. Şoktan sonra ya da şok gerekmiyorsa, cihaz söylediği sürece göğüs basısına kaldığınız yerden devam edin."
+   ],
+   "type": "photo"
+  },
+  {
+   "kicker": "Doğru ve yanlış",
+   "title": "Göğüs basısı tekniği",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1622115297822-a3798fdbe1f6?w=1200",
+     "title": "Dik kollar, sağlam bası",
+     "text": "Göğsün tam çökmesine izin ver, her bası sonrası geri bırak",
+     "ok": true
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1627905646269-7f034dcc5738?w=1200",
+     "title": "Çekinerek, yüzeysel",
+     "text": "Parmak uçlarıyla ya da bükük kollarla hafifçe basmak",
+     "ok": false
+    }
+   ],
+   "steps": [
+    "Göğüs basısında en sık yapılan hatalara bakalım.",
+    "Doğru uygulamada dirsekler düz, omuzlar elin tam üzerinde ve bası dik gelir. Her basıdan sonra göğsün tamamen geri gelmesine izin verilir ki kalp kanla dolabilsin. Bası yaparken sayı saymak, ritmi korumanıza yardım eder.",
+    "Yanlış uygulamada insanlar çoğu kez yaralıyı kırmaktan korkarak çekinir ve yüzeysel bastırır. Kaburga kemiğinin incinmesi mümkündür ama bu, kalbi durmuş birinin yaşamını kurtarmaktan daha az önemlidir. Yaralıyı kırma korkusu sizi durdurmasın."
+   ],
+   "type": "dodont"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1644079446600-219068676743?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Depoda yere yığılan forklift operatörü",
+   "bullets": [
+    "Mehmet usta kısa süre içinde yere düştü",
+    "İş arkadaşları baktı, soluk yoktu",
+    "Bası ve AED hayat kurtardı"
+   ],
+   "steps": [
+    "Bir lojistik depoda yoğun bir vardiya sırasında forklift operatörü Mehmet usta, aniden direksiyonda sızıp yere kayıyor. Yanındaki iş arkadaşı sesleniyor, ama hiçbir cevap yok.",
+    "Arkadaşı omuzlarından hafifçe sarsıyor, tepki alamıyor. Hemen yüksek sesle yardım istiyor. Bir çalışan 112'yi arıyor, bir başkası girişteki defibrilatörü getiriyor.",
+    "Soluk olmadığını gören iş arkadaşı, daha önce aldığı eğitimi hatırlayıp göğüs basısına başlıyor. Cihaz pedleri takılıyor, sesli komutlara uyuluyor, bir şok veriliyor.",
+    "Ambulans geldiğinde Mehmet usta hastaneye nabzıyla ulaştırılabiliyor. Sağlık ekibi bunu, ilk dakikalarda yapılan müdahaleye bağlıyor. Bu hikâyenin dersi şu: eğitimli iki kişi ve bir cihaz fark yaratır."
+   ],
+   "type": "photo"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1624638760852-8ede1666ab07?w=2400",
+   "kicker": "Kanama",
+   "title": "Kanamaya doğrudan baskı",
+   "bullets": [
+    "Temiz bez ya da gazlı bezle doğrudan bastırın",
+    "Bez kanla ıslanırsa çıkarmayın, üstüne ekleyin",
+    "Mümkünse yaralı bölgeyi kalp seviyesinin üstüne kaldırın",
+    "Kanama durmazsa 112'yi bekleyin, baskıyı sürdürün"
+   ],
+   "steps": [
+    "Şimdi iş kazalarında çok görülen bir konuya geçelim: kanama. Kesici aletler, sac kenarları ve ezilme yaralanmaları kanamaya yol açabilir.",
+    "Kanamayı durdurmanın en etkili yolu doğrudan baskıdır. Temiz bir bezi ya da gazlı bezi yaranın üzerine koyun ve avuç içinizle sabit şekilde bastırın.",
+    "Bez kanla ıslanırsa çıkarmayın. Çünkü pıhtı oluşumunu bozarsınız. Üstüne bir yenisini ekleyin ve basıya devam edin.",
+    "Kırık şüphesi yoksa yaralı uzvu kalp seviyesinin üstüne kaldırmak kanamayı azaltır.",
+    "Kanama durmuyorsa baskıyı bırakmayın ve 112'yi aratın. Ellerinizi koruyun: mümkünse eldiven takın, yoksa poşet ya da temiz bir bez kullanın. Böylece kan yoluyla bulaşan hastalıklardan da korunursunuz."
+   ],
+   "type": "split"
+  },
+  {
+   "kicker": "Doğru ve yanlış",
+   "title": "Ağır kanamada davranış",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1609840534277-88833ef3ddeb?w=1200",
+     "title": "Doğrudan baskı",
+     "text": "Yaraya temiz bezle sürekli bastır, bezi çıkarma",
+     "ok": true
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1730584474338-aa8d9d186bf7?w=1200",
+     "title": "Bezi sık sık kaldırmak",
+     "text": "Durup durmadığına bakmak için bası bırakılır",
+     "ok": false
+    }
+   ],
+   "steps": [
+    "Kanama sırasında yapılan en sık hatayı görelim.",
+    "Doğru olan, yaraya temiz bir bezle kesintisiz bastırmak. Bası ne kadar sürekli olursa kan pıhtılaşmaya o kadar fırsat bulur.",
+    "Yanlış olan, kanamanın durup durmadığını görmek için sürekli bezi kaldırıp bakmak. Her kaldırışta kanama yeniden başlar. Turnike ise ancak uzuvda doğrudan baskıyla kontrol edilemeyen ağır kanamada, son çare olarak ve eğitimliyseniz uygulanır. Yapmanız gereken ilk iş her zaman doğrudan baskıdır."
+   ],
+   "type": "dodont"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1696243144290-792f1f48339e?w=2400",
+   "kicker": "Şok",
+   "title": "Şok: yaşamı tehdit eden durum",
+   "bullets": [
+    "Cilt soğuk, soluk ve nemli; dudaklar morarabilir",
+    "Nabız hızlı ve zayıf, soluk alıp verme hızlı",
+    "Huzursuzluk, sersemlik, bilinç bulanıklığı",
+    "Yaralıyı yatırın, örtün, yiyecek ve içecek vermeyin"
+   ],
+   "steps": [
+    "Şok, vücudun yeterli kan ve oksijen alamaması demektir. Ağır kanama, yanık, ezilme ve ciddi yaralanmalardan sonra gelişebilir, ve hayati tehlike taşır.",
+    "Belirtileri tanıyın: cilt soğuk, soluk ve nemlidir; dudaklar ve tırnaklar morarabilir.",
+    "Nabız hızlı ve zayıf, soluk alıp verme de hızlıdır.",
+    "Yaralı huzursuz, sersem ya da kafası karışık olabilir. Kimi zaman hiç belirti vermeden kötüleşir, bu yüzden ağır yaralanan herkesi gözlemleyin.",
+    "Yapılacaklar şunlar: 112'yi arayın, yaralıyı sırtüstü yatırın, bir örtüyle üşümesini önleyin. Kafa, boyun, omurga ya da bacak kırığı şüphesi yoksa ayaklarını hafifçe yükseltin. Yutma riski nedeniyle yiyecek ve içecek vermeyin."
+   ],
+   "type": "split"
+  },
+  {
+   "kicker": "İş kazaları",
+   "title": "Sık görülen üç yaralanma",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1610278764397-388d11c35ddb?w=1200",
+     "title": "Yanık",
+     "text": "Akan serin suyla soğutun, buz sürmeyin",
+     "tag": "Yanık"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1696243144290-792f1f48339e?w=1200",
+     "title": "Kırık ve burkulma",
+     "text": "Hareket ettirmeyin, sabitleyip 112'yi arayın",
+     "tag": "Kırık"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1628246941071-0788e88e2b32?w=1200",
+     "title": "Göze kimyasal",
+     "text": "Bol akan suyla en az 15 dakika yıkayın",
+     "tag": "Göz"
+    }
+   ],
+   "steps": [
+    "Tehlikeli işyerlerinde sıkça karşılaşılan üç yaralanmaya kısaca bakalım.",
+    "Yanıkta ilk iş, yanan bölgeyi akan serin suyla soğutmak. Yanıktan etkilenen bölgeyi uzun dakikalarca soğutmak ağrıyı azaltır, hasarı sınırlar. Buz sürmeyin, diş macunu, yoğurt gibi şeyler de sürmeyin, kabarcıkları patlatmayın.",
+    "Kırık ya da burkulma şüphesinde yaralı uzvu yerinde bırakın. Hareket ettirmek, kemik uçlarının doku ve damarlara zarar vermesine yol açabilir. Düşme sonrası boyun ve sırt ağrısı varsa kıpırdatmayın, 112'yi bekleyin.",
+    "Göze kimyasal sıçradığında zaman kritiktir. Göz duşu varsa hemen kullanın, yoksa akan temiz suyla gözü en az on beş dakika yıkayın. Sonra mutlaka sağlık kuruluşuna gidin, kimyasalın güvenlik bilgi formunu da yanınızda götürün."
+   ],
+   "type": "cards"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1626379481874-3dc5678fa8ca?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Boya atölyesinde gözüne çözücü sıçradı",
+   "bullets": [
+    "Gözlüğünü çıkarmıştı, sıçrama oldu",
+    "İş arkadaşı göz duşuna götürdü",
+    "Yıkama süresi uzun tutuldu"
+   ],
+   "steps": [
+    "Bir mobilya boyahanesinde çalışan Osman, kısa bir iş için koruyucu gözlüğünü çıkarıyor. O sırada karışımdan bir damla çözücü gözüne sıçrıyor.",
+    "Osman gözünü ovmaya başlıyor. Yanındaki arkadaşı hemen müdahale ediyor: gözü ovmaması gerektiğini söylüyor ve onu kolundan tutup atölyenin göz duşuna götürüyor.",
+    "Bol su ile uzun süre yıkıyorlar. Bu arada bir çalışan 112'yi arıyor, bir başkası da kimyasalın güvenlik bilgi formunu getiriyor. Osman'ı hastaneye bu bilgiyle gönderiyorlar.",
+    "Çıkarılacak ders çok basit: koruyucu gözlük yerinde kalmalı. Ama kaza olduysa gözü ovmayın, hemen yıkayın ve yeterince uzun yıkayın."
+   ],
+   "type": "photo"
+  },
+  {
+   "kicker": "Doğru ve yanlış",
+   "title": "Yanık sonrası ilk müdahale",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1610278764397-388d11c35ddb?w=1200",
+     "title": "Serin akan su",
+     "text": "Yanık bölgesini bol ve serin suyla soğut",
+     "ok": true
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1765996796562-ce301df337a0?w=1200",
+     "title": "Buz, diş macunu, yağ",
+     "text": "Bunlar dokuyu daha da hırpalar ve enfeksiyon riskini artırır",
+     "ok": false
+    }
+   ],
+   "steps": [
+    "Yanıkta bilinen yanlışlar çok. Karşılaştıralım.",
+    "Doğru olan, yanık bölgesini akan serin suyla soğutmak. Giysi yapışmadıysa nazikçe çıkarın, yüzük ve saat gibi şişmeyi artıracak şeyleri alın.",
+    "Yanlış olan, yanığa buz, diş macunu, yoğurt, yağ ya da salça sürmek. Buz dokuyu ayrıca hasara uğratır; diğerleri enfeksiyon riskini artırır ve doktorun yarayı değerlendirmesini zorlaştırır. Geniş, derin ya da yüz ve eller gibi hassas bölgelerdeki yanıklarda mutlaka sağlık desteği alın."
+   ],
+   "type": "dodont"
+  },
+  {
+   "kicker": "Boğulma",
+   "title": "Yutkunma ve tıkanma",
+   "items": [
+    {
+     "title": "Öksürtün",
+     "text": "Yaralı öksürebiliyorsa müdahale etmeyin"
+    },
+    {
+     "title": "Sırta vurun",
+     "text": "Soluk alamıyorsa 5 kez kürek kemikleri arasına"
+    },
+    {
+     "title": "Karna bası",
+     "text": "Sonuç yoksa 5 kez karına bası uygulayın"
+    },
+    {
+     "title": "Yardım çağırın",
+     "text": "112'yi arayın, değişimli sürdürün"
+    }
+   ],
+   "steps": [
+    "İlk yardımda sık karşılaşılan bir durum da boğulma, yani yutkunma sırasında soluk yolunun tıkanması. Yemekhanelerde, kantinlerde ya da molada olabilir.",
+    "Yaralı öksürebiliyor, konuşabiliyorsa soluk yolu tamamen kapanmamıştır. Öksürmesini teşvik edin, sırtına vurmayın ve yanında kalın.",
+    "Soluk alamıyor, konuşamıyor, boğazını tutuyorsa soluk yolu tıkanmıştır. Yaralıyı öne doğru eğin ve iki kürek kemiği arasına, avucunuzun alt kısmıyla beş kez sert vurun.",
+    "Parça çıkmadıysa arkasına geçin, yumruğunuzu göbek ile göğüs kemiği arasına koyun ve içeriye doğru yukarı beş kez bastırın. Bu uygulamaya karna bası denir.",
+    "Bu iki işlemi nöbetleşe sürdürün. Birine 112'yi aratın. Yaralı bilincini kaybederse yere yatırıp göğüs basısına başlayın."
+   ],
+   "type": "process"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1786532852068-a3581fc5032d?w=2400",
+   "kicker": "Kendinizi koruyun",
+   "title": "İlk yardımcı da korunmalıdır",
+   "bullets": [
+    "Mümkünse eldiven ve maske takın",
+    "Kana ve vücut sıvılarına çıplak elle dokunmayın",
+    "Müdahaleden sonra ellerinizi sabunla yıkayın",
+    "Yaralıyla konuşun, sakinleştirin"
+   ],
+   "steps": [
+    "Yaralıya yardım ederken kendinizi de koruyun. Bu, bencillik değil, aksine yardımın sürmesinin şartıdır.",
+    "İlk yardım dolabında bulunan eldiven ve maskeyi kullanın. Yoksa naylon poşet ya da temiz bir bez de kullanabilirsiniz.",
+    "Kana ve diğer vücut sıvılarına çıplak elle dokunmak, bulaşıcı hastalıklar açısından risklidir.",
+    "Müdahaleden sonra ellerinizi bol su ve sabunla yıkayın, kirlenen giysilerinizi değiştirin, olayı da amirinize ve işyeri hekimine bildirin.",
+    "Bir de sözlü destek var. Yaralıya adını söyleyin, yanında olduğunuzu, yardımın yolda olduğunu anlatın. Korku, kan basıncını ve solunumu kötüleştirir; sakin bir ses ilaç gibi etki eder."
+   ],
+   "type": "split"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1731983587570-99567f02f910?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Şantiyede yüksekten düşen çalışan",
+   "bullets": [
+    "Düşen çalışan ağrıdan söz ediyordu",
+    "Kaldırmaya çalıştılar, vazgeçtiler",
+    "Ambulans gelene kadar sabit kaldı"
+   ],
+   "steps": [
+    "Bir inşaat şantiyesinde iskeleden düşen bir çalışan, yerde yatıyor. Bilinci açık, ama belinde ve boynunda şiddetli ağrı var.",
+    "Çevredeki arkadaşları onu hemen kaldırıp gölgeye taşımak istiyor. O sırada ilk yardım eğitimi almış kalfa Hasan, durun, kımıldatmayın diye bağırıyor.",
+    "Hasan, 112'yi arattırıyor, yaralının başını iki yanından tutarak sabit tutuyor ve onunla konuşmaya devam ediyor. Başka tehlike yok; kimse yaralıyı yerinden oynatmıyor.",
+    "Sağlık ekibi geldiğinde yaralıyı sedyeyle özel olarak taşıyor. Hekimler, omurga yaralanmasında gereksiz hareketin kalıcı hasara yol açabileceğini söylüyor. Ders açık: yüksekten düşende ağrı varsa, yangın gibi zorunlu bir durum olmadıkça kıpırdatmayın. Sabırla beklemek, bazen kahramanca görünen hareketten daha fazla iş görür."
+   ],
+   "type": "photo"
+  },
+  {
+   "kicker": "İşyerinde ilk yardımcı",
+   "title": "Kaç ilk yardımcı gerekir",
+   "items": [
+    {
+     "value": "20",
+     "unit": "çalışan",
+     "label": "Az tehlikeli: her 20 çalışan için 1"
+    },
+    {
+     "value": "15",
+     "unit": "çalışan",
+     "label": "Tehlikeli: her 15 çalışan için 1"
+    },
+    {
+     "value": "10",
+     "unit": "çalışan",
+     "label": "Çok tehlikeli: her 10 çalışan için 1"
+    }
+   ],
+   "steps": [
+    "İşyerlerinde kaç ilk yardımcı bulundurulacağı, İlkyardım Yönetmeliği'nde tehlike sınıfına göre belirlenmiştir. Burada çok önemli bir ayrım var.",
+    "Az tehlikeli işyerlerinde her yirmi çalışan için bir ilk yardımcı bulundurulur.",
+    "Tehlikeli işyerlerinde bu sayı daha sıkıdır: her on beş çalışan için bir ilk yardımcı.",
+    "Çok tehlikeli işyerlerinde ise her on çalışan için bir ilk yardımcı bulundurulması gerekir. Yani sizin gibi tehlikeli ve çok tehlikeli sınıfta çalışanlar için, riskin yüksek olması nedeniyle yardım edecek kişi sayısı da daha fazladır."
+   ],
+   "type": "stats"
+  },
+  {
+   "kicker": "İşyerinde hazırlık",
+   "title": "İlk yardım için kimin görevi ne",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1624638760852-8ede1666ab07?w=1200",
+     "title": "İşveren",
+     "text": "İlk yardımcıları görevlendirir, malzemeyi ve eğitimi sağlar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1768158988512-ad31657fe5b8?w=1200",
+     "title": "İlk yardımcı",
+     "text": "Belgeli ve eğitimlidir; olayda ilk müdahaleyi yapar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=1200",
+     "title": "Çalışan",
+     "text": "Olayı bildirir, tehlikeyi kesmeye yardım eder, ilk yardımcıya yol açar"
+    }
+   ],
+   "steps": [
+    "İlk yardım bir ekip işidir. Kimin ne yaptığına bakalım.",
+    "İşveren, ilk yardımcıların görevlendirilmesinden, gerekli eğitimin ve malzemenin sağlanmasından sorumludur. İlk yardım dolabı kolay ulaşılır yerde, malzemeleri eksiksiz olmalıdır.",
+    "İlk yardımcı, Sağlık Bakanlığı'nın izin verdiği kurumlarda eğitim almış belgeli kişidir. Belge, üç yıl geçerlidir ve sonrasında güncelleme eğitimiyle yenilenir. Olayda ilk müdahaleyi o yapar.",
+    "Siz ilk yardımcı değilseniz bile görevleriniz var: olayı hemen bildirmek, tehlikeyi gidermeye yardım etmek, 112'yi aramak, ilk yardımcıya yol vermek ve onun talimatlarına uymak. İlk yardımcılar da işyerinin acil durum planına göre hareket eder."
+   ],
+   "type": "roles"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1743698205310-cd814a95afab?w=2400",
+   "kicker": "Bugün işyerinize bakın",
+   "title": "Üç şeyi öğrenin",
+   "bullets": [
+    "İlk yardım dolabı nerede ve içinde ne var",
+    "İlk yardımcılarınız kimler",
+    "Defibrilatör, göz duşu ve acil çıkışlar nerede"
+   ],
+   "steps": [
+    "Şimdi bu bilgiyi işyerinize bağlayalım. Yarın işe geldiğinizde, kısa bir turla şu üç şeyi öğrenin.",
+    "Birincisi, ilk yardım dolabı nerede? Kilitli değil mi, malzemeler tamam mı, son kullanma tarihi geçmiş ürün var mı?",
+    "İkincisi, bölümünüzdeki ilk yardımcılar kimler? İsimleri ve telefonları ilan panosunda mı? Tehlike anında kime koşacağınızı bilmek dakikalar kazandırır.",
+    "Üçüncüsü, defibrilatör, göz duşu ve acil çıkışlar nerede? Bunlar bazen koliyle kapanmış, kilitlenmiş ya da başka yere taşınmış olabilir. Acil durumda aramak için vakit olmaz. Eksik gördüğünüz her şeyi amirinize ya da işyeri hekimine bildirin. Bu bir şikâyet değil, görevdir. İşyerinize özgü ayrıntıları ise yüz yüze eğitimde uzmanınızla konuşacaksınız."
+   ],
+   "type": "split"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1585036929642-7c366129ca43?w=2400",
+   "kicker": "Kapanış özeti",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Önce güvenlik: koruma, bildirme, kurtarma",
+    "112: konum, olay, yaralı sayısı ve durum",
+    "Bilinç ve solunum kontrolü; 30:2, 5-6 cm, dakikada 100-120",
+    "Kanamada doğrudan baskı; yanıkta serin su",
+    "Tehlikelide 15, çok tehlikelide 10 çalışana 1 ilk yardımcı"
+   ],
+   "steps": [
+    "Dersi toparlayalım. Bu derste ilk yardımın mantığını gördük.",
+    "Önce güvenlik. Kendinizi tehlikeye atmayın; koruma, bildirme, kurtarma sırasını izleyin.",
+    "112'yi aradığınızda konumu, olayı, yaralı sayısını ve durumunu söyleyin; görevli kapatana kadar hatta kalın.",
+    "Bilinci ve solunumu kontrol edin. Kalp durmuşsa otuz bası, iki soluk; beş ile altı santim derinlik, dakikada yüz ile yüz yirmi bası. Defibrilatör varsa hemen kullanın.",
+    "Kanamada doğrudan baskı, yanıkta serin akan su, şokta yatırıp örtmek. Tehlikeli işyerlerinde her on beş, çok tehlikeli işyerlerinde her on çalışan için bir ilk yardımcı bulundurulur.",
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Sakin kalın, öğrendiklerinizi düşünün ve cevaplayın. Bir sonraki derste görüşmek üzere."
+   ],
+   "type": "check"
+  }
+ ]
+}

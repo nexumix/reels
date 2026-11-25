@@ -1,0 +1,708 @@
+{
+ "code": "tc_t1",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "3. Bölüm · Teknik Konular",
+ "title": "Kimyasal, fiziksel ve ergonomik risk etmenleri",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1777304610456-e9d6206b19a2?w=2400",
+   "kicker": "3. Bölüm · Ders 1",
+   "title": "Kimyasal, fiziksel ve ergonomik risk etmenleri",
+   "subtitle": "Gözle görmediğiniz tehlikeleri tanımak",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste, atölyede, şantiyede ya da üretim hattında her gün yanı başınızda olan ama çoğu zaman fark etmediğiniz tehlikeleri konuşacağız: kimyasallar, gürültü, titreşim, toz ve vücudu yıpratan çalışma biçimleri.",
+    "Tehlikeli ve çok tehlikeli sınıftaki işyerlerinde bu etmenler çok daha yoğun karşımıza çıkar. İyi haber şu: hepsi tanınabilir ve önlenebilir. Amacımız sizi korkutmak değil; ne yapacağınızı bilen bir çalışan olmanızı sağlamak."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Kimyasal etmenler",
+     "text": "Etiket, piktogram, güvenlik bilgi formu"
+    },
+    {
+     "title": "Fiziksel etmenler",
+     "text": "Gürültü, titreşim, ışık, sıcaklık, toz"
+    },
+    {
+     "title": "Ergonomik etmenler",
+     "text": "Tekrarlı hareket ve uygunsuz duruş"
+    },
+    {
+     "title": "Korunma sırası",
+     "text": "Risk nasıl kontrol altına alınır"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Dersimiz dört bölümden oluşuyor.",
+    "İlk bölümde kimyasalları ele alacağız. Etiketi nasıl okuyacağınızı, piktogramların ne anlama geldiğini ve güvenlik bilgi formunda neye bakacağınızı göreceğiz.",
+    "İkinci bölümde fiziksel risk etmenlerini konuşacağız: gürültü, titreşim, aydınlatma, sıcak ve soğuk ortam ile toz.",
+    "Üçüncü bölümde ergonomik riskleri, yani tekrarlı hareketi ve yanlış duruşu inceleyeceğiz.",
+    "Son olarak, bu risklerin hangi sırayla önlendiğini ve bu işte sizin görevinizin ne olduğunu özetleyeceğiz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1675860094441-5127d5b05820?w=2400",
+   "kicker": "Üç büyük grup",
+   "title": "Üç grup risk etmeni, tek bir bedeni etkiler",
+   "bullets": [
+    "Kimyasal: boya, solvent, asit, yapıştırıcı, kaynak dumanı",
+    "Fiziksel: gürültü, titreşim, aydınlatma, sıcaklık, toz",
+    "Ergonomik: tekrarlı hareket, zorlayıcı duruş, yanlış çalışma düzeni"
+   ],
+   "steps": [
+    "Çalışma ortamındaki sağlık riskleri üç ana grupta toplanır. Bu üçü çoğu zaman aynı anda, aynı işte bir arada bulunur.",
+    "Kimyasal etmenler, solunan, deriye temas eden ya da yanlışlıkla yutulan maddelerdir. Boya atölyesindeki solvent, temizlikte kullanılan asit, kaynakta çıkan duman bunlara örnektir.",
+    "Fiziksel etmenler enerjiden kaynaklanır. Makinenin gürültüsü, el aletinin titreşimi, yetersiz ışık, fırın başındaki sıcaklık ve havadaki toz bu gruptadır.",
+    "Ergonomik etmenler ise işin sizin bedeninize uymamasından doğar: aynı hareketi saatlerce tekrarlamak, eğilerek ya da kollar havada çalışmak gibi."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=2400",
+   "kicker": "Kimyasallar",
+   "title": "Kimyasallar vücuda dört yoldan girer",
+   "bullets": [
+    "Solunum: buhar, gaz, toz ve duman akciğerlere ulaşır",
+    "Deri: temas edince emilir ya da cildi tahriş eder",
+    "Göz: sıçrama ve buhar ani yaralanma yapabilir",
+    "Sindirim: kirli elle yemek, içmek ve sigara içmek"
+   ],
+   "steps": [
+    "Kimyasalın size zarar verebilmesi için vücuda girmesi ya da temas etmesi gerekir. Bunun dört yolu var ve bunları bilmek, hangi önlemin neden alındığını anlamanızı sağlar.",
+    "En sık yol soludur. Boya püskürtürken, solvent kullanırken ya da kaynak yaparken havaya karışan buhar ve duman nefesinizle akciğere ulaşır. Bu yüzden havalandırma ve uygun maske bu kadar önemlidir.",
+    "İkinci yol deridir. Bazı kimyasallar cildi yakar, bazıları ise ciltten kana geçer. Eldiven giymek ve kıyafeti kirlendiğinde değiştirmek bu yüzden gereklidir.",
+    "Gözler çok hassastır. Küçük bir sıçrama bile kalıcı hasar bırakabilir. Gözlük ya da yüz siperi sadece süs değildir.",
+    "Dördüncü yol ağızdır. Kimyasallı ellerle yemek yemek, çay içmek ya da sigara içmek maddeyi doğrudan vücuda taşır. Bu yüzden iş bitince, yemekten önce ellerinizi yıkayın."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1555699875-5773b06e8ee2?w=2400",
+   "kicker": "Etiket",
+   "title": "Etiket kimyasalın kimlik kartıdır",
+   "bullets": [
+    "Sinyal sözcüğü: Tehlike ya da Dikkat",
+    "Piktogramlar: kırmızı çerçeveli elmas işaretler",
+    "Tehlike ve önlem ifadeleri"
+   ],
+   "steps": [
+    "Bir kimyasalla çalışmadan önce yapılacak ilk şey, kabın üzerindeki etiketi okumaktır. Etiket, ürünün kimlik kartı gibidir ve doğru uluslararası düzene göre hazırlanır.",
+    "Etikette önce sinyal sözcüğü bulunur. İki seçenek var: Tehlike ya da Dikkat. Tehlike sözcüğü, daha ciddi tehlikeler için kullanılır.",
+    "Sonra piktogramlar gelir. Bunlar kırmızı çerçeveli, beyaz zeminli, elmas biçimli işaretlerdir. Çalışan, dili ya da okuma düzeyi ne olursa olsun, simgeye bakarak ana tehlikeyi anlayabilir.",
+    "Son olarak tehlike ifadeleri ve önlem ifadeleri yer alır. Birincisi maddenin ne yapabildiğini, ikincisi ise nasıl korunacağınızı söyler. Ayrıca üreticinin kimliği ve ürünün adı da mutlaka bulunur."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Piktogramlar",
+   "title": "Dokuz piktogramı üç grupta hatırlayın",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1578986568309-707ef1017f69?w=1200",
+     "tag": "Fiziksel tehlike",
+     "title": "Yangın ve patlama",
+     "text": "Alev, alevli daire, patlayan bomba ve gaz tüpü: yanıcı, yakıcı, patlayıcı ve basınçlı"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1555699875-5773b06e8ee2?w=1200",
+     "tag": "Zehirli ve aşındırıcı",
+     "title": "Kuru kafa ve korozyon",
+     "text": "Kuru kafa: ölümcül zehir. Aşındırıcı işareti: cildi, gözü ve metali yakar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1777304610456-e9d6206b19a2?w=1200",
+     "tag": "Sağlık ve çevre",
+     "title": "Uzun vadeli etki",
+     "text": "Ünlem: tahriş. İnsan silueti: kanser ve organ hasarı. Ölü balık: suya zarar"
+    }
+   ],
+   "steps": [
+    "Dokuz piktogramı tek tek ezberlemenize gerek yok. Onları üç grupta düşünürseniz yeterli.",
+    "Birinci grup fiziksel tehlikelerdir. Alev, yanıcı maddeleri; alevli daire, yangını besleyen yakıcıları; patlayan bomba, patlayıcıları; gaz tüpü ise basınçlı gazları gösterir. Bunların yakınında kıvılcım ve ısı kaynağı olmamalı.",
+    "İkinci grup, bedene hemen zarar verenlerdir. Kuru kafa ve çapraz kemik ölümcül zehir demektir. Aşındırıcı işareti ise cildi ve gözü yakan, metali bile aşındıran asit ve bazlar için kullanılır.",
+    "Üçüncü grup, ünlem işareti, insan siluetinde sağlık tehlikesi ve çevre işaretidir. Ünlem işareti tahriş ve alerjiyi, insan silueti kanser, solunum ya da organ hasarı gibi uzun vadeli etkileri gösterir. Bunlar belirtisiz ilerleyebildiği için ayrıca önemlidir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1590006137741-5f5892ce5635?w=2400",
+   "kicker": "Güvenlik bilgi formu",
+   "value": "16 bölüm",
+   "title": "Her kimyasalın bir güvenlik bilgi formu vardır ve işyerinde ulaşılabilir olmalıdır",
+   "text": "Formda tehlikeler, ilk yardım, yangın, döküntü ve KKD bilgisi yazar",
+   "steps": [
+    "Etiket kısa bir özettir. Ayrıntıyı ise güvenlik bilgi formu, kısaca GBF verir. Tedarikçi, bu formu ürünle birlikte sağlamak zorundadır.",
+    "Form 16 bölümden oluşur ve tüm kimyasallarda aynı sırayı izler. Böylece hangi ürün olursa olsun aradığınız bilgiyi hep aynı yerde bulursunuz. Formun işyerinde, çalışanların erişebileceği yerde bulundurulması gerekir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "GBF nasıl okunur",
+   "title": "GBF'de önce nerelere bakılır",
+   "items": [
+    {
+     "title": "Tehlikelerin tanımı",
+     "text": "Madde bize ne yapabilir"
+    },
+    {
+     "title": "İlk yardım",
+     "text": "Göze, deriye, solunuma müdahale"
+    },
+    {
+     "title": "Yangın ve döküntü",
+     "text": "Söndürme aracı, temizleme yöntemi"
+    },
+    {
+     "title": "Maruziyet ve KKD",
+     "text": "Hangi eldiven, maske, gözlük"
+    }
+   ],
+   "steps": [
+    "Uzun bir formu baştan sona okumanız beklenmiyor. Pratikte dört yere bakmak çoğu zaman yeter.",
+    "Birincisi tehlikelerin tanımı. Madde yanıcı mı, zehirli mi, tahriş edici mi, bunu burada görürsünüz.",
+    "İkincisi ilk yardım bölümü. Göze sıçradığında ne yapılacağı, solunduğunda kimin ne yapacağı burada yazar. Bunu kaza olmadan önce bilmek en doğrusudur.",
+    "Üçüncüsü yangın ve döküntü bölümleri. Hangi söndürücünün kullanılacağı ve dökülen maddenin nasıl toplanacağı belli olur. Su her kimyasal için doğru değildir.",
+    "Dördüncüsü maruziyet kontrolü ve kişisel korunma bölümü. Hangi tür eldiven, maske ya da gözlüğün gerektiği buradan öğrenilir. Eldiven her kimyasala dayanmaz; doğru malzeme formda yazar."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Günlük uygulama",
+   "title": "Kimyasalı kaba aktarırken",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1628147529780-36964fbb8d54?w=1200",
+     "ok": true,
+     "title": "Etiketli, kapalı kap",
+     "text": "Aktarım gerekiyorsa kaba aynı etiketi yapıştırın ve kapağı kapalı tutun"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=1200",
+     "ok": false,
+     "title": "Su şişesine boşaltmak",
+     "text": "Etiketsiz şişe, başkasının içmesine ya da yanlış kullanmasına yol açar"
+    }
+   ],
+   "steps": [
+    "Şimdi çok sık görülen bir hataya bakalım: kimyasalı başka bir kaba aktarmak.",
+    "Doğru uygulamada, aktarım zorunluysa yeni kaba da etiket yapıştırılır. Ürünün adı, tehlike işareti ve sinyal sözcüğü bu etikette bulunur. Kap kapalı tutulur ve belirlenen yerde saklanır.",
+    "Yanlış uygulamada ise kimyasal, boş bir su şişesine ya da kolonya şişesine konur. Üzerinde hiçbir bilgi yoktur. Aynı atölyede çalışan bir arkadaşınız, susayınca o şişeden içebilir. Aklınızda kalsın: etiketsiz kap kullanmayın, etiketsiz kap bulursanız dokunmayın ve amirinize haber verin."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1626379481874-3dc5678fa8ca?w=2400",
+   "kicker": "Güvenli kullanım",
+   "title": "Kimyasalla güvenli çalışmanın dört kuralı",
+   "bullets": [
+    "Depolama: kapalı, etiketli, uygun dolap ve havalandırılan yerde",
+    "Uyumsuz maddeleri ayrı tutun: asit ve baz, yakıcı ve yanıcı",
+    "Çalışırken yemek, içmek ve sigara içmek yasak; işten sonra el yıkayın",
+    "Döküntüde panik yapmayın: bildirin, yetkisiz kimse yaklaşmasın"
+   ],
+   "steps": [
+    "Şimdi günlük hayatta uygulayacağınız kuralları görelim. Kimyasalla çalışmak, bu kurallara uyulduğu sürece güvenli bir iştir.",
+    "Birinci kural depolamadır. Kimyasallar kapalı kapta, etiketli olarak ve uygun bir dolapta ya da depoda saklanır. Isı kaynağından uzak ve havalandırılan bir yer seçilir. Taşırken kap devrilmesin diye mutlaka sabitlenir.",
+    "İkinci kural, birbirine uymayan maddeleri ayrı tutmaktır. Asit ile baz, yakıcı madde ile yanıcı madde yan yana durmamalıdır. Karışan iki madde ısı, zehirli gaz ya da yangın çıkarabilir. Bu bilgiyi yine güvenlik bilgi formunda bulursunuz.",
+    "Üçüncü kural hijyendir. Kimyasalla çalışılan alanda yemek, içmek ve sigara içmek yasaktır. Molaya çıkmadan, tuvaleti kullanmadan ve işten ayrılmadan önce ellerinizi yıkayın. Kirlenmiş iş kıyafetini eve götürmeyin.",
+    "Dördüncü kural döküntü durumudur. Bir şey döküldüğünde panik yapmayın, ortamı terk etmeniz gerekiyorsa önce yanınızdakileri uyarın ve amirinize haber verin. Yetkisiz kimsenin yaklaşmasına izin vermeyin. Temizliği ancak eğitimli ve uygun KKD'li kişiler yapar."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Döküntü",
+   "title": "Kimyasal döküldüğünde dört adım",
+   "items": [
+    {
+     "title": "Uyarın",
+     "text": "Çevredekilere ve amire haber verin"
+    },
+    {
+     "title": "Uzaklaşın",
+     "text": "Kaynak ve ateşi kapatıp bölgeyi boşaltın"
+    },
+    {
+     "title": "Önlem alın",
+     "text": "Sızıntıyı eğitimli ekip, uygun KKD ile durdursun"
+    },
+    {
+     "title": "Bildirin",
+     "text": "Olayı kaydettirin, ilk yardım gerekirse yardım isteyin"
+    }
+   ],
+   "steps": [
+    "Döküntü olduğunda ne yapacağınızı önceden bilmek, kaza anında kritik farktır. Dört adım yeterli.",
+    "Birinci adım uyarmaktır. Yanınızdakilere ve amirinize bağırarak ya da telefonla haber verin.",
+    "İkinci adım, güvenliyse ocak, kıvılcım ve elektrikli aletleri kapatıp bölgeyi boşaltmaktır. Buhar solumamak için rüzgâr yönüne ve havalandırmaya dikkat edin.",
+    "Üçüncü adımda döküntüyü, uygun KKD'si ve malzemesi olan eğitimli ekip toplar. Kendi başınıza, bez ya da su ile müdahale etmeyin. Çünkü bazı maddeler suyla tepki verir.",
+    "Dördüncü adım bildirimdir. Olay kaydedilir ve kimse etkilendiyse ilk yardım ve sağlık desteği hemen istenir. Ramak kala bir olay bile bildirilmelidir ki tekrar etmesin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1559913409-a94418c968f6?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Boya kabinindeki gizli tehlike",
+   "bullets": [],
+   "steps": [
+    "Bir mobilya atölyesinde çalışan Ahmet usta, yıllardır vernik uyguluyor. Bir gün, yeni gelen bir solvent kutusunun üzerinde etiket olmadığını fark ediyor ama işe devam ediyor, çünkü koku öncekine benziyor.",
+    "Birkaç saat sonra başı dönmeye ve gözleri yanmaya başlıyor. Yeni üründe, öncekinden çok daha uçucu bir madde varmış. Kabinin havalandırması da bu yoğunluğa göre ayarlanmamış.",
+    "Ahmet usta hemen dışarı çıkıyor ve tehlike atlatılıyor. Ama aslında olması gereken farklıydı: Etiketsiz ürün kullanılmaz, önce amire sorulur ve güvenlik bilgi formu istenir. Ürün değiştiğinde risk değerlendirmesi ve KKD seçimi de yenilenir. Koku, güvenli olduğunuzun işareti değildir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1702943545007-82ec194737c7?w=2400",
+   "kicker": "Ara özet",
+   "title": "Kimyasallarda akılda kalanlar",
+   "bullets": [
+    "Kimyasal vücuda solunum, deri, göz ve ağız yoluyla girer",
+    "Etiketteki sinyal sözcüğü, piktogram ve ifadeleri okuyun",
+    "Ayrıntı için 16 bölümlü güvenlik bilgi formuna bakın",
+    "Etiketsiz ya da şişeye aktarılmış kimyasal kullanmayın"
+   ],
+   "steps": [
+    "Kısa bir ara verip kimyasallarla ilgili öğrendiklerimizi toparlayalım.",
+    "Kimyasal vücuda soluma, deri, göz ve ağız yoluyla girer. Her önlemin arkasında bu yollardan birini kapatma düşüncesi var.",
+    "Çalışmaya başlamadan etiketteki sinyal sözcüğünü, piktogramları ve ifadeleri okuyun.",
+    "Daha fazla bilgi gerektiğinde, 16 bölümlü güvenlik bilgi formu en güvenilir kaynağınızdır.",
+    "Etiketsiz ya da başka şişeye aktarılmış kimyasalı asla kullanmayın. Şimdi fiziksel risk etmenlerine geçelim."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1717386255773-1e3037c81788?w=2400",
+   "kicker": "Fiziksel etmenler",
+   "title": "Enerjiden doğan beş fiziksel risk",
+   "bullets": [
+    "Gürültü: makine, pres, kesim ve kırıcı aletler",
+    "Titreşim: el aletleri, iş makineleri, forkliftler",
+    "Aydınlatma: yetersiz ya da göz kamaştıran ışık",
+    "Termal konfor: fırın başı, soğuk depo, açık hava",
+    "Toz: ahşap, silis, çimento, metal ve kaynak tozu"
+   ],
+   "steps": [
+    "Fiziksel risk etmenleri, bir enerji türünün vücuda fazla gelmesiyle ortaya çıkar. Kimyasalda olduğu gibi çoğu zaman acı hissetmezsiniz; zarar yavaş yavaş birikir.",
+    "Gürültü, metal ve makine işlerinde en yaygın olanıdır. Pres, testere, kompresör ve kırıcı aletler bu grupta yer alır.",
+    "Titreşim, tutarak kullandığınız aletlerden ya da üzerinde oturup kullandığınız makinelerden elinize ve bedeninize geçer.",
+    "Aydınlatma yetersizse hata ve kaza artar. Çok parlak ışık ise göz kamaşması yapar.",
+    "Çok sıcak ya da çok soğuk ortam, dikkati ve beden gücünü düşürür. Toz ise akciğerlerde yıllar içinde kalıcı hasar bırakabilir.",
+    "Bunların hepsi, uzun süre maruz kalındığında meslek hastalığına yol açabilir. Şimdi her birinde hangi değerlerin önemli olduğunu ve nasıl korunacağınızı görelim."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Gürültü",
+   "title": "Gürültüde üç önemli eşik",
+   "items": [
+    {
+     "value": "80",
+     "unit": "dB(A)",
+     "label": "Alt eylem değeri: koruyucu hazır tutulur"
+    },
+    {
+     "value": "85",
+     "unit": "dB(A)",
+     "label": "Üst eylem değeri: koruyucu takmak zorunlu"
+    },
+    {
+     "value": "87",
+     "unit": "dB(A)",
+     "label": "Maruziyet sınır değeri: aşılamaz"
+    }
+   ],
+   "steps": [
+    "Gürültüyü hissederek değil, ölçerek değerlendiriyoruz. Gürültü yönetmeliğinde, sekiz saatlik günlük maruziyete göre üç değer var.",
+    "80 desibel, alt eylem değeridir. Bu değer aşılıyorsa işveren kulak koruyucuyu çalışanın ulaşabileceği yerde bulundurur.",
+    "85 desibel, üst eylem değeridir. Bu seviyeye ulaşıldığında ya da aşıldığında kulak koruyucu takmak zorunludur. İşveren de kullanılmasını sağlamakla yükümlüdür.",
+    "87 desibel ise maruziyet sınır değeridir. Kulak koruyucunun etkisi de hesaba katıldığında bu değer hiçbir koşulda aşılmamalıdır. Üstelik risk görülen yerlerde işitme testi yapılır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1571234297817-abcd66e5661b?w=2400",
+   "kicker": "Gürültü",
+   "title": "Kulak koruyucu ancak doğru takılırsa korur",
+   "bullets": [
+    "Kişiye uygun boyutu seçin",
+    "Gürültülü bölgede çıkarmayın",
+    "Hasarlı olanı değiştirin"
+   ],
+   "steps": [
+    "Kulak koruyucusu, gürültüyü kaynağında azaltamadığımız durumlarda son çaredir. Yine de doğru kullanıldığında işitmenizi gerçekten korur.",
+    "Önce kişiye uygun olanı seçin. Kulak tıkacı kulağa tam oturmalı, kulaklık ise bastırıcı yastıklarla kafaya sıkıca temas etmelidir.",
+    "Gürültülü bölgede kısa süre bile olsa çıkarmayın. Koruyucu takılı değilse, kısa bir süre bile maruziyeti artırır ve koruma etkisini azaltır.",
+    "Sünger tıkaç sertleşmişse ya da kulaklığın yastığı çatlamışsa değiştirin. Kullanımdan memnun değilseniz, rahatsız ediyorsa, işyeri hekiminize ya da amirinize söyleyin; başka model denenebilir."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Titreşim",
+   "title": "Titreşimde sekiz saatlik eşikler",
+   "items": [
+    {
+     "value": "2,5",
+     "unit": "m/s²",
+     "label": "El-kol titreşimi eylem değeri"
+    },
+    {
+     "value": "5",
+     "unit": "m/s²",
+     "label": "El-kol titreşimi sınır değeri"
+    },
+    {
+     "value": "0,5",
+     "unit": "m/s²",
+     "label": "Tüm vücut titreşimi eylem değeri"
+    },
+    {
+     "value": "1,15",
+     "unit": "m/s²",
+     "label": "Tüm vücut titreşimi sınır değeri"
+    }
+   ],
+   "steps": [
+    "Titreşim için de aynı mantık geçerli. İki tür titreşim var ve her birinin kendi eşik değerleri bulunuyor.",
+    "El-kol titreşimi, taşlama makinesi, kırıcı ya da matkap gibi tutarak kullandığınız aletlerden gelir. Günlük eylem değeri 2,5, sınır değeri 5 metre bölü saniye karedir.",
+    "Tüm vücut titreşimi ise forklift, kepçe ya da kamyon gibi araçların sürücü koltuğundan geçer. Eylem değeri 0,5, sınır değeri 1,15 metre bölü saniye karedir. Her iki grupta da değerler sekiz saatlik çalışma esas alınarak belirlenir.",
+    "Bu değerleri ezberlemenize gerek yok. Ama şunu bilin: parmaklarda uyuşma, beyazlaşma ve karıncalanma ile bel ağrısı, titreşimin ilk uyarılarıdır. Bunları fark ederseniz işyeri hekiminize hemen söyleyin.",
+    "Korunmada aleti doğru seçmek, bakımını yaptırmak ve çalışma süresini molalarla bölmek temel yollardır."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Işık, ısı ve toz",
+   "title": "Üç ortam etkeni, üç ayrı önlem",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1504261473209-7ccd7f92b205?w=1200",
+     "title": "Aydınlatma",
+     "text": "Çalışma noktası yeterince aydınlık olmalı, göz kamaşması ve gölge önlenmeli"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1455165814004-1126a7199f9b?w=1200",
+     "title": "Sıcak ve soğuk",
+     "text": "Sıcakta su, mola ve serin gölge; soğukta uygun kıyafet ve ısınma molası"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1787422429898-709636d27d1a?w=1200",
+     "title": "Toz",
+     "text": "Tozu kaynağında emdirin, ıslak yöntemle temizleyin; gerekirse uygun solunum maskesi takın"
+    }
+   ],
+   "steps": [
+    "Şimdi ışık, ısı ve toza birlikte bakalım. Üçü de gündelik görünür ama ciddi sonuçları vardır.",
+    "Aydınlatma, iş hassasiyetine uygun olmalıdır. Karanlık köşede çalışan bir kişi, makinenin tehlikeli noktasını ya da zemindeki engeli göremeyebilir. Yanan bir lambayı değiştirmeyi ertelemeyin, amirinize bildirin.",
+    "Sıcak ortamda çalışırken susamadan su için ve serin bir yerde mola verin. Yüksek ısı bitkinlik, baş dönmesi, hatta bilinç kaybına yol açabilir. Soğuk ortamda ise kat kat giyinin ve eller ile ayakları koruyun.",
+    "Toz, çimento, ahşap, silis ve kaynak dumanı gibi birçok işte bulunur. En iyi çözüm tozu kaynağında emmek ya da ıslatmaktır. Basınçlı havayla üflemek tozu havaya kaldırır. Maske ise son savunmadır ve yaptığınız işe uygun sınıftan olmalıdır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Toz ve temizlik",
+   "title": "Tozlu atölyede temizlik nasıl yapılır",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1598302936625-6075fbd98dd7?w=1200",
+     "ok": true,
+     "title": "Emici ya da ıslak yöntem",
+     "text": "Toz, süpürmek yerine toz emici ile veya ıslak bezle toplanır"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1559913409-a94418c968f6?w=1200",
+     "ok": false,
+     "title": "Basınçlı havayla üflemek",
+     "text": "Toz havaya kalkar ve yeniden solunur, atölyeye yayılır"
+    }
+   ],
+   "steps": [
+    "Tozla çalışırken en sık hata, temizliğin yanlış yapılmasıdır. Aşağıdaki iki yönteme bakın.",
+    "Doğru yöntemde, toz emici sistem ya da ıslak bez kullanılır. Böylece toz havaya karışmaz, zemine ve yüzeye yapışır ve toplanır. Uygun toz emici, kaynakta, ahşap işlerinde ve taşlamada işinizi çok kolaylaştırır.",
+    "Yanlış yöntemde ise tezgâhtaki tozu basınçlı havayla üflersiniz. Ortalık temiz görünür ama toz havada asılı kalır, siz ve yanınızdakiler onu solur. Üstelik bu yöntem, bazı tozlarda patlama riskini de artırır. Temizliği yapan kişi de bu işte uygun maske kullanmalıdır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1747999610489-de5c0ad00e56?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Yıllarca fark edilmeyen kayıp",
+   "bullets": [],
+   "steps": [
+    "Metal pres atölyesinde yirmi yıldır çalışan Mehmet usta, kulak koruyucusunu rahatsız edici bulduğu için zaman zaman takmıyordu. 'Alıştım ben,' diyordu.",
+    "Bir gün torunuyla konuşurken onu duymakta zorlandığını fark etti. Yaptırdığı işitme testi, yüksek frekanslarda belirgin bir kayıp gösterdi. Gürültüye bağlı işitme kaybı ağrısız başlar, geri dönmez ve çoğu zaman çalışan fark edene kadar ilerler.",
+    "Bu olayda atölyenin kulak koruyucu modelini değiştirmek, ses seviyesini ölçmek ve düzenli işitme testi yapmak gerekirdi. Siz de bunu unutmayın: Alışmak, korunmak değildir. Zarar sessizce birikir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1598302936625-6075fbd98dd7?w=2400",
+   "kicker": "Metal işleri",
+   "title": "Kaynak, taşlama ve kesimde görünmeyen riskler",
+   "bullets": [
+    "Duman ve gaz solunur, yanma gözü korur",
+    "Kıvılcım yangın ve yanık yapar",
+    "Gürültü ve titreşim aynı anda gelir"
+   ],
+   "steps": [
+    "Metal işlerinde fiziksel ve kimyasal riskler iç içe geçer. Kaynak ve taşlama bunun en iyi örneğidir.",
+    "Kaynakta çıkan duman ve gaz, metalin ve kaplamanın cinsine göre değişen zararlı maddeler taşır. Duman, çoğu zaman yüzünüzün hemen önünde yükselir. Bu yüzden duman çekme düzeneği, uygun havalandırma ve gerekirse solunum koruyucu birlikte kullanılır.",
+    "Kıvılcım, yalnızca yanık değil, yakındaki yanıcı maddede yangın da çıkarabilir. Kaynak maskesi ve yüz siperi gözleri korur. Ark ışığına çıplak gözle bakmak, kısa sürede göz yanığına yol açar.",
+    "Taşlama makinesi aynı anda gürültü, titreşim ve toz üretir. Bu yüzden kulak koruyucu, gözlük, eldiven ve uygun maske birlikte kullanılır. Aleti tutuşunuza, disk koruyucusuna ve bakım tarihine de dikkat edin."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1780299511230-099abe21bf38?w=2400",
+   "kicker": "Sağlık gözetimi",
+   "title": "Sağlığınız düzenli olarak izlenir",
+   "bullets": [
+    "İşe girişte ve çalışma boyunca sağlık muayeneleri yapılır",
+    "Maruziyete göre işitme testi, akciğer ve deri kontrolleri yapılır",
+    "Belirti fark ederseniz, muayene zamanını beklemeden hekime başvurun"
+   ],
+   "steps": [
+    "Risk etmenlerine karşı bir güvence daha var: sağlık gözetimi. İşyerinde çalışanların sağlığı düzenli olarak izlenir.",
+    "İşe girişte ve çalışma hayatı boyunca periyodik olarak muayene yapılır. Amaç, hastalığı daha erken aşamada yakalamaktır. Muayeneleri işveren yaptırır; masrafı çalışana yüklenemez.",
+    "Muayenenin kapsamı yaptığınız işe göre değişir. Gürültülü ortamda işitme testi, tozlu ortamda akciğer kontrolü, kimyasalla temas eden çalışanda ise deri ve kan tetkikleri istenebilir.",
+    "Ama muayene gününü beklemeniz gerekmiyor. Öksürük, geçmeyen ağrı, deri döküntüsü ya da işitmede azalma fark ettiğinizde hemen işyeri hekiminize ya da amirinize söyleyin."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1741707042010-4e00d878f5b8?w=2400",
+   "kicker": "Ergonomi",
+   "title": "İşi insana uydurmak: ergonomi",
+   "bullets": [
+    "Amaç, işin çalışana uyması; çalışanın işe uymaya çalışmaması",
+    "Kas ve iskelet rahatsızlıkları sessizce, aylar içinde gelişir",
+    "Bel, boyun, omuz, bilek ve dirsek en çok etkilenen bölgelerdir"
+   ],
+   "steps": [
+    "Üçüncü grup olan ergonomiye geldik. Ergonomi, işin, aletin ve çalışma yerinin insana uygun hale getirilmesidir.",
+    "Mantık basit: Çalışanın bedenini işe uydurmaya çalışmak yerine, işi çalışana uydurmak gerekir. Tezgâh yüksekliği, alet sapı, koltuk ya da yük taşıma yöntemi buna örnektir.",
+    "Ergonomik sorunlar bir anda değil, aylarca ya da yıllarca süren yüklenmelerle gelişir. Sabah hafif ağrıyla başlar, sonra kalıcı rahatsızlığa dönüşebilir.",
+    "Bel, boyun, omuz, bilek ve dirsek en çok etkilenen bölgelerdir. Sizde bu bölgelerde tekrarlayan ağrı, uyuşma ya da karıncalanma varsa mutlaka işyeri hekimine söyleyin."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Ergonomik riskler",
+   "title": "Üç ergonomik risk etmeni",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1647427060118-4911c9821b82?w=1200",
+     "tag": "Tekrarlı hareket",
+     "title": "Aynı hareket",
+     "text": "Hatta saatlerce aynı hareketi, aynı bilek ve parmak açısıyla yapmak"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1652211955967-99c892925469?w=1200",
+     "tag": "Uygunsuz duruş",
+     "title": "Eğilme ve uzanma",
+     "text": "Gövdeyi eğerek, bükerek, kolları omuz üstünde tutarak çalışmak"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1675860094441-5127d5b05820?w=1200",
+     "tag": "Statik zorlanma",
+     "title": "Hareketsiz kalmak",
+     "text": "Uzun süre aynı pozisyonda ayakta durmak ya da çömelmek"
+    }
+   ],
+   "steps": [
+    "Üç temel ergonomik risk etmenine bakalım.",
+    "Birincisi tekrarlı harekettir. Üretim hattında dakikada onlarca kez aynı hareketi yapmak, küçük kasları ve tendonları yorar. Bilek ve parmaklarda zamanla ağrı ve uyuşma başlayabilir.",
+    "İkincisi uygunsuz duruştur. Tezgâh çok alçaksa gövdenizi eğerek, çok yüksekse kollarınızı omuz üstünde tutarak çalışırsınız. İkisi de bel, boyun ve omuzlara aşırı yük bindirir.",
+    "Üçüncüsü statik zorlanmadır. Hareketsiz de olsanız aynı pozisyonda uzun süre durmak kasları yorar. Ayakta çalışan bir çalışan da, çömelerek çalışan bir tesisatçı da bu riske maruzdur."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Küçük ayarlar",
+   "title": "Ergonomik çalışma için dört adım",
+   "items": [
+    {
+     "title": "Yüksekliği ayarlayın",
+     "text": "Tezgâh dirsek hizasına yakın olsun"
+    },
+    {
+     "title": "Yakına alın",
+     "text": "Sık kullanılan şeyleri erişim alanına koyun"
+    },
+    {
+     "title": "Hareketi değiştirin",
+     "text": "Aynı işi dönüşümlü yapın"
+    },
+    {
+     "title": "Mola verin",
+     "text": "Kısa ve düzenli ara, uzun yoruluştan iyidir"
+    }
+   ],
+   "steps": [
+    "İyi haber şu: ergonomik sorunların çoğu küçük ayarlarla azaltılabilir. Dört adımı birlikte görelim.",
+    "Birinci adım, çalışma yüksekliğidir. Tezgâhı ya da çalışma noktasını, işin türüne göre dirsek hizasına yakın tutun. Hassas işlerde biraz daha yüksek, ağır işlerde biraz daha alçak olması gerekebilir.",
+    "İkinci adım, sık kullanılan alet ve parçaların erişim alanında durmasıdır. Her seferinde uzanmak ya da eğilmek zorunda kalmamalısınız.",
+    "Üçüncü adım, hareketi değiştirmektir. Vardiyada aynı işi saatlerce yapmak yerine, görevleri arkadaşlarınızla dönüşümlü yapmak tekrarlı hareketin etkisini azaltır.",
+    "Dördüncü adım, kısa ve düzenli molalardır. Kasları ve eklemleri gevşetmek, bir kez uzun dinlenmekten çok daha etkilidir. Bu önerileri amirinizle de paylaşmaktan çekinmeyin."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Çalışma yüksekliği",
+   "title": "Alçak tezgâhta uzun süre çalışmak",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1649320316177-775fe2d67ca3?w=1200",
+     "ok": true,
+     "title": "Ayarlanabilir tezgâh",
+     "text": "Yükseklik işe ve kişiye göre ayarlanır, gövde dik kalır"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1646608220368-c604d8e8130f?w=1200",
+     "ok": false,
+     "title": "Eğilerek çalışmak",
+     "text": "Saatlerce öne eğik çalışmak belin kasını ve omurganın yükünü artırır"
+    }
+   ],
+   "steps": [
+    "Bir örnek daha: çalışma yüksekliğinin etkisi.",
+    "Doğru uygulamada tezgâh ya da çalışma yüzeyi ayarlanabilir. Kısa boylu ve uzun boylu çalışanlar aynı hatta çalışsa bile, her biri kendi yüksekliğini ayarlayabilir. Gövde dik, omuzlar gevşek ve dirsekler vücuda yakın kalır.",
+    "Yanlış uygulamada, tezgâh sabit ve alçaktır. Çalışan sekiz saat boyunca öne eğilerek çalışır. Bu duruşta bel kasları sürekli gerginlik altındadır. Birkaç ay sonra bel ağrısı başlar ve sonunda iş görememe haline gelebilir. Sorun çalışanın kusuru değil, çalışma yerinin tasarımıdır; bunu amirinize bildirin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1647427060118-4911c9821b82?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Hatta sessizce gelişen bilek ağrısı",
+   "bullets": [],
+   "steps": [
+    "Bir plastik üretim tesisinde paketleme hattında çalışan Emre, akşamları sağ elinde uyuşma hissetmeye başladı. Önce umursamadı, sonra geceleri uykudan uyandırmaya başladı.",
+    "Hattın temposu yüksekti ve Emre vardiya boyunca aynı bilek hareketini binlerce kez tekrarlıyordu. Amirine söylemekten çekindi, çünkü şikâyet etmenin iş kaybettireceğini düşündü.",
+    "Sonunda işyeri hekimine gitti. Hekim, hat başında görev dönüşümü ve kısa molalar önerdi. Bir iki ay içinde şikâyetler azaldı. Burada ders şu: Erken fark edilen ergonomik sorun düzelir, geç kalınan ise kalıcı olabilir. Belirtiyi gizlemeyin, bildirin."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Korunma sırası",
+   "title": "Riskten korunmanın beş basamağı",
+   "items": [
+    {
+     "title": "Ortadan kaldır",
+     "text": "Tehlikeli madde ya da işlemi tamamen bırak"
+    },
+    {
+     "title": "Daha güvenlisini seç",
+     "text": "Zararsız ya da az zararlı olanla değiştir"
+    },
+    {
+     "title": "Mühendislik önlemi",
+     "text": "Havalandırma, kapama, ses yalıtımı"
+    },
+    {
+     "title": "İdari önlem",
+     "text": "Süre, rotasyon, eğitim, işaretler"
+    },
+    {
+     "title": "KKD",
+     "text": "Son basamak: eldiven, maske, kulak koruyucu"
+    }
+   ],
+   "steps": [
+    "Peki işveren bu risklerden korunmak için hangi sırayla önlem alır? Önlem sırası beş basamaktan oluşur.",
+    "En iyisi riski tamamen ortadan kaldırmaktır. Tehlikeli bir işlemi hiç yapmamak, en güvenli yoldur.",
+    "Bu mümkün değilse, daha az zararlı olanla değiştirmek gerekir. Örneğin çözücü bazlı bir boya yerine su bazlı bir boya kullanmak gibi.",
+    "Üçüncü basamak, mühendislik önlemleridir: havalandırma, makine koruyucuları, ses yalıtımı ve kabin gibi.",
+    "Dördüncüsü idari önlemlerdir: çalışma sürelerini kısaltmak, görev değişimi yapmak, eğitim vermek ve uyarı levhaları koymak.",
+    "Kişisel koruyucu donanım ise sondadır. Çünkü KKD tehlikeyi ortadan kaldırmaz, yalnızca size ulaşmasını azaltır. Yine de doğru kullanıldığında hayati önemlidir."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Kim ne yapar",
+   "title": "Risk etmenleriyle mücadelede görev paylaşımı",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1792019617210-10e775a3a642?w=1200",
+     "title": "İşveren",
+     "text": "Riskleri değerlendirir, önlemleri alır, KKD'yi ücretsiz verir, eğitim yapar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1780299511230-099abe21bf38?w=1200",
+     "title": "İşyeri hekimi ve uzman",
+     "text": "Ölçüm, sağlık gözetimi ve önerilerle riskleri izler"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1787422429898-709636d27d1a?w=1200",
+     "title": "Çalışan",
+     "text": "Etiketi okur, KKD'yi kullanır, belirti ve tehlikeyi hemen bildirir"
+    }
+   ],
+   "steps": [
+    "Bu risk etmenleriyle mücadele tek kişinin işi değildir. Üç taraf var.",
+    "İşveren, riskleri değerlendirir, önlemleri alır, gerekli KKD'yi ücretsiz sağlar ve çalışanları eğitir. Ölçüm ve kontrol de onun sorumluluğundadır.",
+    "İş güvenliği uzmanı ve işyeri hekimi, ortamı ölçer, sağlık muayenelerini yapar ve önerilerde bulunur. Hekim, belirtilerinizi ilk anlatabileceğiniz kişidir.",
+    "Çalışan olarak sizin göreviniz de net: Etiketi okuyun, verilen KKD'yi kullanın, eğitimde öğrendiklerinizi uygulayın ve herhangi bir tehlike ya da sağlık belirtisini hemen bildirin."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1639313521811-fdfb1c040ddb?w=2400",
+   "kicker": "Yüz yüze eğitim",
+   "value": "12 ve 16",
+   "title": "Tehlikeli sınıfta temel eğitim en az 12, çok tehlikelide en az 16 ders saatidir",
+   "text": "İşyerinize özgü kimyasal, gürültü ve ergonomik riskleri yüz yüze eğitimde uzmanınızla konuşacaksınız",
+   "steps": [
+    "Tehlikeli sınıftaki işyerlerinde temel İSG eğitimi en az 12 ders saati, çok tehlikeli sınıfta ise en az 16 ders saatidir. Eğitimin tekrarı tehlikelide iki yılda bir, çok tehlikelide her yıl yapılır.",
+    "Bu online derste genel bilgiyi aldınız. İşyerinize özgü riskler, yani kullandığınız kimyasalların adı, sizin ortamınızdaki gürültü seviyesi ve çalışma pozisyonları ise yüz yüze eğitimde uzmanınızla birlikte konuşulacak. O gün sorularınızı hazır getirin; kendi işinizde gördüğünüz kimyasalları, gürültülü noktaları ve zorlandığınız hareketleri anlatmanız eğitimi çok daha faydalı hale getirir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1664382953403-fc1ac77073a0?w=2400",
+   "kicker": "Bugün kendinize sorun",
+   "title": "İşyerinizde bunları görüyor musunuz",
+   "bullets": [
+    "Etiketsiz ya da aktarılmış kap",
+    "Kulak koruyucusuz gürültü",
+    "Ağrıyan bilek ve bel"
+   ],
+   "steps": [
+    "Dersi bitirmeden önce kendinize üç soru sorun. Bunları yarın işyerinizde gerçekten arayın.",
+    "Birincisi, çevrenizde etiketsiz ya da başka şişeye aktarılmış kimyasal var mı? Varsa dokunmayın ve bildirin.",
+    "İkincisi, gürültülü yerlerde çalışıyorsanız, kulak koruyucunuz var mı ve gerçekten takıyor musunuz?",
+    "Üçüncüsü, bel, bilek ya da omuzlarınızda sürekli bir ağrı ya da uyuşma var mı? Varsa vakit kaybetmeden işyeri hekiminize söyleyin.",
+    "Bu üç sorunun cevabı 'evet' ise, bunu bir şikâyet olarak değil, işyerini daha güvenli hale getirme fırsatı olarak görün. Gözlemlerinizi amirinize ve iş güvenliği uzmanına iletin; sizin gözünüz, risk değerlendirmesinin en değerli kaynaklarından biridir. Birlikte çalıştığınız arkadaşlarınızın da bu soruları sormasını sağlayın."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1793371930890-b1c6263844e5?w=2400",
+   "kicker": "Bu derste öğrendiklerimiz",
+   "title": "Kapanış özeti",
+   "bullets": [
+    "Kimyasalda etiket, piktogram ve güvenlik bilgi formunu kullanın",
+    "Gürültüde 80 dB(A)'da koruyucu hazır, 85'te kullanmak zorunlu",
+    "Tekrarlı hareketi ve uygunsuz duruşu küçük ayarlarla azaltın",
+    "Önlem sırası: ortadan kaldır, değiştir, mühendislik, idari, KKD"
+   ],
+   "steps": [
+    "Dersi toparlayalım. Kimyasallarla çalışmadan önce etiketi okuyun, piktogramlara bakın ve ayrıntı için güvenlik bilgi formuna başvurun.",
+    "Gürültü 80 desibelde alt eylem değerine ulaşır ve koruyucu hazır bulundurulur. 85 desibelde ise takmak zorunludur. Titreşimin de el-kol ve tüm vücut için kendi eşikleri var.",
+    "Ergonomik sorunlar yavaş gelişir. Çalışma yüksekliğini ayarlayın, görev değiştirin ve kısa molalar verin. Belirtileri saklamayın.",
+    "Önlemler her zaman ortadan kaldırmakla başlar ve KKD ile biter. Siz de eğitimi uygulayıp tehlikeyi bildirerek sürecin parçası olursunuz.",
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Başarılar dileriz."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,744 @@
+{
+ "code": "tc_s7",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "2. Bölüm · Sağlık Konuları",
+ "title": "Psikososyal risk etmenleri (2)",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1765021689917-ac93566d4cf3?w=2400",
+   "kicker": "2. Bölüm · Ders 7",
+   "title": "Psikososyal risk etmenleri (2)",
+   "subtitle": "Vardiya, yorgunluk, sıcak-soğuk, iletişim ve şiddet",
+   "steps": [
+    "Merhaba, tekrar hoş geldiniz. Bu derste, fabrikada, şantiyede, depoda ya da atölyede çalışan herkesin bildiği ama çoğu zaman \"idare ederiz\" deyip geçtiği konulara bakacağız: vardiya, uykusuzluk, sıcak ve soğuk, ekip içi iletişim ve işyerinde şiddet.",
+    "Bu konular ilk bakışta makine ve yüksekte çalışma kadar tehlikeli görünmez. Oysa tehlikeli ve çok tehlikeli işlerde kazaların önemli bir kısmının arkasında yorgun, gergin ya da yanlış anlaşılmış bir çalışan vardır. Bu derste kendinizi ve ekibinizi korumanın pratik yollarını konuşacağız."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Vardiya ve uyku",
+     "text": "Gece çalışması ve yorgunluk yönetimi"
+    },
+    {
+     "title": "Sıcak ve soğuk",
+     "text": "Aşırı hava koşullarında çalışma ve mola"
+    },
+    {
+     "title": "Ekip iletişimi",
+     "text": "Net konuşmak, vardiya devri"
+    },
+    {
+     "title": "Stres ve şiddet",
+     "text": "Belirtiler ve karşılaşınca yapılacaklar"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Dört başlıkta ilerleyeceğiz.",
+    "Birinci başlık vardiyalı ve gece çalışması, uykusuzluk ve yorgunluğun nasıl yönetileceği.",
+    "İkinci başlıkta sıcakta ve soğukta çalışırken vücudunuzu nasıl koruyacağınızı, molanın neden lüks değil ihtiyaç olduğunu göreceğiz.",
+    "Üçüncü başlık ekip içi iletişim. Özellikle vardiya devrinde yapılan küçük bir yanlış anlaşılmanın nasıl büyük bir kazaya dönüşebildiğini konuşacağız.",
+    "Son başlıkta da stres belirtilerini, işyerinde şiddet ya da taciz ile karşılaştığınızda ne yapmanız gerektiğini ele alacağız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1752650735615-9829d8008a01?w=2400",
+   "kicker": "Hatırlayalım",
+   "title": "Psikososyal risk: iş ile insan arasındaki yük",
+   "bullets": [
+    "İş yükü, çalışma saatleri ve vardiya düzeni",
+    "İş yerindeki ilişkiler ve iletişim",
+    "Çalışma ortamı: sıcak, soğuk, gürültü, baskı",
+    "Güvenlik riski: dikkat ve karar kalitesinin düşmesi"
+   ],
+   "steps": [
+    "Önceki derste psikososyal risk kavramına girmiştik. Kısaca hatırlayalım: işin düzeninden, çalışma saatlerinden ve insan ilişkilerinden doğan, ruh ve beden sağlığımızı zorlayan etmenlerdir.",
+    "Bunların başında iş yükü, uzun çalışma saatleri ve vardiya düzeni gelir. Sürekli yetişmesi gereken bir sipariş ya da peş peşe gelen fazla mesailer, bedeni sessizce yıpratır.",
+    "İkinci grup, çalıştığınız kişilerle ilişkiler ve iletişimdir. Ustabaşı ile çırak, vardiya amiri ile operatör arasındaki konuşma biçimi güvenliği doğrudan etkiler.",
+    "Üçüncüsü çalışma ortamının zorlayıcı yönleridir: sıcak, soğuk, gürültü ve sürekli baskı.",
+    "Hepsinin ortak sonucu şudur: dikkat azalır, karar kalitesi düşer, kaza ihtimali artar. Bu yüzden bu konular tehlikeli işlerde bir kenar mesele değil, güvenliğin kendisidir. Şimdi bunları tek tek, günlük iş hayatından örneklerle açalım."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1730584474338-aa8d9d186bf7?w=2400",
+   "kicker": "Gece çalışması",
+   "value": "7,5 saat",
+   "title": "Gece dönemi 20.00 ile 06.00 arasıdır; gece çalışmaları kural olarak 7,5 saati geçemez",
+   "text": "İş Kanunu gece çalışmasını sınırlar. Gece postasında çalışacakların sağlık durumu da dikkate alınmalıdır.",
+   "steps": [
+    "Önce gece çalışmasının hukuki çerçevesine bakalım. İş Kanununa göre gece dönemi, en geç saat 20.00'de başlar ve en erken saat 06.00'da biter; en fazla 11 saatlik bir süreyi kapsar.",
+    "Bu dönemde yapılan çalışmalar kural olarak 7,5 saati aşamaz. Kanun, geceyi bilerek sınırlamıştır, çünkü gece çalışması insan vücudu için gündüz çalışmasından farklı ve daha yorucudur.",
+    "Postalar halinde çalışılan işlerde, yani vardiyalı düzende, işçinin gece postasında çalışması kural olarak bir haftayı geçmez ve ardından gündüze geçilir. Vardiya değişiminde de en az 11 saat kesintisiz dinlenme süresi bulunur."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1765021690115-08b5a1e363c0?w=2400",
+   "kicker": "Biyolojik saat",
+   "title": "Vücudunuz geceyi gündüz sanmaz",
+   "bullets": [
+    "Uyku hormonu geceleri yükselir",
+    "Vücut ısısı sabaha karşı en düşük seviyede",
+    "Gece uykusu gündüz uykusundan kısa ve hafiftir"
+   ],
+   "steps": [
+    "Peki gece çalışmak neden bu kadar yorar? Çünkü hepimizin içinde bir iç saat var. Bu saat vücudumuza ne zaman uyanık, ne zaman uykulu olacağımızı söyler.",
+    "Gece boyunca uyku hormonu yükselir. Siz makinenin başında olsanız bile bedeniniz \"uyu\" mesajı alır.",
+    "Vücut ısısı da sabaha karşı en düşük seviyeye iner. Genellikle gecenin son saatlerinde, sabaha karşı saat üç ile altı arasında dikkat en çok dağılır.",
+    "Üstelik gündüz uyumaya çalışınca ışık, gürültü ve ev içi sesler yüzünden uykunuz hem kısa hem de hafif olur. Yani birikmiş bir uyku borcuyla çalışmaya başlarsınız."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Gece çalışmasının etkileri",
+   "title": "Üç alanda yorulursunuz",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1758520144795-299f212ccba0?w=1200",
+     "tag": "Uyku",
+     "title": "Uyku borcu",
+     "text": "Gündüz uykusu kısa kalır; dikkat, refleks ve hafıza zayıflar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1780838446048-4cdb6bf24090?w=1200",
+     "tag": "Beslenme",
+     "title": "Sindirim ve beslenme",
+     "text": "Gece ağır yemek ve çok kafein mide ve uyku sorunlarını artırır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1466779561253-0a08336ba2ab?w=1200",
+     "tag": "Sosyal yaşam",
+     "title": "Aile ve sosyal hayat",
+     "text": "Aileyle ters saatlerde yaşamak yalnızlık ve gerginlik yaratabilir."
+    }
+   ],
+   "steps": [
+    "Gece çalışmasının etkilerini üç başlıkta toplayalım.",
+    "Birincisi uyku. Uyku borcu biriktikçe dikkatiniz, refleksleriniz ve hafızanız zayıflar. Bir pres ya da testere başında bu birkaç saniyelik gecikme parmak demektir.",
+    "İkincisi beslenme ve sindirim. Gece yarısı ağır yemekler, art arda içilen çaylar ve kahveler mideyi bozar, asıl uyku vaktinde de sizi uyanık tutar.",
+    "Üçüncüsü sosyal hayat. Aile ve arkadaşlarınızla ters saatlerde yaşamak zamanla yalnızlık, huzursuzluk ve gerginlik getirebilir. Bu da stres olarak işe geri döner."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Uygulama",
+   "title": "Gece vardiyasına hazırlanma",
+   "items": [
+    {
+     "title": "Uykuyu önceden planla",
+     "text": "Vardiyadan önce mümkünse birkaç saat uyuyun"
+    },
+    {
+     "title": "Hafif ve düzenli ye",
+     "text": "Ağır yemekten kaçının, su içmeyi unutmayın"
+    },
+    {
+     "title": "Kafeini erken kes",
+     "text": "Vardiyanın son saatlerinde kafein almayın"
+    },
+    {
+     "title": "Uyku ortamını koru",
+     "text": "Karanlık, sessiz ve serin bir oda hazırlayın"
+    }
+   ],
+   "steps": [
+    "Şimdi işin pratik yanına gelelim. Gece vardiyasına nasıl hazırlanmalı?",
+    "Birincisi, uykuyu önceden planlayın. Vardiyaya girmeden önce birkaç saat dinlenmiş olmak, gecenin en zor saatlerini çok daha rahat geçirmenizi sağlar.",
+    "İkincisi, hafif ve düzenli yiyin. Gece ağır, yağlı yemekler yerine hafif öğünleri tercih edin ve bol su için.",
+    "Üçüncüsü, kafeini ölçülü kullanın ve vardiyanın sonuna doğru bırakın. Aksi hâlde eve gidince uyuyamazsınız.",
+    "Dördüncüsü, uyku ortamını koruyun. Gündüz uyuyacaksanız perdeleri kapatın, telefonu sessize alın, aileye uyku saatinizi söyleyin."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Örnek olay 1",
+   "title": "Pres makinesi başında gece yarısı",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1717386255773-1e3037c81788?w=1200",
+     "ok": false,
+     "title": "Yorgunum ama idare ederim",
+     "text": "Ahmet usta iki gündür az uyudu; sabaha karşı gözü kapanırken sessizce çalışmayı sürdürdü."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1598299803204-b73796f43289?w=1200",
+     "ok": true,
+     "title": "Fark et, bildir, mola ver",
+     "text": "Yorgunluğu ilk belirtide vardiya amirine söylemek ve kısa mola ile makineyi güvenli bırakmak."
+    }
+   ],
+   "steps": [
+    "Bir örnek olaya bakalım. Ahmet usta, bir metal işleme atölyesinde gece vardiyasında pres makinesi kullanıyor. Son iki gündür çocuğunun hastalığı yüzünden neredeyse hiç uyumamış.",
+    "Sabaha karşı saat dörde doğru gözleri kapanmaya, parça yerleştirirken eli yavaşlamaya başlıyor. Ama \"yorgunum\" demek ona zayıflık gibi geliyor ve \"idare ederim\" diyerek çalışmaya devam ediyor. Bu, yanlış yaklaşım. Böyle bir anda tek bir mikro uyku bile el kaybına yol açabilir.",
+    "Doğrusu şudur: yorgunluğu ilk belirtide fark edip vardiya amiri Selin'e haber vermek, makineyi güvenli konuma alıp kısa mola vermek, gerekirse işi başkasının üstlenmesini istemek. Yorgunluğu bildirmek zayıflık değil, güvenlik davranışıdır."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Sayılarla çalışma süresi",
+   "title": "Kanundaki üç önemli sınır",
+   "items": [
+    {
+     "value": "45",
+     "unit": "saat",
+     "label": "Haftalık normal çalışma süresi"
+    },
+    {
+     "value": "7,5",
+     "unit": "saat",
+     "label": "Gece çalışmasında üst sınır"
+    },
+    {
+     "value": "11",
+     "unit": "saat",
+     "label": "Günlük çalışmanın üst sınırı"
+    }
+   ],
+   "steps": [
+    "Şimdi çalışma sürelerine bakalım, çünkü yorgunluğun en büyük sebebi çoğu zaman uzun çalışmadır.",
+    "İş Kanununa göre haftalık normal çalışma süresi en çok 45 saattir. Bunun üzerindeki çalışmalar fazla çalışmadır ve ayrı kurallara bağlıdır.",
+    "Gece çalışmasında ise üst sınır 7,5 saattir. Yani gece vardiyasının sınırsız uzatılması mümkün değildir.",
+    "Bir de günlük sınır var. Fazla çalışma yapılsa bile günlük çalışma süresi, ara dinlenmeleri hariç, 11 saati aşamaz. Bu sınırların amacı sizi korumaktır; bunlar sürekli aşılıyorsa yorgunluk ve kaza riski de büyüyor demektir. Böyle bir durumda sorunu çalışan temsilcisine, işyeri hekimine ya da amirinize iletmek en doğrusudur."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1759922378222-47ad736a174d?w=2400",
+   "kicker": "Ara dinlenmesi",
+   "title": "Mola bir lütuf değil, kanundan doğan haktır",
+   "bullets": [
+    "4 saate kadar süren işlerde en az 15 dakika",
+    "4 saatten fazla, 7,5 saate kadar en az 30 dakika",
+    "7,5 saatten uzun işlerde en az 1 saat",
+    "Ara dinlenmesi çalışma süresinden sayılmaz"
+   ],
+   "steps": [
+    "Yorgunlukla mücadelenin en basit aracı moladır. İş Kanunu ara dinlenmesini düzenler ve bu sürelerin altına inilemez.",
+    "Dört saat veya daha kısa süren işlerde en az 15 dakika ara dinlenmesi verilir.",
+    "Dört saatten fazla ve yedi buçuk saate kadar süren işlerde bu süre en az 30 dakikadır.",
+    "Yedi buçuk saatten fazla süren işlerde ise en az bir saat ara dinlenmesi gerekir.",
+    "Bu ara dinlenmeleri çalışma süresinden sayılmaz, ama sizin dinlenme hakkınızdır. Çalışma düzeninde de bu molalar işin içinde, çalışanların dinlenebileceği bir yerde ve zamanda kullanılmalıdır."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Yorgunluk yönetimi",
+   "title": "Yorgunlukla mücadele kimin işi?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1775163024488-e88e4a71179f?w=1200",
+     "title": "İşveren",
+     "text": "Vardiya ve mola düzenini kurar, aşırı çalışmayı önler, risk değerlendirmesine ekler."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=1200",
+     "title": "Vardiya amiri",
+     "text": "Yorgun çalışanı fark eder, görev dağılımını ve molaları gözetir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1623038896180-d81dd785a60f?w=1200",
+     "title": "Çalışan",
+     "text": "Dinlenmiş gelir, belirtileri bildirir, kendini ve arkadaşını zorlamaz."
+    }
+   ],
+   "steps": [
+    "Peki yorgunlukla mücadele kimin görevi? Cevap: herkesin, ama farklı biçimlerde.",
+    "İşveren vardiya düzenini ve molaları işin riskine göre kurar, aşırı çalışmayı önler ve yorgunluğu risk değerlendirmesinde dikkate alır.",
+    "Vardiya amiri ekibini izler. Gözü kapanan, işi yavaşlayan, hata sayısı artan çalışanı fark eder ve gerekli önlemi alır.",
+    "Çalışan olarak sizin görevleriniz de var, hem de oldukça net: işe dinlenmiş gelmek, yorgunluk belirtilerini saklamamak, ekip arkadaşınızı da bu konuda uyarmak. Kendi uykunuzu planlamak, güvenlik talimatlarına uymak kadar sizin sorumluluğunuzdur."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1579037005241-a79202c7e9fd?w=2400",
+   "kicker": "Şekerleme ve kafein",
+   "title": "Uyanık kalmanın akıllıca yolları",
+   "bullets": [
+    "Kısa şekerleme: yaklaşık 15-20 dakika yeterli",
+    "Kafein kısa süre etkili, uykunun yerini tutmaz",
+    "Soğuk su, hareket ve aydınlık ortam dikkati artırır",
+    "Direksiyonda uykulu isek durmak tek çözüm"
+   ],
+   "steps": [
+    "Uyanık kalmak için herkesin bir yöntemi vardır. Hangileri gerçekten işe yarar, bakalım.",
+    "Kısa bir şekerleme çok işe yarar. Yaklaşık 15 ile 20 dakika yeterlidir; daha uzun uyursanız derin uykuya girer, kalktığınızda daha da ağırlaşırsınız.",
+    "Kafein yardımcı olabilir ama etkisi geçicidir ve uykunun yerini tutmaz. Gece boyunca art arda çay ve kahve içmek, sadece sabah uyuyamamanıza yol açar.",
+    "Ayağa kalkmak, kısa bir yürüyüş yapmak, yüzünüzü soğuk suyla yıkamak ve aydınlık bir ortamda çalışmak dikkati bir süre toparlar.",
+    "Servis aracında, forklift ya da kamyon başında uykunuz geliyorsa tek çözüm durmaktır. Radyoyu açmak, camı açmak sizi korumaz. Güvenli bir yerde durun ve dinlenin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1758520144795-299f212ccba0?w=2400",
+   "kicker": "Erken uyarı",
+   "title": "Yorgunluğun belirtileri",
+   "bullets": [
+    "Sık esneme, göz yanması, kapanan göz kapağı",
+    "Aynı satırı ya da işlemi tekrar tekrar yapmak",
+    "Yolu, işlemi ya da konuşmayı hatırlamamak"
+   ],
+   "steps": [
+    "Yorgunluk kendini önceden haber verir; yeter ki belirtileri tanıyalım. Bunları bilmek, hem kendinizi hem de yanınızda çalışan arkadaşınızı korumanızı sağlar.",
+    "Sık esneme, gözlerde yanma ve göz kapaklarının ağırlaşması ilk işaretlerdir.",
+    "Daha sonra dikkat dağılır: aynı işlemi tekrar tekrar yaparsınız, küçük hataları ard arda kaçırırsınız ya da basit bir talimatı unutursunuz.",
+    "En tehlikelisi mikro uykudur; birkaç saniyelik uyku, siz fark etmeden gelir. Forklift ya da araç kullanırken ya da makine başındayken bu birkaç saniye ağır bir kazaya yeter.",
+    "Bu belirtilerden birini fark ettiğinizde, işi bırakıp güvenli hâle getirin, amirinize haber verin, kısa bir mola, soğuk su ve hareket ile kendinizi toparlayın."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1758520145147-c30bc656f314?w=2400",
+   "kicker": "Düşünelim",
+   "title": "İşyerinizde bunu nasıl görürsünüz?",
+   "bullets": [
+    "Hangi saatlerde en çok yoruluyorsunuz?",
+    "Molalar gerçekten dinlenmeye yetiyor mu?"
+   ],
+   "steps": [
+    "Kısa bir duralım ve kendi işyerinizi düşünelim. Hangi vardiyada, günün hangi saatinde en çok yoruluyorsunuz?",
+    "Kazaya ramak kaldığı, ya da hata yaptığınız anlar daha çok hangi saatlere denk geliyor? Bunu bir kenara not edin; yüz yüze eğitimde ya da İSG kurulunda paylaşmak çok değerlidir.",
+    "Bir de molalara bakın. Gerçekten dinlenebiliyor musunuz, yoksa yemeğinizi ayakta mı yiyorsunuz? Cevaplarınız, işyerinde neyin düzeltilmesi gerektiğini gösterir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1779155413504-7608a08d4873?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar neler öğrendik?",
+   "bullets": [
+    "Gece dönemi 20.00-06.00; gece çalışması kural olarak 7,5 saati geçmez",
+    "Vücudun iç saati geceye karşı çalışır; uyku borcu dikkati düşürür",
+    "Ara dinlenmesi 15 dk, 30 dk ve 1 saat olarak hakkınızdır",
+    "Yorgunluk belirtisini bildirmek güvenlik davranışıdır"
+   ],
+   "steps": [
+    "Ders yarılandı, kısa bir ara özet yapalım. Böylece ikinci yarıya sağlam bir zeminle girmiş oluruz.",
+    "Gece dönemi 20.00 ile 06.00 arasıdır ve gece çalışması kural olarak 7,5 saati geçemez.",
+    "Vücudun iç saati geceye karşı çalıştığı için uyku borcu birikir ve dikkat düşer. Planlı uyku, hafif beslenme ve ölçülü kafein bu etkiyi azaltır.",
+    "Ara dinlenmesi 15 dakika, 30 dakika ve 1 saat olmak üzere iş süresine göre belirlenir ve sizin hakkınızdır.",
+    "Yorgunluk belirtisini fark ettiğinizde bunu söylemek, bir zayıflık değil, güvenlik davranışıdır. Şimdi ikinci bölüme, sıcak ve soğukta çalışmaya geçiyoruz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1743130940778-331440a204ae?w=2400",
+   "kicker": "Sıcakta çalışma",
+   "title": "Sıcak, bedeni ve kararları birlikte zorlar",
+   "bullets": [
+    "Terleme ile su ve tuz kaybı artar",
+    "Vücut ısısı yükselir, kalp daha çok çalışır",
+    "Baş dönmesi, kas krampı, halsizlik görülür",
+    "Dikkat azalır, karar vermek zorlaşır"
+   ],
+   "steps": [
+    "Yaz aylarında şantiyede, dökümhanede, fırın başında ya da çatı kaplamada çalışanlar için sıcak ciddi bir risktir. Üstelik ortam sıcaklığı kadar nem, rüzgârsızlık ve ağır iş de etkiyi artırır.",
+    "Sıcakta vücut kendini soğutmak için terler. Çok terleyince su ve tuz kaybı hızla artar.",
+    "Vücut ısısı yükselir ve kalp daha hızlı çalışmak zorunda kalır. Bu da yorgunluğu katlar.",
+    "Baş dönmesi, kas krampı, aşırı halsizlik ve bulantı ilk uyarı işaretleridir. Sıcak çarpmasında ise ateş yükselir, cilt kuru ve kızarık olabilir ve bilinç bulanır; bu bir acil durumdur.",
+    "Üstelik sıcak, dikkati ve karar vermeyi de bozar. Yani sıcak yalnızca rahatsızlık değil; kaza riskidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1695603414685-af28aff0f9d2?w=2400",
+   "kicker": "Kimler daha riskli?",
+   "title": "Sıcaktan daha çok etkilenenler",
+   "bullets": [
+    "Sıcak ortama yeni başlayanlar",
+    "Kronik hastalığı olanlar, bazı ilaç kullananlar",
+    "Ağır iş yapanlar, KKD ile çalışanlar"
+   ],
+   "steps": [
+    "Sıcaktan herkes aynı oranda etkilenmez. Hangi gruplar daha dikkatli olmalı?",
+    "Sıcak bir ortama yeni başlayanlar ya da uzun bir aradan dönenler ilk günlerde daha kolay zorlanır, çünkü vücutları henüz alışmamıştır.",
+    "Kalp, tansiyon ya da böbrek gibi kronik sorunu olanlar ve bazı ilaçları kullananlar da daha risklidir. Böyle bir durumunuz varsa işyeri hekiminize söylemeniz çok önemlidir.",
+    "Ağır iş yapanlar ve tulum, maske ya da baret gibi KKD ile çalışanlar daha çok ısınır. KKD'yi çıkarmak çözüm değildir; bunun yerine mola sıklığını artırmak, işi dönüşümlü yapmak gerekir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Önlemler",
+   "title": "Sıcakta korunmanın beş adımı",
+   "items": [
+    {
+     "title": "Susamadan için",
+     "text": "Gün boyunca az az ve sık su için"
+    },
+    {
+     "title": "Gölge ve mola",
+     "text": "Serin, gölge bir alanda kısa molalar verin"
+    },
+    {
+     "title": "Uygun giysi",
+     "text": "Açık renkli, hafif ve nefes alan giysi giyin"
+    },
+    {
+     "title": "Yavaş alışın",
+     "text": "Sıcağa yeni başlıyorsanız yükü kademeli artırın"
+    },
+    {
+     "title": "Belirtiyi bildirin",
+     "text": "Kötü hissediyorsanız bırakıp haber verin"
+    }
+   ],
+   "steps": [
+    "Sıcakta korunmanın beş basit adımı var.",
+    "Birincisi su. Susamayı beklemeyin; gün boyunca az az ve sık su için. Şekerli ve alkollü içecekler ise su yerine geçmez.",
+    "İkincisi gölge ve mola. En sıcak saatlerde ağır işleri mümkünse serin saatlere kaydırın, kısa molaları gölgede ya da serin bir alanda verin.",
+    "Üçüncüsü giysi: açık renkli, hafif, nefes alan kıyafet. Baret ve KKD kurallarını bozmadan, havalandırma imkânlarını kullanın.",
+    "Dördüncüsü alışma. Sıcak bir ortama yeni başlayan ya da tatilden dönen kişinin yükü birkaç günde kademeli artırılmalıdır.",
+    "Beşincisi, kötü hissettiğinizde işi bırakıp bildirmek. Baş dönmesi ya da bulantı varken işe devam etmek, bayılıp düşmeye zemin hazırlar."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Örnek olay 2",
+   "title": "Şantiyede öğle sıcağı",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1694521787162-5373b598945c?w=1200",
+     "ok": false,
+     "title": "Bitirmeden mola yok",
+     "text": "Kalıpçı Mehmet, öğlen sıcağında su içmeden çalışmayı sürdürdü ve baş dönmesini yok saydı."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1743130940778-331440a204ae?w=1200",
+     "ok": true,
+     "title": "Gölgeye geç, su iç",
+     "text": "İlk belirtide işi bırakıp gölgede dinlenmek, su içmek ve ekibe haber vermek."
+    }
+   ],
+   "steps": [
+    "İkinci örnek olayımız bir şantiyeden. Kalıpçı Mehmet, öğle saatlerinde çatı katında beton kalıbı üzerinde çalışıyor. Sabahtan beri çok az su içmiş.",
+    "Önce baş dönmesi başlıyor, sonra kasları kasılıyor. Ama işi bitirme telaşıyla bunları yok sayıyor. Bu, yanlış yaklaşım. Çünkü hafif bir sıcak sıkıntısı, kısa sürede bayılmaya ve yüksekten düşmeye dönüşebilir.",
+    "Doğrusu: ilk belirtide işi bırakmak, gölgeye ya da serin bir alana geçmek, yavaş yavaş su içmek ve ekip arkadaşına haber vermek. Belirtiler geçmiyor, kişi karışık konuşuyor ya da bayılıyorsa 112 aranır ve kişi serin ortamda soğutulur."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Soğukta çalışma",
+   "title": "Soğuk da tehlikelidir",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1674049406206-83d38bd15c8a?w=1200",
+     "tag": "Vücut",
+     "title": "Üşüme ve hipotermi",
+     "text": "Titreme, hareket yavaşlaması ve karışık konuşma uyarı işaretidir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=1200",
+     "tag": "Eller",
+     "title": "El becerisi ve donma",
+     "text": "Soğuk, ellerin hissini azaltır; el aleti ile yaralanma riski artar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1694521787162-5373b598945c?w=1200",
+     "tag": "Zemin",
+     "title": "Buzlu ve kaygan zemin",
+     "text": "Kayma, düşme ve soğuğa bağlı dikkat kaybı birlikte artar."
+    }
+   ],
+   "steps": [
+    "Soğuk da en az sıcak kadar tehlikelidir. Açık havada çalışan inşaat işçileri, soğuk hava deposu çalışanları ve depo görevlileri bunu bilir.",
+    "Birincisi vücut ısısı. Çok üşüyen kişide titreme, hareketlerde yavaşlama, konuşmada karışıklık başlar. Buna hipotermi denir ve ciddi bir sağlık sorunudur.",
+    "İkincisi eller. Soğuk, elinizin hissini ve kavrama gücünü azaltır; bu yüzden el aletleriyle çalışırken yaralanma riski artar.",
+    "Üçüncüsü zemin. Buzlanma ve ıslaklık kayma ve düşme riskini büyütür."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1674049406206-83d38bd15c8a?w=2400",
+   "kicker": "Soğuğa karşı",
+   "title": "Soğukta korunmak için katmanlı giyinin",
+   "bullets": [
+    "Katmanlı giyin, ıslanırsanız hemen değiştirin",
+    "Eller, ayaklar ve baş bölgesini koruyun",
+    "Sıcak içecek için, ısınma molası verin",
+    "Soğuk deposunda çalışırken sürelere uyun"
+   ],
+   "steps": [
+    "Soğuk hava ya da soğuk depo çalışmasında alacağınız önlemler basit ama etkilidir.",
+    "Katmanlı giyin. İnce ve birbirinin üstüne giyilen katmanlar, tek kalın giysiden daha iyi yalıtım sağlar. Islanırsanız hemen kuru giysiyle değiştirin.",
+    "Eller, ayaklar ve baş en çabuk üşüyen bölgelerdir; eldiven, kalın çorap ve bere ile koruyun. Eldiven seçiminde iş güvenliği özelliğini de unutmayın.",
+    "Sıcak içecek ve ısınma molaları verilmelidir. Soğuk hava deposunda ya da dondurucuda çalışıyorsanız işverenin belirlediği çalışma ve ısınma süreleri bulunur; bunlara uyun.",
+    "Titreme uzar, uyuşma ve konuşma bozukluğu başlarsa kendinizi ya da arkadaşınızı hemen sıcak bir ortama alın ve yardım isteyin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=2400",
+   "kicker": "Ekip içi iletişim",
+   "title": "Kazaların çoğu yanlış anlaşılmayla başlar",
+   "bullets": [
+    "Eksik, geç ya da belirsiz verilen talimat",
+    "Gürültüde duyulmayan uyarı",
+    "Söylemeye çekinilen bir tehlike"
+   ],
+   "steps": [
+    "İkinci büyük başlığımız ekip içi iletişim. Fabrikada ya da şantiyede kimse tek başına çalışmaz; bu yüzden iletişim kazadan koruyan en ucuz önlemdir.",
+    "Kazaların çoğu eksik, geç ya da belirsiz verilen bir talimatla başlar. \"Şunu kaldır\" demek yetmez; neyi, ne zaman, nereye kaldıracağız?",
+    "Gürültülü atölyelerde sözlü uyarı duyulmayabilir. Bu yüzden el işareti, ışık ve sesli işaret gibi ortak yöntemler belirlenir.",
+    "En sinsi olanı da söylenmeyen tehlikedir. Genç bir çalışan ustasının yanlış bir işlemini görür ama \"ayıp olur\" diye susar. Güvenlik kültüründe bu susma kabul edilmez; sorun gören konuşur."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1587560699334-bea93391dcef?w=2400",
+   "kicker": "Söylemek cesaret ister",
+   "title": "Kıdemsiz çalışan da \"dur\" diyebilmeli",
+   "bullets": [
+    "Yeni başlayan, tehlikeyi görse bile susabilir",
+    "Usta ve amir soru sormayı teşvik etmelidir",
+    "Dur demek ceza değil, kazayı önleme davranışıdır"
+   ],
+   "steps": [
+    "İletişimin bir de insani yönü var: korku. Yeni başlayan bir çalışan, usta bir arkadaşının yanlış bir işlem yaptığını görse bile çoğu zaman susar.",
+    "Neden? Çünkü \"azar işitirim\" ya da \"ayıp olur\" diye düşünür. Bu yüzden usta ve amirlerin görevi soruya ve uyarıya açık bir ortam yaratmaktır.",
+    "Bir çalışan \"dur, burada bir sorun var\" dediğinde, buna teşekkür etmek gerekir. Çalışanların ciddi ve yakın tehlike karşısında çalışmaktan kaçınma hakkı da bu anlayışın hukuki karşılığıdır.",
+    "Siz de aynı şekilde yapın. Bir tehlike gördüğünüzde kıdeminiz, yaşınız ya da konumunuz ne olursa olsun, \"dur\" demekten çekinmeyin."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Net konuşma",
+   "title": "Üç yönlü iletişim",
+   "items": [
+    {
+     "title": "Net söyle",
+     "text": "Kim, ne, nerede, ne zaman bilgisini ver"
+    },
+    {
+     "title": "Tekrar ettir",
+     "text": "Alan kişi talimatı kendi sözleriyle tekrar eder"
+    },
+    {
+     "title": "Onayla",
+     "text": "Verici doğru anlaşıldığını onaylar"
+    },
+    {
+     "title": "Kapat",
+     "text": "İş bitince sonucu bildir"
+    }
+   ],
+   "steps": [
+    "Net iletişim için çok kullanılan basit bir yöntem var: üç yönlü iletişim.",
+    "Önce net söyleyin. Talimatı verirken kim, ne yapacak, nerede ve ne zaman sorularının cevabını açıkça belirtin. \"Şu tarafa bak\" yerine \"Üçüncü hattaki valfi kapat\" deyin.",
+    "Sonra talimatı alan kişi, duyduğunu kendi sözleriyle tekrar eder. Bu çok basit adım, yanlış anlamaların büyük bir kısmını yakalar.",
+    "Üçüncü adımda talimatı veren kişi bunu onaylar: \"Evet, doğru.\" Tekrar yanlışsa düzeltir.",
+    "Son adım ise işin kapanışı: iş bittiğinde sonuç bildirilir. Böylece kimse yarım bırakılmış bir işin üstüne habersiz gelmez."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Vardiya devri",
+   "title": "Vardiya devrinde bilgi kaybolmasın",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1598302936625-6075fbd98dd7?w=1200",
+     "title": "Giden vardiya",
+     "text": "Arızaları, açık işleri ve alınan önlemleri yazılı ve sözlü aktarır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1717386255773-1e3037c81788?w=1200",
+     "title": "Gelen vardiya",
+     "text": "Devir notunu okur, belirsizliği sorar ve devralmadan işe başlamaz."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1659353586512-bcc4c7182d01?w=1200",
+     "title": "Amir",
+     "text": "Devir görüşmesinin yapılmasını sağlar, açık riskleri izler."
+    }
+   ],
+   "steps": [
+    "Vardiya devri, iletişimin en kritik anıdır. Bilgi burada kaybolursa risk de bir sonraki vardiyaya kalır.",
+    "Giden vardiya, makinelerin durumunu, yarım kalan işleri, bakımda olan ekipmanı ve alınan önlemleri yazılı ve sözlü olarak aktarır.",
+    "Gelen vardiya devir notunu okur, anlamadığı noktayı sorar ve neyin kilitli, neyin kapalı olduğunu öğrenmeden işe başlamaz.",
+    "Amir de bu görüşmenin gerçekten yapıldığını kontrol eder. Unutmayın, bakımda kilitlenmiş bir makineyi, haberi olmayan biri çalıştırırsa ağır yaralanma olabilir."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Örnek olay 3",
+   "title": "Devredilmeyen bilgi",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1730584474338-aa8d9d186bf7?w=1200",
+     "ok": false,
+     "title": "Not bırakmadan çıkmak",
+     "text": "Gündüz vardiyası, bakımda olan makineyi devir görüşmesinde anlatmadan işten ayrıldı."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1765021689917-ac93566d4cf3?w=1200",
+     "ok": true,
+     "title": "Yazılı ve sözlü devir",
+     "text": "Kilitli makine, açık iş ve tehlike notu devir formuna yazıldı ve gelen vardiyaya anlatıldı."
+    }
+   ],
+   "steps": [
+    "Üçüncü örnek olayımız bir plastik enjeksiyon atölyesinden. Gündüz vardiyasında bir makinenin kalıp bölgesinde bakım yapılıyor ve makine enerjisi kesilip kilitlenmiş.",
+    "İş çıkışında bakım ekibi acele ediyor ve bu durumu gece vardiyasındaki operatöre anlatmıyor. Operatör, makinenin kilitli olmasına şaşırıyor, kilidi açıp çalıştırmak istiyor. Neyse ki yanındaki arkadaşı durduruyor, ama ramak kala olay yaşanıyor.",
+    "Doğrusu: kilitli makine, devam eden bakım ve tehlike bilgisinin devir formuna yazılması ve gelen vardiyaya sözlü olarak da anlatılmasıdır. İletişim eksikliği bu kazada tek başına yeterli bir sebepti."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1769758915068-a9a82f9c00ef?w=2400",
+   "kicker": "Birbirinize bakın",
+   "title": "Arkadaşınızın hâlini fark edin",
+   "bullets": [
+    "Aniden sessizleşmek ya da öfkelenmek",
+    "Yorgunluk, hata artışı, işe geç gelmek",
+    "Sorun yaşayana yargılamadan yaklaşmak"
+   ],
+   "steps": [
+    "İyi bir ekip, yalnızca iş paylaşmaz, birbirinin hâlini de fark eder.",
+    "Her zaman şakacı olan arkadaşınızın bir süredir sessiz olması, çabuk öfkelenmesi, işe geç gelmesi ve hata yapmaya başlaması bir işaret olabilir.",
+    "Böyle durumda yargılamadan yaklaşın: \"Son zamanlarda biraz yorgun görünüyorsun, bir şey var mı?\" demek bile bazen çok şey değiştirir.",
+    "Sorun ciddiyse, onu amirine ya da işyeri hekimine yönlendirmeyi önerin. Amacımız herkesin kendi mahremiyetini koruyarak yardım alabilmesi. Birbirimize sahip çıktığımız bir işyerinde hem kaza hem de tükenmişlik çok daha az görülür."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1784041321486-dc3f5c5a34f9?w=2400",
+   "kicker": "Stres",
+   "title": "Stres belirtilerini üç yerde görürsünüz",
+   "bullets": [
+    "Beden: baş ve boyun ağrısı, uykusuzluk, çarpıntı",
+    "Duygu: gerginlik, kaygı, tahammülsüzlük",
+    "Davranış: hata artışı, içe kapanma, öfke patlaması",
+    "Uzun süreli stres kazaya ve hastalığa zemin hazırlar"
+   ],
+   "steps": [
+    "Stres, günlük hayatın parçasıdır; kısa süreli stres bazen işimize bile yarar. Sorun uzun süren ve bitmeyen stresdir.",
+    "Bedende başlar: baş ve boyun ağrısı, kas gerginliği, uyku sorunları, çarpıntı.",
+    "Duygularda devam eder: sürekli gerginlik, kaygı, tahammülsüzlük, işe karşı isteksizlik.",
+    "Davranışa yansır: hatalar artar, kişi içine kapanır ya da küçük şeylere öfke patlamasıyla tepki verir.",
+    "Tehlikeli işlerde bu tablo doğrudan güvenliği ilgilendirir. Gergin bir çalışan acele eder, kuralı atlar, uyarıyı duymaz."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Başa çıkma",
+   "title": "Stresle başa çıkmanın yolları",
+   "items": [
+    {
+     "title": "Adlandır",
+     "text": "Sizi neyin zorladığını fark edin ve söyleyin"
+    },
+    {
+     "title": "Bedeni kullan",
+     "text": "Yürüyüş, nefes egzersizi ve düzenli uyku"
+    },
+    {
+     "title": "Konuş",
+     "text": "Güvendiğiniz biriyle, amirinizle ya da hekimle paylaşın"
+    },
+    {
+     "title": "Yardım al",
+     "text": "İşyeri hekimi ve destek hatlarından faydalanın"
+    }
+   ],
+   "steps": [
+    "Stresle baş etmenin dört temel yolu var.",
+    "Önce adlandırın. Sizi neyin zorladığını bilmek, çözümün yarısıdır. Yoğun iş yükü mü, kavga mı, ekonomik kaygı mı?",
+    "Sonra bedeninizi kullanın. Kısa bir yürüyüş, derin nefes, düzenli uyku ve dengeli beslenme stresi gerçekten azaltır.",
+    "Konuşun. Güvendiğiniz bir arkadaşınızla, amirinizle ya da işyeri hekimiyle paylaşmak yükü hafifletir. Susmak, stresi büyütür.",
+    "Gerekirse profesyonel yardım alın. İşyeri hekimi sizi yönlendirebilir. Stres belirtileri uzadığında, bir sağlık kuruluşuna başvurmak güçlü olmanın göstergesidir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1778790508237-3c6cb00f152a?w=2400",
+   "kicker": "Şiddet ve taciz",
+   "value": "Susmayın",
+   "title": "İşyerinde şiddet ya da taciz karşısında susmayın; bu durumlar bildirilmesi gereken risklerdendir",
+   "text": "Fiziksel şiddet, tehdit, hakaret, dışlama ve cinsel taciz işyerinde kabul edilemez.",
+   "steps": [
+    "Gelelim dersin en hassas konusuna: işyerinde şiddet ve taciz. Bunlar yalnızca fiziksel saldırı değildir; tehdit, aşağılama, sürekli hakaret, sistematik dışlama ve cinsel taciz de bu kapsamdadır.",
+    "Bu davranışların kaynağı iş arkadaşı, amir ya da dışarıdan gelen bir kişi olabilir. Hangisi olursa olsun, sorumluluk kurbana ait değildir. Bu durum sizin hatanız değildir.",
+    "İşveren, çalışanları korumakla yükümlüdür. Risk değerlendirmesinde şiddet ve taciz riskini de dikkate alır. Çalışan da bildirdiğinde, korunma ve araştırma hakkına sahiptir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Ne yapmalı?",
+   "title": "Şiddet ya da tacizle karşılaşınca",
+   "items": [
+    {
+     "title": "Güvende kalın",
+     "text": "Tehlikeli ortamdan uzaklaşın, sakin kalın"
+    },
+    {
+     "title": "Karşılık vermeyin",
+     "text": "Kışkırtmaya sınır koyun, tartışmayı büyütmeyin"
+    },
+    {
+     "title": "Kaydedin",
+     "text": "Tarih, saat, yer, tanık ve sözleri not edin"
+    },
+    {
+     "title": "Bildirin",
+     "text": "Amir, işveren, işyeri hekimi ya da temsilciye"
+    },
+    {
+     "title": "Destek alın",
+     "text": "Gerekirse ALO 170, ALO 183 ya da 112"
+    }
+   ],
+   "steps": [
+    "Peki böyle bir durumla karşılaşırsanız ne yapmalısınız? Beş adımlık bir yol izleyin.",
+    "Önce kendi güvenliğiniz. Tehlikeli bir ortamsa uzaklaşın, mümkünse yalnız kalmayın ve sakin kalmaya çalışın.",
+    "Kışkırtmaya karşılık vermeyin. Net bir cümleyle sınırı koyun: \"Bu konuşma biçimini kabul etmiyorum\" yeterlidir. Tartışmayı büyütmek sizi zora sokar.",
+    "Üçüncü adım kayıt: ne zaman, nerede, kim, ne söyledi, kimler gördü? Mesajlar ve tanıklar varsa saklayın.",
+    "Sonra bildirin: vardiya amirine, işverene, işyeri hekimine ya da çalışan temsilcisine. Bunlardan biri sorunun kaynağıysa bir üst makama gidin.",
+    "Gerekirse dış destek alın. Çalışma ve Sosyal Güvenlik Bakanlığı ALO 170 hattı çalışma hayatındaki sorunlar için, ALO 183 hattı ise şiddet mağdurlarına sosyal destek için hizmet verir. Acil tehlikede 112'yi arayın."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1563260324-5ebeedc8af7c?w=2400",
+   "kicker": "Yüz yüze eğitimde",
+   "title": "Özgü riskler yüz yüze eğitimde",
+   "bullets": [
+    "Sizin vardiya düzeniniz ve mola yerleriniz",
+    "Sıcak-soğuk ortam önlemleri ve acil durum"
+   ],
+   "steps": [
+    "Burada konuştuklarımız genel çerçeve. Tehlikeli ve çok tehlikeli sınıftaki işyerlerinde işe ve işyerine özgü riskler, yüz yüze verilen eğitimde ele alınır.",
+    "Orada vardiya düzeninizi, mola yerlerinizi, sıcak ve soğuk ortam önlemlerini ve işyerinize özgü acil durum uygulamalarını İSG uzmanınızla konuşacaksınız. Aklınıza takılan soruları şimdiden not almanızı öneririm.",
+    "Unutmayın, bu eğitim bir ders saati sayısını doldurmak için değil, sizi hem işyerinizde hem de evinizde daha güvende tutmak için var. Eğitim süresi çalışma süresinden sayılır ve bunun bedeli size yüklenemez; yani bu zamanı sonuna kadar kullanmak sizin hakkınız."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1780838446048-4cdb6bf24090?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Gece vardiyası uykuyu bozar; planlı uyku ve mola yorgunluğu azaltır",
+    "Sıcakta su, gölge ve ilk belirtide bırakmak; soğukta katmanlı giyinmek",
+    "Net, tekrar edilen ve onaylanan iletişim kazadan korur",
+    "Şiddet ve tacizde kaydedin, bildirin, destek alın"
+   ],
+   "steps": [
+    "Dersi toparlayalım.",
+    "Gece vardiyası uykuyu bozar. Planlı uyku, hafif beslenme ve kanunun verdiği ara dinlenmeleri yorgunlukla mücadelenin temelidir.",
+    "Sıcakta susamadan su için, gölgede mola verin, ilk belirtide işi bırakın. Soğukta katmanlı giyinin, ellerinizi ve ayaklarınızı koruyun.",
+    "İletişimde net söyleyin, tekrar ettirin, onaylayın; vardiya devrini ciddiye alın.",
+    "İşyerinde şiddet ya da tacizle karşılaşırsanız güvende kalın, olayı kaydedin, bildirin ve destek alın. Siz değil, davranış sorunludur.",
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Bu derste anlattığımız bilgilerle rahatlıkla cevaplayabilirsiniz. Bu eğitimin sonunda, aldığınız bilgileri işinizde uygulamanız bizim için en değerli sonuçtur. Güvenli çalışmalar dilerim."
+   ]
+  }
+ ]
+}

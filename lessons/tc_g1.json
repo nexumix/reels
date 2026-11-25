@@ -1,0 +1,708 @@
+{
+ "code": "tc_g1",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "1. Bölüm · Genel Konular",
+ "title": "Çalışma mevzuatı ile ilgili bilgiler (1)",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1768158988512-ad31657fe5b8?w=2400",
+   "kicker": "1. Bölüm · Ders 1",
+   "title": "Çalışma mevzuatı ile ilgili bilgiler (1)",
+   "subtitle": "Tehlikeli ve çok tehlikeli işyerlerinde kuralların temeli",
+   "steps": [
+    "Merhaba, hoş geldiniz. Temel iş sağlığı ve güvenliği eğitiminizin ilk dersindeyiz. Şantiyede, atölyede, fabrikada ya da depoda çalışıyorsanız, işiniz hayatın en çok dikkat isteyen işlerinden biridir. Bu derste güvenlik kurallarının nereden geldiğini konuşacağız.",
+    "Belki aklınızdan şu geçiyor: kanun, yönetmelik, madde numarası, bunlar bana ne katar? Söz veriyorum, ezber yaptırmayacağım. Amacım, hangi kuralın sizi neden koruduğunu anlatmak ve haklarınızı bilerek, görevinizi bilerek çalışmanızı sağlamak."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Mevzuatın yapısı",
+     "text": "Anayasadan tebliğe kuralların sıralaması"
+    },
+    {
+     "title": "6331 ve temel kavramlar",
+     "text": "Kapsam, tehlike, risk, iş kazası"
+    },
+    {
+     "title": "Tehlike sınıfları",
+     "text": "NACE kodu ve sınıfınızın anlamı"
+    },
+    {
+     "title": "İşveren ve uzmanlar",
+     "text": "Yükümlülükler, OSGB, kurul, temsilci"
+    },
+    {
+     "title": "Denetim ve yaptırım",
+     "text": "Müfettişler, ceza, işin durdurulması"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Bu ders beş adımda ilerleyecek ve her adımda sizin işyerinizden bir örnek vereceğim.",
+    "İlk olarak mevzuatın yapısını göreceğiz: Anayasa, kanun, yönetmelik ve tebliğ arasındaki sıralamayı.",
+    "Sonra iş sağlığı ve güvenliğinin ana kanunu olan 6331 sayılı Kanunu ve temel kavramlarını tanıyacağız.",
+    "Üçüncü adımda, işyerlerinin neden az tehlikeli, tehlikeli ve çok tehlikeli diye ayrıldığını, sizin sınıfınızda neyin değiştiğini konuşacağız.",
+    "Dördüncü adım işveren, uzmanlar, çalışan temsilcisi ve kurul. Bu adımda kimin neyi yapmakla yükümlü olduğunu netleştireceğiz.",
+    "Son adımda da denetim, yaptırımlar ve yeni eğitim yönetmeliği var. Sonunda üç kısa soruyla öğrendiklerinizi pekiştireceksiniz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1423592707957-3b212afa6733?w=2400",
+   "kicker": "Mevzuat nedir?",
+   "title": "Kurallar bir merdiven gibi sıralanır",
+   "bullets": [
+    "Anayasa: en üstteki temel ilkeler",
+    "Kanun: Meclisin çıkardığı ana çerçeve",
+    "Yönetmelik: kanunun nasıl uygulanacağı",
+    "Tebliğ: teknik ayrıntılar ve listeler"
+   ],
+   "steps": [
+    "Mevzuat, belli bir konudaki yazılı kuralların bütünüdür. Bu kurallar rastgele dizilmez, merdivenin basamakları gibi sıralanır. Alttaki basamak, üsttekine aykırı olamaz.",
+    "En üstte Anayasa var. Yaşama hakkı, çalışma hakkı ve dinlenme hakkı gibi temel ilkeler orada yazar. Sağlıklı ve güvenli çalışma hakkının kökü de buradadır.",
+    "Bir alt basamakta kanunlar var. Kanunları Türkiye Büyük Millet Meclisi çıkarır. Kanun, işverenin ve çalışanın temel görevlerini çizer, ama her ayrıntıyı sayamaz.",
+    "Ayrıntı için yönetmelikler devreye girer. Mesela yüksekte çalışmanın şartları, kaynak atölyesinde alınacak önlemler ya da eğitimin kaç saat olacağı yönetmeliklerde yazar.",
+    "En altta tebliğler bulunur. Tebliğler daha teknik konuları ve listeleri düzenler. Birazdan göreceğimiz tehlike sınıfları listesi de bir tebliğle belirlenmiştir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1742112125567-3e8967bad60f?w=2400",
+   "kicker": "6331 sayılı Kanun",
+   "value": "30.06.2012",
+   "title": "İş Sağlığı ve Güvenliği Kanunu Resmî Gazete'de yayımlandı",
+   "text": "Kanun, işyerlerinde işveren ve çalışanların görev, yetki, sorumluluk, hak ve yükümlülüklerini düzenler.",
+   "steps": [
+    "İş sağlığı ve güvenliğinin ana kanunu, 6331 sayılı İş Sağlığı ve Güvenliği Kanunudur. Kanun, 30 Haziran 2012 tarihinde Resmî Gazete'de yayımlandı.",
+    "Amacı açık: işyerlerinde sağlık ve güvenliği sağlamak ve geliştirmek, bunun için işverenin ve çalışanın görevlerini, yetkilerini, haklarını ve yükümlülüklerini belirlemek. Eğitim boyunca duyacağınız kuralların büyük bölümü bu kanundan ya da ona dayanan yönetmeliklerden gelir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Üç temel kanun",
+   "title": "Çalışma hayatının üç kanunu",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1468779036391-52341f60b55d?w=1200",
+     "tag": "4857",
+     "title": "İş Kanunu",
+     "text": "İş sözleşmesi, ücret, çalışma süresi, izin ve işçi sağlığı hükümleri"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1700727448575-6f1680cd7d75?w=1200",
+     "tag": "5510",
+     "title": "Sosyal Sigortalar Kanunu",
+     "text": "İş kazası ve meslek hastalığı halinde sigorta ve yardımlar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1618771623063-6c3faa854a61?w=1200",
+     "tag": "6331",
+     "title": "İSG Kanunu",
+     "text": "Önlem, risk değerlendirmesi, eğitim, görev ve yaptırımlar"
+    }
+   ],
+   "steps": [
+    "Çalışma hayatında sık duyacağınız üç kanun var. Her birinin görevi farklı.",
+    "4857 sayılı İş Kanunu iş sözleşmesini, ücreti, çalışma süresini ve izinleri düzenler. Ayrıca işçi sağlığı ve iş güvenliğiyle ilgili temel hükümler de bu kanunda bulunur.",
+    "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu, bir iş kazası ya da meslek hastalığı olduğunda sigorta haklarını, geçici ödenekleri ve gelir bağlanmasını belirler.",
+    "6331 sayılı Kanun ise kazayı olmadan önlemeye bakar: tehlikeyi bulmak, riski azaltmak, çalışanı eğitmek ve görevleri paylaştırmak. Bu eğitimin asıl konusu bu kanundur."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1668140736531-d23950307b3c?w=2400",
+   "kicker": "6331'in kapsamı",
+   "title": "Kanun hemen hemen her işyerini kapsar",
+   "bullets": [
+    "Faaliyet konusuna bakılmaz",
+    "Kamu ve özel sektör ayrımı yoktur",
+    "Çırak ve stajyerler de kapsamdadır",
+    "Az çalışanlı işyerleri de kapsamdadır"
+   ],
+   "steps": [
+    "6331 sayılı Kanunun kapsamı çok geniştir. Yani bu kanun, sadece büyük fabrikalar için yazılmadı.",
+    "Faaliyet konusuna bakılmaz. İnşaat da olsa, torna atölyesi de olsa, depo da olsa, kanun aynen uygulanır.",
+    "Kamu ya da özel sektör ayrımı yapılmaz. Devlete ait bir bakım atölyesinde çalışan da özel bir şirkette çalışan da aynı korumadan yararlanır.",
+    "Çırak ve stajyerler de çalışan sayılır. Sizinle birlikte çalışan çırak çocuk ya da staj yapan öğrenci de bu koruma altındadır.",
+    "İşyerinde kaç kişi çalıştığı da kapsam açısından fark etmez. Bazı özel faaliyetler dışarıda kalır, örneğin ev hizmetleri ve silahlı kuvvetlerin doğrudan müdahale faaliyetleri. Ama sizin işyeriniz kesinlikle kapsamdadır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1748256086767-8974ee677f77?w=2400",
+   "kicker": "Temel kavramlar",
+   "title": "Beş kavramı mutlaka bilin",
+   "bullets": [
+    "Tehlike: zarar verme potansiyeli",
+    "Risk: tehlikenin zarara dönüşme ihtimali ve şiddeti",
+    "Ramak kala: zarar vermeyen ama vermesi an meselesi olan olay",
+    "İş kazası: işyerinde ya da iş nedeniyle oluşan zararlı olay",
+    "Meslek hastalığı: işin niteliğinden doğan hastalık"
+   ],
+   "steps": [
+    "Şimdi kanunun dilindeki beş temel kavramı kısaca tanıyalım. Bu kelimeleri bütün derslerde duyacaksınız.",
+    "Önce günlük örneklerle hatırlayalım, sonra kanunun tanımına bağlarız.",
+    "Tehlike, bir şeyin zarar verme potansiyelidir. Dönen bir tezgâh mili, açık bir kimyasal varil ya da iskelenin kenarı birer tehlikedir.",
+    "Risk ise o tehlikenin gerçekten zarara dönüşme ihtimali ve vereceği zararın büyüklüğüdür. Tehlike yerinde duruyor, ama korkuluk ve eğitim varsa risk düşer.",
+    "Ramak kala olay, kimseye zarar vermeyen ama az kalsın verecek olan olaydır. Düşen bir yük, kimse altında değildi diye ciddiye alınmayabilir. Oysa o, kazanın habercisidir.",
+    "İş kazası, işyerinde ya da işin yürütümü nedeniyle oluşan ve bedensel ya da ruhsal zarar veren olaydır. Meslek hastalığı ise işin niteliğinden, örneğin toz, gürültü ya da kimyasallardan, zamanla ortaya çıkan hastalıktır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1770827730773-cc7848b2ee61?w=2400",
+   "kicker": "Örnek olay 1",
+   "title": "Depoda ramak kala olay",
+   "bullets": [
+    "Ahmet usta forklifti sürüyor",
+    "Yük çalkalanıyor, kimse yaralanmıyor"
+   ],
+   "steps": [
+    "Küçük bir örnek olay anlatayım. Bir lojistik deposunda forklift operatörü Ahmet usta, yüksek rafa palet kaldırırken yükün bir kenarının kaydığını fark eder.",
+    "Palet yere düşer. Neyse ki o sırada o koridorda kimse yoktur. Kimse yaralanmaz, vardiya devam eder. Birkaç kişi bunu bir şans olarak görür ve olay konuşulmaz.",
+    "Oysa bu bir ramak kala olaydır. Vardiya amiri Selin, olayı kayda geçirir. İnceleme yapılır ve paletlerin streç filmle sarılmadığı, yükün de ağır tarafının dışarı gelecek şekilde dizildiği ortaya çıkar.",
+    "Önlem alınır: yükleme talimatı yazılır, çalışanlara kısa bir eğitim verilir. Haftalar sonra benzer bir hata yapılmaz. İşte bu yüzden ramak kala olayları saklamayın, bildirin. Kazayı önlemenin en ucuz yolu budur."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Tehlike sınıfları",
+   "title": "Üç sınıf, üç farklı kural seti",
+   "items": [
+    {
+     "value": "8",
+     "unit": "saat",
+     "label": "az tehlikeli: temel eğitim, 3 yılda bir tekrar"
+    },
+    {
+     "value": "12",
+     "unit": "saat",
+     "label": "tehlikeli: temel eğitim, 2 yılda bir tekrar"
+    },
+    {
+     "value": "16",
+     "unit": "saat",
+     "label": "çok tehlikeli: temel eğitim, her yıl tekrar"
+    }
+   ],
+   "steps": [
+    "Şimdi işyerinin tehlike sınıfına gelelim. Tehlike sınıfı, işyerinin ne kadar tehlikeli olduğunu belirten bir etikettir ve bazı kurallar bu etikete göre değişir.",
+    "Az tehlikeli işyerlerinde temel eğitim en az 8 ders saati, tekrar en az 3 yılda bir. Ofis ve mağaza gibi işyerleri genelde bu gruptadır.",
+    "Tehlikeli işyerlerinde temel eğitim en az 12 ders saati ve en az 2 yılda bir tekrarlanır.",
+    "Çok tehlikeli işyerlerinde ise temel eğitim en az 16 ders saati ve tekrar her yıl yapılır. Bu eğitimi alıyorsanız, büyük ihtimalle son iki gruptan birindesiniz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1740733448722-82e16d3468bb?w=2400",
+   "kicker": "Sınıf nasıl belirlenir?",
+   "title": "Sınıfı yapılan asıl iş belirler",
+   "bullets": [
+    "İşyerinin asıl faaliyeti NACE koduyla tanımlanır",
+    "Kod, tebliğdeki listede bir tehlike sınıfına karşılık gelir",
+    "Çalışan sayısı ya da işyeri büyüklüğü sınıfı belirlemez",
+    "İşveren sınıfı kendi tercihine göre değiştiremez"
+   ],
+   "steps": [
+    "Peki sınıfı kim ve neye göre belirliyor? Cevap, yapılan asıl işin niteliği.",
+    "Her faaliyetin NACE kodu denen uluslararası bir faaliyet kodu vardır. İşyerinin asıl işi bu kodla tanımlanır.",
+    "İşyeri Tehlike Sınıfları Tebliği, hangi NACE kodunun hangi sınıfa girdiğini listeler. Kodunuza bakılır, sınıfınız bellidir.",
+    "Çalışan sayısı sınıfı belirlemez. Beş kişilik bir kaynak atölyesi de çok tehlikeli olabilir, yüz kişilik bir ofis az tehlikeli.",
+    "İşveren de sınıfı seçemez. Sınıf, işin kendisine göre belirlenir. Bir işyerinde birden fazla faaliyet varsa, asıl iş esas alınır."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Hangi işler?",
+   "title": "Tehlikeli ve çok tehlikeli işlere örnekler",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1742112125567-3e8967bad60f?w=1200",
+     "tag": "İnşaat",
+     "title": "Yapı işleri",
+     "text": "Bina, yol ve altyapı inşaatları ile yıkım ve tadilat işleri"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1598302936625-6075fbd98dd7?w=1200",
+     "tag": "Metal",
+     "title": "Kaynak ve imalat",
+     "text": "Metal işleme, makine imalatı, döküm ve kaynak atölyeleri"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1617155093730-a8bf47be792d?w=1200",
+     "tag": "Kimya",
+     "title": "Kimya ve boya",
+     "text": "Kimyasal üretim, boya, plastik ve temizlik ürünleri imalatı"
+    }
+   ],
+   "steps": [
+    "Hangi işler bu iki sınıfa girer? Kesin liste tebliğdedir, ama birkaç örnek vereyim.",
+    "İnşaat ve yapı işleri, yüksekte çalışma, kazı ve ağır iş makineleri nedeniyle genellikle tehlikeli ya da çok tehlikeli gruptadır. Yıkım ve iskele işleri de öyle.",
+    "Metal işleme, döküm, kaynak ve makine imalatı gibi işlerde pres, kesici takım, sıcak metal ve kıvılcım bulunur. Bunlar da bu gruptadır.",
+    "Kimya, boya ve plastik üretimi, zararlı maddeler, yangın ve patlama riski taşıdığı için sınıfı yüksek işlerdir. Depo, forklift, gıda üretimi ve enerji bakım işleri de, faaliyete göre bu listede yer alabilir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1758270705031-ebd46917a454?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar neler öğrendik",
+   "bullets": [
+    "Kurallar sıralıdır: Anayasa, kanun, yönetmelik, tebliğ",
+    "Ana kanun 6331 sayılı İş Sağlığı ve Güvenliği Kanunudur",
+    "Kanun faaliyet, sektör ve çalışan sayısına bakmadan uygulanır",
+    "Tehlike sınıfını yapılan asıl işin NACE kodu belirler",
+    "Çok tehlikelide eğitim 16 saat ve her yıl tekrarlanır"
+   ],
+   "steps": [
+    "Kısa bir ara özet yapalım.",
+    "Mevzuat bir merdiven gibi sıralanır: Anayasa, kanun, yönetmelik ve tebliğ.",
+    "İş sağlığı ve güvenliğinin ana kanunu 6331 sayılıdır.",
+    "Kanun, faaliyet konusuna, sektöre ve çalışan sayısına bakmadan uygulanır.",
+    "İşyerinin tehlike sınıfını, yapılan asıl işin NACE kodu belirler ve bu sınıfa göre eğitim süreleri değişir. Çok tehlikeli işyerinde temel eğitim 16 saat ve her yıl tekrarlanır.",
+    "Şimdi bu kuralları işyerinde kimin hayata geçirdiğine bakalım."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "İşveren yükümlülükleri",
+   "title": "İşveren neleri yapmak zorunda?",
+   "items": [
+    {
+     "title": "Önlem almak",
+     "text": "Her türlü tedbiri alır, araç gereci sağlar"
+    },
+    {
+     "title": "Risk değerlendirmesi",
+     "text": "Tehlikeleri belirler, riskleri azaltır"
+    },
+    {
+     "title": "Eğitim vermek",
+     "text": "Çalışanı bilgilendirir, eğitir"
+    },
+    {
+     "title": "Sağlık gözetimi",
+     "text": "Sağlık muayenelerini yaptırır"
+    },
+    {
+     "title": "Acil durum ve bildirim",
+     "text": "Planlar, kaza ve hastalığı bildirir"
+    }
+   ],
+   "steps": [
+    "Kanunun ana yükü işverenin omuzlarındadır. İşveren, çalışanların işle ilgili sağlık ve güvenliğini sağlamakla yükümlüdür. Bu görevi başkasına devretse de sorumluluğu kalkmaz. Beş temel adımı sırayla görelim.",
+    "Birinci adım, gerekli her önlemi almak. Yani makinelerin korumalarını, korkulukları ve ekipmanı sağlamak, işyerini düzenli tutmak.",
+    "İkinci adım risk değerlendirmesi. Tehlikeler belirlenir, riskler puanlanır ve azaltılır. Bu değerlendirme çok tehlikeli işyerlerinde en geç 2 yılda, tehlikelide 4 yılda, az tehlikelide 6 yılda bir yenilenir.",
+    "Üçüncü adım, çalışanı eğitmek ve bilgilendirmek. Yeni bir makine, yeni bir kimyasal ya da değişen bir iş olduğunda eğitim yenilenir.",
+    "Dördüncü adım sağlık gözetimi: işe giriş ve periyodik muayeneler. Gürültülü, tozlu ya da kimyasallı işlerde bu muayeneler hastalığı erken yakalamayı sağlar.",
+    "Beşinci adımda acil durum planları hazırlanır, iş kazası ve meslek hastalıkları da yetkili kurumlara bildirilir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1694522362256-6c907336af43?w=2400",
+   "kicker": "Ücretsiz ve yazılı",
+   "title": "İşverenden bekleyebileceğiniz somut şeyler",
+   "bullets": [
+    "Gereken kişisel koruyucu donanım ücretsiz verilir",
+    "Çalışan, işe uygun talimat ve eğitim alır",
+    "Makineler korumalı ve bakımlı olur",
+    "Acil durum için planlı hazırlık yapılır"
+   ],
+   "steps": [
+    "Bunlar kâğıt üzerinde kalmasın diye somut bakalım. İşvereninizden günlük hayatta ne bekleyebilirsiniz?",
+    "Kişisel koruyucu donanım, yani baret, gözlük, eldiven, kulaklık, emniyet kemeri gibi, işin gerektirdiği her şey size ücretsiz verilir. Bunun parasını sizden isteyemez.",
+    "İşinize uygun yazılı talimat ve eğitim almanız gerekir. Yeni bir makineye geçtiğinizde ya da yeni bir kimyasalla çalışacağınızda bunlar yenilenir.",
+    "Makinelerin koruyucuları takılı, bakımları yapılmış ve kontrolleri tamam olmalıdır. Arızalı bir ekipmanı kullanmanız beklenemez.",
+    "Yangın, patlama, iskele çökmesi ya da kimyasal dökülmesi gibi acil durumlar için plan ve tatbikat yapılır. İşte bunlar, kanunun işyerinde nasıl göründüğünün cevabıdır."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "İSG profesyonelleri",
+   "title": "İşverene destek veren üç ekip",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1748256086767-8974ee677f77?w=1200",
+     "title": "İş güvenliği uzmanı",
+     "text": "İşyerini gezer, riskleri bulur, işverene öneri sunar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1617155093730-a8bf47be792d?w=1200",
+     "title": "İşyeri hekimi",
+     "text": "Sağlık gözetimini yürütür, iş ve çalışan uyumunu izler"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1700727448575-6f1680cd7d75?w=1200",
+     "title": "Diğer sağlık personeli",
+     "text": "Gereken işyerlerinde görevlendirilen sağlık görevlisi"
+    }
+   ],
+   "steps": [
+    "İşveren her şeyi tek başına bilemez. Bu yüzden kanun, işyerine uzman desteği zorunlu kılar.",
+    "İş güvenliği uzmanı, işyerini düzenli gezer, riskleri tespit eder ve işverene öneri sunar. Tehlikeli ve çok tehlikeli işyerlerinde uzmanın tehlike sınıfına uygun belgesi bulunması gerekir.",
+    "İşyeri hekimi, işe giriş ve periyodik muayeneleri, meslek hastalığı riskini ve çalışanın işe uygunluğunu izler.",
+    "Belirli büyüklük ve sınıftaki işyerlerinde diğer sağlık personeli de görevlendirilir. Bu ekibin tavsiyelerini işverene ulaştırmak, onların işidir. Sizin için de ilk başvuru adresleridir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1468779036391-52341f60b55d?w=2400",
+   "kicker": "OSGB",
+   "title": "Hizmet işyerinden ya da dışarıdan alınır",
+   "bullets": [
+    "İşveren kendisi görevlendirebilir",
+    "Ya da ortak sağlık ve güvenlik birimi (OSGB) ile anlaşır",
+    "Süreler çalışan sayısı ve tehlike sınıfına bağlıdır",
+    "Hizmet alınması işverenin sorumluluğunu kaldırmaz"
+   ],
+   "steps": [
+    "İş güvenliği uzmanı ve işyeri hekimi hizmeti nasıl sağlanır? Bunun iki yolu var.",
+    "Birincisi, işveren kendi personeli arasından uygun belgeye sahip kişiyi görevlendirir. İkincisi, yetkilendirilmiş bir ortak sağlık ve güvenlik birimiyle, yani OSGB ile anlaşır.",
+    "Uzmanın ve hekimin işyerinde geçireceği süre, çalışan sayısına ve tehlike sınıfına göre belirlenir. Sınıf yükseldikçe süre artar.",
+    "Hizmeti OSGB'den alıyor olmak, işverenin sorumluluğunu ortadan kaldırmaz. Raporu ve önerileri uygulamak yine işverene düşer.",
+    "Bu yüzden uzmanınız ya da hekiminiz size bir şey söylediğinde bunu işyerinin resmî görüşü olarak düşünün. Sorularınız için onlara ulaşabilirsiniz."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1575281923032-f40d94ef6160?w=2400",
+   "kicker": "Hizmet süreleri",
+   "value": "40 dakika",
+   "title": "Çok tehlikeli işyerinde iş güvenliği uzmanı, her çalışan için ayda en az 40 dakika ayırır",
+   "text": "Tehlikelide bu süre 20, az tehlikelide 10 dakikadır. İşyeri hekimi için de süreler sınıfa göre artar.",
+   "steps": [
+    "Süreleri bir örnekle somutlaştıralım. Çok tehlikeli sınıftaki bir işyerinde iş güvenliği uzmanı, her çalışan için ayda en az 40 dakika ayırmak zorundadır.",
+    "Yani 50 kişilik bir metal atölyesinde bu, ayda yaklaşık 2.000 dakika demektir. Tehlikeli sınıfta bu süre çalışan başına 20, az tehlikelide 10 dakikadır. İşyeri hekimi için de sınıfa göre artan süreler vardır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1758270704021-361c165d68fd?w=2400",
+   "kicker": "Katılım",
+   "title": "Çalışan temsilcisi ve İSG kurulu sizin sesiniz",
+   "bullets": [
+    "İki ve daha fazla çalışanı olan işyerinde çalışan temsilcisi seçilir",
+    "Temsilci tehlikelerin giderilmesi için işverene öneride bulunur",
+    "50 ve üzeri çalışan ve 6 aydan uzun sürekli iş: İSG kurulu",
+    "Kurul tedbirleri, eğitimleri ve kazaları görüşür"
+   ],
+   "steps": [
+    "Güvenlik yalnızca yukarıdan aşağıya yürümez. Kanun, çalışanın da karara katılmasını güvence altına alır.",
+    "İki ve daha fazla çalışanı olan işyerinde çalışan temsilcisi bulunur. Temsilci çalışanlar arasından seçilir. Sayı, çalışan sayısı arttıkça artar.",
+    "Temsilci, bir tehlike gördüğünüzde işverene öneride bulunur ve tedbir alınmasını ister. Bu görevi nedeniyle hakları kısıtlanamaz. Yani sizin yerinize konuşabilir.",
+    "Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde İSG kurulu kurulur.",
+    "Kurul; işveren, uzman, hekim ve çalışan temsilcisinden oluşur ve düzenli toplanır. Kaza, eğitim ve risk konularını görüşüp karara bağlar. Şantiyenizde ya da fabrikanızda kurul varsa, üyelerini tanıyın."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Örnek olay 2",
+   "title": "Kaynak atölyesinde tehlikeyi görmek",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1598302936625-6075fbd98dd7?w=1200",
+     "ok": false,
+     "title": "Görmezden gelmek",
+     "text": "Duman yükseliyor, çalışan sessiz kalıp işe devam ediyor."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1651500963570-e2bfd5a4f94b?w=1200",
+     "ok": true,
+     "title": "Zamanında bildirmek",
+     "text": "Çalışan işi durdurup durumu amire ve temsilciye iletiyor."
+    }
+   ],
+   "steps": [
+    "İkinci örnek olay. Bir kaynak atölyesinde havalandırma fanı bozulmuş ve kaynak dumanı kapalı alanda birikmeye başlamıştır. Çalışan Mehmet, başı dönmeye başladığını fark eder.",
+    "Yanlış olan: Mehmet, ustası kızar diye susar ve işe devam eder. İki gün sonra yanındaki arkadaşı da rahatsızlanır. Tehlike görünür ama kimse konuşmaz.",
+    "Doğru olan: Mehmet kaynağı durdurur, havalı bir alana çıkar ve durumu hemen vardiya amirine ve çalışan temsilcisine bildirir. Ciddi ve yakın tehlike halinde çalışanın, işveren ya da kurul aracılığıyla tedbir alınmasını isteme ve tedbir alınana kadar çalışmaktan kaçınma hakkı vardır. Bu hak, kanunda yazılıdır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Çalışmaktan kaçınma",
+   "title": "Ciddi ve yakın tehlikede dört adım",
+   "items": [
+    {
+     "title": "Başvur",
+     "text": "Kurula, yoksa işverene başvur"
+    },
+    {
+     "title": "Tespit",
+     "text": "Durum tutanakla tespit edilir"
+    },
+    {
+     "title": "Karar",
+     "text": "Karar yazılı bildirilir"
+    },
+    {
+     "title": "Kaçın",
+     "text": "Tedbir alınana kadar çalışma"
+    }
+   ],
+   "steps": [
+    "Mehmet'in hakkını adım adım görelim. Ciddi ve yakın tehlike, hemen zarar doğurabilecek ve önlem alınmazsa kaçınılmaz olan durumdur.",
+    "Birinci adım, başvurmak. İşyerinde İSG kurulu varsa kurula, yoksa doğrudan işverene durumu bildirirsiniz ve tespit edilmesini, gerekli tedbirlerin alınmasını istersiniz.",
+    "İkinci adım, tespit. Durum bir tutanakla kayda geçirilir ve neyin tehlikeli olduğu yazıya dökülür.",
+    "Üçüncü adım, karar. Kurul ya da işveren kararını yazılı olarak size ve çalışan temsilcisine bildirir. Böylece her şey kayıt altında olur.",
+    "Dördüncü adım, kaçınma. Karar talebiniz yönündeyse, tedbirler alınana kadar çalışmaktan kaçınabilirsiniz. Bu süre içinde ücretiniz ve diğer haklarınız saklıdır. Ama unutmayın: önce kendinizi ve arkadaşlarınızı tehlikeden uzaklaştırın, sonra başvurun."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1694521787162-5373b598945c?w=2400",
+   "kicker": "Risk değerlendirmesi",
+   "title": "Her şey riskleri bulmakla başlar",
+   "bullets": [
+    "Tehlikeler belirlenir, riskler derecelendirilir",
+    "Çalışanlar ve temsilciler sürece katılır",
+    "Çok tehlikelide en geç 2 yılda bir yenilenir",
+    "Yeni makine, kaza ya da değişiklikte güncellenir"
+   ],
+   "steps": [
+    "Önlemlerin omurgası, risk değerlendirmesidir. Burada işyerindeki tehlikeler tek tek belirlenir, riskler derecelendirilir ve neyin önce yapılacağı sıralanır.",
+    "Bir şantiyede düşme, çarpma ve elektrik çarpması; bir pres atölyesinde el sıkışması ve gürültü; bir boya kabininde solunum ve yangın riski ilk akla gelenlerdir. Hepsi kâğıda geçirilir.",
+    "Bu çalışma sadece uzmanın işi değildir. İşveren, uzman, hekim, çalışan temsilcisi ve işi bilen çalışanlar birlikte yapar. Çünkü o makinenin nasıl tehlikeli olduğunu en iyi onunla çalışan bilir.",
+    "Risk değerlendirmesi çok tehlikeli işyerlerinde en geç iki yılda bir yenilenir. Ama bunu beklemeden; yeni bir makine alındığında, iş yöntemi değiştiğinde ya da bir kaza ve ramak kala olduğunda güncellenir.",
+    "Siz de kendi bölümünüzde bu değerlendirmeye bilgi verirsiniz. Tezgâhın yanındaki karanlık köşeyi, kayganlaşan zemini ve bozuk korkuluğu en iyi siz bilirsiniz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1768926968986-a88590ce5025?w=2400",
+   "kicker": "Alt işveren",
+   "title": "Taşeron çalışanı da aynı korumadadır",
+   "bullets": [
+    "Asıl işveren ve alt işveren birlikte sorumludur",
+    "Her işveren kendi çalışanını eğitir"
+   ],
+   "steps": [
+    "Şantiyelerde ve fabrikalarda çoğu zaman birden fazla firma birlikte çalışır. Taşeron çalışanı da aynı kanunla korunur.",
+    "Asıl işveren ile alt işveren, işyerinde alınan önlemlerden birlikte sorumludur. Elektrikçi firma, kalıpçı firma ve temizlik firması aynı sahada çalışıyorsa, kimin ne yaptığı ve birbirini nasıl etkilediği koordine edilmelidir.",
+    "Eğitim konusunda ise her işveren kendi çalışanını eğitmekle yükümlüdür. Asıl işveren, alt işveren çalışanlarının eğitim belgelerini kontrol eder. Siz de taşeron çalışanıysanız, belgenizi ve eğitim kayıtlarınızı saklayın."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1664662568348-24b1482b6354?w=2400",
+   "kicker": "Çalışanın görevleri",
+   "title": "Haklarınızın yanında yükümlülükleriniz de var",
+   "bullets": [
+    "Verilen eğitim ve talimata uymak",
+    "Koruyucu donanımı doğru kullanmak ve korumak",
+    "Makine ve ekipmanın koruyucularını sökmemek",
+    "Tehlikeyi derhal bildirmek"
+   ],
+   "steps": [
+    "Hakların bir de öbür yüzü var. Kanun çalışana da görev yükler, çünkü güvenlik ortak bir iştir.",
+    "Eğitimlere katılır, verilen talimata uyarsınız. Tehlikeli işlerde yazılı talimat da bu yükümlülüğün parçasıdır.",
+    "Kişisel koruyucu donanımı doğru kullanırsınız ve korursunuz. Baret takılmadan şantiyeye girmek, hem sizi hem işvereni hukuken zor durumda bırakır.",
+    "Makine ve tesisatın koruyucu cihazlarını sökmez, bozmaz ve keyfî olarak değiştirmezsiniz. İş hızlansın diye çıkarılan bir koruyucu, çoğu zaman parmak kaybıyla biter.",
+    "Ciddi ve yakın tehlikeyi, eksik tedbiri hemen işverene ya da çalışan temsilcisine bildirmek de görevinizdir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Kaza sonrası",
+   "title": "İş kazası olursa ne olur?",
+   "items": [
+    {
+     "title": "İlk müdahale",
+     "text": "Yaralıya yardım, alanın güvene alınması"
+    },
+    {
+     "title": "Bildirim",
+     "text": "SGK'ya 3 iş günü içinde"
+    },
+    {
+     "title": "İnceleme",
+     "text": "Kök neden araştırılır"
+    },
+    {
+     "title": "Önlem",
+     "text": "Tekrarını önleyecek düzeltme yapılır"
+    }
+   ],
+   "steps": [
+    "Tüm önlemlere rağmen bir kaza olursa süreç nasıl işler? Dört adımda özetleyelim. Bu adımları bilmek, panik anında doğru davranmanızı sağlar.",
+    "Önce ilk müdahale. Yaralıya yardım edilir, ambulans çağrılır ve tehlikeli alan güvene alınır. Makine durdurulur, enerji kesilir.",
+    "İkinci adım bildirim. İşveren, iş kazasını kazadan sonraki üç iş günü içinde Sosyal Güvenlik Kurumuna bildirir. Meslek hastalığı da öğrenildiği tarihten itibaren üç iş günü içinde bildirilir.",
+    "Üçüncü adım inceleme. Kazanın kök nedeni araştırılır. Amaç suçlu bulmak değil, tekrarını engellemektir.",
+    "Dördüncü adımda önlem alınır, risk değerlendirmesi güncellenir ve ilgili çalışanlar yeniden eğitilir. Böylece aynı kaza ikinci kez yaşanmaz."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1645736315000-6f788915923b?w=2400",
+   "kicker": "Bildirim süresi",
+   "value": "3 iş günü",
+   "title": "İş kazası, kazadan sonraki 3 iş günü içinde SGK'ya bildirilir",
+   "text": "Meslek hastalığı da hastalığın öğrenildiği tarihten itibaren 3 iş günü içinde bildirilir.",
+   "steps": [
+    "Bu süreyi aklınızda tutun: iş kazası, kazadan sonraki üç iş günü içinde Sosyal Güvenlik Kurumuna bildirilir. Hafif bir kaza olsa da bildirim gerekir.",
+    "Bir kaza gizlenirse, hem işçinin sigorta hakları zarar görür hem de işveren ağır yaptırımlarla karşılaşır. Kaza yaşadığınızda ya da tanık olduğunuzda bunu hemen amirinize söyleyin."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1694521787799-ad4ad241cb39?w=2400",
+   "kicker": "Denetim",
+   "title": "İş müfettişleri işyerini habersiz denetleyebilir",
+   "bullets": [
+    "Yetkili makam Çalışma ve Sosyal Güvenlik Bakanlığıdır",
+    "Müfettişler belge, kayıt ve çalışma ortamını inceler",
+    "Eksiklik varsa tutanak tutulur",
+    "İşyeri tehlikede ise iş durdurulabilir"
+   ],
+   "steps": [
+    "Kuralların uygulanıp uygulanmadığını kim kontrol eder? Çalışma ve Sosyal Güvenlik Bakanlığının iş müfettişleri.",
+    "İş müfettişi işyerine önceden haber vermeden gelebilir. Risk değerlendirmesini, eğitim kayıtlarını, sağlık raporlarını, makine bakımlarını ve çalışma ortamını inceler.",
+    "Eksiklik tespit ederse tutanak tutar ve işverene süre verir ya da idari para cezası uygular.",
+    "Müfettişle görüşme olursa, sorularına doğru ve açık cevap verin. Sizden gizlemenizi ya da yanlış söylemenizi isteyen olursa bunu çalışan temsilcinize bildirin.",
+    "Çalışanların hayatını yakın tehlikeye sokan bir durum varsa, ilgili bölümde ya da işyerinin tamamında işin durdurulmasına karar verilebilir. Bu durumda çalışanın ücret hakları saklıdır."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Yaptırımlar",
+   "title": "Kurallara uyulmazsa ne olur?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1694522362256-6c907336af43?w=1200",
+     "tag": "İdari",
+     "title": "Para cezası",
+     "text": "Her yıl yeniden değerleme oranında güncellenen idari para cezaları"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1643704169438-efd6d5707214?w=1200",
+     "tag": "İdari",
+     "title": "İşin durdurulması",
+     "text": "Hayati tehlike varsa iş ya da işyeri durdurulabilir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1618771623063-6c3faa854a61?w=1200",
+     "tag": "Cezai",
+     "title": "Hukuki sorumluluk",
+     "text": "Kaza durumunda tazminat ve ceza davaları gündeme gelir"
+    }
+   ],
+   "steps": [
+    "Kurallar yaptırımla desteklenir. Yaptırımın amacı ceza kesmek değil, önlemlerin alınmasını sağlamaktır.",
+    "Birincisi idari para cezası. Tutarlar her yıl yeniden değerleme oranıyla arttığı için burada rakam vermiyorum, ama kalem kalem tanımlıdır: eğitim vermemek, risk değerlendirmesi yapmamak ve benzeri.",
+    "İkincisi, işin ya da işyerinin durdurulması. Bu, bir çalışan için de hayati bir korumadır, çünkü tehlike giderilmeden çalışılmaz.",
+    "Üçüncüsü hukuki sorumluluk. Bir kaza olursa taksirle yaralama ya da ölüme neden olma suçları, tazminat davaları ve rücu hakkı gündeme gelebilir. Yani ihmalin bedeli ağırdır."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1758270704925-fa59d93119c1?w=2400",
+   "kicker": "Yeni yönetmelik",
+   "value": "02.04.2026",
+   "title": "Çalışanların İSG Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik yayımlandı",
+   "text": "Resmî Gazete 33212 sayılı yönetmelik, 2013 tarihli eski eğitim yönetmeliğinin yerini aldı.",
+   "steps": [
+    "Şimdi sizi doğrudan ilgilendiren yeni bir kurala bakalım. 2 Nisan 2026 tarihli ve 33212 sayılı Resmî Gazete'de Çalışanların İSG Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik yayımlandı.",
+    "2013 tarihli eski eğitim yönetmeliği artık yürürlükten kalktı. Yani bugün alacağınız eğitimin kuralları bu yeni yönetmelikten gelir."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Sizin için",
+   "title": "Tehlikeli ve çok tehlikeli işyerinde eğitim",
+   "items": [
+    {
+     "value": "2",
+     "unit": "saat",
+     "label": "işe başlama eğitimi, işe başlamadan önce yüz yüze"
+    },
+    {
+     "value": "3",
+     "unit": "ay",
+     "label": "temel eğitim işe başladıktan sonra en geç"
+    },
+    {
+     "value": "12",
+     "unit": "saat",
+     "label": "tehlikeli: temel eğitim, 2 yılda bir en az 8 saat tekrar"
+    },
+    {
+     "value": "16",
+     "unit": "saat",
+     "label": "çok tehlikeli: temel eğitim, yılda bir en az 8 saat tekrar"
+    }
+   ],
+   "steps": [
+    "Yeni yönetmeliğin sizi ilgilendiren yanlarını özetleyelim. Dört sayıyı aklınızda tutmanız yeterli.",
+    "Önce işe başlama eğitimi: fiilen çalışmaya başlamadan önce, en az 2 ders saati ve yüz yüze verilir.",
+    "Temel eğitim ise işe başladıktan sonra en geç 3 ay içinde tamamlanır.",
+    "Tehlikeli işyerlerinde temel eğitim en az 12 ders saatidir ve en az 2 yılda bir tekrarlanır.",
+    "Çok tehlikeli işyerlerinde en az 16 ders saatidir ve her yıl tekrarlanır. Tekrar eğitimi her iki grupta da en az 8 ders saatidir. Bir ders saati 45 dakika ders ve 15 dakika aradan oluşur."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1758270704286-83476deb3bd1?w=2400",
+   "kicker": "Önemli ayrıntı",
+   "title": "Bu online derste işyerinize özgü riskler yoktur",
+   "bullets": [
+    "Eğitim dört konu başlığında verilir",
+    "İlk üç başlık uzaktan, yüz yüze ya da karma olabilir",
+    "4. başlık işe ve işyerine özgü risklerdir",
+    "Tehlikeli ve çok tehlikeli işyerinde 4. başlık yüz yüze verilir"
+   ],
+   "steps": [
+    "Bir ayrıntıyı özellikle belirtmek istiyorum. Temel eğitim dört konu başlığında verilir: genel konular, sağlık konuları, teknik konular ve işe ve işyerine özgü riskler.",
+    "İlk üç başlık, uzaktan eğitimle, yüz yüze ya da karma olarak verilebilir. Şu anda izlediğiniz bu ders de genel konulardan biridir.",
+    "Dördüncü başlık, yani işinizin ve işyerinizin kendine has riskleri, tehlikeli ve çok tehlikeli işyerlerinde yüz yüze verilmek zorundadır.",
+    "Yani kendi atölyenizdeki makineleri, şantiyenizin özel risklerini ve acil çıkış yollarını işyerinizin uzmanıyla birlikte konuşacaksınız. Bu online dersler, o yüz yüze eğitimin hazırlığıdır.",
+    "Eğitimde geçen sürenin çalışma süresinden sayıldığını, maliyetin çalışana yansıtılamayacağını da hatırlatayım."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1758270705031-ebd46917a454?w=2400",
+   "kicker": "Örnek olay 3",
+   "title": "Yeni başlayan çırak ve ilk gün",
+   "bullets": [
+    "Önce eğit, sonra başlat",
+    "İşe başlama eğitimi tutanakla kaydedilir"
+   ],
+   "steps": [
+    "Son örnek olay. Bir mobilya atölyesinde yeni başlayan çırak Emre, ilk gün hemen şerit testerenin başına verilir. Usta, çok işimiz var, zamanla öğrenir, der.",
+    "Oysa kurallara göre Emre, fiilen çalışmaya başlamadan önce en az iki saatlik, yüz yüze işe başlama eğitimi almalıdır. Makinenin tehlikeleri, koruyucuları ve acil durdurma düğmesi bu eğitimde anlatılır.",
+    "Doğru senaryoda Selin amir, Emre'ye önce atölyeyi gezdirir, talimatları anlatır ve eğitimi tutanağa bağlar. Emre ilk haftasını gözetim altında çalışarak geçirir. İş kazası riski ciddi biçimde düşer. Hız, güvenliğin önüne geçmemelidir. İşinize yeni başlayan biri görürseniz ona nazik davranın ve kuralları gösterin. İyi bir ekip, yeni gelenin de güvenliğini üstlenir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1768158988512-ad31657fe5b8?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Ana kanun 6331 sayılı İş Sağlığı ve Güvenliği Kanunudur",
+    "Sınıfı yapılan asıl işin NACE kodu belirler",
+    "Tehlikeli: 12 saat ve 2 yılda bir, çok tehlikeli: 16 saat ve yılda bir",
+    "İşveren, uzman, hekim, temsilci ve kurul birlikte çalışır",
+    "Kaza 3 iş günü içinde SGK'ya bildirilir"
+   ],
+   "steps": [
+    "Dersin sonuna geldik. Kısa bir toparlama yapalım.",
+    "İş sağlığı ve güvenliğinin ana kanunu 6331 sayılı Kanundur ve hemen hemen her işyerini kapsar.",
+    "Tehlike sınıfını yapılan asıl işin NACE kodu belirler. Tehlikeli işyerlerinde temel eğitim en az 12 ders saati ve 2 yılda bir, çok tehlikeli işyerlerinde en az 16 ders saati ve her yıl tekrarlanır.",
+    "İşveren görevli, uzman, hekim, çalışan temsilcisi ve kurul ona yardım eder.",
+    "Siz de eğitime uyar, koruyucu donanımı kullanır ve tehlikeyi bildirirsiniz.",
+    "Kaza olursa üç iş günü içinde SGK'ya bildirilir. Sorularda yanlış yapmaktan korkmayın, amaç sizi sınamak değil, önemli noktaları pekiştirmek. Dersin sonunda birkaç kısa soru sizi bekliyor. Bu derste anlattıklarımızı hatırlarsanız rahatlıkla cevaplarsınız. Emniyetli çalışmalar dilerim."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,578 @@
+{
+ "code": "tc_g8",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "1. Bölüm · Genel Konular",
+ "title": "İş kazası ve meslek hastalığından doğan hukuki sonuçlar (2): örnek olay incelemeleri",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1636362006544-22445420703f?w=2400",
+   "kicker": "1. Bölüm · Ders 8",
+   "title": "İş kazası ve meslek hastalığından doğan hukuki sonuçlar (2)",
+   "subtitle": "Tehlikeli işlerden örnek olay incelemeleri",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bir önceki hukuki sonuçlar dersinde iş kazasının tanımını, bildirimleri ve sorumluluk türlerini konuştuk. Bu derste ise sahaya iniyoruz.",
+    "Yüksekten düşme, makineye kapılma ve forklift kazaları; tehlikeli ve çok tehlikeli işyerlerinin en sık ve en ağır sonuç doğuran kazaları. Üç örnek olay üzerinden, kusurun nasıl düşünüldüğünü, kaza sonrası neler yapılması gerektiğini ve bildirimin neden bu kadar önemli olduğunu göreceğiz. Anlatılan olaylar gerçekçi ama temsilidir; hiçbiri gerçek bir kişiyi anlatmaz."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Kaza sonrası sorumluluk",
+     "text": "İdari, cezai ve hukuki sonuçlar"
+    },
+    {
+     "title": "Kusur nasıl düşünülür",
+     "text": "Kimin hangi önlemi almadığına bakmak"
+    },
+    {
+     "title": "Üç örnek olay",
+     "text": "Düşme, makineye kapılma, forklift"
+    },
+    {
+     "title": "Doğru davranış",
+     "text": "Kaza sonrası ilk dakikalar ve deliller"
+    },
+    {
+     "title": "Bildirimin önemi",
+     "text": "Kaza ve ramak kala kaydı"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Bu ders beş adımda ilerleyecek.",
+    "İlk adımda, bir iş kazasından sonra hangi hukuki sonuçların doğabileceğini kısaca hatırlayacağız.",
+    "İkinci adımda kusurun ne olduğunu ve kimin ne kadar kusurlu sayılabileceğini nasıl düşünmemiz gerektiğini konuşacağız.",
+    "Üçüncü adımda yüksekten düşme, makineye kapılma ve forklift örnek olaylarını inceleyeceğiz.",
+    "Dördüncü adımda, kaza sonrası doğru davranışı ve delillerin korunmasını göreceğiz.",
+    "Beşinci ve son adımda kaza ve ramak kala olay bildiriminin neden hayati olduğunu konuşacağız."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Hatırlatma",
+   "title": "Bir iş kazasından sonra üç sorumluluk alanı",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1781157080615-ffde66c035a5?w=1200",
+     "title": "İdari",
+     "text": "İş müfettişleri denetler, idari para cezası ve gerektiğinde iş durdurma gündeme gelir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=1200",
+     "title": "Cezai",
+     "text": "Taksirle yaralama ya da ölüme neden olma suçları için savcılık soruşturması açılabilir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1689942010216-dc412bb1e7a9?w=1200",
+     "title": "Hukuki",
+     "text": "Kazazedeye ve yakınlarına tazminat; SGK'nın yaptığı ödemeler için rücu davası olabilir"
+    }
+   ],
+   "steps": [
+    "Önce önceki dersten bir hatırlatma yapalım. Bir iş kazasından sonra işyeri için üç farklı sorumluluk alanı doğabilir.",
+    "Birincisi idari sorumluluk. Çalışma ve Sosyal Güvenlik Bakanlığının iş müfettişleri inceleme yapar; aykırılık varsa idari para cezası uygulanır, hayati tehlike varsa işin durdurulması gündeme gelir.",
+    "İkincisi cezai sorumluluk. Kaza sonucu bir kişi yaralanır ya da ölürse, taksirle yaralama ya da ölüme neden olma suçlarından savcılık soruşturması başlatılabilir. Bu suçlar Türk Ceza Kanununda düzenlenmiştir.",
+    "Üçüncüsü hukuki sorumluluk. Kazazede ve yakınları, maddi ve manevi tazminat isteyebilir. SGK da yaptığı ödemeler için, koşulları varsa, kusurlu olanlara rücu edebilir. Bu üç alan birbirinden bağımsızdır; biri diğerini ortadan kaldırmaz. Örneğin cezai soruşturmanın sonuçlanması, tazminat davasının açılmasına engel olmaz.",
+    "Bu nedenle bir kazadan sonra işyeri çoğu zaman aynı anda hem müfettiş hem savcılık hem de sigorta süreçleriyle uğraşır. Kayıtların düzenli olması bu yüzden çok değerlidir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1672954766589-49f0dd0e106f?w=2400",
+   "kicker": "Kusur",
+   "title": "Kusur ne demektir, nasıl belirlenir?",
+   "bullets": [
+    "Gerekli özeni ve önlemi göstermemek, kusurdur",
+    "Mahkeme, uzman bilirkişilerden rapor ister",
+    "Kusur, tek kişiye değil, zincire bakılarak belirlenir",
+    "Kusur oranı, tazminat ve cezayı etkiler"
+   ],
+   "steps": [
+    "Üç örnek olaya geçmeden önce, hukukçuların kazalara nasıl baktığını anlayalım. Kilit kavram, kusur.",
+    "Kusur, kısaca, gerekli özeni ve önlemi göstermemektir. Bir tehlikeyi bilen ya da bilmesi gereken kişi, onu önlemek için makul adımları atmadıysa kusurludur.",
+    "Bir kaza davasında hâkim, kazanın nedenini ve kimin hangi önlemi almadığını anlayabilmek için çoğunlukla iş güvenliği uzmanı ve benzeri uzman kişilerden bilirkişi raporu alır. Bilirkişi, işyerindeki kayıtları, eğitim belgelerini, risk değerlendirmesini ve olay yerini inceler.",
+    "Önemli olan, kusurun tek bir kişiye değil, olaya yol açan zincire bakılarak belirlenmesidir. İşveren, amir, çalışan, hatta üçüncü bir kişi ya da ekipmanı üreten firma, farklı oranlarda sorumlu olabilir.",
+    "Belirlenen kusur oranı da önemlidir; çünkü hem tazminatın miktarını hem de cezai sorumluluğu etkiler. Bu yüzden kaza sonrası kayıtlar ve delillerle doğru bilgi vermek herkesin yararınadır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Kusuru değerlendirirken",
+   "title": "Bilirkişinin sorduğu temel sorular",
+   "items": [
+    {
+     "title": "Tehlike belliydi mi?",
+     "text": "Risk değerlendirmesinde yer alıyor muydu"
+    },
+    {
+     "title": "Önlem alındı mı?",
+     "text": "Korkuluk, koruyucu, prosedür var mıydı"
+    },
+    {
+     "title": "Eğitim verildi mi?",
+     "text": "İlgili çalışan eğitilmiş ve yetkilendirilmiş miydi"
+    },
+    {
+     "title": "Denetim yapıldı mı?",
+     "text": "Talimatlara uyulması izlendi mi"
+    },
+    {
+     "title": "Çalışan ne yaptı?",
+     "text": "Verilen talimata uydu mu"
+    }
+   ],
+   "steps": [
+    "Bilirkişi ve hâkim kaza sonrası aşağı yukarı aynı soruları sorar. Bu soruları bilmek, sizi sahada nasıl davranmanız gerektiği konusunda da yönlendirir.",
+    "Birincisi, tehlike belli miydi? Yüksekte çalışma ya da makineye kapılma gibi riskler, işyerinin risk değerlendirmesinde yer alıyor muydu?",
+    "İkincisi, önlem alınmış mıydı? Korkuluk, makine koruyucusu, yazılı çalışma yöntemi ya da yaya yolu gibi önlemler var mıydı ve çalışır durumda mıydı?",
+    "Üçüncüsü, çalışan eğitilmiş ve o iş için yetkilendirilmiş miydi? Forklift kullanan kişinin belgesi ve işyerinde verilmiş yetkisi var mıydı?",
+    "Dördüncüsü, denetim yapılmış mıydı? Talimat yazıp bırakmak yetmez; uygulanıp uygulanmadığının izlenmesi gerekir.",
+    "Beşincisi, çalışan kendisine verilen talimata uymuş muydu? Bu soru çalışanı ilgilendirir; ama diğer dört sorunun cevabı yoksa çalışanın hatası tek başına sorumluluğu kaldırmaz."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1530639834082-05bafb67fbbe?w=2400",
+   "kicker": "Kanun der ki",
+   "value": "Madde 4",
+   "title": "Çalışanların yükümlülükleri, işverenin sorumluluklarını etkilemez",
+   "text": "6331 sayılı Kanun'a göre çalışanın dikkatsizliği ya da hatası, işverenin önlem alma yükümlülüğünü ortadan kaldırmaz.",
+   "steps": [
+    "Kusur konusunda çok önemli bir ilke var. 6331 sayılı Kanunun işverenin genel yükümlülüğünü anlatan maddesi şöyle der: çalışanların iş sağlığı ve güvenliği alanındaki yükümlülükleri, işverenin sorumluluklarını etkilemez.",
+    "Bunun anlamı şu: Çalışan hata yaptı diye işveren sorumluluktan kurtulmaz. İşveren, yapılabilecek hataları öngörmek ve buna karşı önlem almakla yükümlüdür. İnsan hata yapar; sistem, bu hatanın ağır sonuç doğurmasını engellemelidir.",
+    "Ancak tersi de doğrudur. Çalışan, aldığı eğitime ve talimata aykırı davranır, koruyucuyu devre dışı bırakır ya da KKD'yi kullanmazsa, kendi kusuru da hesaba katılır. Kazanın tazminat yönü bu durumda etkilenebilir. Kısacası kusur, genelde paylaşılır.",
+    "Bu nedenle sahada şunu aklınızda tutun: güvenli olmayan bir talimat aldığınızda, sorgulamak ve gerekirse durmak, sizi hem kazadan hem de kusur tartışmasından korur."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1563166423-a78566af3dbe?w=2400",
+   "kicker": "Örnek olay 1 · Yüksekten düşme",
+   "title": "Çatıda çalışan kalıp ekibi",
+   "bullets": [
+    "Kenar korkuluğu yarım bırakılmıştı",
+    "Kemer vardı ama bağlanacak ankraj yoktu",
+    "İşin başında risk konuşulmamıştı"
+   ],
+   "steps": [
+    "İlk örnek olayımız yüksekten düşme. Çok tehlikeli sınıftaki bir şantiyede, dördüncü kat döşeme kalıbı üzerinde çalışan ekip, akşama kadar işi yetiştirmeye çalışıyor. Kenarlardaki korkuluk bir yandan yarım, diğer yandan yok.",
+    "Kalıpçı Kemal'in emniyet kemeri takılı, ancak bağlanabileceği bir ankraj noktası yok. Ustabaşı 'iki dakikalık iş, kemeri takma, kolaylık olsun' diyor. Kemal kenara yaklaşırken dengesini kaybediyor ve yere düşüyor. Ağır yaralanıyor ve uzun süre tedavi görüyor.",
+    "Peki kazadan sonra kim, hangi açıdan sorgulanır? İşveren, korkuluğu ve ankraj noktalarını sağlamadığı ve işin başında riski konuşmadığı için. Ustabaşı, kemer kullanmama konusunda yanlış yönlendirme yaptığı için. Kemal de talimatı sorgulamadan kenarda çalıştığı için bir miktar kusurlu bulunabilir.",
+    "Ama burada belirleyici olan şudur: korkuluk ve ankraj gibi toplu önlemler işverenin yükümlülüğüdür. Kemal 'kemer takma' talimatına uymasa da, ortada hiç önlem olmaması, işverenin kusurunu çok ağırlaştırır. Bu yüzden böyle bir durumda 'hayır, önlem yoksa çalışmam' diyebilmek hem hakkınız hem de en güvenli yoldur."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Yüksekte çalışma",
+   "title": "Düşme riskini yönetmek",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1636362006544-22445420703f?w=1200",
+     "ok": false,
+     "title": "Önlemsiz çalışmak",
+     "text": "Korkuluk ve ankraj olmadan 'hızlıca' kenarda çalışmaya kalkmak."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1575230167650-dce335edc7f4?w=1200",
+     "ok": true,
+     "title": "Önce önlem, sonra iş",
+     "text": "Korkuluk, iskele ve ankraj noktası tamam olmadan yüksekte iş başlatmamak."
+    }
+   ],
+   "steps": [
+    "Yüksekten düşme kazalarında ders, çok basit bir sıralamada gizlidir.",
+    "Yanlış olan, 'iki dakikalık iş' diyerek önlemleri atlamaktır. Ağır düşme kazalarının çoğu, kısa süreli ve plansız işlerde yaşanır.",
+    "Doğru olan, önce toplu korunma sağlamaktır: korkuluk, güvenli iskele, ağ ve yaşam hattı. Bunlar mümkün değilse emniyet kemeri bir ankraj noktasına bağlanarak kullanılır. Kemer tek başına bir çözüm değildir; önce bağlanabileceğiniz sağlam bir nokta olmalıdır. Bunlar yoksa, iş başlamaz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1760161306014-e2dcc13cbdf8?w=2400",
+   "kicker": "Cezai sorumluluk",
+   "title": "Cezai sorumluluk kime yüklenir?",
+   "bullets": [
+    "Cezai sorumluluk şahsidir, kusuru olan herkes sorgulanır",
+    "İşveren ve yetkili amirler önlem görevinden sorgulanır",
+    "Operatör ve çalışanlar da kendi ihmalinden sorgulanabilir",
+    "Taksir, dikkat ve özen yükümlülüğüne aykırılıktır"
+   ],
+   "steps": [
+    "Cezai sorumluluk konusunu biraz açalım. Çünkü pek çok çalışan, 'ceza yalnızca patrona kesilir' diye düşünür.",
+    "Ceza hukukunda sorumluluk şahsidir. Yani herkes yalnızca kendi kusurundan sorumlu tutulur; ama kusuru olan herkes sorgulanabilir.",
+    "İşveren ve yetkili amirler, gerekli önlemleri almadıkları ve işi denetlemedikleri için sorgulanır. Bu kişiler arasında şantiye şefi, vardiya amiri ya da bakım sorumlusu gibi görev ve yetki sahibi kişiler de olabilir.",
+    "Çalışanlar da kendi ihmalleri yüzünden sorgulanabilir. Örneğin yetkisi olmadığı halde forklift kullanan ya da koruyucuyu söküp bir iş arkadaşını yaralayan çalışan, taksirle yaralamadan yargılanabilir.",
+    "Hukukta taksir, dikkat ve özen yükümlülüğüne aykırı davranarak sonucu öngörmeden bir zarara neden olmaktır. Amaç bu ağır sonuçlarla karşılaşmamak için, işin başında güvenlik kurallarını ciddiye almaktır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1598299803204-b73796f43289?w=2400",
+   "kicker": "Örnek olay 2 · Makineye kapılma",
+   "title": "Pres atölyesinde bir sabah",
+   "bullets": [
+    "Koruyucu kapak bakımdan sonra takılmamıştı",
+    "Operatör, hatalı parçayı çalışırken aldı",
+    "Acil durdurma uzak ve engellenmişti"
+   ],
+   "steps": [
+    "İkinci örnek olayımız bir metal atölyesinden. Pres makinesinin ön koruyucu kapağı, bakım sırasında sökülmüş ve bir daha yerine takılmamış. Vardiya amiri Selin bunu görüyor ama yoğunluk nedeniyle 'sonra takarız' diyor.",
+    "Operatör Ahmet, hatalı çıkan bir parçayı makine çalışırken almaya çalışıyor. Eli, kalıbın hareket alanına giriyor ve ağır bir yaralanma oluyor. Acil durdurma düğmesi ise makinenin arkasında, malzeme yığınının arkasında kalmış.",
+    "Burada çok sayıda kusur zinciri var. Koruyucuyu geri takmayan bakım ekibi ve bunu yerinde bırakan amir, makineyi güvensiz halde çalıştırmış olur. Malzemeyi acil durdurmanın önüne yığan ya da yığılmasına izin veren işveren, düzen yükümlülüğünü yerine getirmemiş sayılır.",
+    "Ahmet'in kusuru da tartışılır: makine çalışırken elini kalıp alanına sokmuş. Ama koruyucu olsaydı, bu hareket mümkün olmayacaktı. Bu nedenle bilirkişi, ağırlıklı kusuru koruyucuyu devre dışı bırakan ve izin veren taraflara yükleyecektir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1564183063457-680b3759a5bd?w=2400",
+   "kicker": "Makineye kapılma",
+   "title": "Bu olaydan çıkaracağımız dersler",
+   "bullets": [
+    "Koruyucu kapak yerinde değilken makine çalıştırılmaz",
+    "Koruyucu, bakım sonrası kontrol edilerek geri takılır",
+    "Çalışırken makineye el sokulmaz; önce durdurun",
+    "Acil durdurma her zaman erişilebilir olmalıdır"
+   ],
+   "steps": [
+    "Bu olaydan sahada uygulayabileceğimiz dersleri çıkaralım.",
+    "Birincisi, koruyucu kapak, kafes ya da ışık perdesi yerinde değilken makine çalıştırılmaz. Çalışan olarak, koruyucusu eksik bir makineyi kullanmayı reddetmek hakkınızdır; hatta görevinizdir.",
+    "İkincisi, bakım ya da ayar sırasında sökülen her koruyucu, iş bittiğinde kontrol edilerek yerine takılır. Bunun için bakım sonrası bir kontrol listesi kullanmak çok işe yarar.",
+    "Üçüncüsü, çalışan bir makineye hiçbir koşulda el sokulmaz. Hatalı parça, sıkışma ya da temizlik için önce makineyi durdurun, enerjisini kesin ve ancak sonra müdahale edin. Bunun ayrıntılarını teknik derslerde göreceğiz.",
+    "Dördüncüsü, acil durdurma düğmelerinin önünün her an açık ve ulaşılabilir olması. Düğmenin önüne bir şey koymak, kaza anında saniyeleri çalar."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1620388640785-892616248ec8?w=2400",
+   "kicker": "Kanun der ki",
+   "value": "Madde 19",
+   "title": "Çalışanlar güvenlik donanımlarını sökemez, devre dışı bırakamaz, değiştiremez",
+   "text": "6331 sayılı Kanun'a göre makine ve tesislerdeki güvenlik donanımlarının doğru kullanılması çalışanın yükümlülüğüdür.",
+   "steps": [
+    "Bu olayda çalışanın yükümlülüğünü de görmemiz gerekiyor. 6331 sayılı Kanunun çalışanların yükümlülüklerini anlatan maddesine göre, çalışanlar makine, cihaz, alet, tehlikeli madde ve ekipmanı doğru kullanmak zorundadır.",
+    "Aynı madde, güvenlik donanımlarını da kapsar. Çalışan, kendisine sağlanan güvenlik donanımlarını izinsiz olarak çıkarmamak, devre dışı bırakmamak ya da değiştirmemekle yükümlüdür. Yani bir koruyucuyu 'işi hızlandırmak için' sökmek, çalışanı da kusurlu hale getirir.",
+    "Bir de kişisel koruyucu donanımı doğru kullanmak ve korumak çalışanın görevidir. Bu hükümler, kazada çalışanın kusurunun değerlendirilmesinde bilirkişinin dayandığı temel hükümlerdir. O yüzden 'bir kez olsun' diye koruyucu sökmek, çok pahalı bir alışkanlıktır.",
+    "Eğer bir koruyucunun işi yavaşlattığını düşünüyorsanız, bunu amirinize söyleyin. Çoğu zaman, daha pratik ama güvenli bir çözüm bulmak mümkündür; ama bu karar, tek başına sizin vereceğiniz bir karar değildir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1614127938540-a1139bee1841?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar neler öğrendik",
+   "bullets": [
+    "Kaza sonrası idari, cezai ve hukuki sorumluluk ayrı ayrı doğabilir",
+    "Kusur tek kişiye değil, kazaya yol açan zincire bakılarak belirlenir",
+    "Çalışanın hatası, işverenin önlem alma görevini ortadan kaldırmaz",
+    "Koruyucuyu devre dışı bırakmak çalışanı da kusurlu kılar"
+   ],
+   "steps": [
+    "Dersin yarısına geldik. Kısa bir özet yapalım.",
+    "Bir iş kazasından sonra idari, cezai ve hukuki sorumluluk ayrı ayrı gündeme gelebilir. Biri diğerinin yerini tutmaz.",
+    "Kusur, tek bir kişiye değil, kazaya yol açan zincire bakılarak belirlenir. Bilirkişi, tehlikenin belli olup olmadığını, önlem alınıp alınmadığını, eğitim ve denetimin yapılıp yapılmadığını ve çalışanın talimata uyup uymadığını inceler.",
+    "Çalışanın hatası işverenin yükümlülüğünü ortadan kaldırmaz; ama çalışanın güvenlik donanımını devre dışı bırakması gibi davranışlar kendi kusurunu da doğurur.",
+    "Şimdi üçüncü örnek olayla devam edelim: forklift."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1645736315000-6f788915923b?w=2400",
+   "kicker": "Örnek olay 3 · Forklift",
+   "title": "Depoda yaya ile forklift karşılaşması",
+   "bullets": [
+    "Yaya yolu ve araç yolu ayrılmamıştı",
+    "Operatör köşede korna çalmadı",
+    "Yaya geçiş noktasında gözcü yoktu"
+   ],
+   "steps": [
+    "Üçüncü örnek olayımız bir lojistik depodan. Depoda forklift ve yayalar aynı koridoru kullanıyor; yaya yolu boyayla bile ayrılmamış. Yoğun sevkiyat saatinde forklift operatörü Murat, yüklü paletle hızlıca ilerliyor.",
+    "Koridorun köşesinde, ambalaj hazırlayan çalışan Fatma, paletin arkasından çıkıyor. Murat'ın görüşü yüksek yük nedeniyle engelli. Forklift, Fatma'ya çarpıyor ve Fatma ayağından ağır yaralanıyor.",
+    "Kusur zincirine bakalım. İşveren: yaya ve araç yollarını ayırmadı, hız sınırı koymadı, kritik köşelerde ayna ya da uyarı sistemi kurmadı. Operatör: yüksek yükle, görüşü kapalı ve hızlı ilerledi, köşede korna çalmadı. Fatma da dikkatsizce araç yoluna çıkmış olabilir.",
+    "Ama bilirkişi büyük ihtimalle ağırlığı işverenin düzen eksikliğine ve operatörün tedbirsizliğine verir. Çünkü yaya yolu, ayna ve hız sınırı gibi basit önlemler bu kazayı büyük olasılıkla önlerdi. Hem operatörler hem yayalar için ders çok net: forklift olan yerde, herkes kendi kuralıyla değil ortak kurallarla hareket eder."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1620388640785-892616248ec8?w=2400",
+   "kicker": "Forklift güvenliği",
+   "title": "Kazayı önleyen basit kurallar",
+   "bullets": [
+    "Yaya yolu ve araç yolu ayrılmalıdır",
+    "Operatörün belgesi ve yetkisi olmalıdır",
+    "Yük, görüşü kapatacak şekilde taşınmaz",
+    "Köşelerde yavaşlanır ve korna çalınır"
+   ],
+   "steps": [
+    "Forklift kazalarının önüne geçmek için çok pahalı bir çözüm gerekmiyor. Basit ama kesin kurallar yeter.",
+    "Birincisi, yaya ve araç yolunun ayrılması. Zemine çizgi çekmek, bariyer koymak ya da yaya geçiş noktaları belirlemek, çok sayıda kazayı önler.",
+    "İkincisi, operatörün belgesi ve işyeri tarafından verilmiş yetkisi olmalı. Forklift ehliyeti, mesleki yeterlilik belgesi ve işyerinde yetki bir arada aranır. Bunlar yoksa o aracı kullanmayın ve kullandırmayın.",
+    "Üçüncüsü, yük görüşü kapatıyorsa araç geri geri gider ya da yanına yardımcı bir kişi alır. Görmediğiniz yere ilerlemeyin.",
+    "Dördüncüsü, köşelerde yavaşlamak ve korna çalmak. Yayaların da araç yoluna girmeden önce göz teması kurmasını ve operatörün sizi gördüğünden emin olmasını öğrenin."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1770822662868-4a612845fcdd?w=2400",
+   "kicker": "Bildirim",
+   "value": "3 iş günü",
+   "title": "İş kazaları, kazadan sonraki 3 iş günü içinde SGK'ya bildirilir",
+   "text": "Bildirim yükümlülüğü işverene aittir. Kaza ve ramak kala olayları işyerinde ayrıca kayıt altına alınır ve incelenir.",
+   "steps": [
+    "Şimdi kaza sonrası sürece bakalım. İlk ve en bilinen kural bildirim süresidir. 6331 sayılı Kanuna göre işveren, iş kazalarını kazadan sonraki üç iş günü içinde SGK'ya bildirmek zorundadır.",
+    "Bildirim yükümlülüğü işverene aittir. Ancak işverenin bilmediği bir kaza bildirilemez. Bu nedenle çalışanın, kazayı ya da yaralanmayı hemen amirine haber vermesi, kendi hakkı için de çok önemlidir.",
+    "Bunun yanında kanun, işverenin iş kazalarını ve meslek hastalıklarını kayıt altına almasını, gerekli incelemeleri yapıp bunlarla ilgili rapor düzenlemesini ister. Yani bildirim, sadece SGK'ya bir form göndermekten ibaret değildir; kazanın nedenini bulup tekrarını önleme işidir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Kaza sonrası",
+   "title": "İlk dakikalardan sonrasına doğru davranış",
+   "items": [
+    {
+     "title": "Güvenliği sağla",
+     "text": "Makineyi durdur, enerjiyi kes, alanı güvene al"
+    },
+    {
+     "title": "Yardım çağır",
+     "text": "112 ve ilk yardımcı; kazazedeyi gereksiz hareket ettirme"
+    },
+    {
+     "title": "Amire bildir",
+     "text": "Olayı hemen işverene ya da yetkiliye haber ver"
+    },
+    {
+     "title": "Alanı koru",
+     "text": "Delilleri bozma, gerektiğinde alanı şeritle çevir"
+    },
+    {
+     "title": "Kaydet ve anlat",
+     "text": "Gördüklerini tarafsızca, olduğu gibi aktar"
+    }
+   ],
+   "steps": [
+    "Peki kaza olduğunda sırayla ne yapılmalı? Beş adımlık bir yol izleyelim.",
+    "Birinci adım güvenliği sağlamak. Makine çalışıyorsa durdurun, enerjiyi kesin ve alanı başka kazalara karşı güvene alın. Bir kurtarıcı olmak isterken ikinci bir kazazede olmayın.",
+    "İkinci adım yardım çağırmak. 112'yi arayın, işyerinde ilk yardımcı varsa çağırın. Kazazedeyi, omurga ya da kırık şüphesi varsa, gereksiz hareket ettirmeyin.",
+    "Üçüncü adım, olayı hemen işverene ya da yetkili amire bildirmek. Bildirim gecikirse hem yardım gecikir hem de kaza kayıtları eksik kalır.",
+    "Dördüncü adım alanı korumak. Mümkünse kaza yerine ve ekipmana ilk haliyle dokunulmaz; gerekirse alan şeritle çevrilir. Böylece kazanın nedeni anlaşılabilir.",
+    "Beşinci adım gördüklerinizi kaydetmek ve anlatmak. Olanları olduğu gibi, tahmin ya da suçlama katmadan aktarın."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Kaza sonrası görevler",
+   "title": "Kim ne yapar?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1760161306014-e2dcc13cbdf8?w=1200",
+     "title": "Çalışan / tanık",
+     "text": "Gördüğünü doğru ve eksiksiz anlatır, yardım çağırır, alana müdahale etmez"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1628147529780-36964fbb8d54?w=1200",
+     "title": "Amir",
+     "text": "Yardımı organize eder, alanı korur, işvereni ve İSG profesyonellerini bilgilendirir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1786550765584-b2cd482610e8?w=1200",
+     "title": "İşveren",
+     "text": "SGK'ya bildirir, kaza incelemesini yapar, önlemleri yeniler"
+    }
+   ],
+   "steps": [
+    "Kaza sonrasında herkesin işi farklıdır. Rolleri karıştırmamak önemli.",
+    "Çalışan ya da tanık olarak göreviniz, yardım çağırmak ve gördüğünüzü doğru ve eksiksiz anlatmaktır. Gerçeği sakladığınızda ya da saptırdığınızda hem kazazedeye hem tekrar yaşanacak kazalara zarar verirsiniz.",
+    "Amir, yardımı organize eder, alanı korur ve işvereni, iş güvenliği uzmanını ve işyeri hekimini bilgilendirir. Ayrıca tanıkların ifadesini kaydettirir.",
+    "İşveren ise SGK bildirimini yapar, kazayı inceletir ve tekrarını önlemek için gerekli önlemleri alır. Gerekirse risk değerlendirmesini de yeniler; bunu önceki derslerde hatırlayacaksınız."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1557075831-9227ec7d0097?w=2400",
+   "kicker": "Delillerin korunması",
+   "title": "Kaza yeri bir delildir",
+   "bullets": [
+    "Ekipmanın konumu ve durumu önemlidir",
+    "Fotoğraf, kayıt ve tanık bilgisi alınır",
+    "Alan, inceleme bitene dek korunur"
+   ],
+   "steps": [
+    "Şimdi çok kritik bir konuya, delillerin korunmasına gelelim. Kaza yeri, sessiz bir tanıktır.",
+    "Ekipmanın konumu, koruyucunun durumu, zeminin hali ve bırakılan alet, kazanın nasıl oluştuğunu gösteren en önemli işaretlerdir. Bunları erken müdahaleyle bozarsanız, kazanın gerçek nedeni anlaşılamayabilir.",
+    "Olay yerinin fotoğraflanması, güvenlik kamerası kayıtlarının saklanması, makine kayıtlarının, bakım ve eğitim belgelerinin korunması, tanıkların isim ve ifadelerinin alınması gerekir. Telefonunuzla çekilen kareler bile, uygun bir şekilde paylaşıldığında inceleme yapanlara çok yardımcı olur.",
+    "Alan, iş müfettişi ya da kolluk ve savcılık gibi yetkililer incelemesini bitirene kadar mümkün olduğunca korunur. Elbette, bir yaralıyı kurtarmak için gereken müdahale her zaman önceliklidir. Sonrası için de şu kural geçerlidir: delili silmeye, saklamaya ya da değiştirmeye çalışmak, ağır hukuki sonuçlar doğurabilir."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Kaza sonrası",
+   "title": "Delil karşısında doğru ve yanlış",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=1200",
+     "ok": false,
+     "title": "Toparlayıp devam etmek",
+     "text": "Yeri hemen toplamak, koruyucuyu sessizce takmak ve işe devam etmek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1781157080615-ffde66c035a5?w=1200",
+     "ok": true,
+     "title": "Durdurup korumak",
+     "text": "Alanı güvene almak, fotoğraflamak, yetkiliye haber verip incelemeye bırakmak."
+    }
+   ],
+   "steps": [
+    "Bu konuda sahada sık yapılan hatayı ve doğrusunu görelim.",
+    "Yanlış olan, 'işler aksamasın' diyerek kaza yerini hemen toparlamak ve eksik koruyucuyu sessizce yerine takıp işi sürdürmektir. Bu, hem kazanın gerçek nedenini örter hem de aynı kazanın tekrar yaşanmasını sağlar. Üstelik sorumluları da zora sokar.",
+    "Doğru olan, durdurmak ve korumaktır. Alanı güvene alın, mümkünse fotoğraflayın, yetkililere haber verin ve incelemenin bitmesini bekleyin. Gerçeği saklamak kısa vadede kolay görünür, ama uzun vadede en çok kendinize zarar verir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1770822662868-4a612845fcdd?w=2400",
+   "kicker": "Tanık olarak",
+   "title": "Olayı gören biri olarak ne yaparsınız?",
+   "bullets": [
+    "Gördüğünüzü olduğu gibi anlatın",
+    "Tahmin ve suçlamadan kaçının",
+    "Bilmediğinizi bilmiyorum diye belirtin"
+   ],
+   "steps": [
+    "Kaza hiç size olmasa bile, bir tanık olarak sürece katılabilirsiniz. İfade vermek, iş arkadaşınız için de işyeriniz için de çok değerlidir.",
+    "İfade verirken gördüğünüzü, olduğu gibi anlatın: kaç saatte, nerede, kim neyi yaptı. Duyduklarınızı, görmediğiniz şeyleri ya da tahminlerinizi gördüklerinizden ayırın.",
+    "Suçlama ya da savunma amacı taşımayın. İş arkadaşınızı korumak için gerçeği eğmek, kaza nedeninin anlaşılmasını zorlaştırır ve ileride gerçek ortaya çıkarsa sizi zor durumda bırakır.",
+    "Bilmediğiniz ya da emin olmadığınız bir noktada 'bilmiyorum' demekten çekinmeyin. İfadenizi imzalamadan önce okuyun ve yanlış anlaşılan yerleri düzelttirin."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1575230167650-dce335edc7f4?w=2400",
+   "kicker": "Ramak kala",
+   "title": "Yaralanma olmadı ama ders çok",
+   "bullets": [
+    "Ramak kala: yaralanma ya da zarar verebilecek ama vermemiş olay",
+    "Kanun, işverenin bu olayları da incelemesini ister",
+    "Ramak kala olaylar, büyük kazaların habercisidir",
+    "Bildirmek, ceza değil önlem içindir"
+   ],
+   "steps": [
+    "Şimdi dersin belki de en önemli bölümü: ramak kala olaylar. Ramak kala, kimsenin yaralanmadığı ya da bir şeyin zarar görmediği, ama biraz farklı olsa yaralanma ya da zarar doğurabilecek olaydır.",
+    "6331 sayılı Kanun, işverenin sadece iş kazalarını değil, yaralanmaya yol açmasa da işyerine ya da ekipmana zarar verme potansiyeli taşıyan olayları da incelemesini ve bunlarla ilgili rapor düzenlemesini ister.",
+    "Büyük kazaların çoğundan önce aynı nedenle gerçekleşen birçok küçük olay vardır: düşen bir cisim, kayan bir yük, çalışan bir makineye yaklaşma. İşte ramak kalayı bildirmek, bu uyarıyı ciddiye almaktır.",
+    "Birçok çalışan, 'başım derde girer' diye bildirmekten çekinir. Oysa bildirimin amacı kimseyi cezalandırmak değil, bir sonraki kazayı önlemektir. İyi bir işyerinde ramak kala bildirenler takdir edilir.",
+    "Bu yüzden dersin bu kısmını aklınızda tutun: kimse yaralanmadıysa bile, olay bildirilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1689942010216-dc412bb1e7a9?w=2400",
+   "kicker": "Örnek olay 4 · Ramak kala",
+   "title": "Raftan düşen palet",
+   "bullets": [
+    "Palet yanından geçerken düştü, kimse yaralanmadı",
+    "Olay 'şanslıydık' denilerek geçildi",
+    "Üç hafta sonra aynı raf, bir kazaya yol açtı"
+   ],
+   "steps": [
+    "Dördüncü ve son örnek olayımız ramak kalayla ilgili. Bir depoda, üçüncü sıradaki bir paletin ağır koliler yüzünden eğilip raftan düştüğünü düşünelim. Palet, çalışan Emre'nin hemen yanına, birkaç adım ötesine düşüyor. Kimse yaralanmıyor.",
+    "Depo sorumlusu 'şanslıydık' deyip koliyi toplatıyor, raf kontrol edilmiyor ve olay kimseye bildirilmiyor.",
+    "Üç hafta sonra aynı rafın başka bir paleti düşüyor ve bu kez bir çalışan omzundan ağır yaralanıyor. Kazadan sonra yapılan inceleme, rafın yük sınırının aşıldığını ve ilk olayın da bu yüzden olduğunu ortaya çıkarıyor.",
+    "Ders çok net: Birinci olayı bildirmek ve incelemek, ikinci kazayı önleyebilirdi. Ayrıca ilk olayı bilip hiçbir şey yapmayan sorumluların, ikinci kazadaki kusuru ağırlaşır. Bilmek, harekete geçmeyi gerektirir.",
+    "Sizin için pratik mesaj: bir ramak kala olayı gördüğünüzde onu yalnızca kendiniz atlatmayın. Bir arkadaşınıza anlatmak yetmez; kaydı tutacak ve önlemi alacak kişiye ulaştırın."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Neden bildirilmez?",
+   "title": "Bildirmemek için söylenen üç bahane",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1786550765584-b2cd482610e8?w=1200",
+     "title": "'Korkarım'",
+     "text": "Bildirim ceza için değil önlem için; iyi işyeri ramak kala bildirenleri destekler"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1746364742672-c6383331b032?w=1200",
+     "title": "'Zamanım yok'",
+     "text": "Birkaç satırlık bir kayıt, bir sonraki kazanın bedelinden çok daha ucuzdur"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1599707254554-027aeb4deacd?w=1200",
+     "title": "'Bir şey olmadı'",
+     "text": "Olmayan şey, bir sonraki sefer olabilir; ramak kala en ucuz uyarıdır"
+    }
+   ],
+   "steps": [
+    "Ramak kala bildirimi neden bu kadar zor? Çalışanlardan duyulan üç yaygın bahaneyi ve cevaplarını görelim.",
+    "Birincisi korku: 'Bildirirsem suçlanırım.' Oysa bildirimin amacı bir kişiyi suçlamak değil, sorunu ortaya çıkarmaktır. Kanun, işverenden bu olayları incelemesini ister; bildirenden ise cezalandırılmasını değil.",
+    "İkincisi zaman: 'Bunun için vaktim yok.' Kısa bir bildirim formu ya da sözlü bildirim, bir kaza sonrası geçirilecek aylarla karşılaştırılamaz.",
+    "Üçüncüsü 'Bir şey olmadı' düşüncesi. Bu en tehlikelisi. Bu sefer olmayan şey, bir sonraki sefer çok ağır bir sonuç doğurabilir. Siz kendi işyerinizde ramak kala bildirmeyi bir alışkanlık yapın."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1628147529780-36964fbb8d54?w=2400",
+   "kicker": "Kaza sonrası haklarınız",
+   "title": "Kazadan sonra sizi neler bekler?",
+   "bullets": [
+    "Tedavi ve geçici iş göremezlik hakları SGK kaydına bağlıdır",
+    "Kazadan sonra işe dönüşte ek eğitim verilir",
+    "Kazayla ilgili bilgi ve ifade vermek hakkınızdır",
+    "Eksik kayıt, haklarınızı zorlaştırabilir"
+   ],
+   "steps": [
+    "Son olarak, kaza sonrası kazazede olarak hangi haklarınız olduğunu hatırlayalım.",
+    "Tedavi masraflarınız ve geçici iş göremezlik durumunda alacağınız ödenek, SGK kaydına dayanır. Bu yüzden kazanın zamanında bildirilmesi ve doğru kaydedilmesi, haklarınızın ön koşuludur.",
+    "Eğitim yönetmeliğine göre iş kazası ya da meslek hastalığı sonrasında işe dönüşte ek eğitim verilir. Böylece kazadan çıkan dersler, işe dönen kişiyle paylaşılır.",
+    "Kazayla ilgili ifade verirken ne olduğunu açıkça anlatın; anlamadığınız bir tutanağı, okuyup anlamadan imzalamayın. Gerekirse hukuki destek ya da sendika desteği isteyebilirsiniz.",
+    "Kaza kaydı eksik ya da hatalıysa, ileride tazminat ve ödenek süreçleri zorlaşabilir. O yüzden olayın size anlatılan hâlinin doğru olup olmadığını kontrol edin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1774599730788-a74cd9253b56?w=2400",
+   "kicker": "Sizin işyeriniz",
+   "title": "Bu dersi işyerinizde nasıl kullanırsınız?",
+   "bullets": [
+    "Kaza ve ramak kala bildirimi nasıl yapılıyor",
+    "Acil durdurma ve koruyucular yerinde mi",
+    "Yaya ve araç yolları ayrılmış mı"
+   ],
+   "steps": [
+    "Dersi bitirmeden, bu bilgileri işyerinize taşıyalım. Şimdi birkaç soruya içinizden cevap verin.",
+    "Kaza ya da ramak kala bir olay yaşandığında, işyerinizde kime ve nasıl bildirim yapıldığını biliyor musunuz? Bir form, bir kutu ya da bir sorumlu kişi var mı?",
+    "Makinenizin koruyucuları yerinde mi, acil durdurmanın önü açık mı? Yüksekte çalışırken korkuluk ve ankraj noktaları var mı?",
+    "Forklift ve yaya yolları ayrılmış mı, kritik köşelerde uyarı ve ayna var mı?",
+    "İşyerinize özgü riskleri ve bildirim yöntemini, yüz yüze verilecek eğitimde uzmanınızla ayrıntılı olarak konuşacaksınız. Soracağınız sorulara şimdiden hazırlanın."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1778074762022-c33cc42f79ae?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Kaza sonrası idari, cezai ve hukuki sorumluluk ayrı ayrı doğar",
+    "Kusur zincire bakılarak belirlenir; çalışanın hatası işvereni kurtarmaz",
+    "Koruyucuyu devre dışı bırakmak çalışanı da kusurlu kılar",
+    "Kaza sonrası: güvenliği sağla, yardım çağır, bildir, alanı koru",
+    "Kazalar 3 iş günü içinde SGK'ya bildirilir; ramak kala da bildirilir"
+   ],
+   "steps": [
+    "Dersimizin sonuna geldik. Öğrendiklerimizi son kez özetleyelim.",
+    "Bir iş kazasından sonra idari, cezai ve hukuki sorumluluklar ayrı ayrı gündeme gelebilir. Kusur, tek kişiye değil, olaya yol açan zincire bakılarak belirlenir.",
+    "Çalışanın hatası, işverenin önlem alma yükümlülüğünü ortadan kaldırmaz. Ancak çalışanın güvenlik donanımını devre dışı bırakması ya da talimata uymaması, kendi kusurunu da doğurur.",
+    "Kaza olduğunda güvenliği sağlayın, yardım çağırın, olayı amirinize bildirin ve delilleri bozmadan alanı koruyun. Kazalar, kazadan sonraki üç iş günü içinde SGK'ya bildirilir.",
+    "Ramak kala olaylar da bildirilmeli ve incelenmelidir; çünkü büyük kazaların en ucuz uyarısıdırlar. Sizin bir bildiriminiz, bir iş arkadaşınızı kurtarabilir.",
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Anlattıklarımızı hatırlarsanız rahatlıkla cevaplayacaksınız. Bir sonraki bölümde sağlık konularına geçeceğiz. Görüşmek üzere."
+   ]
+  }
+ ]
+}

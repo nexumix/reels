@@ -1,0 +1,726 @@
+{
+ "code": "tc_s6",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "2. Bölüm · Sağlık Konuları",
+ "title": "Bağımlılık yapıcı maddelerin zararları ve teknoloji bağımlılığı",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1743130940778-331440a204ae?w=2400",
+   "kicker": "2. Bölüm · Ders 6",
+   "title": "Bağımlılık yapıcı maddelerin zararları ve teknoloji bağımlılığı",
+   "subtitle": "Dikkatiniz, en önemli koruyucu donanımınızdır",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste sigara, alkol, uyuşturucu ve uyarıcı maddeleri, ilaç kullanımını ve telefon gibi teknoloji bağımlılığını iş güvenliği açısından konuşacağız. Dikkat çekmek istediğim nokta şu: burada kimseyi yargılamıyoruz, kimseye nasihat vermiyoruz.",
+    "Tehlikeli ve çok tehlikeli işyerlerinde bir saniyelik dikkatsizlik bir ömre mal olabilir. Presin başında, vincin altında, forkliftin direksiyonunda ya da kaynak makinesinin yanında dikkatiniz, en önemli koruyucu donanımınızdır. Bu ders, onu korumakla ilgili."
+   ],
+   "type": "cover"
+  },
+  {
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Dikkat ve reaksiyon",
+     "text": "Maddeler iş güvenliğini nasıl etkiler"
+    },
+    {
+     "title": "Tütün ve pasif etkilenim",
+     "text": "Kapalı alan yasağı ve yangın riski"
+    },
+    {
+     "title": "Alkol ve uyuşturucu",
+     "text": "Etkisi, sonuçları, ertesi sabah"
+    },
+    {
+     "title": "İlaçlar",
+     "text": "Makine ve araç kullanırken dikkat"
+    },
+    {
+     "title": "Telefon ve destek",
+     "text": "Dikkat dağınıklığı, destek hatları"
+    }
+   ],
+   "steps": [
+    "Yol haritamıza bakalım. Beş durağımız var.",
+    "İlk durak, bağımlılık yapıcı maddelerin dikkat ve tepki süresi üzerindeki etkisi. Yani neden riskli olduklarını anlayacağız.",
+    "İkinci durak tütün. Kapalı alan yasağını, pasif etkilenimi ve tehlikeli işyerlerinde sigaranın neden yangın ve patlama riski olduğunu göreceğiz.",
+    "Üçüncü durak alkol ve uyuşturucu. Ertesi sabah devam eden etkiyi de konuşacağız.",
+    "Dördüncü durak ilaçlar: doktorun yazdığı bir ilaç bile makine kullanımını etkileyebilir.",
+    "Beşinci duraktaysa telefon ve teknoloji bağımlılığını, bir de ihtiyaç hâlinde nereden destek alacağınızı öğreneceğiz."
+   ],
+   "type": "process"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1758874572670-63042c5448c6?w=2400",
+   "kicker": "Bağımlılık nedir?",
+   "title": "Bağımlılık bir irade zayıflığı değildir",
+   "bullets": [
+    "Bir maddeyi ya da davranışı bırakamamak",
+    "Zamanla daha fazlasına ihtiyaç duymak",
+    "Bırakınca huzursuzluk ve istek yaşamak",
+    "Tedavi edilebilen bir sağlık sorunudur"
+   ],
+   "steps": [
+    "Önce bağımlılığın ne olduğunu konuşalım, çünkü yanlış inançlar yardım istemeyi zorlaştırıyor.",
+    "Bağımlılık, kişinin bir maddeyi ya da davranışı zarar verdiğini bildiği hâlde bırakamaması durumudur.",
+    "Zamanla aynı etkiyi almak için daha fazlası gerekir. Buna tolerans denir.",
+    "Bırakılınca huzursuzluk, uykusuzluk, sinirlilik ve güçlü bir istek yaşanır. Bu yüzden insanlar kolayca bırakamaz.",
+    "Önemli olan, bunun bir irade zayıflığı değil, tedavi edilebilen bir sağlık sorunu olduğudur. Utanç duygusu yerine destek aramak çok daha doğru. Bu derste de hep bu bakışla ilerleyeceğiz."
+   ],
+   "type": "split"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1717386255773-1e3037c81788?w=2400",
+   "kicker": "Dikkat",
+   "value": "Saniyeler",
+   "title": "Presin, vincin ve forkliftin başında bir anlık dalgınlık yeter",
+   "text": "Tehlikeli işlerde hatanın bedeli ağır: kaza çoğu zaman saniyeler içinde olur",
+   "steps": [
+    "Tehlikeli ve çok tehlikeli işlerde hatanın payı çok küçüktür. Kaynaklı bir parçayı kaldırırken, pres kalıbına parça sürerken ya da forklift dönüşünde çevreye bakarken saniyeler kritik olur.",
+    "Bağımlılık yapıcı maddelerin ve dikkat dağıtıcı alışkanlıkların ortak etkisi, işte bu saniyeleri çalmaktır. Dikkat azalır, tepki yavaşlar, yargı bozulur. Bu yüzden iş güvenliği eğitiminde bu konuyu mutlaka konuşuyoruz. Hedefimiz, kimsenin özel hayatına karışmak değil; işe gelen herkesin akşam sağlıklı biçimde eve dönmesini sağlamak."
+   ],
+   "type": "fact"
+  },
+  {
+   "kicker": "Maddeler",
+   "title": "İş güvenliğini etkileyen üç grup",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1531233860166-39482c9fe3e6?w=1200",
+     "title": "Tütün ürünleri",
+     "text": "Pasif etkilenim, yangın riski, öksürük ve nefes darlığı",
+     "tag": "Tütün"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1576181296166-53fc5c457fb4?w=1200",
+     "title": "Alkol",
+     "text": "Tepkiyi yavaşlatır, yargıyı ve dengeyi bozar",
+     "tag": "Alkol"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200",
+     "title": "Uyuşturucu ve uyarıcı",
+     "text": "Algıyı bozar, yanlış özgüven ve ani çöküş yaratır",
+     "tag": "Madde"
+    }
+   ],
+   "steps": [
+    "Konuyu üç grupta inceleyelim: tütün, alkol, uyuşturucu ve uyarıcı maddeler.",
+    "Tütün ürünleri hem içen kişiyi hem çevresindekileri etkiler. Kapalı alanlarda ayrıca yangın riski taşır. Zamanla öksürük, nefes darlığı gibi sorunlar da işi zorlaştırır.",
+    "Alkol merkezi sinir sistemini yavaşlatır. Tepki süresi uzar, denge ve görme bozulur, yargı kaybolur. Kişi kendini iyi hissedebilir, ama aslında hata yapma ihtimali çok artmıştır.",
+    "Uyuşturucu ve uyarıcı maddeler algıyı değiştirir. Bazıları kişiyi hızlı ve güçlü hissettirir; oysa bu yanlış bir özgüvendir. Etki geçince ani bir çöküş gelir ve dikkat dağılır."
+   ],
+   "type": "cards"
+  },
+  {
+   "kicker": "Riskli işler",
+   "title": "Hangi işlerde dikkat daha kritik",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1694521787162-5373b598945c?w=1200",
+     "title": "Yüksekte çalışma",
+     "text": "İskele, çatı, vinç: denge ve karar anında şart",
+     "tag": "Yükseklik"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1717386255773-1e3037c81788?w=1200",
+     "title": "Makine ve pres",
+     "text": "El ve parmak, saniyelerle korunur",
+     "tag": "Makine"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1791421870389-d9fa98e7e1fc?w=1200",
+     "title": "Araç ve forklift",
+     "text": "Hem sizi hem yayaları tehlikeye atar",
+     "tag": "Araç"
+    }
+   ],
+   "steps": [
+    "Madde etkisinin ve dikkat dağınıklığının sonuçları, işe göre değişir. Bazı işlerde hata payı neredeyse sıfırdır. Üç örneğe bakalım.",
+    "Yüksekte çalışmada denge, mesafe algısı ve karar verme çok önemlidir. Bir adım yanlış basmak ya da emniyet kemerini takmayı unutmak ağır bir düşmeye yol açabilir. İskele ve vinç çalışmalarında alkolün ve uyku kaybının etkisi çok çabuk hissedilir.",
+    "Makine ve pres çalışmasında elin ve parmakların güvenliği saniyelerle korunur. Dikkatin anlık dağılması, el ile tehlike bölgesi arasındaki mesafeyi yanlış değerlendirmeye neden olur.",
+    "Araç ve forklift kullanımında risk yalnız sizin değildir. Yoldaki yayalar, raf arasında çalışan arkadaşlarınız da tehlikeye girer. Bu tür işlerde madde etkisi, yorgunluk, ilaç ya da telefon, kazaların sık görülen ortak nedenleri arasındadır."
+   ],
+   "type": "cards"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1576181296166-53fc5c457fb4?w=2400",
+   "kicker": "Alkol ve uyuşturucu",
+   "title": "Etkisindeyken iş yapılmaz",
+   "bullets": [
+    "Tepki süresi uzar, denge bozulur",
+    "Yargı ve risk algısı kaybolur",
+    "Etkisi ertesi sabaha da sürebilir"
+   ],
+   "steps": [
+    "Alkol ya da uyuşturucu etkisindeyken çalışmanın en önemli riski, dikkat ve reflekslerin azalması ve buna bağlı iş kazası riskinin artmasıdır. Bu, dersin en temel mesajı. Bunu aklınızda tutun, çünkü dersin sonundaki sorulardan biri tam olarak bunu soracak.",
+    "Tepki süresi uzar. Düşen bir yükten kaçmak, makinenin hareketini fark etmek, ani fren yapmak için gereken saniyeler artık yoktur. Denge ve el-göz koordinasyonu da bozulur.",
+    "Yargı bozulur ve risk algısı kaybolur. Kişi tehlikeli bir işi güvenli sanabilir, koruyucu donanımı gereksiz görüp çıkarabilir.",
+    "Bir de ertesi sabah etkisi var. Gece boyunca alınan alkol, uykunun kalitesini bozar ve vücuttan atılması saatler sürer. Yani sabah kendinizi iyi hissetseniz bile dikkatiniz hâlâ etkilenmiş olabilir."
+   ],
+   "type": "photo"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1644079446600-219068676743?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Depoda gece sonrası vardiya",
+   "bullets": [
+    "Kemal hafta sonu geç saate kadar içmişti",
+    "Pazartesi sabah forklifte bindi",
+    "Raf arasında yükü çarptı"
+   ],
+   "steps": [
+    "Bir lojistik depoda forklift operatörü Kemal, hafta sonu geç saate kadar arkadaşlarıyla içiyor. Pazartesi sabahı kendini iyi hissettiğini düşünüyor ve vardiyaya geliyor.",
+    "Gözleri biraz yorgun, kafası ağır. Ama işe geç kalmak istemediği için hiçbir şey söylemiyor ve forklifte biniyor.",
+    "Yoğun saatte raf arasında dönüş yaparken kenarda yürüyen bir çalışanı fark etmekte gecikiyor. Frene geç basıyor, forklift raftaki paletlere çarpıyor; palet devriliyor, kimse yaralanmıyor ama sıfır farkla.",
+    "Vardiya amiri Selin, Kemal'i işten uzaklaştırıp işyeri hekimine yönlendiriyor. Bu olay bize şunu gösteriyor: dün gece alınan alkol, bugün iş kazasına yol açabilir. Kendinizi iyi hissetmeniz, dikkatinizin tam olduğu anlamına gelmez."
+   ],
+   "type": "photo"
+  },
+  {
+   "kicker": "Doğru ve yanlış",
+   "title": "İşe gelmeden önce kendinize sorun",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1765021690115-08b5a1e363c0?w=1200",
+     "title": "Dinlenmiş ve hazır",
+     "text": "Uykumu aldım, ilaç ve madde etkisi yok, dikkatim yerinde",
+     "ok": true
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1695603414685-af28aff0f9d2?w=1200",
+     "title": "Şüpheli ama sessiz",
+     "text": "Hâlâ etkisi var gibi ama kimseye söylemeden çalışmak",
+     "ok": false
+    }
+   ],
+   "steps": [
+    "İşe gelmeden önce kendinize dürüst bir soru sorun: bugün güvenli çalışabilir miyim?",
+    "Doğru olan, yeterince uyumuş, madde ya da ilaç etkisi taşımayan, dikkati yerinde bir şekilde işe gelmek.",
+    "Yanlış olan, hâlâ etkisinde olduğunu ya da çok yorgun olduğunu hissettiği hâlde kimseye söylemeden çalışmaya başlamak. Bu hem kendinizi hem iş arkadaşlarınızı riske atar.",
+    "Şüphe duyuyorsanız amirinize ya da işyeri hekimine söyleyin. Bu bir itiraf değil, sorumluluktur. Çoğu işyerinde bu durumda kişi cezalandırılmaz, güvenli bir göreve yönlendirilir ve destek alması sağlanır."
+   ],
+   "type": "dodont"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1531233860166-39482c9fe3e6?w=2400",
+   "kicker": "Tütün ürünleri",
+   "title": "Kapalı işyerlerinde tütün ürünü kullanımı yasaktır",
+   "bullets": [
+    "Kanun, kapalı alanlarda tütün kullanımını yasaklar",
+    "Yasak işyerlerinin kapalı alanlarını da kapsar",
+    "Elektronik sigara da bu kuralın dışında sayılmaz",
+    "İçilebilecek yerler dışarıda, işaretli alanlardır"
+   ],
+   "steps": [
+    "Şimdi tütüne geçelim. Çok net bir kural var, bunu bilmeniz gerekiyor.",
+    "Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanun, kapalı alanlarda tütün ürünü kullanımını yasaklar.",
+    "Bu yasak, işyerlerinin kapalı alanlarını da kapsar. Fabrika, atölye, depo, soyunma odası, yemekhane ve toplantı odalarında sigara içilmez. Mola saati olması bu yasağı değiştirmez, işverenin iznine de bağlı değildir.",
+    "Elektronik sigara gibi tütün ürününe benzer ürünler de kapalı alanlarda aynı hassasiyetle ele alınmalıdır. Yani kapalı alanda elektronik sigara kullanmak çözüm değildir.",
+    "Sigara içmek isteyenler için işveren, dışarıda uygun ve işaretli alanlar belirleyebilir. Bu alanlar yanıcı madde, kimyasal depo ve benzeri riskli yerlerden uzakta olmalıdır."
+   ],
+   "type": "split"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1702468025332-e23ca9075058?w=2400",
+   "kicker": "Pasif etkilenim",
+   "title": "Duman sadece içeni etkilemez",
+   "bullets": [
+    "Sigara dumanı çevresindekilere de ulaşır",
+    "Çalışma ortamı havasını kirletir",
+    "Astım ve kalp rahatsızlıklarını ağırlaştırır"
+   ],
+   "steps": [
+    "Tütün dumanı yalnızca içen kişiye ait değildir. Yanında bulunan herkes, farkında olmadan o dumanı solur. Buna pasif etkilenim denir.",
+    "Kapalı bir atölyede ya da soyunma odasında bu etki daha da artar. Sigara dumanı havadaki toz, boya buharı ya da kaynak dumanıyla birleştiğinde, solunum yoluna daha fazla yük biner.",
+    "Astım, kalp rahatsızlığı olanlar ve hamile çalışanlar bu dumandan daha ağır etkilenir. Siz sigara içmiyor olsanız bile, ortam dumanlıysa işyerinde sağlığınız tehlikededir.",
+    "Böyle bir durumda önce nazik biçimde uyarın, sonuç alamazsanız amirinize ya da işyeri hekimine bildirin. Temiz hava soluma hakkınız var. Unutmayın, bu sizin tek başınıza çözmeniz gereken bir sorun değil; işveren de çalışma ortamını dumandan korumakla yükümlüdür."
+   ],
+   "type": "photo"
+  },
+  {
+   "kicker": "Doğru ve yanlış",
+   "title": "Tehlikeli işyerinde sigara",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1606050426913-b2553bc1e1d6?w=1200",
+     "title": "Dışarıda, uzakta",
+     "text": "İşaretli alanda, yanıcıdan uzak, izmariti söndürüp atar",
+     "ok": true
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1626379481874-3dc5678fa8ca?w=1200",
+     "title": "Boya ve çözücü yakınında",
+     "text": "Yanıcı buharın olduğu yerde bir kıvılcım yangın yapar",
+     "ok": false
+    }
+   ],
+   "steps": [
+    "Sigaranın tehlikeli işyerlerinde bir de yangın boyutu var.",
+    "Doğru olan, işaretli açık alanda, yanıcı madde ve kimyasal depodan uzakta içmek. İzmariti tamamen söndürüp uygun bir kapta atmak.",
+    "Yanlış olan, boyahane, kaynak atölyesi, çözücü deposu ya da yakıt ikmal alanı yakınında sigara içmek. Yanıcı buharlar bir kıvılcımla tutuşabilir, patlamaya yol açabilir.",
+    "Bir de arka plandaki tehlike: sigarayı hâlâ yanık hâlde çöpe atmak. Küçük bir kor, kâğıt ve karton yığınında yangın çıkarabilir."
+   ],
+   "type": "dodont"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1758520145147-c30bc656f314?w=2400",
+   "kicker": "Uyarıcılar",
+   "title": "Uyarıcılar ve enerji içecekleri",
+   "bullets": [
+    "Geçici uyanıklık verir, yorgunluğu gidermez",
+    "Çarpıntı, titreme ve huzursuzluk yapabilir",
+    "Etkisi geçince ani çöküş gelir",
+    "Reçetesiz uyarıcı ve hap kullanımı risklidir"
+   ],
+   "steps": [
+    "Uyarıcı maddeleri ayrıca konuşalım, çünkü vardiyalı çalışanların arasında sık yanlış anlaşılırlar.",
+    "Birçok kişi uzun vardiyayı geçirmek için kahve ve enerji içeceği içer. Bu geçici uyanıklık verir, ama gerçek yorgunluğu gidermez. Vücut dinlenmek zorundadır.",
+    "Aşırı miktarda alındığında çarpıntı, titreme ve huzursuzluk olabilir. Eller titrerken ince işçilik ya da hassas ayar yapmak zorlaşır.",
+    "Etkisi geçtikten sonra ani bir çöküş yaşanır. Kişi daha da yorgun ve dikkatsiz hâle gelir. Yani gün sonunda kazanılan dikkat, kaybedilenden azdır. Vardiyanın son saatlerinde yaşanan kazaların bir kısmı tam da böyle bir yorgunluk ve çöküşün sonucudur.",
+    "Doktor önerisi olmadan alınan uyarıcı hap ve benzeri maddeler daha ciddidir. Bunlar bağımlılık yapabilir, kalp ritmini bozabilir ve algıyı değiştirebilir. Uzun vardiyayı uyarıcıyla değil, uykuyla ve dinlenmeyle yönetin."
+   ],
+   "type": "split"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1768158988512-ad31657fe5b8?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Şantiyede fark eden usta",
+   "bullets": [
+    "Selin amir sabah toplantısında bir şey fark etti",
+    "Çalışan iskeleye çıkacaktı",
+    "İşten uzaklaştırıldı, destek aldı"
+   ],
+   "steps": [
+    "Bir inşaat şantiyesinde sabah toplantısında vardiya amiri Selin, kalfa Hüseyin'in yürüyüşünün dengesiz ve konuşmasının ağır olduğunu fark ediyor. Hüseyin o gün iskelenin üst katında çalışacak.",
+    "Selin, herkesin yanında kimseyi suçlamadan, onu kenara çekiyor. Sakin biçimde nasıl olduğunu soruyor. Hüseyin, geceyi uykusuz geçirdiğini ve başka bir şey de aldığını itiraf ediyor.",
+    "Selin, Hüseyin'i iskeleden uzak, bir yer işine yönlendiriyor ve işyeri hekimiyle görüşmesini sağlıyor. İş sağlığı ve güvenliği uzmanı da olayı gizlilik içinde ele alıyor.",
+    "O gün kimse düşmedi, kimse yaralanmadı. Hüseyin, destek hatlarına başvurdu ve bir süre sonra tekrar çalışabildi. Bu olaydan çıkan ders: fark etmek, kenara çekip konuşmak ve güvenli bir iş vermek hayat kurtarır."
+   ],
+   "type": "photo"
+  },
+  {
+   "kicker": "Her vardiya başında",
+   "title": "Kendi kendinize beş kontrol",
+   "items": [
+    {
+     "title": "Uyudum mu",
+     "text": "Dinlenmiş ve dikkatli miyim"
+    },
+    {
+     "title": "Madde etkisi var mı",
+     "text": "Alkol, uyuşturucu ya da uyarıcı"
+    },
+    {
+     "title": "İlaç kullandım mı",
+     "text": "Uyku ya da baş dönmesi yapar mı"
+    },
+    {
+     "title": "Aklım işte mi",
+     "text": "Kaygı ya da telefon bölmüyor mu"
+    },
+    {
+     "title": "Şüphe varsa söyle",
+     "text": "Amir ya da işyeri hekimi"
+    }
+   ],
+   "steps": [
+    "Vardiyaya başlamadan önce, kendi kendinize sorabileceğiniz basit beş kontrolü sıralayalım.",
+    "Birincisi: yeterince uyudum mu? Yorgunluk, madde etkisine benzer şekilde dikkati azaltır.",
+    "İkincisi: alkol, uyuşturucu ya da uyarıcı etkisi altında mıyım? Dünkü alkolün etkisi sürüyor olabilir. Dürüst olun.",
+    "Üçüncüsü: ilaç kullandım mı, bu ilaç uyku ya da baş dönmesi yapar mı? Eğer yapıyorsa bu işi yapmam güvenli mi?",
+    "Dördüncüsü: aklım işte mi? Bir kaygı, bir kavga, bir mesaj mı beni meşgul ediyor?",
+    "Beşincisi: şüphem varsa, bunu yüksek sesle söylüyor muyum? Amirinize ya da işyeri hekimine söylemek, hem sizi hem iş arkadaşlarınızı korur."
+   ],
+   "type": "process"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1512067053627-3cb65e51a128?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar öğrendiklerimiz",
+   "bullets": [
+    "Alkol ve uyuşturucu dikkat ve refleksleri azaltır",
+    "Ertesi sabah etkisi de sürebilir",
+    "Kapalı işyerlerinde tütün ürünü kullanımı yasaktır",
+    "Pasif etkilenim ve yangın riski gözden kaçmasın"
+   ],
+   "steps": [
+    "Kısa bir ara özet yapalım.",
+    "Alkol ve uyuşturucu etkisinde çalışmanın en büyük riski, dikkat ve reflekslerin azalması ve buna bağlı iş kazası riskinin artmasıdır.",
+    "Bu etki, madde alındıktan sonra bitmez. Ertesi sabah da devam edebilir; kendinizi iyi hissetmeniz yetmez.",
+    "Kapalı işyerlerinde tütün ürünü kullanımı yasaktır. Bu kural işyerinin atölye, depo ve soyunma odası gibi kapalı alanlarını da kapsar.",
+    "Duman çevredekilere zarar verir ve tehlikeli işyerlerinde yangın riski taşır. Şimdi ilaçlara ve teknolojiye geçiyoruz."
+   ],
+   "type": "check"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1765996796562-ce301df337a0?w=2400",
+   "kicker": "İlaçlar",
+   "title": "İlaç da dikkati etkileyebilir",
+   "bullets": [
+    "Bazı ilaçlar uyku ve baş dönmesi yapar",
+    "Prospektüsteki araç ve makine uyarısına bakın",
+    "Hekiminize mesleğinizi söyleyin"
+   ],
+   "steps": [
+    "Şimdi herkesi ilgilendiren bir konu: ilaçlar. Bağımlılık yapıcı olmayan, hatta doktorun yazdığı ilaçlar bile iş güvenliğini etkileyebilir.",
+    "Bazı ağrı kesiciler, alerji ilaçları, uyku ve sakinleştirici ilaçlar, kas gevşeticiler ve bazı ruhsal destek ilaçları uyku hâli, baş dönmesi ve yavaş tepkiye yol açabilir.",
+    "İlacınızın prospektüsünü okuyun. Araç ve makine kullanımını etkileyebilir uyarısı varsa bunu ciddiye alın. Eczacınıza da bu işi yaptığınızı söyleyin.",
+    "Hekiminize ya da işyeri hekimine ne iş yaptığınızı mutlaka anlatın. Pres, forklift ya da vinç kullanıyorsanız, ilacın alternatifi veya doz zamanlaması konusunda bilgi alın. İlacı kendi başınıza bırakmayın ya da değiştirmeyin."
+   ],
+   "type": "photo"
+  },
+  {
+   "kicker": "Kime ne düşer",
+   "title": "İlaç kullanımında sorumluluk",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1666886573531-48d2e3c2b684?w=1200",
+     "title": "Çalışan",
+     "text": "İlaç kullandığını, uyku yapabileceğini hekime ve amire bildirir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758691461990-03b49d969495?w=1200",
+     "title": "Hekim",
+     "text": "İlacın iş güvenliğine etkisini değerlendirir, gerekirse alternatif önerir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1775893748979-a985524cfbaf?w=1200",
+     "title": "İşveren ve amir",
+     "text": "Gerekirse kişiyi daha güvenli bir göreve yönlendirir"
+    }
+   ],
+   "steps": [
+    "İlaç kullanımında kimin ne yaptığına bakalım.",
+    "Çalışan olarak sizin göreviniz, kullandığınız ilacın dikkati etkileyebileceğini fark ettiğinizde bunu paylaşmak. Sağlık bilgilerinizi gizlilik içinde konuşabilirsiniz.",
+    "Hekim, ilacın iş güvenliği üzerindeki etkisini değerlendirir. Gerekirse farklı bir ilaç, doz ya da kullanım saati önerebilir. İşyeri hekimi işin risklerini bildiği için bu konuda çok önemli bir kaynaktır.",
+    "İşveren ve amir, gerektiğinde kişiyi geçici olarak daha az riskli bir görevde çalıştırarak kaza olasılığını azaltır. Böylece kimse işini ya da sağlığını riske atmak zorunda kalmaz."
+   ],
+   "type": "roles"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1655952325939-24bfbbdaee98?w=2400",
+   "kicker": "Teknoloji bağımlılığı",
+   "title": "Telefon, bildirim, ekran",
+   "bullets": [
+    "Sürekli kontrol etme isteği",
+    "Bildirimle bölünen dikkat",
+    "Gece ekran, gündüz uykusuzluk"
+   ],
+   "steps": [
+    "Bağımlılık yalnız madde bağımlılığı değildir. Telefon, sosyal medya, oyun gibi teknolojilere kontrol dışı bir bağlanma da bağımlılığa dönüşebilir.",
+    "Belirtiler tanıdık: telefonu sürekli kontrol etme isteği, yanında olmayınca huzursuzluk, bildirim sesine anında tepki verme.",
+    "Bunların işteki karşılığı çok ciddi. Dikkat bölünür ve iş yaparken kafa başka yere gider. Makine başında ya da forklift sürerken bir mesaja bakmak, bir saniyelik körlük demektir.",
+    "Üstelik gece geç saate kadar ekrana bakmak uykuyu kısaltır. Ertesi gün yorgun ve dikkati dağınık biçimde işe gelinir. Yani teknoloji bağımlılığının iş güvenliğine etkisi, dikkatin dağılması ve uykusuzluk nedeniyle kaza riskinin artmasıdır. Ergonomi ya da göz yorgunluğu gibi sorunlar da cabası."
+   ],
+   "type": "photo"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1762962051819-e69f0a39cde8?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Kaynak atölyesinde gelen mesaj",
+   "bullets": [
+    "Ali torna başında telefona baktı",
+    "Eli iş parçasına yaklaştı",
+    "Arkadaşı uyardı, parmak kurtuldu"
+   ],
+   "steps": [
+    "Bir metal imalat atölyesinde torna operatörü Ali, işin ortasında telefonuna bir mesaj bildirimi alıyor. Hızlıca bakıp yanıtlayacağını düşünüyor.",
+    "Bir eliyle telefonu tutuyor, diğer eliyle iş parçasını ayarlamaya çalışıyor. Bakışı ekranda; makine ise dönmeye devam ediyor.",
+    "Yan tezgâhtaki ustası Ahmet fark edip bağırıyor. Ali refleksle elini çekiyor, parmakları kıl payı kurtuluyor.",
+    "Atölye amiri, bu olayı ramak kala olarak kayıt altına alıyor ve ertesi gün herkes için bir karar alıyor: çalışma alanında telefon, makine başında kullanılmayacak; acil durumlarda ise ayrı bir noktadan görüşme yapılacak. Bu kural herkesi korur. Kaza sonrası suçlu aramaktansa, kazayı baştan önleyen basit bir kural koymak çok daha değerlidir."
+   ],
+   "type": "photo"
+  },
+  {
+   "kicker": "Doğru ve yanlış",
+   "title": "Çalışırken telefon",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=1200",
+     "title": "Telefon uzakta",
+     "text": "Mola ve güvenli alan dışında bildirimleri kapalı tut",
+     "ok": true
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1762962051819-e69f0a39cde8?w=1200",
+     "title": "İş sırasında bakmak",
+     "text": "Makine, araç ya da yüksekte çalışırken ekrana bakmak",
+     "ok": false
+    }
+   ],
+   "steps": [
+    "Çalışma sırasında telefonla ilgili iki yaklaşımı karşılaştıralım.",
+    "Doğru olan, telefonu çalışma alanının dışında tutmak ya da bildirimleri kapatmak. Gerekli mesajlara mola sırasında, güvenli bir yerde bakmak.",
+    "Yanlış olan, makine, forklift, vinç ya da yüksekte çalışırken ekrana bakmak. Yürürken bile merdivende, rampada ya da şantiyede telefona bakmak düşmeye yol açabilir.",
+    "Araç ve iş makinesi kullanırken telefon kullanmayın. Acil bir arama gelirse güvenli bir yerde durun, makineyi kapatın ve ondan sonra konuşun."
+   ],
+   "type": "dodont"
+  },
+  {
+   "kicker": "Teknoloji",
+   "title": "Dikkat dağınıklığının üç yüzü",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1655952325939-24bfbbdaee98?w=1200",
+     "title": "Bildirim",
+     "text": "Her ses, işe dönüş süresini uzatır",
+     "tag": "Bölünme"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1730584474338-aa8d9d186bf7?w=1200",
+     "title": "Gece ekranı",
+     "text": "Uykuyu kısaltır, ertesi gün dikkat düşer",
+     "tag": "Uykusuzluk"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1689942010216-dc412bb1e7a9?w=1200",
+     "title": "Sürüş sırasında",
+     "text": "Araç ve iş makinesinde en büyük tehlike",
+     "tag": "Araç"
+    }
+   ],
+   "steps": [
+    "Teknoloji kaynaklı dikkat dağınıklığı üç yüzle karşımıza çıkar.",
+    "Birincisi bildirim. Bir mesaja kısa bir bakış, aslında dikkatin işten koptuğu bir kesintidir. Dikkatinizi tekrar toplamak, düşündüğünüzden uzun sürer.",
+    "İkincisi gece ekranı. Yatmadan önce saatlerce ekrana bakmak uykuyu geciktirir. Ertesi gün uykusuz bir vücut, yavaş bir beyin ve tehlikeli bir iş demektir.",
+    "Üçüncüsü sürüş. Araç ya da iş makinesi kullanırken telefona bakmak, alkolün etkisine benzer riskler yaratır. Bu yüzden direksiyon ve kumanda başındayken telefonunuzun ekranına değil, yola ve çevreye bakın."
+   ],
+   "type": "cards"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1674049406206-83d38bd15c8a?w=2400",
+   "kicker": "Uyku ve yorgunluk",
+   "title": "Uykusuzluk de bir dikkat sorunudur",
+   "bullets": [
+    "Gece vardiyası bedeni yorar",
+    "Uykusuz kişi madde etkisindeymiş gibi hata yapabilir",
+    "Kafein ve enerji içecekleri geçici çözümdür",
+    "Düzenli uyku en iyi önlemdir"
+   ],
+   "steps": [
+    "Bu ders bağımlılık konusunu işliyor, ama uykuyla da yakın ilişkisi var. Çünkü uykusuzluk ve yorgunluk, bağımlılıkların hem nedeni hem sonucu olabilir.",
+    "Gece vardiyalarında çalışan arkadaşlarımız için bu daha da önemli. Vücut saatiyle uyumlu olmayan düzen, yorgunluğu ve dikkat kaybını artırır.",
+    "Uzun süre uyumayan bir kişinin tepkileri, madde etkisindeki birininkine benzeyebilir. Gözlerin kapanması, kısa süreli uyuklama ve algı kaybı yaşanabilir.",
+    "Kahve ve enerji içecekleri geçici bir uyanıklık verir, ama yorgunluğu gidermez. Dozu kaçırınca çarpıntı, huzursuzluk ve sonra ani çöküş gelir.",
+    "En iyi önlem, düzenli ve yeterli uyku, dengeli beslenme ve işten sonra gerçek anlamda dinlenmektir. Çok yorgunsanız bunu amirinize söylemekten çekinmeyin."
+   ],
+   "type": "split"
+  },
+  {
+   "kicker": "İş arkadaşlarınız",
+   "title": "İş arkadaşında fark edilen işaretler",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1774600166834-175d06febcd4?w=1200",
+     "title": "Davranış",
+     "text": "Sık geç kalma, öfke, içine kapanma, tutarsızlık"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758874572670-63042c5448c6?w=1200",
+     "title": "Beden",
+     "text": "Kızarık göz, titreme, kokular, dengesizlik"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1752650735615-9829d8008a01?w=1200",
+     "title": "İş",
+     "text": "Sık hata, sık devamsızlık, kaza ya da ramak kala"
+    }
+   ],
+   "steps": [
+    "Bir iş arkadaşınızda sorun olduğundan şüpheleniyorsanız hangi işaretlere bakmalısınız?",
+    "Davranışta sık geç kalma, ani öfke, içine kapanma ve tutarsız davranışlar görülebilir.",
+    "Bedende kızarık gözler, titreme, belirgin kokular, dengesiz yürüme gibi belirtiler dikkat çeker.",
+    "İşte ise sık hata, devamsızlık, tekrarlayan ramak kala olaylar ve kaza eğilimi görülür. Bunların hiçbiri tek başına teşhis değildir. Ama birden fazlası bir arada, kişinin desteğe ihtiyaç duyduğunu gösterebilir."
+   ],
+   "type": "roles"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1573497491208-6b1acb260507?w=2400",
+   "kicker": "Bir arkadaşınızda fark ederseniz",
+   "title": "Yargılamadan, güvenle yaklaşın",
+   "bullets": [
+    "Önce güvenliği düşünün, tehlikeli işe izin vermeyin",
+    "Özel bir ortamda, sakin biçimde konuşun",
+    "Suçlamak yerine gözlemlerinizi paylaşın",
+    "Amire ve işyeri hekimine bildirin, destek alın"
+   ],
+   "steps": [
+    "Bir iş arkadaşınızın bağımlılık nedeniyle riskli olduğunu fark ederseniz ne yapmalısınız?",
+    "Önce güvenliği düşünün. Kişi o anda madde etkisindeyse ve tehlikeli bir işe başlayacaksa, onu o işten uzaklaştırın. Gerekirse hemen amirinize haber verin. Bu durumda kişiyi tek başına araç kullanmaya göndermeyin, bir başkasının eşlik etmesini sağlayın.",
+    "Uygun bir anda, kalabalıktan uzakta sakin bir şekilde konuşun. Zor durumda olduğunu düşündüğünüzü, yardım etmek istediğinizi söyleyin.",
+    "Suçlayıcı olmayın. Geçen hafta üç kez geç geldiğini fark ettim, yardım edebileceğim bir şey var mı gibi, gözleme dayalı ifadeler kullanın.",
+    "Sorun sürüyorsa amirinize ve işyeri hekimine bildirin. Bu ihbar değil, bir arkadaşlık görevidir. Çünkü destek alması, kişiyi de iş arkadaşlarını da korur."
+   ],
+   "type": "split"
+  },
+  {
+   "kicker": "Yardım yolları",
+   "title": "Telefonla ulaşabileceğiniz hatlar",
+   "items": [
+    {
+     "value": "171",
+     "unit": "",
+     "label": "ALO 171 Sigara Bırakma Hattı"
+    },
+    {
+     "value": "115",
+     "unit": "",
+     "label": "Yeşilay Danışmanlık Merkezi hattı"
+    },
+    {
+     "value": "112",
+     "unit": "",
+     "label": "Acil durum, kriz anında"
+    }
+   ],
+   "steps": [
+    "Peki, destek nereden alınır? Türkiye'de ücretsiz ve gizli yardım hatları var.",
+    "Sigarayı bırakmak isteyenler için Sağlık Bakanlığı'nın ALO 171 Sigara Bırakma Hattı var. Arayınca uzman destek ve takip alabilirsiniz.",
+    "Alkol, madde, kumar ya da internet bağımlılığı için Yeşilay Danışmanlık Merkezi'nin, yani YEDAM'ın 115 numaralı danışma hattı var. Bu hat ücretsizdir ve bilgiler gizlilik içinde korunur. Dilerseniz önce yalnızca bilgi almak için de arayabilirsiniz; kimse sizi bir karara zorlamaz. Hem bağımlılığı olanlar hem de yakınları arayabilir.",
+    "Acil bir durum varsa, yani kişi bilinçsizse ya da kendine zarar verme tehlikesi varsa 112'yi arayın. Bu hatlar kimseyi yargılamaz, yönlendirir."
+   ],
+   "type": "stats"
+  },
+  {
+   "kicker": "Tedavi ve destek",
+   "title": "Başvurabileceğiniz yerler",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1758520144795-299f212ccba0?w=1200",
+     "title": "Aile hekimi",
+     "text": "İlk başvuru noktası, sevk ve yönlendirme sağlar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758691461990-03b49d969495?w=1200",
+     "title": "İşyeri hekimi",
+     "text": "İşin risklerini bilir, gizlilik içinde destek verir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1784041321486-dc3f5c5a34f9?w=1200",
+     "title": "Bağımlılık merkezleri",
+     "text": "Hastanelerdeki ilgili birimler ve danışmanlık merkezleri"
+    }
+   ],
+   "steps": [
+    "Yüz yüze destek için de seçenekleriniz var.",
+    "Aile hekiminiz ilk başvuru noktası olabilir. Sizi ilgili birime yönlendirir.",
+    "İşyeri hekimi işinizin risklerini en iyi bilen sağlık çalışanıdır. Sağlık bilgileriniz, hekimlik meslek sırrı kapsamında gizli kalır. Bu konuyu rahatça konuşabilirsiniz.",
+    "Bağımlılık tedavisi için hastanelerin ilgili birimleri ve danışmanlık merkezleri de vardır. Tedavi kişiye özel planlanır ve sürekli destek içerir. Bırakmak mümkündür ve yalnız değilsiniz. Birçok insan destek sayesinde bağımlılığını yenmiş ve işine güvenle dönmüştür."
+   ],
+   "type": "roles"
+  },
+  {
+   "kicker": "Doğru ve yanlış",
+   "title": "Yardım istemek",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1573497491208-6b1acb260507?w=1200",
+     "title": "Erken destek",
+     "text": "Sorun büyümeden hekime, amire ya da hatta danış",
+     "ok": true
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1761519609296-b7cbf5778ca6?w=1200",
+     "title": "Gizleyip taşımak",
+     "text": "Utanıp saklamak ve tek başına başa çıkmaya çalışmak",
+     "ok": false
+    }
+   ],
+   "steps": [
+    "Son olarak yardım isteme davranışını karşılaştıralım.",
+    "Doğru olan, sorun büyümeden hekime, amire ya da bir destek hattına danışmaktır. Erken destek, hem tedaviyi hem iş hayatınızı kolaylaştırır. Sorun ne kadar erken konuşulursa, çözüm yolları o kadar çoktur.",
+    "Yanlış olan, utanıp saklamak ve tek başına başa çıkmaya çalışmaktır. Gizlemek sorunu büyütür, kazaya yol açabilir.",
+    "Unutmayın: yardım istemek zayıflık değil, güçtür. Kendinizi ve yanınızdakileri korumanın en akıllı yolu budur."
+   ],
+   "type": "dodont"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1694521787162-5373b598945c?w=2400",
+   "kicker": "İşyeri kuralları",
+   "title": "Kurallar herkesi korur",
+   "bullets": [
+    "Madde etkisinde işe gelmek yasaktır",
+    "Kurallar işe giriş ve eğitimde anlatılır",
+    "Yüz yüze eğitimde işyeriniz konuşulur"
+   ],
+   "steps": [
+    "İşyerlerinde alkol ve madde konusunda kurallar vardır. Bu kurallar sizi cezalandırmak için değil, herkesin güvenliği için konur.",
+    "Alkollü ya da uyuşturucu madde etkisinde işe gelmek ve çalışmak, işyeri kurallarına aykırıdır. Böyle bir durum iş sözleşmesinin haklı nedenle feshine de yol açabilir. Ayrıca bu kişi kendisini ve başkalarını tehlikeye atmış olur.",
+    "Çalışanların da kanundan doğan sorumlulukları var: kendi sağlık ve güvenliklerini, işlerinden etkilenen diğer kişilerin sağlık ve güvenliğini korumak. Dikkatinizi azaltan her şey, bu yükümlülüğe aykırıdır.",
+    "Kendi işyerinizin özel kurallarını ve risklerini yüz yüze eğitimde uzmanınızla konuşacaksınız. Yani burada genel çerçeveyi öğreniyoruz; ayrıntıyı orada tamamlayacaksınız. Orada kendi işinize göre sorularınızı sorabilirsiniz."
+   ],
+   "type": "photo"
+  },
+  {
+   "kicker": "Doğru ve yanlış",
+   "title": "Stresle başa çıkmak",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1626471671222-9d89fe4c2668?w=1200",
+     "title": "Hareket ve konuşma",
+     "text": "Yürüyüş, temiz hava, bir yakınla sohbet",
+     "ok": true
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1606050426913-b2553bc1e1d6?w=1200",
+     "title": "Alkol ve sigara",
+     "text": "Geçici rahatlama verir, sorunu büyütür",
+     "ok": false
+    }
+   ],
+   "steps": [
+    "Bağımlılıkların birçoğu stresle başa çıkma çabası olarak başlar. Bu yüzden sağlıklı yollar önemli.",
+    "Doğru olan, hareket etmek, temiz hava almak, işten sonra bir yakınınızla konuşmak, düzenli uyumaktır. Bunlar hem dikkatinizi hem ruh sağlığınızı korur.",
+    "Yanlış olan, stresi alkol ya da sigara ile bastırmaya çalışmaktır. Geçici bir rahatlama verir, ama uyku bozulur, sorun büyür ve bağımlılık gelişebilir.",
+    "İşyerinizde psikososyal destek ya da çalışan görüşmeleri varsa bunlardan yararlanın. Stresin iş yüküyle ilgili olduğunu düşünüyorsanız amirinize bildirin."
+   ],
+   "type": "dodont"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1532635042-a6f6ad4745f9?w=2400",
+   "kicker": "Uygulama ipuçları",
+   "title": "Dikkatinizi korumanın günlük yolları",
+   "bullets": [
+    "Yeterince uyuyun, vardiya öncesi ağır yemeyin",
+    "Telefonu çalışma alanı dışında tutun",
+    "Stresi hareket, temiz hava ve konuşarak atın",
+    "İlaç kullanıyorsanız etkisini öğrenin"
+   ],
+   "steps": [
+    "Bu dersin sonunda, günlük hayatınızda uygulayabileceğiniz birkaç pratik ipucu paylaşalım.",
+    "Birincisi uyku. Vardiyanıza göre düzenli bir uyku saati belirleyin. Yorgun beyin, dikkatsiz el demektir.",
+    "İkincisi telefon. Çalışma alanına girmeden önce bildirimleri kapatın, telefonu dolabınızda ya da cebinizde sessiz tutun.",
+    "Üçüncüsü stres. Stresi alkol, sigara ya da başka maddelerle atmaya çalışmak sorunu büyütür. Kısa yürüyüş, temiz hava, bir arkadaşla konuşmak, nefes egzersizi çok daha etkilidir.",
+    "Dördüncüsü ilaç. Yeni bir ilaç başlandığında etkisini öğrenin, yan etkisi varsa çalışmaya başlamadan önce hekiminize ve amirinize danışın."
+   ],
+   "type": "split"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1512067053627-3cb65e51a128?w=2400",
+   "kicker": "Kapanış özeti",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Alkol ve uyuşturucu dikkat ve refleksi azaltır, kaza riskini artırır",
+    "Kapalı işyerlerinde tütün ürünü kullanımı yasaktır",
+    "İlaçlar da makine kullanımını etkileyebilir",
+    "Telefon bağımlılığı dikkat dağınıklığı ve uykusuzluğa yol açar",
+    "Yardım almak mümkün: ALO 171, 115, hekim"
+   ],
+   "steps": [
+    "Dersi toparlayalım.",
+    "Alkol veya uyuşturucu etkisinde çalışmanın en önemli riski, dikkat ve reflekslerin azalmasıyla iş kazası riskinin artmasıdır. Etki ertesi güne de sürebilir.",
+    "Kapalı işyerlerinde tütün ürünü kullanımı yasaktır. Pasif etkilenim sağlığa zarar verir, tehlikeli işyerlerinde sigara yangın ve patlama riski de yaratır.",
+    "Reçeteli ilaçlar bile uyku ve baş dönmesi yaparak makine kullanımını etkileyebilir. Prospektüse bakın, hekiminize işinizi söyleyin.",
+    "Telefon ve teknoloji bağımlılığı, dikkatin dağılması ve uykusuzluk nedeniyle kaza riskini artırır. İş sırasında telefonla ilgilenmeyin.",
+    "Yardıma ihtiyacınız olursa ALO 171, 115 ya da işyeri hekiminiz var. Dersin sonunda birkaç kısa soru sizi bekliyor. Dikkatle okuyun ve öğrendiklerinizi düşünerek cevaplayın. Kendinize ve iş arkadaşlarınıza gösterdiğiniz özen için teşekkür ederim. Görüşmek üzere."
+   ],
+   "type": "check"
+  }
+ ]
+}

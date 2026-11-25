@@ -1,0 +1,854 @@
+{
+ "code": "tc_t8",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "3. Bölüm · Teknik Konular",
+ "title": "İş ekipmanlarının güvenli kullanımı (2)",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1598299803204-b73796f43289?w=2400",
+   "kicker": "3. Bölüm · Ders 8",
+   "title": "İş ekipmanlarının güvenli kullanımı (2)",
+   "subtitle": "Bakım, kaldırma, el aletleri ve elektrik",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste, fabrikadan şantiyeye, depodan atölyeye kadar hemen her işyerinde karşınıza çıkan ekipmanların güvenli kullanımını konuşacağız: bakımda enerji izolasyonu, forklift, vinç ve sapanlar, el aletleri ve elektrikle çalışma.",
+    "Bir ekipman, doğru kullanıldığında işinizi kolaylaştırır; yanlış kullanıldığında ise saniyeler içinde ağır bir kaza yaratabilir. Bu derste kuralların arkasındaki nedeni anlatacağız ki, sadece ezberlemeyin, sahada da fark edebilin."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Enerji izolasyonu",
+     "text": "Kilitleme ve etiketleme"
+    },
+    {
+     "title": "Forklift",
+     "text": "Yetki, kontrol ve güvenli sürüş"
+    },
+    {
+     "title": "Vinç ve sapanlar",
+     "text": "Kaldırma ve bağlama kuralları"
+    },
+    {
+     "title": "El aletleri",
+     "text": "Elle ve elektrikle çalışan aletler"
+    },
+    {
+     "title": "Elektrik ve kontrol",
+     "text": "Güvenli çalışma ve günlük kontrol"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Bu ders beş başlıkta ilerleyecek.",
+    "İlk başlık bakımda enerji izolasyonu. Bir makineyi bakıma alırken enerjisini nasıl kesip kilitlediğimizi ve neden etiketlediğimizi göreceğiz.",
+    "İkinci başlık forklift. Kim kullanabilir, kullanmadan önce neye bakılır, yolda ve depoda nelere dikkat edilir.",
+    "Üçüncü başlık vinç ve sapanlar. Yük nasıl bağlanır, kimler neyi yapar, yükün altında neden durulmaz.",
+    "Dördüncü başlık el ve elektrikli el aletleri ile günlük kontrol listesi.",
+    "Beşinci başlıkta ise elektrikle ilgili güvenli çalışma uygulamalarını konuşacağız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1632914146475-bfe6fa6b2a12?w=2400",
+   "kicker": "Neden önemli?",
+   "title": "Kazaların önemli kısmı makine çalışırken değil, bakımda olur",
+   "bullets": [
+    "Bakım, kapak ve koruyucuların açıldığı andır",
+    "Bir kişinin hatası, başka birinin çalıştırmasıyla birleşir",
+    "Enerjinin ‘kesilmiş gibi’ görünmesi yetmez"
+   ],
+   "steps": [
+    "Makine çalışırken koruyucuları yerinde olur, sizi tehlikeli bölgeden ayırır. Peki bakım sırasında ne olur? Kapaklar açılır, koruyucular çıkarılır ve eliniz tehlikeli bölgeye girer.",
+    "Bu nedenle bakım, kazaların çok sık yaşandığı bir andır. Üstelik kazanın sebebi çoğu zaman bir kişinin hatası değil, iki kişinin iletişimsizliğidir: biri bakım yapıyor, diğeri makineyi çalıştırıyor.",
+    "Kısacası makinenin sadece durdurulmuş gibi görünmesi yetmez; enerjisinin gerçekten kesilmiş ve yeniden bağlanamaz hale getirilmiş olması gerekir.",
+    "İş Ekipmanları Yönetmeliği de bakımın ekipman durdurulmuş, enerji bağlantısı kesilmiş halde yapılmasını ister."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1730584474338-aa8d9d186bf7?w=2400",
+   "kicker": "Temel kural",
+   "value": "Önce kes",
+   "title": "Bakım ve onarımdan önce ekipmanın enerjisi kesilir, kilitlenir ve etiketlenir",
+   "text": "Düğmeye basıp ‘durdu’ demek yeterli değildir; enerji kaynağı fiziksel olarak ayrılmalıdır",
+   "steps": [
+    "Bu dersin bakım ile ilgili temel cümlesi bu. Enerjiyi kesmek, kilitlemek ve etiketlemek, bakımdan önce yapılan, ihmale gelmeyen bir güvenlik adımıdır.",
+    "Çünkü bir düğme, başkası tarafından yanlışlıkla ya da otomatik bir sistem tarafından yeniden çalıştırılabilir. Fiziksel bir kilit ise sizin bakım yaptığınız sürece bu ihtimali ortadan kaldırır."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Enerji türleri",
+   "title": "Tehlike sadece elektrik değildir",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1783419752280-46a2073ef7dc?w=1200",
+     "tag": "Elektrik",
+     "title": "Elektrik enerjisi",
+     "text": "Pano, şalter, kablo ve motor"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1757266705787-c319b6495b72?w=1200",
+     "tag": "Akışkan",
+     "title": "Basınç ve sıvı",
+     "text": "Hidrolik, pnömatik hat ve buhar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1695603414685-af28aff0f9d2?w=1200",
+     "tag": "Depolanmış",
+     "title": "Yay, ağırlık, volan",
+     "text": "Ekipman durduktan sonra da hareket edebilir"
+    }
+   ],
+   "steps": [
+    "Makinenin enerjisi denince çoğumuzun aklına yalnızca elektrik gelir. Oysa kaynak birden fazladır.",
+    "Birincisi elektrik: pano, şalter ve motor besleme hattı. Şalter kapatılsa bile kapasitör gibi parçalarda yük kalabilir.",
+    "İkincisi basınç: hidrolik ve pnömatik hatlar, buhar ve basınçlı sıvılar. Bu hatlar kapatılmadan ya da basınç boşaltılmadan açılırsa, yüksek basınçlı akışkan fışkırır.",
+    "Üçüncüsü depolanmış enerji: sıkışmış yaylar, yerçekimiyle inebilecek yük ya da dönmeye devam eden volan. Makine durdu sanıp elinizi sokarsanız, ezilebilirsiniz."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Kilitleme ve etiketleme",
+   "title": "Bakıma başlamadan önceki beş adım",
+   "items": [
+    {
+     "title": "Duyurun",
+     "text": "Etkilenen kişiler bilgilendirilir"
+    },
+    {
+     "title": "Durdurun",
+     "text": "Normal kapatma yöntemiyle"
+    },
+    {
+     "title": "İzole edin",
+     "text": "Elektrik, basınç ve diğer enerjiler ayrılır"
+    },
+    {
+     "title": "Kilit ve etiket",
+     "text": "Her kişi kendi kilidini takar"
+    },
+    {
+     "title": "Doğrulayın",
+     "text": "Çalıştırmayı deneyin, enerji yoktur"
+    }
+   ],
+   "steps": [
+    "Kilitleme ve etiketleme, beş adımda uygulanır.",
+    "Önce duyurun. Makine başında çalışan, yan hatta çalışanlar ve amiriniz bakım yapılacağını bilmelidir.",
+    "İkincisi, makineyi normal kapatma yöntemiyle durdurun. Ani ve zorla durdurma, zarar verebilir.",
+    "Üçüncüsü izolasyon. Ana şalter, vana ya da bağlantı ayrılır; basınç boşaltılır, yaylar ve yükler güvene alınır.",
+    "Dördüncü adımda kilit ve etiket takılır. Etikette sizin adınız, tarih ve neden yazar.",
+    "Beşinci adım doğrulama: Başlat düğmesine basarak makinenin çalışmadığını gösterin. Bu deneme, bakıma başlamadan önceki son güvence kontrolüdür."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1531417666976-ed2bdbeb043b?w=2400",
+   "kicker": "Kilit ve etiket",
+   "title": "Kilidin anahtarı sizin cebinizde",
+   "bullets": [
+    "Her çalışan kendi kilidini takar",
+    "Etikette ad, tarih ve neden yazar",
+    "Kilidi yalnızca takan kişi açar"
+   ],
+   "steps": [
+    "Kilitleme ve etiketlemenin püf noktası, kilidin kişiye ait olmasıdır. Bakım ekibinde beş kişi varsa, beş ayrı kilit takılır. Böylece son kişi çıkana kadar enerji bağlanamaz.",
+    "Her çalışan kendi kilidini takar ve anahtarını kimseye vermez. Etiket, makineyi görenlere neden kilitli olduğunu söyler; üzerinde adınız, tarih ve neden yazar.",
+    "Kilidi yalnızca takan kişi açar.",
+    "‘Sabah takılmış, unutulmuştur’ diyerek kilit kesmek, yetkisiz kişilerin işi değildir; kilit sahibine ulaşılamıyorsa, işyerinin yazılı prosedürüne göre yetkili sorumlu karar verir. Vardiya değişiminde de kilit ve etiket devredilir; bakım sürüyorsa, yeni vardiya kendi kilidini takmadan eski kilitler çıkarılmaz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1613206485381-b028e578e791?w=2400",
+   "kicker": "Kilidi çıkarırken",
+   "title": "Kilidi çıkarmadan önceki üç kontrol",
+   "bullets": [
+    "Alanda kimse ve hiçbir alet kalmadı",
+    "Koruyucular ve kapaklar yerine takıldı",
+    "Etkilenenlere haber verildi"
+   ],
+   "steps": [
+    "Bakım bitti diye acele edip kilidi çıkarmayın. Bu an da en az bakımın kendisi kadar risklidir.",
+    "Önce makinenin içinde ve çevresinde kimse ve unutulmuş bir alet kalmadığından emin olun. Bir anahtar ya da bez parçası, makine çalışınca fırlayabilir ya da sıkışabilir.",
+    "İkinci olarak kapakları ve koruyucuları yerine takın. Çıkarılmış bir koruyucuyla çalıştırılan makine, bir sonraki kazanın hazırlığıdır.",
+    "Üçüncü olarak yakındaki herkese makinenin çalıştırılacağını duyurun. Ondan sonra kilidinizi ve etiketinizi sizin çıkarırsınız; çalıştırmayı kontrollü yapar, ilk dakikalarda izlersiniz. Birden fazla kişi kilit taktıysa, son kilit çıkana kadar enerji bağlanamaz."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Karşılaştıralım",
+   "title": "Bakımda doğru ve yanlış",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=1200",
+     "ok": true,
+     "title": "Kilit ve etiket takılı",
+     "text": "Enerji ayrıldı, deneme yapıldı"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1598299803204-b73796f43289?w=1200",
+     "ok": false,
+     "title": "Sadece düğmeye basıldı",
+     "text": "Bir başkası makineyi çalıştırabilir"
+    }
+   ],
+   "steps": [
+    "Soldaki örnekte enerji kaynağı ayrılmış, kilit ve etiket takılmış. Bakım yapan kişi, güvende olduğundan emin.",
+    "Sağdaki örnekte ise yalnızca durdurma düğmesine basılmış. Makine durmuş görünüyor ama enerjisi bağlı; başka biri ya da otomatik bir sistem onu çalıştırabilir.",
+    "Şunu unutmayın: Bakım ne kadar kısa sürecek olursa olsun, ‘hemen çıkarım’ demek, kilidi atlamak için yeterli bir neden değildir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1695603414685-af28aff0f9d2?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Konveyörde ‘beş dakikalık’ ayar",
+   "bullets": [
+    "Düğme durdurulmuştu, enerji ayrılmadı",
+    "Arkadaşı panodan çalıştırdı",
+    "Doğrusu: kilit, etiket, deneme"
+   ],
+   "steps": [
+    "Bir üretim hattında Murat usta, bir konveyörün bandını ayarlamak için makineyi durduruyor. Beş dakikalık iş olduğu için kilitleme yapmıyor. Başka bir bölümde çalışan arkadaşı, hattın durduğunu görünce kontrol panosundan çalıştırmayı deniyor.",
+    "Bant hareket edince Murat ustanın eldiveni makaralara sıkışıyor. Neyse ki yanındaki çalışan hemen acil durdurma düğmesine basıyor ve ağır bir yaralanma olmuyor.",
+    "Ne yapılmalıydı? Ana enerji ayrılmalı, kilit ve etiket takılmalı, bakım bitene kadar kimse çalıştıramamalıydı.",
+    "Beş dakikalık iş de, beş saatlik iş de aynı kurala tabidir. Kısa işlerin kazaya daha çok yol açmasının nedeni, kuralların atlanmasıdır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1770827730773-cc7848b2ee61?w=2400",
+   "kicker": "Forklift",
+   "title": "Forklift kullanmak bir yetki işidir",
+   "bullets": [
+    "Eğitimli ve işveren tarafından görevlendirilmiş kişi kullanır",
+    "Birçok meslek gibi forklift operatörlüğü için de MYK belgesi aranabilir",
+    "Forklift yılda bir periyodik kontrol edilir",
+    "Her çalışma öncesi operatör günlük kontrol yapar"
+   ],
+   "steps": [
+    "Forklift herkesin kullanabileceği bir araç değildir. Dört kural var.",
+    "Birincisi, güvenli kullanım konusunda eğitim almış ve işveren tarafından görevlendirilmiş kişi kullanır. ‘Bir kereliğine ben yapayım’ demek, kimseyi yetkili yapmaz.",
+    "İkincisi, forklift operatörlüğü gibi tehlikeli ve çok tehlikeli işlerde birçok meslek, mesleki yeterlilik belgesi ister. İşyerinizde hangi belge gerektiğini yüz yüze eğitimde uzmanınıza sorabilirsiniz.",
+    "Üçüncüsü, İş Ekipmanları Yönetmeliği'ne göre forklift ve benzeri endüstriyel araçlar yılda bir periyodik kontrolden geçirilir.",
+    "Dördüncüsü, operatör her çalışma öncesi forkliftin günlük kontrolünü yapar: fren, direksiyon, çatal, zincir, lastik, korna, ışıklar ve emniyet kemeri."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1779155413504-7608a08d4873?w=2400",
+   "kicker": "Vardiya başı",
+   "title": "Forkliftte sürüşten önceki kontrol",
+   "bullets": [
+    "Fren, direksiyon, çatal ve zincir",
+    "Lastik, korna, ışık ve emniyet kemeri",
+    "Hidrolik, yakıt ya da akü kaçağı"
+   ],
+   "steps": [
+    "Forkliftin başına geçtiğinizde, anahtarı çevirmeden önce iki dakikanızı ayırın. Bu iki dakika, vardiya boyunca sizi korur.",
+    "Fren ve direksiyon sağlam çalışıyor mu? Çatal ve zincirlerde çatlak, bükülme ya da gevşeklik var mı? Bunlar yük altında bir anda ortaya çıkan arızalardır.",
+    "Lastikler, korna, ışıklar ve emniyet kemeri çalışıyor mu? Özellikle geri vitesteki sesli uyarı, depoda yayaları koruyan en basit önlemdir.",
+    "Son olarak zeminde hidrolik yağ, yakıt ya da akü sızıntısı var mı bakın. Sızıntı hem kayma hem yangın riski demektir. Bir eksik varsa forkliftle çalışmayın, etiketleyip amirinize haber verin."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Güvenli sürüş",
+   "title": "Forkliftte üç ana alan",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1576669801820-a9ab287ac2d1?w=1200",
+     "tag": "Yük",
+     "title": "Yük ve kapasite",
+     "text": "Etiketteki kapasiteyi aşmayın, yükü dengeli alın"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1740733448722-82e16d3468bb?w=1200",
+     "tag": "Yol",
+     "title": "Yol ve yayalar",
+     "text": "Düşük hız, açık görüş, yaya geçiş noktalarında dur"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1763665814546-27c2c003317e?w=1200",
+     "tag": "Park",
+     "title": "Durma ve park",
+     "text": "Çatal yere inik, el freni çekili, kontak kapalı"
+    }
+   ],
+   "steps": [
+    "Güvenli forklift kullanımını üç alanda toplayalım.",
+    "Birincisi yük. Forkliftin üzerindeki etikette taşıyabileceği yük yazar; ağırlık merkezi uzaklaştıkça kapasite düşer. Yükü dengeli alın, sarkan ya da dengesiz yükle ilerlemeyin.",
+    "İkincisi yol. Hızınızı düşük tutun, kavşaklarda ve köşelerde yavaşlayın, yayaların yakın olduğu yerlerde korna ve göz teması kullanın. Yük görüşü kapatıyorsa geri geri sürün.",
+    "Üçüncüsü park. Forkliftten inerken çatalı yere indirin, el frenini çekin, kontağı kapatın. Çatalı havada bırakmak, arkadan gelen kişiye tuzaktır. Forkliftten her inişte aynı sırayı uygulamak, bunu alışkanlığa çevirir."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Karşılaştıralım",
+   "title": "Yükle ilerlerken",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1779155413504-7608a08d4873?w=1200",
+     "ok": true,
+     "title": "Yük yere yakın",
+     "text": "Çatal düşük, görüş açık, ilerleme yavaş"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1770827730773-cc7848b2ee61?w=1200",
+     "ok": false,
+     "title": "Yük havada ilerliyor",
+     "text": "Devrilme ve yük düşmesi riski artar"
+    }
+   ],
+   "steps": [
+    "Soldaki forklift yükü yere yakın taşıyor. Ağırlık merkezi düşük olduğu için devrilme riski azalıyor.",
+    "Sağdaki örnekte yük yüksekte tutulup ilerleniyor. Böyle bir durumda, bir çukur ya da ani fren yeterlidir, forklift ileri ya da yana devrilebilir.",
+    "Bir de şunu ekleyelim: Forklifte insan alınmaz ve çatal üzerinde kimse taşınmaz. Kişi kaldırmak için onaylı bir platform ve prosedür gerekir; doğaçlama çözüm kabul edilemez."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1740733448722-82e16d3468bb?w=2400",
+   "kicker": "Devrilme",
+   "title": "Forklift devrilirse ne yapılır?",
+   "bullets": [
+    "Emniyet kemeri takılıdır",
+    "Direksiyonu sıkı tutun, atlamayın",
+    "Gövdeden dışarıya doğru eğilmeyin"
+   ],
+   "steps": [
+    "Devrilme, forklift kazalarının en ağır sonuç doğuranlarındandır. Çoğu ölüm, operatörün araçtan atlaması ve devrilen aracın altında kalmasıyla olur.",
+    "Bu yüzden kural şudur: Emniyet kemeri takılı olsun.",
+    "Devrilme başlarsa, atlamayın; direksiyonu sıkıca tutun, ayaklarınızı yere basın ve gövdenizi aracın dışına eğmeyin.",
+    "Bu davranış doğal refleksimizin tersidir; o yüzden eğitimde konuşulur. Kemer takmak ise bu kuralın şartıdır: Kemersiz operatör, devrilirken koltukta kalamaz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1576669801820-a9ab287ac2d1?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Depoda geri manevra",
+   "bullets": [
+    "Yük görüşü kapatıyordu",
+    "Yaya geçidinde durulmadı",
+    "Doğrusu: geri geri sürüş ve işaretçi"
+   ],
+   "steps": [
+    "Bir lojistik depoda operatör, yüksek bir paleti taşıyor.",
+    "Yük ileri bakışı tamamen kapatıyor ama operatör yine de ileri gidiyor. Raf koridorunun kesişiminde, bir depo çalışanı palet kaldırma bölgesinden geçiyor.",
+    "Operatör, son anda çalışanı fark edip freni sertçe basıyor; palet ileri kayıyor ama çalışana çarpmadan duruyor. Olay, ramak kala olarak kayda geçiyor.",
+    "Ne yapılmalıydı? Yük görüşü kapattığında geri geri sürülmeli, kavşakta durulmalı, gerekirse bir işaretçi yardım etmeliydi. Yaya yollarının işaretlenmesi ve yayaların forklift hattına girmemesi de aynı kazanın başka bir önlemidir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1763665814546-27c2c003317e?w=2400",
+   "kicker": "Ara özet",
+   "title": "Bakım ve forklift için hatırlayalım",
+   "bullets": [
+    "Bakımdan önce enerjiyi kesin, kilitleyin ve etiketleyin",
+    "Her çalışan kendi kilidini takar, çalıştırmayı dener",
+    "Forklifti yalnızca eğitimli ve görevlendirilmiş kişi kullanır",
+    "Yük yere yakın, hız düşük; park halinde çatal yerde"
+   ],
+   "steps": [
+    "Şimdiye kadar öğrendiklerimizi kısaca toparlayalım.",
+    "Bakımdan önce enerji kesilir, kilitlenir ve etiketlenir.",
+    "Her çalışan kendi kilidini takar ve bakıma başlamadan önce çalıştırmayı deneyerek doğrular.",
+    "Forklifti yalnızca eğitimli ve görevlendirilmiş kişi kullanır; günlük kontrol ve yıllık periyodik kontrol unutulmaz.",
+    "Yük yere yakın taşınır, hız düşük tutulur; park halinde çatal yere iner."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1722842895153-ba7bf9d53dfb?w=2400",
+   "kicker": "Kaldırma ekipmanları",
+   "title": "Kaldırma işi, bir ekip ve bir plan işidir",
+   "bullets": [
+    "Ekipmanın etiketindeki yük kapasitesi aşılmaz",
+    "Kaldırma ekipmanları yılda bir kontrol ve teste tabidir",
+    "Kullanıcı eğitimli ve görevlendirilmiş olmalıdır",
+    "Operatör, bağlayıcı ve işaretçi ortak dil kullanır"
+   ],
+   "steps": [
+    "Vinç, caraskal, köprülü vinç ve benzeri kaldırma ekipmanları, işyerindeki en güçlü araçlardır; yanlış kullanıldıklarında en ağır sonuçlar da yaşanır.",
+    "Birincisi, her ekipmanın üzerinde kaldırabileceği azami yük yazar. Bu sınır hiçbir şekilde aşılmaz; ‘bir seferlik fazla olsun’ yoktur.",
+    "İkincisi, İş Ekipmanları Yönetmeliği'ne göre kaldırma ekipmanları, standartlarda başka bir süre belirtilmemişse yılda bir periyodik kontrolden geçirilir ve yük testine tabidir.",
+    "Üçüncüsü, kullanıcı eğitimli ve görevlendirilmiş olmalıdır. Kule vinç, mobil vinç gibi bazı ekipmanlar için mesleki yeterlilik belgesi de gerekir.",
+    "Dördüncüsü, kaldırma bir ekip işidir: operatör, yükü bağlayan kişi ve işaretçi aynı işaretleri bilir, kimin komut verdiği baştan nettir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1724870656383-c89d5c0e413a?w=2400",
+   "kicker": "Yükün altı",
+   "value": "Asla",
+   "title": "Askıdaki yükün altında ya da yük hattında kimse bulunmaz",
+   "text": "Yük bir an için bile olsa havadayken, kimsenin üzerinden geçirilmez",
+   "steps": [
+    "Bu kural, kaldırma işlerinin vazgeçilmezidir. Havada asılı bir yük, ne kadar sağlam bağlanmış olursa olsun, her an düşebilecek bir yüktür.",
+    "Bu nedenle askıdaki yükün altına girilmez, yük insanların üzerinden geçirilmez ve yükün düşme alanı önceden işaretlenerek boşaltılır. ‘Hemen geçerim’ diye düşünmek, bu kazaların en büyük sebebidir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Sapan çeşitleri",
+   "title": "Hangi sapan ne için?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1579458342405-52d7d969e0d4?w=1200",
+     "tag": "Zincir",
+     "title": "Zincir sapan",
+     "text": "Ağır ve sıcak işler, yüksek dayanım"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1794981992359-2308fd4daf9e?w=1200",
+     "tag": "Halat",
+     "title": "Çelik halat sapan",
+     "text": "Dayanıklı, keskin kenarda dikkat"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1674558346964-e7196a409880?w=1200",
+     "tag": "Tekstil",
+     "title": "Tekstil sapan",
+     "text": "Hafif, yüzeyi korur, kesilmeye hassas"
+    }
+   ],
+   "steps": [
+    "Sapanlar, yükü kaldırma ekipmanına bağlayan parçalardır. Üç yaygın çeşit var.",
+    "Zincir sapan, ağır yükler ve yüksek sıcaklık içeren işler için kullanılır. Çok dayanıklıdır ama düğüm atılmaz, bükülmüş halkalar kontrol edilir.",
+    "Çelik halat sapan dayanıklıdır; teli kopmuş, ezilmiş ya da bükülmüş halat kullanılmaz. Keskin köşelerde ek koruma gerekir.",
+    "Tekstil sapan hafiftir ve yüzeyi çizmez, ama kesilmeye ve kimyasala hassastır. Köşeli bir yüke bağlanırken koruyucu manşon kullanılır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yükü kaldırmak",
+   "title": "Kaldırmadan önceki beş soru",
+   "items": [
+    {
+     "title": "Yük ne kadar?",
+     "text": "Ağırlık ve ağırlık merkezi bilinir"
+    },
+    {
+     "title": "Sapan uygun mu?",
+     "text": "Tip, boy ve kapasite doğru"
+    },
+    {
+     "title": "Sapan sağlam mı?",
+     "text": "Kesik, ezik, aşınma yok"
+    },
+    {
+     "title": "Dene",
+     "text": "Yükü biraz kaldırıp dengesine bakın"
+    },
+    {
+     "title": "Yol açık mı?",
+     "text": "İnsanlar uzakta, yol temiz"
+    }
+   ],
+   "steps": [
+    "Her kaldırmadan önce kendinize beş soru sorun.",
+    "Birincisi, yük ne kadar ağır ve ağırlık merkezi nerede? Tahmin etmeyin; bilinmiyorsa öğrenin.",
+    "İkincisi, doğru sapan seçildi mi? Sapanın boyu, tipi ve üzerindeki kapasite etiketi yüke uygun olmalı. Sapanlar arası açı büyüdükçe, her bir sapana binen yük artar.",
+    "Üçüncüsü, sapan sağlam mı? Kesik, aşınma, düğüm ya da ezik varsa kullanmayın; hasarlı sapan hemen ayrılır.",
+    "Dördüncüsü, yükü biraz kaldırıp dengesine bakın. Yük sallanıyorsa ya da bir tarafa yatıyorsa, indirip yeniden bağlayın.",
+    "Beşincisi, yol açık mı? Güzergâhta insan yoksa ve yük düşme alanı boşaltılmışsa kaldırın."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Kaldırma ekibi",
+   "title": "Kaldırmada kim ne yapar?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1787374412732-f863ecb18c7c?w=1200",
+     "title": "Operatör",
+     "text": "Komutu tek kişiden alır; kapasiteyi ve güvenliği bilir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1560789922-5894260b9b3b?w=1200",
+     "title": "Bağlayıcı",
+     "text": "Yükü bağlar, sapanı seçer ve kontrol eder"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1759272548449-7b689a81c8fb?w=1200",
+     "title": "İşaretçi",
+     "text": "Operatöre net işaret verir; alanı boşaltır"
+    }
+   ],
+   "steps": [
+    "Kaldırma ekibinde üç temel rol vardır.",
+    "Operatör, komutu yalnızca belirlenmiş tek kişiden alır; herkes bağırırsa karmaşa çıkar. Acil durdurma işareti ise kim verirse versin hemen uygulanır.",
+    "Bağlayıcı, yükü bağlar ve sapanı seçip kontrol eder. Bağlama işi, eğitim ve deneyim ister.",
+    "İşaretçi, operatöre net ve standart işaretlerle komut verir; kaldırma alanının boşaltılmasından ve yoldaki insanların uzaklaştırılmasından sorumludur."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1722842895153-ba7bf9d53dfb?w=2400",
+   "kicker": "Sapan kontrolü",
+   "title": "Sapanı her kullanımda gözle kontrol edin",
+   "bullets": [
+    "Kesik, aşınma, düğüm ve ezik varsa kullanmayın",
+    "Kapasite etiketi okunmuyorsa kullanmayın",
+    "Keskin kenarda koruyucu manşon kullanın"
+   ],
+   "steps": [
+    "Sapanı elinize aldığınız an, bir kontrol yapın. Bu kontrol on saniye sürer ama bir kazayı önleyebilir.",
+    "Kesik, aşınma, düğüm ya da ezik görürseniz sapanı kullanmayın; hasarlı sapanı kesip atmak ya da kırmızı etiketle ayırmak işyerinizin kuralıdır, tamir etmeye kalkmayın.",
+    "Etiketi okunmuyorsa ya da kapasitesi belli değilse yine kullanmayın. Böyle bir sapanın kaç kilo taşıyabileceğini bilemezsiniz.",
+    "Keskin kenarlı bir yüke bağlıyorsanız, köşe koruyucu ya da manşon kullanın. Sapanı yerde sürüklemeyin, kimyasal ve ısı kaynaklarından uzak saklayın."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1761519609296-b7cbf5778ca6?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Yıpranmış sapan ve geçip giden iş arkadaşı",
+   "bullets": [
+    "Sapan aşınmıştı, kullanıma devam edildi",
+    "Yük altından geçiş yasaktı",
+    "Doğrusu: sapanı ayır, alanı boşalt"
+   ],
+   "steps": [
+    "Bir metal işleme tesisinde köprülü vinçle kalıp taşınıyor. Kullanılan tekstil sapanın kenarı belirgin şekilde yıpranmış ama ‘bir seferlik’ denilerek kullanılıyor. Sapanı keskin bir köşeye bağlayan kişi koruyucu da takmıyor.",
+    "Yük havadayken bir iş arkadaşı, kestirme olsun diye yükün altından yürüyor. Tam o sırada sapan kopuyor ve kalıp yere düşüyor.",
+    "Kalıp, çalışanın hemen yanına düşüyor; ağır bir yaralanma yaşanmıyor ama bu bir şans eseri. Birkaç adım geride olsaydı sonuç çok farklı olurdu.",
+    "Ne yapılmalıydı? Yıpranmış sapan kullanıma verilmemeliydi, köşe koruyucu takılmalıydı, yük hattı işaretlenip boşaltılmalıydı. Kestirme için yük altından geçmek, hiçbir zaman ‘kısa yol’ olarak düşünülmemeli."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1671040690726-b78261eff126?w=2400",
+   "kicker": "El aletleri",
+   "title": "El aleti de bir ekipmandır, özenle seçilir",
+   "bullets": [
+    "İşe uygun alet seçilir; tornavida keski yerine kullanılmaz",
+    "Sap, uç ve gövde sağlam, çatlaksız ve yağsız olmalı",
+    "Aletler bel ya da kutuda taşınır, cepte değil",
+    "Kullanım sonrası temizlenir ve yerine konur"
+   ],
+   "steps": [
+    "El aletleri küçük ve basit göründüğü için en çok ihmal edilen ekipmanlardır. Oysa iş kazalarında önemli bir paya sahiptirler.",
+    "Birincisi, işe uygun alet seçin. Tornavidayı keski, penseyi çekiç yerine kullanmak, kayma ve fırlamalara yol açar.",
+    "İkincisi, saplar çatlaksız, uçlar sağlam olmalı. Yağlı bir sap elinizden kayar, mantar gibi ezilmiş bir keski ucu parça fırlatabilir.",
+    "Üçüncüsü, aletleri taşırken cebinize koymayın; alet kemeri ya da kutu kullanın. Yüksekte çalışırken aletin düşmemesi için bağlama kordonu kullanılır.",
+    "Dördüncüsü, iş bitince aletleri temizleyip yerine koyun. Dağınık alet, kaza demektir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1734888369502-3e01d4c0a46e?w=2400",
+   "kicker": "Elektrikli el aletleri",
+   "title": "Taşlama ve matkapta koruyucuyu çıkarmayın",
+   "bullets": [
+    "Koruyucu siperlik yerinde olmalıdır",
+    "Disk, uç ve kablo kullanmadan önce kontrol edilir",
+    "Aksesuar değişimi, fiş çekilerek yapılır"
+   ],
+   "steps": [
+    "Taşlama, matkap, testere ve benzeri elektrikli el aletleri, el aletinin hızını ve gücünü bir araya getirir. Bu nedenle kuralları daha da sıkıdır.",
+    "Birincisi, koruyucu siperlik yerinde olmalıdır. İş Ekipmanları Yönetmeliği ve ekipmanın talimatı gereği, koruyucusu çıkarılmış bir alet kullanılmaz; durum amire bildirilir.",
+    "İkincisi, disk, uç ve kablo kullanmadan önce kontrol edilir. Çatlak diskler dağılabilir; kablosu hasarlı bir alet elektrik çarpmasına yol açabilir.",
+    "Üçüncüsü, disk ya da uç değiştirirken fiş çekilir. Alet tam durmadan da elinizden bırakılmaz, çünkü dönmeye devam eden disk çevresine zarar verir."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Karşılaştıralım",
+   "title": "Taşlama makinesinde koruyucu",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1674117068691-034b4bf87bc2?w=1200",
+     "ok": true,
+     "title": "Koruyucu yerinde",
+     "text": "Gözlük, eldiven ve koruyucu birlikte"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1689935421853-cb23a0bc92e4?w=1200",
+     "ok": false,
+     "title": "Koruyucu sökülmüş",
+     "text": "Disk dağılırsa parçalar yüzünüze gelir"
+    }
+   ],
+   "steps": [
+    "Soldaki örnekte koruyucu yerinde ve çalışan kişisel koruyucu donanımını takmış. Disk bir hata verse bile parçalar koruyucuya çarpar.",
+    "Sağdaki örnekte ise koruyucu sökülmüş. ‘Daha rahat çalışırım’ düşüncesi, bir disk dağılması anında çok pahalıya patlar.",
+    "Koruyucusu çıkarılmış bir ekipman kullanılmaz; durum amire bildirilir. Bu, iş ekipmanlarında en temel kurallardan biridir. Yani bir ekipmanda eksik görüyorsanız, çalışmayı sürdürmek yerine bildirmek sizin görevinizdir ve bu davranış güvenlik kültürünün parçasıdır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Günlük kontrol listesi",
+   "title": "Ekipmanı çalıştırmadan önce beş kontrol",
+   "items": [
+    {
+     "title": "Gözle bakın",
+     "text": "Hasar, sızıntı, çatlak, gevşeklik"
+    },
+    {
+     "title": "Koruyucular",
+     "text": "Kapak ve siperlik yerinde mi"
+    },
+    {
+     "title": "Acil durdurma",
+     "text": "Fren, acil stop, uyarı ışığı çalışıyor mu"
+    },
+    {
+     "title": "Çevre",
+     "text": "Zemin, kablo, ışık ve yaya yolu temiz mi"
+    },
+    {
+     "title": "Kayıt ve bildirim",
+     "text": "Eksik varsa etiketle, amire bildir"
+    }
+   ],
+   "steps": [
+    "Ekipmanın günlük kontrol listesi, uzun olmak zorunda değil; ama her gün yapılmak zorunda. Beş maddeyle özetleyelim.",
+    "Önce gözle bakın: hasar, çatlak, sızıntı ya da gevşemiş bir parça var mı?",
+    "İkincisi, koruyucular ve kapaklar yerinde mi? Çıkarılmış bir koruyucu, ekipmanı kullanılamaz yapar.",
+    "Üçüncüsü, acil durdurma, fren, korna ya da uyarı ışığı gibi güvenlik özellikleri çalışıyor mu? Kısa bir deneme yapın.",
+    "Dördüncüsü, çevre temiz mi? Kablo, zemindeki yağ, yetersiz ışık ya da yoldaki yaya, kazayı hazırlar.",
+    "Beşincisi, bir eksiklik varsa ekipmanı kullanmayın, etiketleyin ve amirinize bildirin. İyi bir kayıt, ertesi gün gelen kişi için de bilgidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1700727448575-6f1680cd7d75?w=2400",
+   "kicker": "Günlük kontrol",
+   "title": "Kontrol listesi, sorumluluğun kâğıttaki izidir",
+   "bullets": [
+    "Operatör, her çalışma öncesi kontrolü yapar",
+    "Eksik varsa ekipman kullanılmaz",
+    "Kontrol kaydı tutulur ve paylaşılır"
+   ],
+   "steps": [
+    "İş Ekipmanları Yönetmeliği, operatörün her çalışmaya başlamadan önce ekipmanı kontrol etmesini ve işlevlerini denemesini bekler. Bu, gözle yapılan günlük bir muayenedir.",
+    "Kontrolde bir eksik görürseniz ekipman kullanılmaz.",
+    "Ekipmanı ‘bir de bugün idare edelim’ diye kullanmak, tehlikeyi bir sonraki vardiyaya ve bir sonraki kullanıcıya devretmektir.",
+    "Kontrol listesi doldurulur, eksik varsa kayda geçer. Bu kayıt sadece bir kâğıt değildir; kimin ne zaman neyi gördüğünü ve neyin bildirildiğini gösterir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1721516115843-0ee85cab793f?w=2400",
+   "kicker": "Ara özet",
+   "title": "Kaldırma ve el aletlerinde hatırlayalım",
+   "bullets": [
+    "Askıdaki yükün altında kimse durmaz",
+    "Sapan kullanmadan önce gözle kontrol edilir",
+    "El aletleri işe uygun seçilir, koruyucusu çıkarılmaz",
+    "Günlük kontrolde eksik varsa ekipman kullanılmaz"
+   ],
+   "steps": [
+    "Kaldırma ve el aletleri için kısa bir özet yapalım.",
+    "Askıdaki yükün altında kimse bulunmaz. Yük hattı boşaltılır.",
+    "Sapan, kullanmadan önce gözle kontrol edilir; hasarlı ya da etiketsiz olanı hemen ayrılır.",
+    "El aletleri işe uygun seçilir. Elektrikli aletin koruyucusu çıkarılmaz.",
+    "Günlük kontrolde bir eksik görülürse ekipman kullanılmaz, etiketlenir ve amire bildirilir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1748640857973-93524ef0fe7d?w=2400",
+   "kicker": "Elektrik",
+   "title": "Elektrik görünmez, bu yüzden kurallar katıdır",
+   "bullets": [
+    "Elektrik işlerini yalnızca yetkili ve eğitimli kişi yapar",
+    "Islak ve nemli ortamda elektrikli alet kullanılmaz",
+    "Topraklama ve kaçak akım koruması devrede olmalıdır",
+    "Hasarlı kablo ve fiş kullanılmaz, bildirilir"
+   ],
+   "steps": [
+    "Elektrik hem görünmez hem de kokusuzdur. Tehlikeyi anlamadan, sonucuyla karşılaşırsınız. Bu yüzden elektrikle ilgili kurallar kesindir.",
+    "Birincisi, elektrik panosu, kablo ve tesisat işlerini yalnızca yetkili ve eğitimli kişiler yapar. ‘Basit bir bağlantı’ deyip dokunmak, size ait bir iş değildir.",
+    "İkincisi, ıslak ya da nemli ortamda elektrikli alet kullanılmaz. Su iletkendir; ıslak zeminde kablo hasarı, çarpılma riskini çok büyütür.",
+    "Üçüncüsü, topraklama ve kaçak akım koruması devrede olmalıdır. Bu sistemler, bir arıza anında akımı keserek hayat kurtarır; kapatılmaz ve devre dışı bırakılmaz.",
+    "Dördüncüsü, yalıtımı hasarlı kablo ve kırık fiş kullanılmaz. Bantlayarak idare etmek çözüm değildir; kullanmayın ve yetkili kişiye bildirin."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Elektrik tehlikeleri",
+   "title": "Sahada en sık gördüğümüz üç durum",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1785484267531-0bbcb4733352?w=1200",
+     "tag": "Kablo",
+     "title": "Hasarlı kablo",
+     "text": "Kesik, soyulmuş ya da bantlanmış yalıtım"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1632914146475-bfe6fa6b2a12?w=1200",
+     "tag": "Nem",
+     "title": "Islak zemin ve ortam",
+     "text": "Su ve elektrik bir arada tehlikeli"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1783419752280-46a2073ef7dc?w=1200",
+     "tag": "Yük",
+     "title": "Aşırı yüklenmiş priz",
+     "text": "Çoklu priz ve uzatma kablosu ısınır"
+    }
+   ],
+   "steps": [
+    "Elektrikte kazaya yol açan üç tipik durumu görelim.",
+    "İlki hasarlı kablo. Kesik, soyulmuş ya da defalarca bantlanmış kablo, çalışana çarpma riski oluşturur. Ayrıca bir kıvılcımla yangın çıkarabilir.",
+    "İkincisi ıslak ortam. Yıkama yapılan alanlarda, yağmurlu şantiyede ya da sızıntılı atölyede elektrikli alet kullanıyorsanız, çarpılma riski çok yüksektir.",
+    "Üçüncüsü aşırı yüklenen priz ve uzatma kabloları. Bir prize çok sayıda cihaz bağlamak, kabloyu ısıtır ve yangına yol açar."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Elektrikli işlerde",
+   "title": "Elektrik bakımında güvenli adımlar",
+   "items": [
+    {
+     "title": "Enerjiyi kesin",
+     "text": "Yetkili kişi ana şalteri açar"
+    },
+    {
+     "title": "Kilitleyin",
+     "text": "Kilit ve etiket takın"
+    },
+    {
+     "title": "Gerilimsizliği ölçün",
+     "text": "Cihazla doğrulayın"
+    },
+    {
+     "title": "Gerekirse topraklayın",
+     "text": "Yetkili kişi uygular"
+    },
+    {
+     "title": "Çevreyi işaretleyin",
+     "text": "Başkaları yaklaşmasın"
+    }
+   ],
+   "steps": [
+    "Elektrik bakımında bilinen güvenlik adımları, sırasıyla uygulanır. Bu adımları yalnızca yetkili kişiler yapar, ama sizin de bilmeniz gerekir.",
+    "Önce enerji kesilir: ana şalter açılır. Bu, kilitleme ve etiketlemenin ilk adımıdır.",
+    "İkincisi kilit ve etiket takılır; kimse yanlışlıkla enerjiyi açamaz.",
+    "Üçüncüsü, gerilimsizlik ölçülür. Şalter açıldı diye gerilim yoktur diye varsaymayın; cihazla doğrulayın.",
+    "Dördüncüsü, gerekiyorsa topraklama yapılır, böylece beklenmedik bir gerilim güvenli şekilde akıtılır.",
+    "Beşincisi, çevre işaretlenir ve yetkisiz kişiler uzak tutulur."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1783587354872-dba0ff30b8d5?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Islak zeminde uzatma kablosu",
+   "bullets": [
+    "Kablonun yalıtımı çatlaktı",
+    "Zemin ıslaktı, taşlama makinesi bağlıydı",
+    "Doğrusu: kuru zemin, sağlam kablo, kaçak akım"
+   ],
+   "steps": [
+    "Bir kaynak atölyesinde yıkama sonrası zemin ıslak kalıyor. Çalışan Hasan, taşlama makinesini bir uzatma kablosuyla çalıştırıyor. Kablonun yalıtımı çatlak ve bantlanmış.",
+    "Çalışırken kablo, ıslak zeminde bir su birikintisine değiyor.",
+    "Hasan'ın eli makineye değince şiddetli bir çarpılma hissediyor, kaçak akım rölesi devreye giriyor ve elektrik kesiliyor. Hasan korkuyla ama sağlam bir şekilde kurtuluyor.",
+    "Ne yapılmalıydı? Kablonun hasarı fark edilmeli ve bildirilmeliydi; zemin kurutulmalı; kaçak akım koruması bulunmayan hatta alet çalıştırılmamalıydı. Kablonun bantla idare edilmesi, tehlikeyi gizler."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Karşılaştıralım",
+   "title": "Hasarlı kabloyu gördüğünüzde",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1721516115843-0ee85cab793f?w=1200",
+     "ok": true,
+     "title": "Kullanmayın, bildirin",
+     "text": "Fişi çekin, etiketleyin, yetkiliyi çağırın"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1586717056710-643a9c44ac91?w=1200",
+     "ok": false,
+     "title": "Bantlayıp devam edin",
+     "text": "Gizli hasar çarpılma ve yangın doğurur"
+    }
+   ],
+   "steps": [
+    "Soldaki davranış doğru: Kablonun hasarlı olduğunu fark eden kişi kullanmıyor, fişi çekiyor ve yetkili kişiye haber veriyor.",
+    "Sağdaki davranışta ise hasar bantla kapatılıyor. İçeride yalıtım hasarı varsa bant onu göstermez; kablo bir gün çarpmaya ya da yangına neden olur.",
+    "Özetle: yalıtımı hasarlı bir kablo gördüğünüzde kullanmaz, yetkili kişiye bildirirsiniz."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1778074762022-c33cc42f79ae?w=2400",
+   "kicker": "Hakkınız ve görevinizi",
+   "value": "Durdurun",
+   "title": "Ekipman güvenli değilse kullanmayın, ciddi ve yakın tehlike varsa çalışma yerini terk edin",
+   "text": "Koruyucusu çıkarılmış, kilidi eksik ya da kabloları hasarlı ekipman, durmak için yeterli bir nedendir",
+   "steps": [
+    "Bu derste anlattığımız önlemlerden biri eksikse, çalışmaya devam etmek yerine durun. 6331 sayılı Kanun, çalışanın ciddi ve yakın bir tehlike halinde çalışma yerini terk etme hakkını tanır.",
+    "Ayrıca ekipmanın koruyucusu çıkarılmışsa, kilitleme yapılmamışsa ya da kablosu hasarlıysa, ekipmanı kullanmaz ve amirinize bildirirsiniz. Kanun, bu nedenle haklarınızın kısıtlanmasını yasaklar."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1757266705787-c319b6495b72?w=2400",
+   "kicker": "Yüz yüze eğitim",
+   "title": "İşyerinize özgü ekipmanları uzmanınızla konuşacaksınız",
+   "bullets": [
+    "Tehlikeli sınıfta temel eğitim en az 12, çok tehlikelide 16 ders saatidir",
+    "İşyerine özgü riskler yüz yüze eğitimde verilir",
+    "Kendi ekipmanlarınızın kilit noktalarını orada öğrenirsiniz"
+   ],
+   "steps": [
+    "Bu derste genel ilkeleri konuştuk. Sizin işyerinizde hangi makine nasıl kilitlenir, hangi forklift hangi alanda çalışır, hangi sapan kimde bulunur; bunlar işyerinden işyerine değişir.",
+    "Bu nedenle tehlikeli sınıftaki işyerlerinde temel eğitim en az 12, çok tehlikeli sınıftaki işyerlerinde en az 16 ders saatidir ve işe özgü riskler yüz yüze eğitimde sizinle konuşulacaktır.",
+    "Orada uzmanınıza sorun: Bizde kilit noktaları nerede? Kilit ve etiket prosedürümüz nedir?",
+    "Günlük kontrol listelerimiz nerede durur? Hasarlı ekipmanı kime bildiririm? Hangi ekipman için ek belge ya da özel eğitim gerekiyor? Bu soruların cevabını bilmek, bu dersteki kuralların işyerinizde gerçekten çalışmasını sağlar."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1531417666976-ed2bdbeb043b?w=2400",
+   "kicker": "Bu dersin özeti",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Bakımdan önce enerjiyi kesin, kilitleyin, etiketleyin ve deneyin",
+    "Forklift ve vinci yalnızca eğitimli, görevli kişi kullanır",
+    "Yük altında durulmaz; sapan her kullanımda kontrol edilir",
+    "Hasarlı kablo kullanılmaz, koruyucusu çıkarılan alet kullanılmaz"
+   ],
+   "steps": [
+    "Dersi toparlayalım.",
+    "Bakım ve onarımdan önce ekipmanın enerjisi kesilir, kilitlenir ve etiketlenir; bakıma başlamadan önce çalıştırma denenerek doğrulanır.",
+    "Forklift ve vinç gibi ekipmanları yalnızca eğitimli ve görevlendirilmiş kişi kullanır. Kontrol listeleri her gün, periyodik kontroller düzenli yapılır.",
+    "Askıdaki yükün altında durulmaz, sapan kullanmadan önce gözle kontrol edilir.",
+    "Yalıtımı hasarlı kablo ya da koruyucusu çıkarılmış alet kullanılmaz; durum yetkili kişiye bildirilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1730584474338-aa8d9d186bf7?w=2400",
+   "kicker": "Kapanış",
+   "title": "Yarın ekipmanınıza bu gözle bakın",
+   "bullets": [
+    "Koruyucu yerinde mi",
+    "Kilit ve etiket gerekiyor mu",
+    "Kablo, sapan ve fren sağlam mı"
+   ],
+   "steps": [
+    "Dersi bitirirken sizden küçük bir rica. Yarın işe başladığınızda, kullanacağınız ekipmanın önünde üç saniye durun.",
+    "Koruyucular yerinde mi?",
+    "Bakım yapılacaksa kilit ve etiket takıldı mı? Kablo, sapan, fren gibi kritik parçalar sağlam mı?",
+    "Cevaplardan biri hayırsa durun ve bildirin. Dersin sonunda birkaç kısa soru sizi bekliyor. Teşekkürler, güvenli çalışmalar."
+   ]
+  }
+ ]
+}

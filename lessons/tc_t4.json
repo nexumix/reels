@@ -1,0 +1,628 @@
+{
+ "code": "tc_t4",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "3. Bölüm · Teknik Konular",
+ "title": "İş ekipmanlarının güvenli kullanımı; elektrik tehlikeleri",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=2400",
+   "kicker": "3. Bölüm · Ders 4",
+   "title": "İş ekipmanlarının güvenli kullanımı; elektrik tehlikeleri",
+   "subtitle": "Makineyi ve elektriği tanıyan kaza yapmaz",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste hemen her gün elinize aldığınız ya da başında durduğunuz şeyleri konuşacağız: makineler, el aletleri ve elektrik. Tehlikeli ve çok tehlikeli işyerlerinde ağır iş kazalarının önemli bir bölümü, bunlardan biriyle ilgilidir.",
+    "Amacımız sizi korkutmak değil, bilinçli kılmak. Koruyucunun neden orada durduğunu, acil durdurma düğmesinin ne zaman kullanıldığını, kaçak akım rölesinin sizi nasıl koruduğunu ve elektrik çarpmasında ilk ne yapılacağını öğreneceksiniz."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "İş ekipmanları",
+     "text": "Koruyucu, acil durdurma, kontrol"
+    },
+    {
+     "title": "Yetki ve bakım",
+     "text": "Kim kullanır, enerji nasıl kesilir"
+    },
+    {
+     "title": "Elektrik",
+     "text": "Çarpma, topraklama, kaçak akım"
+    },
+    {
+     "title": "Müdahale",
+     "text": "Çarpılan kişiye ilk adımlar"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Ders dört adımda ilerleyecek.",
+    "İlk adımda iş ekipmanlarını, makine koruyucularını, acil durdurma düğmelerini ve periyodik kontrolleri göreceğiz.",
+    "İkinci adımda ekipmanı kimin kullanabileceğini, yetkisiz kullanımın neden yasak olduğunu ve bakım öncesinde enerjinin nasıl kesilip kilitlendiğini konuşacağız.",
+    "Üçüncü adımda elektriğe geçiyoruz. Elektrik çarpmasının nasıl zarar verdiğini, topraklamayı, kaçak akım rölesini ve ıslak ortamın tehlikesini anlatacağım.",
+    "Son adımda elektrik çarpmış bir kişiye nasıl müdahale edeceğinizi çalışacağız. İşyerinize özgü ekipman ve tesisat riskleri ise yüz yüze eğitimde uzmanınızla ayrıca ele alınacak."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1791421870389-d9fa98e7e1fc?w=2400",
+   "kicker": "İş ekipmanı nedir?",
+   "title": "İş ekipmanı, işte kullanılan her alet ve makinedir",
+   "bullets": [
+    "El aletleri: matkap, taşlama, testere",
+    "Makineler: pres, torna, freze, kesme",
+    "Taşıma ve kaldırma: forklift, vinç, transpalet",
+    "Tesisat ve tesisler de bu kapsama girebilir"
+   ],
+   "steps": [
+    "Önce tanımla başlayalım. İş ekipmanı denince aklınıza yalnızca büyük makineler gelmesin. İşte kullanılan her makine, alet, cihaz ve tesisat, iş ekipmanıdır.",
+    "El aletleri bunun ilk grubu. Matkap, avuç taşlama, daire testere, vidalama makinesi gibi. Küçük görünürler ama kesik, ezilme ve elektrik riski taşırlar.",
+    "İkinci grup makinelerdir: pres, torna, freze, kesme ve bükme tezgâhları, enjeksiyon makineleri. Üretim hatlarında en ağır yaralanmaların bir kısmı buradan gelir.",
+    "Üçüncü grup taşıma ve kaldırma ekipmanlarıdır: forklift, vinç, transpalet, konveyör. Bu ekipmanların güvenli kullanımı, İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği ile düzenlenir.",
+    "İşveren, işe uygun, güvenli ve bakımı yapılmış ekipman sağlamakla yükümlüdür. Siz de bu ekipmanı eğitimde öğrendiğiniz şekilde kullanmakla yükümlüsünüz."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1767739791250-f972ca75c60e?w=2400",
+   "kicker": "Makine koruyucusu",
+   "value": "Koruyucu",
+   "title": "Koruyucusu çıkarılmış ya da devre dışı bırakılmış makine çalıştırılmaz",
+   "text": "Koruyucu, tehlikeli hareketli parça ile sizin aranıza giren fiziksel engeldir.",
+   "steps": [
+    "Bu dersin en önemli kuralını baştan söyleyeyim: koruyucusu çıkarılmış ya da bypass edilmiş makine, kullanılmaz.",
+    "Koruyucu, makinenin dönen, kesen, ezen, sıkıştıran parçalarıyla sizin aranıza giren fiziksel engeldir. Dişliler, kayışlar, kesici bıçaklar, pres kalıbı gibi tehlikeli bölgelere elinizin ya da kolunuzun girmesini engeller.",
+    "Koruyucuyu çıkarmak ya da emniyet sensörünü atlatmak çoğu zaman 'işi hızlandırmak' için yapılır. Ama kazaların hepsi hızlı iş bitirmekten değil, bir anlık dikkatsizlikle koruyucusuz makineye uzanmaktan çıkar. Bu yüzden koruyucu çıkık makineyi görürseniz, çalıştırmaz ve amirinize bildirirsiniz."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Koruyucu türleri",
+   "title": "Koruyucular üç ana şekilde karşımıza çıkar",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1694521787162-5373b598945c?w=1200",
+     "tag": "SABİT",
+     "title": "Sabit koruyucu",
+     "text": "Gövdeye vidalı ya da kaynaklı, aletsiz açılamaz."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1787672357830-ef4281855d47?w=1200",
+     "tag": "KİLİTLİ",
+     "title": "Kilitli koruyucu",
+     "text": "Kapak açılınca makine durur, kapalı olmadan çalışmaz."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=1200",
+     "tag": "SENSÖR",
+     "title": "Sensörlü koruma",
+     "text": "Elinizi tehlikeli bölgeden uzak tutar, girişte makineyi durdurur."
+    }
+   ],
+   "steps": [
+    "Koruyucuların da çeşitleri var ve işyerinizde bunlarla karşılaşırsınız.",
+    "Sabit koruyucular, makinenin gövdesine vida ya da kaynakla sabitlenir. Normal çalışmada açılması gerekmez. Açmak için alet gerekir. Bakım dışında asla çıkarılmamalıdır.",
+    "Kilitli koruyucular, bir kapak ya da kapı olarak karşımıza çıkar. Kapak açıldığında makine, güvenlik şalteri sayesinde durur; kapak kapanmadan da çalışmaz. Şalteri kısa devre ettirmek ya da bantlamak yasaktır.",
+    "Işık perdesi ve iki el kumandası gibi sensörlü korumalar ise, elinizi tehlikeli bölgeye sokmanızı sensörle algılar ve makineyi durdurur ya da elinizi tezgâhın dışında tutar. Pres makinelerinde sık görürsünüz."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Koruyucuyu bulduğunuzda",
+   "title": "Koruyucu çıkık makineyle karşılaşırsanız",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1787672357830-ef4281855d47?w=1200",
+     "ok": false,
+     "title": "Dikkatli çalışırım",
+     "text": "Dikkat, koruyucunun yerini tutmaz; kaza bir anda olur."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1767739791250-f972ca75c60e?w=1200",
+     "ok": true,
+     "title": "Kullanmaz, bildiririm",
+     "text": "Makineyi durdurur, etiketler, yetkiliye haber veririm."
+    }
+   ],
+   "steps": [
+    "Şimdi sahaya inelim. Vardiyaya geldiniz, makinenin koruyucusu çıkarılmış ya da yerinde değil. Üretim baskısı var, arkadaşlar 'idare et' diyor.",
+    "Yanlış tavır: 'Dikkatli olurum, birkaç parça yapıp bırakırım' demek. Dikkat gerçek bir önlemdir ama koruyucunun yerini tutmaz. Yorgunluk, dikkat dağınıklığı, bir anlık sürçme, hepsi yeterlidir.",
+    "Doğru tavır: makineyi çalıştırmamak, bir uyarı levhasıyla işaretlemek ve amirinize, iş güvenliği uzmanına bildirmektir. 6331 sayılı Kanun, ciddi ve yakın tehlike karşısında sizi korur; böyle bir durumda çalışmaktan kaçınmak hakkınızdır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Acil durdurma",
+   "title": "Acil durdurma düğmesi nasıl çalışır?",
+   "items": [
+    {
+     "title": "Kırmızı, mantar başlı",
+     "text": "Sarı zemin üzerinde, kolay görülür"
+    },
+    {
+     "title": "Her yerden ulaşılır",
+     "text": "Operatörün kolayca erişebileceği konumda"
+    },
+    {
+     "title": "Basınca durur",
+     "text": "Makine hemen güvenli duruma geçer"
+    },
+    {
+     "title": "Kilitli kalır",
+     "text": "Çevrilerek ya da çekilerek serbest bırakılır"
+    },
+    {
+     "title": "Düzenli denenir",
+     "text": "Çalışıp çalışmadığı kontrol edilir"
+    }
+   ],
+   "steps": [
+    "Her makinede, acil durum anında makineyi hemen durduran bir düğme bulunur. Bunun nasıl çalıştığını bilmek hayat kurtarır.",
+    "Acil durdurma düğmesi kırmızı renkli, mantar başlıdır ve genellikle sarı bir zemin üzerinde bulunur. Böylece gözünüz kaçırmaz.",
+    "Düğme, operatörün çalışma yerinden kolayca ulaşabileceği bir konumda olmalıdır. Önü kapatılmamalı, üzeri örtülmemelidir.",
+    "Düğmeye basıldığında makine, en kısa sürede ve güvenli şekilde durur. Burada kural şudur: acil durumda düşünmeyin, basın. Bir kolunuz makineye sıkışmışsa, bir arkadaşınız tehlikedeyse ya da bir yangın başlıyorsa, düğmeye basmak ilk hamledir.",
+    "Düğme basılı konumda kilitli kalır. Makineyi yeniden çalıştırmak için düğmeyi çevirmek ya da çekmek ve önce nedeni gidermek gerekir. Basınca çalışmasını sağlayan sistem vardır ama yeniden başlatma, bilinçli bir işlemdir.",
+    "Son olarak, düğmenin gerçekten çalıştığı vardiya başında ya da planlı bakımlarda denenir. Çalışmayan bir acil durdurma düğmesi, olmayan düğmeden daha tehlikelidir, çünkü güven verir ama koruma sağlamaz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1540340061722-9293d5163008?w=2400",
+   "kicker": "Örnek olay 1",
+   "title": "Yarım dakikalık iş, bir ömürlük sonuç",
+   "bullets": [
+    "Operatör sensör kapağını bantlamıştı",
+    "Parçayı çıkarırken el, kalıp bölgesine girdi"
+   ],
+   "steps": [
+    "Bir örnek olay anlatayım. Metal levha işleyen bir atölyede, usta operatör Ahmet, pres makinesinin güvenlik kapağındaki sensörün her seferinde devreye girip üretimi yavaşlattığından şikâyetçi. Bir gün sensörü bantlayıp devre dışı bırakıyor.",
+    "Birkaç gün sorunsuz geçiyor ve güven artıyor. Sonra bir vardiyada, kalıp bölgesine sıkışan bir parçayı çıkarmak için elini uzatıyor. Makine ise duruyormuş gibi görünse de, devre dışı kalan koruma yüzünden pedala basan arkadaşıyla aynı anda hareket ediyor.",
+    "Ağır bir uzuv yaralanması oluyor. İncelemede bantlanmış sensör ve aslında yapılması gereken kalıp temizliğinin, makine durdurulup enerjisi kesildikten sonra yapılması gerektiği ortaya çıkıyor. Buradan çıkaracağımız ders: koruma sistemini atlatmak, işi hızlandırmaz; yalnızca kazayı yakınlaştırır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1671040690726-b78261eff126?w=2400",
+   "kicker": "Yetki ve eğitim",
+   "title": "Her ekipmanı herkes kullanamaz",
+   "bullets": [
+    "Yetki, eğitim ve işveren onayı gerekir",
+    "Forklift, vinç, pres gibi ekipmanlarda belge aranır",
+    "Yetkisiz kullanmak ve başkasına kullandırmak yasaktır",
+    "Mesleki yeterlilik belgesi bazı işler için zorunludur"
+   ],
+   "steps": [
+    "Bir ekipmanı kullanmak için yalnızca 'ben bu işi biliyorum' demek yetmez. Yetki, eğitim ve işverenin onayı gerekir.",
+    "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği, özel risk taşıyan ekipmanların kullanımını, bu işle ilgili özel eğitim almış ve yetkilendirilmiş kişilere bırakır.",
+    "Forklift, vinç, pres, kazan, kaynak gibi işlerde işveren, kullanım için gerekli eğitimi ve belgeyi arar. Siz de belgeniz ve eğitiminiz yoksa kullanmamalısınız, ısrar edilse bile.",
+    "Aynı şekilde, size zimmetlenmiş ekipmanı yetkisi olmayan bir arkadaşınıza vermek de yasaktır. Arkadaşınız kaza geçirirse, sorumluluk paylaşılır.",
+    "Ayrıca tehlikeli ve çok tehlikeli sınıftaki bazı meslekler için, çalışanın mesleki eğitim belgesi bulunması gerekir. Bunlar, ilgili yönetmelikte düzenlenir. Bazı mesleklerde de Mesleki Yeterlilik Kurumu belgesi zorunludur. Kendi işiniz için gerekenleri, işyeri uzmanınıza sorun."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Kim ne yapar?",
+   "title": "Ekipman güvenliğinde herkesin payı var",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1671040690726-b78261eff126?w=1200",
+     "title": "İşveren",
+     "text": "Uygun, bakımlı, koruyuculu ekipman sağlar; eğitim verir, yetki belirler."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1493129922668-fcb1a8514643?w=1200",
+     "title": "Bakım personeli",
+     "text": "Bakımı ve periyodik kontrolü yapar, enerjiyi kilitleyerek çalışır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1791421870389-d9fa98e7e1fc?w=1200",
+     "title": "Operatör",
+     "text": "Eğitimine uygun kullanır, kontrol eder, arızayı bildirir."
+    }
+   ],
+   "steps": [
+    "Ekipman güvenliği, tek kişinin işi değil bir zincirdir. Kim ne yapıyor, bir bakalım.",
+    "İşveren, işe uygun, bakımlı, koruyucuları tam ekipman sağlamak ve kullananları eğitip yetkilendirmekle yükümlüdür. Ekipmanın arızalıysa ve onarılmıyorsa, bildirimlerinizi yazılı yapmak, bu yükümlülüğün hatırlatılmasını sağlar.",
+    "Bakım personeli, ekipmanı bakımdan geçirir, periyodik kontrolleri yapar ya da yaptırır. Çalışırken, enerjiyi kesip kilitleme prosedürünü uygular.",
+    "Operatör yani siz, kullanıma başlamadan önce ekipmanı gözle kontrol eder, koruyucuların yerinde olduğunu doğrular, eğitimde öğrendiğiniz şekilde kullanır ve aksaklığı derhal bildirirsiniz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1740733448722-82e16d3468bb?w=2400",
+   "kicker": "Periyodik kontrol",
+   "title": "Ekipmanlar düzenli olarak kontrol edilir",
+   "bullets": [
+    "Kontrol, işe uygun yetkin kişilerce yapılır",
+    "Sonuçlar raporlanır ve kayıt altında tutulur",
+    "Süreleri ekipmana ve mevzuata göre değişir",
+    "Uygun bulunmayan ekipman kullanılmaz"
+   ],
+   "steps": [
+    "Ekipmanlar, ilk kurulumda ve belli aralıklarla periyodik olarak kontrol edilir. Amaç, bir arızanın kazaya dönüşmeden yakalanmasıdır.",
+    "Kontrolü, konusunda yetkin kişiler yapar. Forklift, vinç, basınçlı kap, asansör, elektrik tesisatı ve topraklama gibi pek çok ekipmanın periyodik kontrolü mevzuatta öngörülmüştür.",
+    "Kontrolün sonucu raporlanır. Uygun çıkan ekipman kullanılmaya devam eder. Uygunsuzluk çıkarsa, eksik giderilene kadar ekipman kullanılmaz ve çoğunlukla üzerine 'kullanılamaz' etiketi yapıştırılır.",
+    "Sürelerin her ekipman için aynı olmadığını bilin; bu süreleri mevzuat ve üretici talimatları belirler. Sizin görevinizse, kontrol etiketine bakıp süresi geçmiş bir ekipmanı kullanmamak ve bildirimde bulunmaktır.",
+    "Periyodik kontrol, günlük gözle kontrolün yerine geçmez. İki kontrol arasında bir koruyucu çıkmış ya da bir kablo yıpranmış olabilir; bu yüzden vardiya başında ekipmanı kendi gözünüzle de yoklayın."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Enerjiyi kilitleme",
+   "title": "Bakım öncesi: kes, kilitle, etiketle",
+   "items": [
+    {
+     "title": "Haberdar edin",
+     "text": "Etkilenen herkese söyleyin"
+    },
+    {
+     "title": "Durdurun ve kesin",
+     "text": "Elektrik, hava, hidrolik beslemeyi ayırın"
+    },
+    {
+     "title": "Kilitleyin, etiketleyin",
+     "text": "Kendi kilidinizi ve etiketinizi takın"
+    },
+    {
+     "title": "Artık enerjiyi boşaltın",
+     "text": "Basınç, yay, yük ve kondansatör"
+    },
+    {
+     "title": "Denemeyi yapın",
+     "text": "Çalıştırma düğmesiyle kontrol edin"
+    }
+   ],
+   "steps": [
+    "Ekipmanın başında bakım, temizlik ya da onarım yapacaksanız, enerjiyi kesmek, kilitlemek ve etiketlemek şarttır. Bu uygulamaya kilitleme ve etiketleme denir.",
+    "Önce etkilenen herkese, yani operatörlere ve amire haber verin. Kimse siz çalışırken makineyi çalıştırmaya kalkmasın.",
+    "Sonra ekipmanı durdurun ve elektrik, basınçlı hava, hidrolik gibi bütün enerji kaynaklarını ayırın. Ana şalteri kapatmak çoğu zaman yetmez; bazı hatlarda ikinci bir besleme olabilir.",
+    "Ayırdığınız şalterin üzerine kendi kilidinizi takın ve 'çalıştırmayın, bakım var' yazılı etiketinizi asın. Anahtar yalnızca sizde olmalıdır; böylece kimse sizin haberiniz olmadan enerjiyi veremez.",
+    "Makinede depolanmış artık enerjiyi de boşaltın: basınçlı hava hattında basıncı bırakın, yay ve yük altındaki parçaları desteklenmiş hâle getirin. Sonra çalıştırma düğmesine basarak deneme yapın; makine çalışmıyorsa, güvenli şekilde işe başlayabilirsiniz.",
+    "İş bittikten sonra aletlerinizi toplayıp koruyucuları yerine takın, kilidinizi ve etiketinizi yalnızca kendiniz çıkarın. Böylece bakım sırasında gelen bir çalıştırma komutu, yaralanmaya yol açmaz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1721516115843-0ee85cab793f?w=2400",
+   "kicker": "El aletleri",
+   "title": "El aletleri küçüktür ama küçümsenmez",
+   "bullets": [
+    "Aleti işe uygun seçin, amaç dışı kullanmayın",
+    "Fiş, kablo ve koruyucuyu her kullanımda kontrol edin",
+    "Çalışmadan önce parça sabitlenir, KKD takılır",
+    "Bakım, ayar ve uç değiştirirken fişi çekin"
+   ],
+   "steps": [
+    "El aletlerinin kullanımında yaşanan kazaların çoğu, aletin amacı dışında kullanılmasından ya da bakımsızlıktan doğar.",
+    "Önce işe uygun aleti seçin. Aleti özelliğinin dışında kullanmayın; bir tornavidayı keski gibi kullanmak ya da bir taşlama diskini kesme işine zorlamak, kırılma ve fırlamaya yol açar.",
+    "Her kullanımdan önce kabloyu, fişi ve koruyucuyu gözle kontrol edin. Yalıtımı hasarlı kablo ya da kırık fiş varsa, aleti kullanmayın ve bildirin. Kabloyu çekerek fişi prizden çıkarmayın.",
+    "Çalışırken parçayı mengene ya da kıskaçla sabitleyin; elinizle tutmayın. Gözlük, eldiven, kulaklık gibi gerekli KKD'yi kullanın. Dönen aletlerde bol giysi, takı ve açık saç, makineye dolanabilir.",
+    "Disk, uç ya da bıçak değiştirirken, ayar yaparken ve aleti elinizden bırakırken, önce kapatın ve fişini çekin. Aletin tamamen durmasını bekleyin.",
+    "Bitirince aleti temiz ve kuru bir yerde, kablosunu aletin etrafına dolamadan saklayın. Aleti yerde, geçiş yolunda bırakmak hem aletin zarar görmesine hem de arkadaşlarınızın takılıp düşmesine yol açar."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1576446468729-7674e99608f5?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar neler öğrendik?",
+   "bullets": [
+    "Koruyucusu çıkarılmış ekipman kullanılmaz, bildirilir",
+    "Acil durdurma düğmesi her zaman erişilebilir olmalı",
+    "Yetkisiz kimse ekipman kullanamaz ve kullandıramaz",
+    "Bakım öncesi enerji kesilir, kilitlenir, etiketlenir"
+   ],
+   "steps": [
+    "Kısa bir ara verip iş ekipmanlarında öğrendiklerimizi toparlayalım.",
+    "Koruyucusu çıkmış ya da devre dışı bırakılmış ekipman kullanılmaz; durum amire bildirilir.",
+    "Acil durdurma düğmesi kırmızı, kolay erişilebilir ve çalışır durumda olmalı. Tehlike anında düşünmeden basarsınız.",
+    "Ekipmanı yalnızca eğitimli ve yetkili kişi kullanır. Yetkisiz kullanım yasaktır, kullandırmak da yasaktır.",
+    "Bakım ve onarım öncesinde enerji kesilir, kilitlenir ve etiketlenir. Şimdi ikinci yarıya, elektriğe geçiyoruz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1695886517975-b010be190375?w=2400",
+   "kicker": "Elektrik çarpması",
+   "title": "Elektrik, vücudunuzdan geçerken zarar verir",
+   "bullets": [
+    "Akım vücuda girer ve çıkış yolu arar",
+    "Kasları kasar, bırakmayı zorlaştırır",
+    "Solunum ve kalp ritmini bozabilir",
+    "Yanık bırakır; iç yanıklar dışarıdan görünmeyebilir"
+   ],
+   "steps": [
+    "Elektrik çarpması, vücudunuzun elektrik devresinin bir parçası olması demektir. Akım bir yerden girer, vücudunuzdan geçer ve bir yerden toprağa ya da başka bir iletkene çıkar.",
+    "Bu geçiş sırasında kaslar istem dışı kasılır. Elinizdeki kabloyu bırakmak istersiniz ama bırakamazsınız; çünkü bırakma kaslarını da akım kasmıştır. Bu yüzden çarpılan kişi çoğu zaman kendini kurtaramaz.",
+    "Akım göğüs bölgesinden geçerse solunum kasları çalışamaz ve nefes durabilir. Kalbin elektrik düzenini de bozabilir; kalp titreşmeye başlar ve kan pompalayamaz.",
+    "Yanıklar da sık görülür. Elektrik, giriş ve çıkış noktalarında yanık bırakabilir. Dışarıdan küçük görünen bir yanığın altında, doku içinde çok daha büyük bir hasar bulunabilir. Bu yüzden çarpılan herkes, iyi görünse bile, sağlık kuruluşunda değerlendirilmelidir.",
+    "Elektrik kazalarının en acı yanı, çoğunlukla önlenebilir olmalarıdır. Hasarlı bir kablo, atlanmış bir koruma ya da ıslak bir ortamda atılan tek yanlış adım, bir ömre mal olabilir. Bu yüzden önlemler, bu kadar ciddiye alınır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Şiddeti belirleyen",
+   "title": "Çarpmanın şiddeti neye bağlı?",
+   "items": [
+    {
+     "title": "Akımın şiddeti",
+     "text": "Ne kadar çok akım, o kadar ağır etki"
+    },
+    {
+     "title": "Süre",
+     "text": "Temas uzadıkça zarar büyür"
+    },
+    {
+     "title": "Vücuttaki yol",
+     "text": "El-ayak ve kol-kol, kalbi kapsar"
+    },
+    {
+     "title": "Ortam ve direnç",
+     "text": "Islak, terli cilt direnci düşürür"
+    }
+   ],
+   "steps": [
+    "Her çarpma aynı sonuçları vermez. Etkiyi birkaç etken belirler.",
+    "Birincisi akımın şiddetidir. Çok küçük akımlar hafif bir ürperti verir; yüksek akımlar kas kasılması, solunum durması ya da kalp ritmi bozukluğu yapar. Burada belirleyici olan, gerilimden çok vücuttan geçen akımdır.",
+    "İkincisi süredir. Temas uzadıkça, aynı akımın zararı artar. Bu yüzden elektriği hızla kesen sistemler hayati önem taşır.",
+    "Üçüncüsü, akımın vücudunuzdaki yoludur. Bir elinizden diğerine ya da elinizden ayağınıza giden bir yol, kalp ve akciğerin üzerinden geçeceği için çok tehlikelidir.",
+    "Dördüncüsü ortam ve direnç. Kuru deri akıma karşı oldukça dirençlidir; ıslak, terli deri ve ıslak zemin ise direnci düşürür. Yani aynı arıza, ıslak ortamda çok daha ölümcül olabilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1783587354872-dba0ff30b8d5?w=2400",
+   "kicker": "Islak ortam",
+   "title": "Islak ortam ve elektrik, ölümcül birliktir",
+   "bullets": [
+    "Islak elle ve ayakla elektrikli alete dokunmayın",
+    "Kablo bağlantıları suda ve çamurda bırakılmaz"
+   ],
+   "steps": [
+    "Islak ortamlar, elektrik çarpmasının en sık kazaya dönüştüğü yerlerdir. Yıkama alanları, boya ve kimya üniteleri, gıda üretimi, şantiye ve yağmurlu açık alanlar bunların başında gelir.",
+    "Islak elle ya da ıslak zeminde dururken elektrikli alete dokunmak çok tehlikelidir. Ayrıca ıslak ortamda uzatma kablosu ve fiş bağlantılarını suda, çamurda, su birikintisinde bırakmayın.",
+    "Islak ortamlarda yalnızca bu ortama uygun, uygun koruma sınıfında su geçirmez priz, fiş ve aletler kullanılır. Normal bir ofis uzatması, yıkama alanına götürülmez. Tereddüt ettiğiniz durumda işi durdurun ve uzmana sorun."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1774931363306-5a896cd4dd02?w=2400",
+   "kicker": "Örnek olay 2",
+   "title": "Yağmurdan sonra şantiyede uzatma kablosu",
+   "bullets": [
+    "Bağlantı su birikintisinde duruyordu",
+    "Koruma rölesi olmayan hat kullanılıyordu"
+   ],
+   "steps": [
+    "Şimdi şantiyeden bir örnek. Yağmur yağmış, sahada su birikintileri var. Betoncu ekibinden bir çalışan, titreşimli vibratörü uzatma kablosuyla çalıştırıyor. Kablonun bağlantı noktası, su dolu bir çukurun kenarında duruyor.",
+    "Kablonun eski bir yerinde yalıtım çatlamıştı, bağlantı suyun içine girmişti. Hat, kaçak akım koruması olmayan eski bir prizden besleniyordu. Çalışan çamurlu eldivenle kabloyu çektiğinde ağır bir elektrik çarpmasına maruz kaldı.",
+    "Arkadaşlarının hızlı müdahalesiyle kurtuldu. Ama dersimiz net: ıslak ortamda, hasarlı kablo, bağlantının suda durması ve kaçak akım korumasının olmaması üst üste geldi. Bunlardan biri bile önlenseydi kaza olmayacaktı."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1738520420715-23a83fd078f7?w=2400",
+   "kicker": "Topraklama",
+   "title": "Topraklama, kaçak akıma güvenli bir yol açar",
+   "bullets": [
+    "Cihazın metal gövdesi toprağa bağlanır",
+    "Yalıtım bozulursa akım toprağa akar",
+    "Gövdeye dokunan kişiden akım geçmez",
+    "Topraklama tesisatı periyodik ölçülür"
+   ],
+   "steps": [
+    "Bir makinenin içinde bir kablonun yalıtımı yıprandı ve metal gövdeye temas etti. Gövde artık elektrikli. Ona dokunan kişi ne olur? Topraklama yoksa, o kişi akımın toprağa gidecek yoludur.",
+    "Topraklama tam burada devreye girer. Cihazın metal gövdesi, topraklama iletkeniyle toprağa bağlanır. Böylece kaçak akım, sizin vücudunuza değil, toprağa kolay yoldan akar.",
+    "Topraklama, kaçak akım rölesinin çalışmasına da yardım eder: akım toprağa akınca, röle bunu algılar ve devreyi keser. İkisi birlikte çalışır.",
+    "Topraklama tesisatı zaman içinde bozulabilir; bağlantılar gevşer, toprak kurur ya da paslanır. Bu yüzden periyodik olarak ölçülür ve rapor edilir. Elektrikli aletin üç uçlu fişinin ortadaki ucunu kırmak ya da topraklı fişi bozmak, bu korumayı yok eder; bunu asla yapmayın.",
+    "Özetle topraklama, arıza anında akıma kendi güvenli yolunu verir; sizi ise o yoldan uzak tutar. Gözle görünmez ama hayati bir korumadır."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1781866075332-79e3b4cf7df5?w=2400",
+   "kicker": "Kaçak akım rölesi",
+   "value": "30 mA",
+   "title": "Kaçak akım rölesi, küçük bir kaçağı bile hissedip elektriği saniyenin kesirlerinde keser",
+   "text": "İnsan koruması için genellikle 30 mA hassasiyetli röleler kullanılır.",
+   "steps": [
+    "Kaçak akım rölesi, bazı kaynaklarda 'sigorta' olarak da anılır ama aslında farklı bir iş yapar. Sigorta devreyi aşırı akıma karşı korur; kaçak akım rölesi ise sizi korur.",
+    "Röle, devreye giren ve çıkan akımı karşılaştırır. Aralarında küçük bir fark varsa, yani akımın bir kısmı başka bir yoldan, mesela sizin vücudunuzdan kaçıyorsa, elektriği çok kısa sürede keser.",
+    "İnsan koruması için kullanılan rölelerin hassasiyeti genellikle 30 miliamperdir. Şantiye, atölye ve ıslak alan gibi yerlerde kullanılan prizlerde bu koruma mutlaka aranır.",
+    "Rölenin üzerinde bir test düğmesi bulunur. Düğmeye bastığınızda röle atıyorsa çalışıyor demektir. Röle sık sık atıyorsa, bunu sinir bozucu bir arıza gibi görmeyin; bir kaçak olduğunun işaretidir. Rölenin ayarını bozmak ya da köprülemek yerine, arızanın yetkili elektrikçiye bildirilmesi gerekir."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Uzatma kablosu",
+   "title": "Uzatma kablosu ve prizler",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1730584474338-aa8d9d186bf7?w=1200",
+     "ok": false,
+     "title": "Hasarlı, bantlı kablo",
+     "text": "Bant, yalıtımın yerini tutmaz; kısa devre ve çarpma riski vardır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1565049981953-379c9c2a5d48?w=1200",
+     "ok": true,
+     "title": "Sağlam kablo, uygun priz",
+     "text": "Yalıtımı sağlam, makul uzunlukta, koruma sınıfına uygun kablo."
+    }
+   ],
+   "steps": [
+    "Atölyelerde ve şantiyelerde en çok kullanılan elektrik araçlarından biri uzatma kablosudur ve en çok bozulan da odur.",
+    "Yanlış: yalıtımı sıyrılmış, elektrik bantlı, ezilmiş, düğümlü bir kabloyu kullanmaya devam etmek. Bantlama yalnızca geçici bir kapamadır; yalıtım gücünü geri getirmez ve nem girerse tehlike büyür. Hasarlı kablo kullanılmaz, yetkili kişiye bildirilir.",
+    "Doğru: yalıtımı sağlam, ortamına uygun, gerektiğinden uzun olmayan bir kablo. Kablo makara hâlinde kullanılıyorsa, tamamen açılır; çünkü sarılı kablo ısınır. Kabloyu yerde, geçiş yollarında ya da kapı aralarında ezilecek şekilde bırakmayın. Ayrıca bir prize çok sayıda cihaz bağlamak aşırı yüke ve yangına yol açar."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Elektrik işleri",
+   "title": "Elektrik işini kim yapar?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1576446470246-499c738d1c8e?w=1200",
+     "title": "Yetkili elektrikçi",
+     "text": "Panoya, tesisata ve arızaya yalnızca belgeli, yetkili kişi müdahale eder."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1783419752280-46a2073ef7dc?w=1200",
+     "title": "İşveren",
+     "text": "Tesisatı yetkili kişilere yaptırır, periyodik kontrolleri sağlar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1632914146475-bfe6fa6b2a12?w=1200",
+     "title": "Siz",
+     "text": "Müdahale etmez; arıza ve tehlikeyi hemen bildirirsiniz."
+    }
+   ],
+   "steps": [
+    "Elektrik işleri, tehlikeli ve çok tehlikeli işyerlerinde yalnızca yetkili kişilerin işidir. Kim ne yapar, bakalım.",
+    "Yetkili elektrikçi, bu işi eğitimle ve gerekli belgeyle yapan kişidir. Bazı elektrik mesleklerinde, mesleki yeterlilik belgesi zorunludur. Pano, kablo, topraklama ve arıza onarımı gibi işlere yalnızca o müdahale eder.",
+    "İşveren, tesisatın güvenli ve bakımlı olmasından, periyodik kontrollerin yapılmasından ve yetkisiz kişilerin müdahale etmemesinden sorumludur.",
+    "Siz ise, 'ben biraz anlarım' diyerek panoyu açmaz, kabloyu kendiniz onarmaz, sigortayı köprülemezsiniz. Yaptığınız şey; arızayı, kıvılcımı, ısınan prizi ya da kokuyu görür görmez bildirmektir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1576446470246-499c738d1c8e?w=2400",
+   "kicker": "Elektrik panoları",
+   "title": "Pano ve şalterlere yetkisiz dokunulmaz",
+   "bullets": [
+    "Pano kapakları kapalı ve kilitli tutulur",
+    "Önü boş bırakılır, malzeme yığılmaz",
+    "Işaretli olmayan şalterle oynanmaz",
+    "Isınma, koku, kıvılcım hemen bildirilir"
+   ],
+   "steps": [
+    "Elektrik panoları işyerinin kalbi gibidir; yanlış dokunuş çok ciddi sonuç doğurur.",
+    "Pano kapaklarını kapalı tutun ve kilitleyin. Açık pano, hem canlı parçalara dokunma hem de içine su ve toz girme riski demektir.",
+    "Panonun önünü her zaman boş bırakın. Acil durumda panoya ulaşmanız ve enerjiyi kesmeniz gerekebilir; önüne yığılmış paletler zaman kaybettirir ve ısınmayı artırır.",
+    "Hangi şalterin neyi kapattığını bilmiyorsanız, dokunmayın. Şalterleri etiketleyen ve şema hazırlayan, işyerinin görevidir.",
+    "Panoda ısınma, yanık kokusu, vızıltı ya da kıvılcım fark ederseniz, yaklaşmayın ve hemen yetkili elektrikçiye bildirin. Yangın belirtisi varsa alarm verin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1738520420715-23a83fd078f7?w=2400",
+   "kicker": "Yüksek gerilim",
+   "title": "Dokunmasanız bile yaklaşmak tehlikelidir",
+   "bullets": [
+    "Yüksek gerilimde akım havadan atlayabilir",
+    "Vinç, kamyon kasası ve uzun alet hatlardan uzak tutulur"
+   ],
+   "steps": [
+    "Enerji nakil hatları ve yüksek gerilim tesisleri başka bir konudur. Burada, hatta dokunmadan bile elektrik çarpması mümkündür; çünkü yüksek gerilimde akım, hava aralığından atlayabilir.",
+    "İnşaat ve montaj işlerinde vinç kolu, damperli kamyon kasası, uzun demir, boru ve merdiven gibi iletken malzemeler, üstteki hatlara yaklaşırsa ciddi tehlike doğar.",
+    "Üstünde hat olan bir sahada çalışacaksanız, güvenlik mesafesini yetkili kişi ve iş planı belirler. Siz o mesafenin içine girmeyin; uzun bir malzemeyi dik taşımayın. İşyerinizin bu alandaki özel riskleri, yüz yüze eğitimde ele alınacaktır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Çarpılan kişiye müdahale",
+   "title": "Elektrik çarpmış kişiye ilk yardım",
+   "items": [
+    {
+     "title": "Kendinizi koruyun",
+     "text": "Önce enerjiyi kesin"
+    },
+    {
+     "title": "Alarm verin",
+     "text": "112'yi arayın, yardım isteyin"
+    },
+    {
+     "title": "Kişiyi değerlendirin",
+     "text": "Bilinç ve solunuma bakın"
+    },
+    {
+     "title": "Gerekirse uygulayın",
+     "text": "Solunum yoksa suni solunum ve masaj"
+    },
+    {
+     "title": "Beklemeyin",
+     "text": "Sağlık kuruluşuna ulaşmasını sağlayın"
+    }
+   ],
+   "steps": [
+    "Bir iş arkadaşınız elektrik çarptı, hâlâ akımın içinde. İlk reaksiyon, hemen atılıp tutmaktır; ve en büyük hata da budur. Çünkü siz de çarpılırsınız ve iki yaralı olur.",
+    "Birinci adım, kendinizi korumaktır. Önce elektriği kesin: şalteri kapatın, fişi çekin ya da panodan enerjiyi alın. Enerjiyi hemen kesemiyorsanız, kuru ve yalıtkan bir malzemeyle, örneğin kuru tahta ya da plastik bir sopayla, kişiyi iletken kaynaktan ayırın. Islak ve metal malzemeyi kullanmayın.",
+    "İkinci adımda 112'yi arayın ve çevredekilerden yardım isteyin. Adres ve durumu net söyleyin.",
+    "Üçüncü adım, kişinin bilincine ve solunumuna bakmaktır. Yaralıyı güvenli bir yere alın.",
+    "Dördüncü adımda, solunum ya da dolaşım yoksa, eğitim aldıysanız suni solunum ve göğüs masajı başlayın ve sağlık ekibi gelene kadar sürdürün.",
+    "Son olarak, çarpılan kişi iyi görünse bile mutlaka sağlık kuruluşuna gitmelidir; çünkü kalp ritmi bozukluğu ve iç yanıklar sonradan ortaya çıkabilir. İlk yardım konusunu 2. bölümde ayrıntılı olarak da göreceksiniz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1762962051819-e69f0a39cde8?w=2400",
+   "kicker": "Örnek olay 3",
+   "title": "Bantlanan kablo ve çalışmaya devam eden hat",
+   "bullets": [
+    "Hasarlı kablo bantlanıp kullanıldı",
+    "Arıza bildirilseydi kaza yaşanmazdı"
+   ],
+   "steps": [
+    "Üçüncü örnek olayımız bir plastik üretim tesisinden. Bir kesme makinesinin kablosunda yalıtım yıpranmış, bakır tel görünür hâle gelmiş. Operatör Ayşe durumu fark ediyor ama üretim sürerken amirini aramak istemiyor; kabloyu bantlayıp çalışmaya devam ediyor.",
+    "Birkaç gün sonra vardiya amiri Selin, makinenin yanından geçerken hafif bir yanık kokusu alıyor. Kabloya baktığında bandın erimiş, bakır tellerin açığa çıkmış olduğunu görüyor. Makinenin enerjisini keserek yetkili elektrikçiyi çağırıyor.",
+    "Bu sefer kaza olmadı. Ama kabloyla temas eden biri ağır çarpılabilir, ya da kablo yangın çıkarabilirdi. Doğru davranış, arızayı fark eder etmez makineyi durdurup bildirmekti. Bildirmek, üretimi yavaşlatmaz; kazayı önler."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1781866075332-79e3b4cf7df5?w=2400",
+   "kicker": "Günlük kurallar",
+   "title": "Her gün uygulayacağınız altı alışkanlık",
+   "bullets": [
+    "Kullanmadan önce kablo, fiş ve koruyucuyu görün",
+    "Islak elle ve ıslak zeminde elektrikli alet kullanmayın",
+    "Fişi kablosundan değil, gövdesinden çekin",
+    "Hasarlı ekipmanı etiketleyin ve bildirin"
+   ],
+   "steps": [
+    "Dersi günlük pratiğe çevirelim. Bu kuralları, her vardiyada otomatik hâle getirin.",
+    "Kullanmadan önce bakın: kablo çıplak mı, fiş kırık mı, koruyucular yerinde mi? Bu kontrol on saniye sürer.",
+    "Islak elle ve ıslak zeminde elektrikli alet kullanmayın. Islak ortamda çalışmanız gerekiyorsa, uygun koruma sınıfında alet ve kaçak akım korumalı priz kullanın.",
+    "Fişi prizden çıkarırken kablodan çekmeyin; gövdesinden tutun. Kablo içindeki teller kopabilir, ve çıplak kalan tel çarpılma riskidir.",
+    "Hasarlı ekipmanı 'arızalı, kullanmayın' etiketiyle işaretleyin ve bildirin. Başkası bilmeden kullanabilir. Bu bildirim, hem sizin hem arkadaşlarınızın can güvenliği içindir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1576446468729-7674e99608f5?w=2400",
+   "kicker": "Ders özeti",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Koruyucusuz ya da yetkisiz ekipman kullanılmaz",
+    "Bakımdan önce enerji kesilir, kilitlenir, etiketlenir",
+    "Topraklama ve kaçak akım rölesi sizi korur",
+    "Çarpılana önce enerjiyi kesip müdahale edin"
+   ],
+   "steps": [
+    "Dersi özetleyelim. Koruyucusu çıkarılmış ekipman kullanılmaz. Ekipmanı yalnızca eğitimli ve yetkili kişi kullanır.",
+    "Bakım ve onarımdan önce enerjiyi keser, kilitler ve etiketlersiniz. Acil durdurma düğmesinin yerini ve kullanımını öğrenirsiniz.",
+    "Elektrik çarpmasının şiddeti akıma, süreye, vücuttaki yola ve ortamın ıslaklığına bağlıdır. Topraklama ve kaçak akım rölesi, bu riski azaltan temel korumalardır.",
+    "Elektrik işleri yetkili elektrikçinin işidir. Hasarlı kablo ve ekipmanı kullanmaz, bildirirsiniz.",
+    "Elektrik çarpmış birini görürseniz, önce enerjiyi keser, 112'yi arar ve ilk yardım uygularsınız. Kendinizi tehlikeye atmadan hareket edin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1730584474428-83f3cfc20a73?w=2400",
+   "kicker": "Kapanış",
+   "title": "Şimdi birkaç kısa soru sizi bekliyor",
+   "bullets": [],
+   "steps": [
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Yanıtlarken bu derste konuştuklarımızı hatırlamanız yeterli.",
+    "Bu hafta çalıştığınız makinenin koruyucusuna ve acil durdurma düğmesine bakın, kullandığınız kablonun yalıtımını gözden geçirin. Gördüğünüz bir eksik varsa bildirin. Küçük bir dikkat, büyük bir kazayı önler. Teşekkürler, sağlıkla kalın."
+   ]
+  }
+ ]
+}

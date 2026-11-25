@@ -1,0 +1,786 @@
+{
+ "code": "tc_t7",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "3. Bölüm · Teknik Konular",
+ "title": "İş kazalarından korunma teknikleri: yüksek riskli işler",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1782961114853-020a717aba01?w=2400",
+   "kicker": "3. Bölüm · Ders 7",
+   "title": "Yüksek riskli işlerde kazalardan korunma",
+   "subtitle": "Yüksekte, kapalı alanda ve sıcak çalışmada güvenli yol",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste işyerlerinde en ağır kazaların yaşandığı dört alanı konuşacağız: yüksekte çalışma, kapalı alanda çalışma, sıcak çalışma ve bunları yöneten iş izin sistemi.",
+    "İnşaat, metal imalat, kimya, depo ya da bakım atölyesi; hangisinde çalışıyor olursanız olun, bu işlerden en az biriyle karşılaşırsınız. Amacımız size korku vermek değil, kimi zaman bir izin kâğıdının, bir ölçüm cihazının ya da kısa bir telsiz konuşmasının hayat kurtardığını göstermek."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Yüksekte çalışma",
+     "text": "Korkuluk, iskele, kemer ve ankraj"
+    },
+    {
+     "title": "Kapalı alan",
+     "text": "Gaz ölçümü, gözcü ve kurtarma"
+    },
+    {
+     "title": "Sıcak çalışma",
+     "text": "Kaynak, kesme ve yangın önlemi"
+    },
+    {
+     "title": "İş izin sistemi",
+     "text": "Kim, neyi, hangi şartla yapar"
+    },
+    {
+     "title": "Vardiya devri",
+     "text": "Bilgi kaybolmadan teslim"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Bu ders beş adımda ilerleyecek.",
+    "İlk adımda yüksekte çalışmayı göreceğiz: korkuluk, iskele, emniyet kemeri ve ankraj noktası birbirini nasıl tamamlıyor.",
+    "İkinci adımda kapalı alanları konuşacağız. Gaz ölçümü neden zorunlu, gözcü kimdir, kurtarma nasıl yapılmalı.",
+    "Üçüncü adım sıcak çalışma: kaynak, kesme ve taşlama gibi kıvılcım çıkaran işlerde yangını nasıl önleriz.",
+    "Dördüncü adımda bütün bu işleri bir çatı altında toplayan iş izin sistemini anlatacağız.",
+    "Son olarak vardiya devrini konuşacağız. Çünkü birçok kaza, bir önceki vardiyada yapılan işin söylenmemesinden çıkar."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1632914146475-bfe6fa6b2a12?w=2400",
+   "kicker": "Neden ayrı ele alıyoruz?",
+   "title": "Yüksek riskli işlerde hata payı çok küçüktür",
+   "bullets": [
+    "Tek bir hata, geri dönülmez sonuç doğurabilir",
+    "Kazaların çoğu rutin işlerde, alışkanlıkla olur",
+    "Bu işler izin, ölçüm ve kontrol listesiyle yürütülür"
+   ],
+   "steps": [
+    "Bazı işlerde hata, yalnızca bir aksaklık yaratır. Bazılarında ise ikinci bir şansınız olmaz. Yüksekte çalışma, kapalı alan ve sıcak çalışma ikinci gruba girer.",
+    "Birinci neden şu: Tek bir hata, geri dönülmez bir sonuç doğurabilir. Beş metreden düşen biri, düzeltme fırsatı bulamaz.",
+    "İkinci neden: Bu kazalar çoğunlukla olağan dışı işlerde değil, her gün yaptığımız rutin işlerde olur. Yıllardır yaptığınız iş, tehlikeyi görünmez kılar.",
+    "Üçüncüsü: Bu yüzden bu işler tesadüfe bırakılmaz. Önce izin alınır, ortam ölçülür, kontrol listesi doldurulur. Bunlar kâğıt işi değil, güvenliğin kendisidir. Bu derste her birinin neden var olduğunu ve sahada nasıl işlediğini, örnek olaylarla birlikte göreceğiz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1530639834082-05bafb67fbbe?w=2400",
+   "kicker": "Yüksekte çalışma",
+   "title": "Yüksekte çalışma nedir?",
+   "bullets": [
+    "Seviye farkı olan her yer yüksektir",
+    "Yaralanma ihtimali varsa önlem gerekir",
+    "Sadece inşaat işi değildir"
+   ],
+   "steps": [
+    "Yüksekte çalışma deyince aklınıza hemen on katlı bir bina gelebilir. Oysa yönetmelikteki tanım daha geniş: seviye farkı olan ve düşme halinde yaralanma ihtimali bulunan her alandaki çalışma, yüksekte çalışmadır.",
+    "Yani yarım metrelik bir açık kuyunun, forklift rampasının, çatı kenarının ya da depo asma katının kenarı da aynı kapsamdadır.",
+    "Bu sadece inşaat işi de değildir. Fabrikada vinç yolunda bakım yapan da, silo üstüne çıkan da, havalandırma çatısına çıkan da yüksekte çalışıyordur.",
+    "Dolayısıyla soru şudur: Düştüğümde bir şey olur mu? Cevap evetse, önlemsiz çalışma başlamaz."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Düşme noktaları",
+   "title": "Düşme nerelerde olur?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1635424824849-1b09bdcc55b1?w=1200",
+     "tag": "Kenar",
+     "title": "Çatı ve döşeme kenarı",
+     "text": "Korkuluksuz kenar ve açık boşluklar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1636362006544-22445420703f?w=1200",
+     "tag": "İskele",
+     "title": "İskele ve platformlar",
+     "text": "Eksik tabla, gevşek bağlantı, aşırı yük"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1694521787149-ee0b6a3d9f78?w=1200",
+     "tag": "Erişim",
+     "title": "Merdiven ve geçişler",
+     "text": "Yanlış kurulum ve kayan basamaklar"
+    }
+   ],
+   "steps": [
+    "Düşmelerin nerede olduğuna birlikte bakalım.",
+    "Birincisi çatı ve döşeme kenarı. Korkuluğu olmayan kenarlar, asansör boşlukları, açık bırakılmış kapaklar ve yüzeyi ezilebilen çatı sacları en sık karşılaşılan tuzaklardır.",
+    "İkincisi iskele ve çalışma platformları. Eksik tabla, gevşek ayak ya da taşınan fazla yük, çok sayıda kazanın başındadır.",
+    "Üçüncüsü merdiven ve geçişler. Sağlam zemine kurulmamış bir merdiven ya da yağlı basamak, işe başlamadan kazayı hazırlar."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1614127938540-a1139bee1841?w=2400",
+   "kicker": "Temel ilke",
+   "value": "Toplu önce",
+   "title": "Düşmeye karşı ilk tercih kemer değil, korkuluk ve platform gibi toplu korumadır",
+   "text": "Kemer, toplu koruma kurulamıyorsa devreye giren ikinci savunma hattıdır",
+   "steps": [
+    "Bu dersin en önemli cümlelerinden biri bu. Yönetmeliğe göre öncelik, korkuluk, platform, bariyer, kapak, iskele ve güvenlik ağı gibi toplu koruma önlemlerindedir.",
+    "Çünkü toplu koruma herkesi aynı anda korur ve sizin doğru davranmanıza bağımlı değildir. Kemer ise ancak takılırsa, doğru bağlanırsa ve doğru noktaya bağlanırsa işe yarar. Toplu koruma kurulamıyorsa ya da yetersizse, ikinci basamak olarak tam vücut kemer sistemi kullanılır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Karşılaştıralım",
+   "title": "Kenarda çalışırken doğru ve yanlış",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1635424710928-0544e8512eae?w=1200",
+     "ok": true,
+     "title": "Korkuluk önce kurulur",
+     "text": "Kenar korunur, sonra iş başlar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1674558346964-e7196a409880?w=1200",
+     "ok": false,
+     "title": "Ankrajsız kemer",
+     "text": "Bağlanacak yer yoksa kemer koruma sağlamaz"
+    }
+   ],
+   "steps": [
+    "Soldaki fotoğrafta işin düzeni doğru. Önce kenara korkuluk kurulmuş, sonra çalışma başlamış. Çalışan düştüğünde yakalanmaya değil, düşmemeye güveniyor.",
+    "Sağdaki örnekte ise çalışan kemer takmış görünüyor ama kemerin bağlanacağı sağlam bir noktası yok. Kemer, bir yere bağlı değilse süs gibidir.",
+    "Şunu aklınızda tutun: Korkuluk kurulabilen yerde kemerle idare edilmez. Kemer, korkuluğun kurulamadığı kısa işler için son çaredir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1488257907837-523fe2051fc3?w=2400",
+   "kicker": "Korkuluk",
+   "title": "Korkuluk tek parça değil, bir sistemdir",
+   "bullets": [
+    "Üst korkuluk, ara korkuluk ve topuk tahtası birlikte çalışır",
+    "Korkuluk, işe başlamadan önce kurulur",
+    "İş için söküldüyse iş biter bitmez yerine takılır",
+    "Boşluklar sağlam kapakla örtülür ve işaretlenir"
+   ],
+   "steps": [
+    "Korkuluğu tek bir boru gibi düşünmeyin. Üst korkuluk, ara korkuluk ve topuk tahtası bir bütündür; ölçülerini yönetmelik ve proje belirler, siz uygunsuz bir şey görürseniz bildirirsiniz.",
+    "Üst korkuluk bedeni tutar, ara korkuluk aralıktan kaymayı önler, topuk tahtası ise aletin ve malzemenin aşağıdaki insanın üstüne düşmesini engeller.",
+    "Korkuluk, işe başlamadan önce kurulur; çalışırken tamamlanmasını beklemeyiz.",
+    "Malzeme almak için bir bölümünü söktüyseniz, iş biter bitmez geri takın. Açık bırakılan bir korkuluk, arkadan gelen kişiyi tuzağa düşürür.",
+    "Zemindeki açıklıklar ve kuyular da aynı şekilde, yerinde duran sağlam bir kapakla örtülür ve işaretlenir. İnce bir kontrplak parçası ya da karton, kapak sayılmaz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1782961114853-020a717aba01?w=2400",
+   "kicker": "İskele",
+   "title": "İskeleye çıkmadan önce bakın",
+   "bullets": [
+    "Montajı yetkili ve ehil kişi yapar",
+    "Yapı iskeleleri 6 ayda bir periyodik kontrol edilir",
+    "Etiketi, tablası ve bağlantıları gözle kontrol edin"
+   ],
+   "steps": [
+    "İskele çoğu zaman kendi başına bir yapıdır ve yanlış kurulursa yüklenince devrilebilir. Bu yüzden iskeleyi herkes kuramaz; montajı yetkili ve ehil kişiler yapar, kullanıma uygunluğu kayıt altına alınır.",
+    "İş Ekipmanları Yönetmeliği'ne göre yapı iskeleleri en geç altı ayda bir periyodik kontrolden geçirilir. Ayrıca asılı iskelelerde halat, fren ve platform gibi kısımlar her gün işe başlamadan önce kontrol edilir.",
+    "Sizin görevinize gelince: iskeleye çıkmadan önce tabla eksik mi, ayaklar sağlam mı, etiket var mı, çapraz bağlantılar yerinde mi diye bakın.",
+    "Belirtilen azami yükü aşmayın. Bir eksik görürseniz çıkmayın ve amirinize haber verin."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Emniyet kemeri",
+   "title": "Kemeri her seferinde bu sırayla kullanın",
+   "items": [
+    {
+     "title": "Kontrol edin",
+     "text": "Dikiş, tokalar, karabinalar, tarih"
+    },
+    {
+     "title": "Giyin ve ayarlayın",
+     "text": "Bedene tam otursun, bağlar sıkı olsun"
+    },
+    {
+     "title": "Ankraj seçin",
+     "text": "Sağlam ve yeterli taşıyan nokta"
+    },
+    {
+     "title": "Bağlanın",
+     "text": "Halat gevşek kalmasın, düşme mesafesi az olsun"
+    },
+    {
+     "title": "Bağlı kalın",
+     "text": "Yer değiştirirken de bağlı olun"
+    }
+   ],
+   "steps": [
+    "Emniyet kemeri kullanımı beş adımda özetlenebilir.",
+    "Önce kontrol edin. Dikişlerde sökülme, tokalarda çatlak, karabinada deformasyon ya da bir kez düşme yaşamış bir donanım varsa kullanmayın. Hasarlı donanım, bildirilerek hizmet dışı bırakılır.",
+    "İkinci adımda kemeri giyip ayarlayın. Bacak ve omuz bağları vücuda tam otursun. Gevşek kemer, düşüşte vücuttan kayabilir.",
+    "Üçüncü adım ankraj seçmek. Bu noktayı kendi kafanıza göre değil, projede belirlenmiş ya da yetkili kişinin gösterdiği noktaya göre seçersiniz.",
+    "Dördüncü adımda bağlanın ve halatı mümkün olduğunca baş hizanızın üstünden tutun. Halat gevşek kalırsa düşme mesafesi büyür ve yere çarpma riski doğar.",
+    "Beşinci olarak yer değiştirirken de bağlı kalın. Kazaların önemli kısmı, kemeri çözüp yeniden bağlanmak için ayrılan kısa anlarda yaşanır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1635424824849-1b09bdcc55b1?w=2400",
+   "kicker": "Ankraj noktası",
+   "title": "Kemer, bağlandığı nokta kadar güvenlidir",
+   "bullets": [
+    "Ankraj noktası düşme yükünü taşıyabilmeli",
+    "Korkuluk, boru ya da kablo ankraj değildir",
+    "Yaşam hattı kullanılabilen yerde tercih edilir"
+   ],
+   "steps": [
+    "Kemerin ne kadar pahalı olduğu önemli değil; asıl soru neye bağlandığınız. Ankraj noktası, bir insanın düşme anındaki yükünü taşıyabilecek sağlamlıkta olmalıdır.",
+    "Sahada gördüğümüz tehlikeli alışkanlıkları sayalım: korkuluğa bağlanmak, ince bir boruya takmak, elektrik kablosuna ya da kapağı oynayan bir hatta bağlanmak. Bunların hiçbiri ankraj sayılmaz.",
+    "Yönetmelik, ankraj noktaları ve yaşam hatlarının projenin hazırlık aşamasında belirlenmesini ister.",
+    "Eğer sizin işinizde böyle bir nokta yoksa, doğaçlama bir yer bulmayın. İşi durdurun ve amirinize sorun."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1530639834082-05bafb67fbbe?w=2400",
+   "kicker": "Düşmeden sonra",
+   "title": "Düşmeyi durdurmak yetmez, kurtarma planı da gerekir",
+   "bullets": [
+    "Askıda kalan kişi kısa sürede ciddi risk altına girer",
+    "Kurtarma yöntemi iş başlamadan önce planlanır",
+    "Tek başına yüksekte çalışılmaz"
+   ],
+   "steps": [
+    "Diyelim ki kemer görevini yaptı ve çalışan düşmedi, askıda kaldı. Bu iş bitti anlamına gelmiyor; yeni bir tehlike başlıyor.",
+    "Kemerde asılı kalan bir kişi, dolaşımın bozulması yüzünden kısa sürede ciddi bir sağlık sorunuyla karşılaşabilir. Bu yüzden bekleyip sonra düşünmek bir seçenek değildir.",
+    "Kurtarma yöntemi iş başlamadan önce planlanır: kim ne yapacak, hangi ekipmanla indirilecek, hangi numara aranacak. Plan yoksa iş başlamaz.",
+    "Bir başka kural da şu: Yüksekte tek başına çalışılmaz. Sizi gören, düştüğünüzde yardım çağırabilecek bir ekip arkadaşınız olmalıdır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1635424710928-0544e8512eae?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Çatıda iki dakikalık iş",
+   "bullets": [
+    "Ankraj noktası düşünülmemişti",
+    "Kemer vardı, bağlanacak yer yoktu",
+    "Plan olsaydı iş durdurulurdu"
+   ],
+   "steps": [
+    "Bir metal imalat fabrikasında Ahmet usta, çatıdaki bir havalandırma kapağını değiştirmek için çıkıyor. İş iki dakikalık, diyor. Kemerini de takıyor ama çatıda halatı bağlayabileceği bir nokta yok.",
+    "Kemerin ucunu boşta bırakıp çalışmaya başlıyor. Kenara yaklaşırken ayağı kayıyor. Şansına, hemen yakındaki bir ekip arkadaşı koluna yapışıyor ve düşmeyi önlüyor. Bu kez sadece ramak kala olay yaşanıyor.",
+    "Ne yapılmalıydı? Çıkmadan önce iş izni alınmalı, ankraj noktası ve kenar koruması belirlenmeli, ekip arkadaşı gözcü olmalıydı.",
+    "İki dakikalık iş, hazırlıksız yapılınca hayatı tehlikeye atar. Böyle olayları saklamayın, ramak kala olarak bildirin. Çünkü bir sonraki sefer, ekip arkadaşının eli yetişmeyebilir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1614127938540-a1139bee1841?w=2400",
+   "kicker": "Ara özet",
+   "title": "Yüksekte çalışmada hatırlayalım",
+   "bullets": [
+    "Önce toplu koruma: korkuluk, platform, kapak, ağ",
+    "Kemer ikinci basamaktır, sağlam bir ankraj gerekir",
+    "İskele ehil kişiyle kurulur, çıkmadan kontrol edilir",
+    "Kurtarma planı ve ikinci kişi olmadan iş başlamaz"
+   ],
+   "steps": [
+    "Yüksekte çalışmayı toparlayalım.",
+    "Önce toplu koruma gelir: korkuluk, platform, kapak ve ağ. Kemer bunların yerini tutmaz.",
+    "Kemer ikinci basamaktır; ancak sağlam bir ankraj noktasına bağlandığında işe yarar.",
+    "İskele ehil kişilerce kurulur, siz de çıkmadan önce gözle kontrol edersiniz.",
+    "Son olarak: kurtarma planı olmayan ve yalnız yapılan bir yüksekte çalışma başlamaz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1779518083245-bb0397ac17f9?w=2400",
+   "kicker": "Kapalı alan",
+   "title": "Kapalı alan her çukur değil, ama her çukur gibi davranın",
+   "bullets": [
+    "Girişi ve çıkışı sınırlıdır",
+    "Sürekli çalışma yeri olarak tasarlanmamıştır",
+    "Havalandırması yetersizdir, hava kötüleşebilir",
+    "Tank, silo, kuyu, kazan, rögar, kanal buna örnektir"
+   ],
+   "steps": [
+    "Sıra geldi kapalı alanlara. Kapalı alan, sadece küçük bir oda anlamına gelmez; üç özelliğe bakarız.",
+    "Birincisi: girişi ve çıkışı sınırlıdır. İçeri zor girilir, acil durumda zor çıkılır.",
+    "İkincisi: sürekli çalışma yeri olarak tasarlanmamıştır. Bakım, temizlik ya da muayene için zaman zaman girilir.",
+    "Üçüncüsü: havalandırması yetersizdir, içerideki hava kısa sürede kötüleşebilir.",
+    "Tank, silo, kuyu, kazan, rögar, kanal ve reaktör bunun tipik örnekleridir. Bu yerlerin hepsinde tehlike görünmez; çoğu zaman gaz kokusuz ve renksizdir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1786532852068-a3581fc5032d?w=2400",
+   "kicker": "Kurtarma tuzağı",
+   "value": "%60",
+   "title": "ABD'de incelenen kapalı alan ölümlerinin yaklaşık %60'ı kurtarmaya girenlerde yaşandı",
+   "text": "Arkadaşını kurtarmak için korunmasız girmek, ikinci kurbanı yaratır",
+   "steps": [
+    "Bu rakam, ABD'de yapılan incelemelerden geliyor ve kapalı alan kazalarının en acı yanını anlatıyor: ölenlerin büyük bölümü, içeride bayılan arkadaşını kurtarmaya çalışanlardır.",
+    "Çünkü içeride bayıldıysa neden vardır: oksijen azlığı ya da zehirli gaz. Korunmasız giren kişi de aynı havayı soluyacaktır. Önce yardım çağırın, korunmasız asla girmeyin."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Görünmeyen tehlikeler",
+   "title": "İçerideki hava sizi nasıl etkiler?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1757266705787-c319b6495b72?w=1200",
+     "tag": "Oksijen",
+     "title": "Oksijen azlığı",
+     "text": "Hava %21 oksijen içerir; düştükçe bayılma gelir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1787374412732-f863ecb18c7c?w=1200",
+     "tag": "Zehirli",
+     "title": "Zehirli gazlar",
+     "text": "Karbon monoksit, hidrojen sülfür kokusuz olabilir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1714504904786-b6732390b206?w=1200",
+     "tag": "Yanıcı",
+     "title": "Yanıcı gaz ve buhar",
+     "text": "Kıvılcım patlamaya yol açabilir"
+    }
+   ],
+   "steps": [
+    "Kapalı alandaki üç ana tehlikeye bakalım.",
+    "İlki oksijen azlığı. Normal havada yaklaşık yüzde 21 oksijen vardır. Paslanma, çürüme ya da başka bir gazın yer değiştirmesiyle oksijen düşer. Düşüş arttıkça önce baş dönmesi, sonra bilinç kaybı gelir.",
+    "İkincisi zehirli gazlar. Karbon monoksit renksiz ve kokusuzdur. Hidrojen sülfür önce çürük yumurta gibi kokar, sonra koku alma duyunuzu işlemez hale getirir. Yani koku almamak güvenli demek değildir.",
+    "Üçüncüsü yanıcı gaz ve buharlar. Solvent, boya ya da yakıt buharı, bir kıvılcımla patlayabilir. Bu yüzden kapalı alanda ölçüm yapmadan sıcak çalışma yapılmaz."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Girişten önce",
+   "title": "Kapalı alana girmeden önceki beş adım",
+   "items": [
+    {
+     "title": "İzin alın",
+     "text": "Yazılı kapalı alan iznisiz giriş yok"
+    },
+    {
+     "title": "İzole edin",
+     "text": "Boru, enerji ve mekanik hareketi ayırın"
+    },
+    {
+     "title": "Havalandırın",
+     "text": "Doğal veya zorlamalı hava verin"
+    },
+    {
+     "title": "Ölçün",
+     "text": "Girmeden önce ve çalışırken ölçüm"
+    },
+    {
+     "title": "Gözcü ve kurtarma",
+     "text": "Dışarıda bekleyen eğitimli kişi olsun"
+    }
+   ],
+   "steps": [
+    "Kapalı alana girmeden önce beş adımlı bir kapı vardır; hepsi geçilmeden içeri girilmez.",
+    "Birinci adım izin: yazılı kapalı alan izni olmadan giriş yoktur. İzinde kim girecek, ne kadar kalacak, hangi ekipman kullanılacak yazar.",
+    "İkinci adımda izolasyon yapılır. Alana bağlı borular körlenir ya da kapatılır, mekanik parçaların enerjisi kesilir. Alan, bir mikser tarafından birdenbire çalıştırılırsa içeridekiler tuzağa düşer.",
+    "Üçüncü adımda havalandırma. Temiz hava verilerek zararlı gaz seyreltilir.",
+    "Dördüncü adım ölçüm. Havalandırmanın işe yarayıp yaramadığını sadece cihaz söyler.",
+    "Beşinci adımda gözcü ve kurtarma ekibi hazır olur. Hepsi tamamsa giriş yapılır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1700727448575-6f1680cd7d75?w=2400",
+   "kicker": "Gaz ölçümü",
+   "title": "Gaz ölçümünde üç soru sorulur",
+   "bullets": [
+    "Oksijen yeterli mi, yanıcı gaz var mı",
+    "Zehirli gaz var mı",
+    "Ölçüm giriş öncesi ve çalışırken sürer"
+   ],
+   "steps": [
+    "Gaz ölçümü, kapalı alanın kapısındaki asıl kontrol noktasıdır. Burada cihaz üç soruyu yanıtlar: oksijen yeterli mi, yanıcı gaz ve buhar var mı, zehirli gaz var mı.",
+    "Ölçümü yetkili ve eğitimli kişi yapar.",
+    "Cihazın kalibrasyonu ve bakımı yapılmış, çalışır durumda olmalı. Pili bitmiş ya da kalibrasyonu geçmiş bir cihaz, sizi sahte bir güvenlik duygusuna sokar.",
+    "Ölçüm tek seferlik değildir. Girişte ölçülür ama içerideki iş sürerken de, özellikle boya, solvent ya da kaynak varsa sürekli izlenir. Alarm çalarsa tartışmadan, derhal dışarı çıkılır."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Kim ne yapar?",
+   "title": "Kapalı alan çalışmasında üç rol",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1730584474338-aa8d9d186bf7?w=1200",
+     "title": "Giren kişi",
+     "text": "İzne uyar, cihaz ve telsizi taşır, alarm duyunca çıkar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1778074762022-c33cc42f79ae?w=1200",
+     "title": "Gözcü",
+     "text": "Girişte kalır, iletişimi sürdürür, içeri girmez"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1759272548449-7b689a81c8fb?w=1200",
+     "title": "İzni veren yetkili",
+     "text": "Ölçüm ve izolasyonu doğrular, kurtarma ekibini hazır tutar"
+    }
+   ],
+   "steps": [
+    "Kapalı alanda her rolün net bir görevi vardır.",
+    "Giren kişi, izindeki şartlara uyar. Yanında ölçüm cihazı ve haberleşme aracı taşır, alarm duyduğunda ya da kendini kötü hissettiğinde bekleme yapmadan çıkar.",
+    "Gözcü giriş yerinde kalır. Girenin sayısını ve durumunu izler, sürekli iletişim kurar. En önemli kural: gözcü ne olursa olsun içeri girmez; yardım çağırır.",
+    "İzni veren yetkili kişi, ölçüm ve izolasyonun gerçekten yapıldığını doğrular, kurtarma ekibinin hazır olduğundan emin olur. İmza atmak, bu kontrollerin yapıldığını göstermelidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1786532852068-a3581fc5032d?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Boya kazanı temizliği",
+   "bullets": [
+    "Ölçüm yapılmadı, gözcü çağrıldı",
+    "İçeri giren kurtarıcı da bayıldı",
+    "Doğrusu: ölç, izin al, yardım çağır"
+   ],
+   "steps": [
+    "Bir boya fabrikasında vardiya amiri Selin, devreden bir boya kazanının temizliği için iki çalışan görevlendiriyor. Kazan boş görünüyor, o yüzden ölçüm yapılmıyor; izin de geçiştiriliyor.",
+    "Temizliğe giren çalışan kısa süre sonra bayılıyor. Dışarıdaki arkadaşı, onu kurtarmak için hemen içeri giriyor ve o da düşüp kalıyor. Tesadüfen oradan geçen ekip lideri alarmı verip itfaiyeyi arıyor.",
+    "Ne yapılmalıydı? Kazan izole edilecek, havalandırılacak ve ölçüm yapılacaktı.",
+    "Gözcü yardım çağıracak, içeri girmeyecekti. Kurtarma ancak uygun solunum cihazı olan eğitimli ekiple yapılacaktı. Kazan boş görünüyor diye hava temiz olmaz."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Gözcü",
+   "title": "Gözcü başında mı, uzakta mı?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1774600166834-175d06febcd4?w=1200",
+     "ok": true,
+     "title": "Gözcü görev yerinde",
+     "text": "İletişim sürüyor, kurtarma çağrısı hazır"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1654703680007-d5d9699cddfd?w=1200",
+     "ok": false,
+     "title": "Gözcü başka işe gitti",
+     "text": "Bir kaza anında kimse çağrıyı duymaz"
+    }
+   ],
+   "steps": [
+    "Soldaki gözcü görev yerinde, giren kişiyle sürekli iletişim halinde ve gerektiğinde yardım çağırabilecek durumda.",
+    "Sağdaki örnekte ise gözcü kısa bir iş için ayrılmış, giren kişi yalnız kalmış. Bir saniyelik ayrılma bile, kapalı alanda kimsenin çağrıyı duymaması demektir.",
+    "Gözcülük, ikinci bir iş yaparken yürütülecek bir görev değildir. Gözcü ayrılacaksa, giren kişiler çıkar."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1779518083245-bb0397ac17f9?w=2400",
+   "kicker": "Özet",
+   "title": "Kapalı alanda hatırlayalım",
+   "bullets": [
+    "Giriş yazılı izinle yapılır",
+    "Önce izole edin, havalandırın ve ölçün",
+    "Gözcü dışarıda kalır, içeri girmez; yardım çağırır",
+    "Korunmasız kurtarmaya girmek ikinci kurbanı yaratır"
+   ],
+   "steps": [
+    "Kapalı alan kuralları kısaca şunlar.",
+    "Giriş yazılı izinle yapılır.",
+    "Alan izole edilir, havalandırılır ve oksijen, yanıcı gaz ve zehirli gaz için ölçülür.",
+    "Gözcü dışarıda kalır; gerektiğinde içeri girmeden yardım çağırır.",
+    "Ve son olarak: kimse korunmasız kurtarmaya girmez. Kurtarma, hazırlıklı ve donanımlı ekibin işidir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1466779561253-0a08336ba2ab?w=2400",
+   "kicker": "Sıcak çalışma",
+   "title": "Sıcak çalışma, kıvılcım ve ısı çıkaran her iştir",
+   "bullets": [
+    "Kaynak, oksijenli kesme ve taşlama",
+    "Lehimleme ve alevli ısıtma",
+    "Ateşli ve kıvılcımlı el aletleriyle yapılan işler",
+    "Tehlike: yanıcı madde ve buharı tutuşturmak"
+   ],
+   "steps": [
+    "Şimdi sıcak çalışmaya geçelim. Kıvılcım, alev ya da yüksek ısı üreten her iş sıcak çalışmadır.",
+    "Kaynak ve oksijenli kesme ilk akla gelenler. Taşlama da, özellikle çok kıvılcım saçtığı için bu gruptadır.",
+    "Lehimleme ve alevli ısıtma gibi işler ile ateş çıkarabilecek kıvılcımlı aletler de aynı kapsamdadır.",
+    "Tehlike şu: Bu kıvılcımlar ya da ısı, çevredeki yanıcı bir maddeyi, boya buharını ya da talaşı tutuşturabilir.",
+    "Kıvılcım çok uzağa saçılır, kenarda duran küçük bir bez parçası ya da yağlı bir paçavra bile yangın başlatabilir. Bu yüzden sıcak çalışma, yangın riskini yönetme işidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1598302936625-6075fbd98dd7?w=2400",
+   "kicker": "Sıcak çalışma izni",
+   "title": "Kıvılcım nereye düşüyor?",
+   "bullets": [
+    "Zemin çatlaklarından alt kata kıvılcım geçer",
+    "Duvardaki ısı arkadaki malzemeyi tutuşturabilir",
+    "Boru ve profiller ısıyı uzağa iletir"
+   ],
+   "steps": [
+    "Sıcak çalışmada en çok gözden kaçan şey, kıvılcımın izlediği yoldur. Kıvılcım yalnızca baktığınız yere düşmez.",
+    "Zemindeki bir çatlaktan alt kata geçebilir, bir kablo kanalına ya da asma tavan boşluğuna girip orada için için yanmaya başlayabilir.",
+    "Bir de ısı iletimi var.",
+    "Metal duvarın ya da borunun diğer tarafındaki yanıcı malzeme, hiç alev görmeden tutuşabilir. Bu yüzden izin verilirken yalnızca çalışma noktasına değil, çevresine ve karşı tarafa da bakılır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Sıcak çalışma",
+   "title": "Başlamadan ve bitirdikten sonra beş adım",
+   "items": [
+    {
+     "title": "Alanı temizleyin",
+     "text": "Yanıcı madde, talaş, boya, yağ kalmasın"
+    },
+    {
+     "title": "Koruyun",
+     "text": "Kıvılcım battaniyesi ve paravan kullanın"
+    },
+    {
+     "title": "Söndürücü hazır",
+     "text": "Uygun tip ve yetkili kişi yanında olsun"
+    },
+    {
+     "title": "Yangın gözcüsü",
+     "text": "Kaynakçıdan ayrı bir kişi izlesin"
+    },
+    {
+     "title": "Bitişten sonra izleyin",
+     "text": "Kor kalmış mı, bir süre kontrol edin"
+    }
+   ],
+   "steps": [
+    "Sıcak çalışma izni verilirken şu beş adımı birlikte uygularız.",
+    "Birincisi alan temizliği. Çalışma noktasının çevresinde yanıcı madde bırakılmaz; kaldırılamayan malzeme yanmaz örtülerle korunur.",
+    "İkinci adımda kıvılcım battaniyesi ve paravan gibi koruyucular konur. Zemin ve duvar boşlukları kapatılır.",
+    "Üçüncüsü, uygun yangın söndürücünün yanı başta olması ve kullanmayı bilen birinin bulunması.",
+    "Dördüncüsü, kaynakçıdan ayrı bir yangın gözcüsünün görevlendirilmesi. Kaynak yapan kişi maskeyle zaten göremez.",
+    "Beşinci adım, iş bittikten sonra alanı bir süre izlemek. Gözle görünmeyen bir kor, saatler sonra yangına dönüşebilir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1712640379137-6d2532f887a7?w=2400",
+   "kicker": "Unutmayın",
+   "value": "Önce ölçüm",
+   "title": "Yanıcı gaz ve buhar olabilecek yerde, ölçüm yapılmadan sıcak çalışma yapılmaz",
+   "text": "Daha önce boya, yakıt ya da solvent taşıyan tank ve boruya kaynak yapılmadan önce gazdan arındırılır",
+   "steps": [
+    "Bir önceki içeriğin buharı, boşalan bir tankta bile kalabilir. Boş bir varile kaynak yaparken olan patlamalar bu yüzden olur.",
+    "Bu nedenle tank, boru ve varil gibi içi dolu olmuş bir ekipmana sıcak çalışma yapılmadan önce temizlenir, gazdan arındırılır ve ölçülür. Sıcak çalışmanın kapalı alanda yapıldığı durumlarda ise iki iznin şartları birlikte uygulanır. Örneğin tank içinde kaynak yapılacaksa hem kapalı alan hem sıcak çalışma önlemleri birlikte alınır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1714504904786-b6732390b206?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Depoda bir kaynak ve ertesi sabahki duman",
+   "bullets": [
+    "Gözcü yoktu, alan izlenmedi",
+    "Kor kalmış, yangın saatler sonra çıktı",
+    "Doğrusu: bitişten sonra da izlemek"
+   ],
+   "steps": [
+    "Bir depoda, raf ayağının üzerine küçük bir parça kaynaklanıyor. Çalışma kısa sürüyor, kaynakçı işini bitiriyor ve vardiya sonunda herkes ayrılıyor. Yangın gözcüsü atanmamış, alan izlenmiyor.",
+    "Raf aralığındaki kartonlara düşen bir kıvılcım için için yanıyor.",
+    "Birkaç saat sonra duman görünüyor, yangın alarmı çalıyor. Neyse ki depo güvenlik görevlisi alarmı erken fark edip müdahale ediyor.",
+    "Ne yapılmalıydı? Çalışma yeri ve çevresi temizlenmeli, sıcak çalışma izni verilmeli, yangın gözcüsü belirlenmeli, iş bitince alan bir süre izlenmeli. Küçük iş, küçük önlem anlamına gelmez."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1700727448575-6f1680cd7d75?w=2400",
+   "kicker": "İş izin sistemi",
+   "title": "İş izin sistemi, tehlikeli işin yazılı güvencesidir",
+   "bullets": [
+    "Yüksek riskli iş, izin olmadan başlamaz",
+    "İzin, işin yeri, süresi ve önlemlerini yazar",
+    "Aynı alandaki diğer işlerle çakışmayı önler",
+    "İşi yapan, izni veren ve alan sorumlusu birbirini tanır"
+   ],
+   "steps": [
+    "Bu dersin ilk üç konusunun ortak noktası var: hepsinde izin sistemi devreye girer. İş izin sistemi, tehlikeli bir işin kim tarafından, nerede, ne zaman ve hangi önlemlerle yapılacağını yazılı olarak belirleyen düzendir.",
+    "Birincisi, yüksek riskli iş izinsiz başlamaz. Amacı, işi geciktirmek değil; riskleri başlamadan önce ortaya çıkarmaktır.",
+    "İkincisi, izinde işin yeri, süresi ve alınacak önlemler yazılıdır. Böylece iş kafadan değil, plandan yürür.",
+    "Üçüncüsü, aynı alanda başka bir iş yapılıyorsa çakışmayı fark etmemizi sağlar. Birisi tankın içinde çalışırken diğerinin yakında kaynak yapması kâğıtta görülür.",
+    "Dördüncüsü, işi yapan, izni veren ve alan sorumlusu birbirini tanır. Kim neyi bildi, kim neyi onayladı, bellidir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "İzin akışı",
+   "title": "Bir iş izni nasıl ilerler?",
+   "items": [
+    {
+     "title": "Talep",
+     "text": "İşi yapacak ekip başvurur"
+    },
+    {
+     "title": "Saha kontrolü",
+     "text": "Alan ve riskler birlikte gözden geçirilir"
+    },
+    {
+     "title": "Onay",
+     "text": "Yetkili önlemleri doğrulayıp imzalar"
+    },
+    {
+     "title": "Uygulama",
+     "text": "İş, izindeki şartlarla yürür"
+    },
+    {
+     "title": "Kapatma",
+     "text": "İş biter, alan kontrol edilip izin kapatılır"
+    }
+   ],
+   "steps": [
+    "Bir iş izninin yolculuğu beş adımdır.",
+    "Önce talep: işi yapacak ekip, izin ister ve işi tarif eder.",
+    "İkincisi saha kontrolü. İzni veren ve işi yapan, alana birlikte gider. Kâğıt başında karar verilmez.",
+    "Üçüncüsü onay. Yetkili kişi, gerekli önlemlerin gerçekten alındığını doğruladıktan sonra imzalar.",
+    "Dördüncüsü uygulama. İş, izindeki şartlara uygun yürür; şartlar değişirse iş durur ve izin yeniden değerlendirilir.",
+    "Beşincisi kapatma. İş bitince alan temizlenir, kilitler ve ekipman teslim edilir, izin kapatılır. İzni açık bırakmak, kapının açık kalması gibidir. Bir sonraki vardiya, bu işin bittiğini kâğıttan okuyabilmelidir."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "İzin sistemi",
+   "title": "İş izninde kimin sorumluluğu ne?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1778074762022-c33cc42f79ae?w=1200",
+     "title": "İzni isteyen",
+     "text": "İşi tarif eder, önlemlerin alınmasını talep eder"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1759272548449-7b689a81c8fb?w=1200",
+     "title": "İzni veren",
+     "text": "Alanı ve önlemleri doğrular, yetkisini bilerek imzalar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1674558346964-e7196a409880?w=1200",
+     "title": "İşi yapan",
+     "text": "İzindeki şartlara uyar, değişiklikte durur"
+    }
+   ],
+   "steps": [
+    "Üç rolü ayrı ayrı düşünelim.",
+    "İzni isteyen, işi açıkça tarif eder ve gerekli önlemleri talep eder. İş değişirse yeniden başvurur.",
+    "İzni veren, kağıdı imzalamadan önce sahayı görür ve önlemlerin gerçekten alındığını doğrular. Gözü kapalı imza, bu sistemin en büyük zaafıdır.",
+    "İşi yapan çalışan, izindeki şartlara uyar. Şartlar değişirse ya da bir şey eksikse işi durdurur. Eğitim ve yetkisi olmayan bir işe başlamaz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1695603414685-af28aff0f9d2?w=2400",
+   "kicker": "Vardiya devri",
+   "title": "Vardiya devri, bilginin teslim edildiği andır",
+   "bullets": [
+    "Yarım kalan işler ve açık izinler söylenir",
+    "Kilitli, devre dışı ve açık ekipman bildirilir",
+    "Gözlenen anormallikler ve ramak kala olaylar aktarılır",
+    "Devir yüz yüze ve yazılı yapılır"
+   ],
+   "steps": [
+    "Gelelim son konuya: vardiya devri. Birçok ağır kaza, işin kendisinde değil, bir önceki vardiyada neler yapıldığının bilinmemesinde gizlidir.",
+    "Birinci madde: yarım kalan işler ve açık duran izinler söylenmelidir. Gelen vardiya, tankın içinde iş olup olmadığını bilmek zorundadır.",
+    "İkinci madde: kilitlenmiş, devre dışı bırakılmış ya da açık bırakılmış ekipman bildirilir. Bir vana açık mı, bir hat kilitli mi, bilinmelidir.",
+    "Üçüncü madde: gözlenen anormallikler ve ramak kala olaylar aktarılır. Kokan bir hat, sızdıran bir conta, bir sonraki vardiyanın sorunu olmasın.",
+    "Dördüncüsü: devir hem yüz yüze hem yazılı yapılır. Sadece sözlü anlatılan bir şey unutulur, sadece yazılı bırakılan şey de okunmayabilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1632914146475-bfe6fa6b2a12?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Devir notunda eksik kalan vana",
+   "bullets": [
+    "Not bırakıldı ama vana belirtilmedi",
+    "Gelen vardiya hattı açmaya çalıştı",
+    "Yüz yüze devir kazayı önlerdi"
+   ],
+   "steps": [
+    "Bir kimya tesisinde gece vardiyasındaki bakım ekibi, bir hattın vanasını kapatıp bakıma başlıyor. İş sabaha kadar bitmiyor. Devir notuna kısa bir satır yazılıyor ama hangi vananın kapatıldığı belirtilmiyor.",
+    "Sabah gelen operatör, hattı çalıştırmak için ilgili vanayı açmaya yöneliyor. Tam o sırada hat üzerinde çalışan teknisyen fark edip bağırıyor ve olay büyümeden önleniyor.",
+    "Ne yapılmalıydı?",
+    "Devir yüz yüze yapılmalı, kapatılan vana, kilit ve etiket bilgisi açıkça anlatılmalı, hat üzerinde açık işlerin listesi gelen vardiyaya imzayla teslim edilmeliydi. Önemli bir bilgiyi yalnızca ‘bildiğinizi’ varsaymayın."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1654703680007-d5d9699cddfd?w=2400",
+   "kicker": "Hakkınız",
+   "value": "Durdurun",
+   "title": "Ciddi ve yakın tehlike varsa çalışma yerini terk etme hakkınız vardır",
+   "text": "Ölçüm alarmı, eksik izin, kullanılamaz kemer: işi durdurmak için yeterli nedenlerdir",
+   "steps": [
+    "Bu derste anlattığımız önlemlerden biri eksikse, tartışmak yerine işi durdurmanız gerekir. 6331 sayılı Kanun, ciddi ve yakın bir tehlike varsa çalışanın çalışma yerini terk etme hakkını tanır.",
+    "Bu hak sizin lehinize bir koruma. Ölçüm cihazı alarm veriyor, izin yok ya da donanım hasarlıysa durun, amirinize ve iş güvenliği uzmanına haber verin. Kanun, bu nedenle haklarınızın kısıtlanmasını yasaklar."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1598299803204-b73796f43289?w=2400",
+   "kicker": "Yüz yüze eğitim",
+   "title": "İşyerinize özgü riskleri uzmanınızla konuşacaksınız",
+   "bullets": [
+    "Tehlikeli sınıfta temel eğitim en az 12, çok tehlikelide 16 ders saatidir",
+    "İşyerine özgü riskler yüz yüze eğitimde verilir",
+    "Bu dersteki kurallar işinizde nasıl uygulanır, orada somutlaşır"
+   ],
+   "steps": [
+    "Bu derste genel kuralları öğrendik. İşyerinizde hangi iş izin istiyor, kapalı alanlar hangileri, ankraj noktaları nerede; bunlar işyerinden işyerine değişir.",
+    "Bu nedenle tehlikeli sınıftaki işyerlerinde temel eğitim en az 12, çok tehlikeli sınıftaki işyerlerinde en az 16 ders saatidir ve işe özgü riskler, yüz yüze eğitimde sizinle konuşulacaktır.",
+    "Orada uzmanınıza şunları sorun: Bizde hangi işler izne bağlı? Kapalı alanlarımız nerede? Kurtarma planımız nedir? İzin formlarımız nerede bulunur?",
+    "Bu dersteki kurallar bir zemin hazırladı; sizin işyerinize uygun hale gelmesi için bu sorular çok değerli."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1695603414685-af28aff0f9d2?w=2400",
+   "kicker": "Bu dersin özeti",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Yüksekte önce toplu koruma, sonra kemer ve sağlam ankraj",
+    "Kapalı alanda izin, izolasyon, havalandırma, ölçüm ve gözcü",
+    "Sıcak çalışmada alan temizliği, söndürücü ve yangın gözcüsü",
+    "İş izni ve vardiya devri, bilginin kaybolmasını önler"
+   ],
+   "steps": [
+    "Dersi toparlayalım.",
+    "Yüksekte çalışmada önce korkuluk ve platform gibi toplu koruma gelir. Kemer ikinci basamaktır ve sağlam bir ankraj noktasına bağlanır.",
+    "Kapalı alana yazılı izinle girilir; alan izole edilir, havalandırılır, ölçülür ve gözcü dışarıda bekler. Kimse korunmasız kurtarmaya girmez.",
+    "Sıcak çalışmada alan temizlenir, söndürücü hazır tutulur, ayrı bir yangın gözcüsü görevlendirilir ve iş bittikten sonra da alan izlenir.",
+    "İş izni ve yüz yüze devir, bilgi kaybolmasın diye vardır. Ve şüphe duyduğunuzda, durmak her zaman hakkınızdır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1636362006544-22445420703f?w=2400",
+   "kicker": "Kapanış",
+   "title": "Bugün işinizi bu gözle bir kez daha izleyin",
+   "bullets": [
+    "Yükseğe çıkmadan: ankraj var mı",
+    "Girmeden önce: ölçüm yapıldı mı",
+    "Kıvılcım çıkmadan önce: gözcü var mı"
+   ],
+   "steps": [
+    "Dersi bitirirken sizden küçük bir şey rica ediyorum. Yarın işe başladığınızda, yüksekte, kapalı alanda ya da kıvılcımlı bir işte, şu üç soruyu kendinize sorun.",
+    "Yüksekteyse: sağlam bir ankrajım ya da korkuluğum var mı?",
+    "Kapalı alandaysa: ölçüm yapıldı mı, dışarıda gözcü var mı? Kıvılcımlı iştaysa: çevre temiz mi, söndürücü ve yangın gözcüsü hazır mı?",
+    "Cevap hayırsa durun ve bildirin. Dersin sonunda birkaç kısa soru sizi bekliyor. Dikkatle okuyun ve bu dersin anlattığı şeyleri hatırlayarak cevaplayın. Teşekkürler, güvenli çalışmalar."
+   ]
+  }
+ ]
+}

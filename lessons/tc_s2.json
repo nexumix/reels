@@ -1,0 +1,637 @@
+{
+ "code": "tc_s2",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "2. Bölüm · Sağlık Konuları",
+ "title": "Meslek hastalıklarının sebepleri (2)",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1793371930890-b1c6263844e5?w=2400",
+   "kicker": "2. Bölüm · Ders 2",
+   "title": "Meslek hastalıklarının sebepleri (2)",
+   "subtitle": "Tehlikeli işlerde öne çıkan hastalıklar",
+   "steps": [
+    "Merhaba, tekrar hoş geldiniz. Geçen derste meslek hastalığının ne olduğunu, hangi etkenlerden doğduğunu ve nasıl bildirildiğini konuştuk. Bu derste daha somut konuşacağız: tehlikeli ve çok tehlikeli işyerlerinde en sık karşılaşılan meslek hastalıkları hangileri?",
+    "Akciğer, kulak, eller, kan ve deri. Bunların her biri, atölyede, şantiyede ve fabrikada bir etkenle bağlantılı. Amacımız hastalıkları ezberlemek değil; kendi işinizde hangi sinyallere dikkat etmeniz gerektiğini bilmek."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Akciğer hastalıkları",
+     "text": "Silika, kaynak dumanı, ahşap ve metal tozu"
+    },
+    {
+     "title": "Gürültü ve titreşim",
+     "text": "İşitme kaybı ve el-kol titreşimi"
+    },
+    {
+     "title": "Solvent ve metaller",
+     "text": "Kurşun, krom, çözücü buharları"
+    },
+    {
+     "title": "Deri ve erken belirtiler",
+     "text": "Dermatit ve ilk uyarılar"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Bu derste dört bölüm var.",
+    "İlk bölümde mesleki akciğer hastalıklarını göreceğiz: silika, kaynak dumanı, ahşap ve metal tozunun solunum yoluna etkilerini.",
+    "İkinci bölümde gürültüye bağlı işitme kaybını ve titreşimin ellerde ve belde yarattığı sorunları anlatacağız.",
+    "Üçüncü bölümde solvent ve metal zehirlenmelerini, yani boya, yapıştırıcı, kurşun, krom gibi maddelerin sağlığa etkisini konuşacağız.",
+    "Son bölümde mesleki deri hastalıklarını ve hepsini ortak bir bakışla toplayan erken belirtileri ele alacağız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1793371930890-b1c6263844e5?w=2400",
+   "kicker": "Akciğer",
+   "title": "Havadaki toz, akciğerin sessiz düşmanıdır",
+   "bullets": [
+    "Toz solunduğunda akciğerin derinine kadar iner",
+    "Vücut bu parçacıkları temizlemekte zorlanır",
+    "Yıllar içinde akciğerde yara dokusu ve daralma gelişir",
+    "Mesleki akciğer hastalıkları çoğu zaman geri dönmez"
+   ],
+   "steps": [
+    "Tehlikeli işlerde toz denince ilk akla gelen konu, akciğer sağlığıdır. Şimdi bu konuyu adım adım ele alalım.",
+    "Meslek hastalıklarının en yaygın ve en ağır olanlarından bazıları akciğerde görülür. Neden mi? Çünkü her gün binlerce kez nefes alırız ve işyerindeki hava, doğrudan akciğere ulaşır.",
+    "Burnumuz ve soluk borumuz büyük parçacıkları tutar. Ama çok ince tozlar, yani gözle zor görünen küçük parçacıklar, akciğerin en derin bölgelerine, hava keseciklerine kadar iner.",
+    "Vücut bunları temizlemeye çalışır ama bazı tozlar, özellikle silika gibi sert olanlar, sürekli bir tahriş yaratır. Zamanla akciğerde yara dokusu oluşur ve akciğer esnekliğini kaybeder.",
+    "Sonuç, nefes darlığı, öksürük ve çalışma gücünün azalmasıdır. Birçok mesleki akciğer hastalığında kaybedilen akciğer dokusu geri gelmez; bu da çalışma gücünü ve yaşam kalitesini yıllarca etkileyebilir. Bu yüzden önlem, hastalık oluştuktan sonra değil, önce alınmalıdır. Tehlikeli ve çok tehlikeli sınıftaki işlerde bu önlemlerin planlanması, işverenin ve işyerindeki İSG ekibinin sorumluluğundadır; sizin göreviniz ise önlemleri bilmek ve uygulamaktır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1628147529780-36964fbb8d54?w=2400",
+   "kicker": "Silika",
+   "title": "Taş, kum, beton ve seramik: silika her yerde",
+   "bullets": [
+    "Kırma, delme, kesme ve kumlama toz çıkarır",
+    "Silikozis ilerleyici bir akciğer hastalığıdır",
+    "Belirtiler yıllar sonra çıkabilir"
+   ],
+   "steps": [
+    "Önce silikadan başlayalım. Silika, kum, taş, beton, tuğla ve seramik gibi birçok malzemenin içinde bulunan bir mineraldir. Kendisi zararsız görünür, ama toz hâline geldiğinde ve solunduğunda tehlikelidir.",
+    "Tünel ve maden işleri, taş ocakları, inşaatta beton kesme ve kırma, döküm kalıbı hazırlama, seramik ve cam sanayii, kumlama işleri silika tozunun sık görüldüğü yerlerdir.",
+    "Uzun süreli silika solunması, silikozis denen hastalığa yol açar. Bu hastalık ilerleyicidir; yani maruziyet bittikten sonra bile devam edebilir. Belirtileri başta hafiftir: kuru öksürük, hafif nefes darlığı.",
+    "Ne yazık ki silikozisin tam bir tedavisi yoktur. Bu yüzden toz çıkan her işte, ıslatma, toz emici sistemler ve uygun solunum koruyucuları, hastalığı önlemenin tek gerçekçi yoludur."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Akciğer hastalıkları",
+   "title": "Dört akciğer sorunu, dört işyeri",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1626379481874-3dc5678fa8ca?w=1200",
+     "tag": "Silikozis",
+     "title": "Taş, beton, seramik",
+     "text": "Kırma, kesme, delme ve kumlama işlerinde ince silika tozu"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1455165814004-1126a7199f9b?w=1200",
+     "tag": "Metal dumanı",
+     "title": "Kaynak ve döküm",
+     "text": "Kaynak dumanı ve metal buharı solunum yolunu tahriş eder"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1774273177345-ff6a25515a3c?w=1200",
+     "tag": "Meslek astımı",
+     "title": "Ahşap, boya, un",
+     "text": "Ahşap tozu, izosiyanat ve bazı tozlar astım benzeri şikâyet yapar"
+    }
+   ],
+   "steps": [
+    "Akciğer hastalıklarını tek tek tanıyalım. Hangi işte, hangi hastalık?",
+    "Silikozis, taş, beton, seramik ve kumlama işlerinde görülür. Nedeni ince silika tozudur.",
+    "Kaynak ve döküm işlerinde çalışanlar metal dumanı ve buharıyla karşılaşır. Çinko gibi bazı metallerin dumanı kısa süreli ateş, titreme ve halsizlik yapabilir. Buna metal dumanı ateşi denir ve genellikle pazartesi sendromu diye anılır. Uzun süreli maruziyet ise akciğeri kalıcı olarak etkileyebilir.",
+    "Meslek astımı ise ahşap işleri, boya atölyeleri ve bazı yapıştırıcı ve köpük üretimlerinde karşımıza çıkar. Belirtiler iş saatlerinde artar, tatilde ya da hafta sonunda hafifler. Bu dalgalanma, sebebin iş ortamı olduğuna dair önemli bir ipucudur."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=2400",
+   "kicker": "Kaynak",
+   "value": "Pazartesi",
+   "title": "Metal dumanı ateşi, tatilden sonra işe dönünce ortaya çıkan ateş ve titreme tablosudur",
+   "text": "Genellikle bir iki gün içinde geçer; ama sık tekrar ederse ciddiye alınmalıdır",
+   "steps": [
+    "Kaynakçıların ve döküm işçilerinin tanıdığı bir tablo var: metal dumanı ateşi. Çinko kaplı metallerin kaynağında ya da kesiminde çıkan duman solunduğunda, birkaç saat sonra ateş, titreme, boğazda yanma ve halsizlik başlar.",
+    "Çoğu zaman bir iki gün içinde kendiliğinden geçer. Hafta sonu geçip pazartesi tekrar eder, bu yüzden bazı yerlerde buna pazartesi hastalığı denir.",
+    "Geçiyor diye hafife almayın. Sık tekrarlayan maruziyet akciğeri zorlar ve kaynakçı akciğeri gibi kalıcı sorunlara zemin hazırlar. Çözüm; kaynak dumanını yerinde emen sistemler, yeterli havalandırma ve uygun solunum koruyucusudur."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1787422429898-709636d27d1a?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Ahmet usta ve kumlama kabini",
+   "bullets": [
+    "Kabin kapısı kapanmıyordu",
+    "Maske filtresi çok eskiydi",
+    "İşyeri hekimi filmi tekrarlattı"
+   ],
+   "steps": [
+    "Bir örnek olay anlatayım. Ahmet usta bir makine imalat atölyesinde parçaları kumlayan kabinde çalışıyor. Kabinin kapısı tam kapanmıyor, havalandırma da yetersiz. Toz atölyenin diğer bölümüne de yayılıyor.",
+    "Ahmet usta maske takıyor ama filtre kartuşunu aylardır değiştirmemiş. Maske içi toz kokuyor, yine de 'sadece bir saatlik iş' diyerek devam ediyor.",
+    "Periyodik muayenede çekilen akciğer filminde erken bulgular görülünce işyeri hekimi hemen İSG uzmanına ve işverene haber verdi. Kabin onarıldı, filtre değişim takvimi yapıldı ve kumlama işi dönüşümlü çalıştırıldı.",
+    "Ders şu: KKD ancak doğru seçilir, doğru takılır ve zamanında yenilenirse korur. Eski filtre, takılı olmayan maskeden bile daha yanıltıcı olabilir, çünkü sahte güven verir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1779034642860-914e59da762f?w=2400",
+   "kicker": "Önlemler",
+   "title": "Toza karşı koruma sırası",
+   "bullets": [
+    "Önce toz kaynağını azalt: ıslak yöntem, kapalı sistem",
+    "Sonra toz emici ve havalandırma kullan",
+    "Vardiya düzeniyle maruz kalma süresini kısalt",
+    "En son çare: doğru filtreli solunum koruyucusu"
+   ],
+   "steps": [
+    "Toza karşı hangi sırayla korunuruz? Mantık basit: kaynakta durdurmak, solumaktan iyidir.",
+    "En etkili yöntem, tozu hiç oluşturmamak ya da azaltmaktır. Kuru kesme yerine ıslak kesme, açık kırma yerine kapalı sistemde işlem gibi.",
+    "Olmuyorsa tozu hemen yakalayıp uzaklaştırmak gerekir: yerel emiş sistemleri, kaynak dumanı emiş kolları ve doğru havalandırma.",
+    "Üçüncü adım, maruziyet süresini kısaltmaktır. Görev rotasyonu, yani aynı kişinin saatlerce tozlu işte kalmaması, toplam yükü azaltır.",
+    "Hepsi yetmiyorsa, sonuncu çare olarak doğru filtreye sahip solunum koruyucusu kullanılır. Maske seçimi, tozun cinsine göre yapılır. Her maske her toza karşı korumaz. İşyerinde sağlanan maskenin hangi iş için olduğunu mutlaka öğrenin."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1628147529780-36964fbb8d54?w=2400",
+   "kicker": "Asbest",
+   "title": "Eski yapıların sessiz mirası: asbest",
+   "bullets": [
+    "Eski çatı levhası, boru yalıtımı ve fren balatasında bulunabilir",
+    "Lifler havaya karışıp solunursa yıllar sonra ağır hastalık yapabilir",
+    "Asbestin kullanımı yasaktır; asıl risk eski yapıların sökümünde",
+    "Şüpheli malzemeye dokunmayın, amirinize ve uzmana haber verin"
+   ],
+   "steps": [
+    "Akciğer hastalıkları arasında özel bir yeri olan asbestten de söz edelim. Asbest, eskiden yalıtım ve dayanıklılık için çok kullanılan lifli bir mineraldir.",
+    "Eski çatı levhalarında, boru ve kazan yalıtımında, bazı fren balatalarında ve eski tavan kaplamalarında bulunabilir. Malzeme sağlam durduğu sürece liflerin yayılması sınırlıdır.",
+    "Ama kırıldığında, delindiğinde ya da söküldüğünde lifler havaya karışır. Solunan lifler, yıllar, hatta onlarca yıl sonra akciğer zarında ve akciğerde ağır hastalıklara yol açabilir.",
+    "Türkiye'de asbestli ürün üretimi ve kullanımı yasaklanmıştır. Ama eski binalarda, söküm ve yıkım işlerinde hâlâ karşılaşılabilir. Bu yüzden eski yapıda, ne olduğunu bilmediğiniz yalıtım ya da levha malzemesini kırmayın, delmeyin ve süpürmeyin.",
+    "Şüphe duyarsanız işi durdurun, amirinize ve işyeri uzmanlarına bildirin. Söküm ancak eğitimli ve yetkili ekipler tarafından, özel önlemlerle yapılmalıdır."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1758874572670-63042c5448c6?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar öğrendiklerimiz",
+   "bullets": [
+    "Silika, kaynak dumanı ve ahşap tozu solunum yoluna zarar verir",
+    "Silikozis ilerleyicidir ve tam tedavisi yoktur; önlem şarttır",
+    "Belirtiler hafta sonu azalıp işte artıyorsa iş ortamını düşünün",
+    "Önlem sırası: kaynakta azalt, emiş yap, süreyi kısalt, sonra maske"
+   ],
+   "steps": [
+    "Akciğer bölümünü kısaca özetleyelim.",
+    "Silika, kaynak dumanı ve ahşap ya da boya tozları, solunum yolunu etkileyen başlıca etkenlerdir. En ağır sonuçlardan biri silikozistir.",
+    "Silikozis ilerleyicidir ve tam tedavisi olmadığı için önleme çok büyük önem taşır.",
+    "Belirtiler hafta sonu azalıp işe dönünce artıyorsa, iş ortamını ve doktorunuzu mutlaka devreye sokun.",
+    "Korunmada sıra şöyledir: tozu kaynağında azalt, emiş ve havalandırma uygula, maruz kalma süresini kısalt ve ancak sonra doğru solunum koruyucusunu kullan."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1458829267686-b15150d4a28e?w=2400",
+   "kicker": "Gürültü",
+   "title": "Gürültüye bağlı işitme kaybı kalıcıdır",
+   "bullets": [
+    "İç kulaktaki tüy hücreleri zarar görür",
+    "Önce yüksek sesler duyulamaz",
+    "Kaybedilen işitme geri gelmez"
+   ],
+   "steps": [
+    "Şimdi kulağa geçelim. Tehlikeli ve çok tehlikeli işyerlerinde en sık görülen meslek hastalıklarından biri, gürültüye bağlı işitme kaybıdır.",
+    "İç kulakta, sesi beyne ileten çok küçük tüy hücreleri bulunur. Yüksek ses, bu hücreleri bükerek ve yıpratarak zarar verir. Önce dinlenince düzelen geçici bir kayıp olur, ama tekrarladıkça kayıp kalıcı hâle gelir.",
+    "Bu kayıp genellikle önce yüksek frekanslı sesleri, yani kuş sesi, zil sesi ve konuşmadaki bazı harfleri etkiler. Çoğu kişi bunu fark edince bile 'yaşlanıyorum' diye düşünür.",
+    "Kritik nokta şu: ölen tüy hücreleri yenilenmez. İşitme kaybı bir kez oluştuktan sonra ne ilaçla ne ameliyatla geri gelir. Önlem bu yüzden tek çare."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Gürültü",
+   "title": "Gürültüde korunma basamakları",
+   "items": [
+    {
+     "title": "Kaynakta azalt",
+     "text": "Sessiz makine, bakım, yağlama"
+    },
+    {
+     "title": "Yalıtım",
+     "text": "Kabin, perde, titreşim damperi"
+    },
+    {
+     "title": "Süre sınırı",
+     "text": "Gürültülü işte kalış süresini kısalt"
+    },
+    {
+     "title": "Kulak koruyucu",
+     "text": "Tıkaç veya kulaklık; doğru takılmış olarak"
+    }
+   ],
+   "steps": [
+    "Gürültüde de önlem sırası tozdakine benzer. Önce kaynakta, en son kulakta.",
+    "Birinci adım, gürültüyü kaynağında azaltmaktır. Daha sessiz makine seçmek, yağlama ve bakımı düzenli yapmak, aşınmış parçaları değiştirmek gürültüyü gerçekten düşürür.",
+    "İkinci adım, gürültüyü yalıtmaktır. Gürültülü makineyi kabin içine almak, ses emici panel ve titreşim damperi kullanmak gibi önlemler.",
+    "Üçüncü adım, gürültülü ortamda kalış süresini kısaltmak, yani molalar ve görev rotasyonu uygulamaktır.",
+    "Dördüncü adım, kulak koruyucusudur. Tıkaç ya da kulaklık fark yaratır ama sadece doğru takılırsa. Tıkacı yarım takmak, kulaklığın altına gözlük sapı sıkıştırmak koruyuculuğu ciddi biçimde düşürür."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Gürültüde davranış",
+   "title": "Kulak koruyucusu: doğru ve yanlış",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1458829267686-b15150d4a28e?w=1200",
+     "ok": false,
+     "title": "Boynunda asılı kulaklık",
+     "text": "Sadece müdür geldiğinde takmak, ortam sessizleşince çıkarmak"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1623376550339-24a8815405d0?w=1200",
+     "ok": true,
+     "title": "Maruziyet boyunca takılı",
+     "text": "Makine çalıştığı sürece takılı; düzenli işitme testi ile izlenir"
+    }
+   ],
+   "steps": [
+    "Kulak koruyucusunda çok sık yapılan hatayı gösterelim.",
+    "Soldaki hata, kulaklığı boyunda ya da başında asılı bırakmak. Gürültü yüksekken yalnızca birkaç dakikalığına çıkarmak bile, koruyucunun sağladığı faydayı büyük ölçüde azaltır. Çünkü gürültünün zararı enerji toplamı gibi hesaplanır; birkaç dakikalık yüksek maruziyet, günün geri kalanında sağlanan korumayı silebilir.",
+    "Sağdaki doğru kullanımda koruyucu, gürültü sürdüğü sürece takılıdır. Ayrıca düzenli işitme testi, kaybı erken yakalamak için çok değerlidir. Test sonuçlarında kötüleşme görülürse, hem sizin hem arkadaşlarınızın ortamı gözden geçirilir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1787422429898-709636d27d1a?w=2400",
+   "kicker": "Titreşim",
+   "title": "El-kol titreşimi parmakları ve sinirleri etkiler",
+   "bullets": [
+    "Kırıcı, matkap, taşlama ve zımpara makinelerinde görülür",
+    "Parmaklarda beyazlaşma, uyuşma, iğne batması ve kavrama güçsüzlüğü",
+    "Soğukta belirtiler artar; 'beyaz parmak' olarak bilinir",
+    "Tam vücut titreşimi ise iş makinesi kullananlarda bel ağrısı yapar"
+   ],
+   "steps": [
+    "Şimdi titreşime geçelim. Titreşim, sessiz çalışan bir etkendir, çünkü gürültü gibi hemen fark edilmez.",
+    "El-kol titreşimi, kırıcı, matkap, taşlama ve zımpara gibi elle tutulan makinelerde görülür. Titreşim parmaktaki küçük damarlara ve sinirlere zarar verir.",
+    "Belirtileri parmaklarda beyazlaşma, uyuşma, iğne batması ve kavrama gücünde azalmadır. Çalışan bir şey tutarken elinden düşürdüğünü fark eder. Soğukta ve sabahları belirtiler artar; halk arasında buna beyaz parmak denir.",
+    "Tam vücut titreşimi ise iş makinesi, forklift ve ağır vasıta sürücülerinde, oturduğunuz koltuk ve zeminden bedene geçer. En sık sonuç, bel ve sırt ağrılarıdır.",
+    "İyi haber şu: titreşim de gürültü gibi önlenebilir. Doğru makine seçimi, bakımlı aletler, titreşim sönümleyici tutamaklar ve mola düzeni risk dengesini belirgin biçimde değiştirir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1590006137741-5f5892ce5635?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Kırıcıyla çalışan Hasan'ın soğuk sabahları",
+   "bullets": [
+    "Her gün saatlerce kırıcı",
+    "Parmaklar beyazlaşıp uyuşuyordu",
+    "Tutamak ve mola düzeniyle iyileşti"
+   ],
+   "steps": [
+    "Titreşimle ilgili bir örnek olay. Hasan, bir yol yapım ekibinde hidrolik kırıcıyla çalışıyor. Hemen her gün saatlerce makineyi tutuyor.",
+    "Kış aylarında sabahları parmaklarının beyazladığını ve uyuştuğunu fark etti. Kahvesini bardağı elinden düşürecek kadar kavrayışını kaybettiğini söyleyince arkadaşları güldü, ama Hasan endişelendi.",
+    "Ekip amiri durumu işyeri hekimine bildirdi. Hekim, titreşimle ilişkili bir sorun şüphesiyle Hasan'ı yetkili sağlık kuruluşuna yönlendirdi ve işverene ortamı gözden geçirmesini bildirdi.",
+    "Makinenin bakımı yapıldı, titreşim sönümleyici tutamak takıldı, çalışma süreleri kısaltıldı ve görevler dönüşümlü yapılmaya başlandı. Eldivenler de soğuğa karşı değiştirildi. Dersimiz açık: erken söylenen belirti, kalıcı hasarı önleyebilir."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Titreşim",
+   "title": "El-kol titreşiminde günlük değerler",
+   "items": [
+    {
+     "value": "2,5",
+     "unit": "m/s²",
+     "label": "Eylem değeri: önlem programı başlar"
+    },
+    {
+     "value": "5",
+     "unit": "m/s²",
+     "label": "Sınır değer: aşılamaz"
+    }
+   ],
+   "steps": [
+    "Titreşimin de gürültüde olduğu gibi yasal değerleri vardır. Titreşim Yönetmeliği, günlük sekiz saatlik maruziyet için el-kol titreşiminde iki değer belirler.",
+    "2,5 m/s² eylem değeridir. Bu değere ulaşıldığında işveren titreşimi azaltmak için teknik ve idari önlem programı uygulamak zorundadır; çalışanın da bilgilendirilmesi ve sağlık gözetimi gerekir.",
+    "5 m/s² ise sınır değerdir. Çalışanın maruziyeti bu değerin üzerine çıkamaz. Çıkıyorsa, işi durdurmak ve önlem almak gerekir. Ölçüm sonuçlarını işyeri uzmanından sorabilirsiniz; çalışanın bilgilendirilmesi hakkıdır. Bu sayıları ezberlemeniz gerekmiyor; önemli olan, bu sınırların varlığını ve ölçüm yapılması gerektiğini bilmeniz."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Kimyasal",
+   "title": "Solvent ve metal: iki ayrı grup",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1605043607110-df2e2f642ef1?w=1200",
+     "title": "Solventler",
+     "text": "Boya, tiner, yapıştırıcı ve yağ çözücülerde; sinir sistemi ve karaciğeri etkiler"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1559913409-a94418c968f6?w=1200",
+     "title": "Ağır metaller",
+     "text": "Kurşun, krom, kadmiyum, civa; birikir ve böbrek, sinir, kan sistemini etkiler"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1626379481874-3dc5678fa8ca?w=1200",
+     "title": "Etiket ve form",
+     "text": "Hangi maddeyle çalıştığınızı etiket ve güvenlik bilgi formundan öğrenirsiniz"
+    }
+   ],
+   "steps": [
+    "Üçüncü bölüme, solvent ve metal zehirlenmelerine geçiyoruz.",
+    "Solventler, yani çözücüler boya, tiner, yapıştırıcı, temizleme ve yağ çözücü ürünlerde bulunur. Buharları solunduğunda ya da deriye temas ettiğinde baş ağrısı, baş dönmesi, mide bulantısı yapar. Uzun süreli maruziyet sinir sistemini ve karaciğeri etkileyebilir.",
+    "Ağır metaller ise kurşun, krom, kadmiyum, civa gibi maddelerdir. Akü, boya, kaynak, galvaniz ve metal kaplama işlerinde karşılaşılır. Bu metaller vücutta birikebilir, böbrek, sinir ve kan sistemini bozabilir.",
+    "İkisinde de en önemli kural şu: hangi maddeyle çalıştığınızı bilin. Etikette ve güvenlik bilgi formunda yazanlara göre havalandırma, eldiven ve solunum koruyucusu seçilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Tiner ile ellerin yıkanması",
+   "bullets": [
+    "Yağlı eller tinerle temizlendi",
+    "Deri çatladı, solvent deriden geçti",
+    "Hekim temiz su ve sabun önerdi"
+   ],
+   "steps": [
+    "Bir örnek olay. Bir otomotiv servisinde çalışan Murat, işi bitince ellerindeki yağ ve boyayı tinerle temizliyordu. Pratik ve hızlı olduğunu düşünüyordu.",
+    "Birkaç ay sonra elleri kuruyup çatlamaya başladı. Ayrıca akşamları hafif baş dönmesi ve baş ağrısı yaşıyordu.",
+    "İşyeri hekimi durumu öğrenince şunu açıkladı: solventler deriyi kurutur ve yağ tabakasını bozar, ayrıca deriden vücuda geçebilir. Bu yüzden eller solventle temizlenmez.",
+    "Atölyeye uygun el temizleme ürünleri ve koruyucu krem alındı, Murat'a doğru eldiven sağlandı. Dersimiz açık: pratik görünen alışkanlıklar, uzun vadede en pahalı alışkanlıklardır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1590006137741-5f5892ce5635?w=2400",
+   "kicker": "Zehirlenme",
+   "title": "Zehirlenme her zaman ani ve dramatik olmaz",
+   "bullets": [
+    "Akut zehirlenme: yüksek maruziyetten sonra kısa sürede belirti",
+    "Kronik zehirlenme: küçük miktarların uzun süre birikmesi",
+    "Kurşunda kan düzeyi, bazı solventlerde idrar testi izlenir",
+    "Belirti: baş ağrısı, bulantı, uyuşma, halsizlik, iştahsızlık"
+   ],
+   "steps": [
+    "Zehirlenme dendiğinde çoğumuz dramatik bir olay hayal ederiz. Oysa iş yerlerinde daha sık görülen, kronik zehirlenmedir.",
+    "Akut zehirlenmede, yüksek miktarda madde bir anda alınır ve kısa sürede baş dönmesi, bulantı, bilinç bulanıklığı gibi belirtiler çıkar. Bu bir acil durumdur; kişi hemen temiz havaya alınır ve 112 aranır.",
+    "Kronik zehirlenmede ise küçük miktarlar yıllarca birikir. Belirtiler sinsi biçimde başlar: baş ağrısı, halsizlik, iştahsızlık, uyuşma, unutkanlık ve duygudurum değişiklikleri.",
+    "Bu yüzden bazı işlerde sağlık gözetimi, kan ve idrar tahlilleriyle desteklenir. Örneğin kurşunla çalışanlarda kandaki kurşun düzeyi, bazı solventlerde idrardaki metabolitler izlenir.",
+    "Zehirlenme şüphesinde en önemli bilgi, hangi maddeyle ne kadar süredir çalıştığınızdır; ürünün adını ya da güvenlik bilgi formunu hekime göstermek tanıyı hızlandırır. Siz de uyuşma, kalıcı baş ağrısı ya da unutkanlık fark ederseniz, bunu stres ya da yorgunlukla sınırlamayın. İşyeri hekimine hangi madde ile çalıştığınızı söylemeniz çok yol gösterici olur."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1455165814004-1126a7199f9b?w=2400",
+   "kicker": "Hijyen",
+   "title": "Küçük alışkanlıklar büyük fark yaratır",
+   "bullets": [
+    "Yeme, içme ve sigara içme çalışma alanının dışında yapılmalı",
+    "Eller yıkanmadan yemek yenmez, yüze dokunulmaz",
+    "İş kıyafetini eve götürmeyin; işyerinde yıkama imkânı kullanın",
+    "Duş, soyunma ve temiz yer ayrımı kimyasal taşınmasını önler"
+   ],
+   "steps": [
+    "Kimyasal ve toz etkilerini azaltmanın basit ama güçlü yollarından biri, kişisel hijyendir.",
+    "Çalışma alanında yemek yemek, çay içmek ya da sigara içmek, eldeki kimyasalı ve tozu doğrudan ağza taşır. Bu yüzden yeme içme yerleri, çalışma alanından ayrı olmalıdır.",
+    "İşten çıkarken ve yemekten önce elleri su ve sabunla iyice yıkayın. Kurşun, krom ve benzeri maddelerle çalışan işyerlerinde bu kural çok daha önemlidir.",
+    "Kirli iş kıyafetlerini evinize götürürseniz, tozu ve kimyasalı aile bireylerinize, özellikle çocuklara da taşıyabilirsiniz. Mümkünse işyerinin sağladığı yıkama ve soyunma imkânını kullanın.",
+    "Temiz alan ile kirli alan arasında ayrım yapmak ve bunu disiplinle uygulamak, hiç pahalı olmayan, ama ciddi etki sağlayan bir önlemdir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1758691462123-8a17ae95d203?w=2400",
+   "kicker": "Deri",
+   "value": "Birinci",
+   "title": "Mesleki deri hastalıkları, meslek hastalıkları içinde en sık görülenler arasındadır",
+   "text": "Çoğu zaman eller etkilenir; çimento, yağ, kesme sıvısı ve solventler başlıca nedenlerdir",
+   "steps": [
+    "Şimdi son bölüme, deriye geliyoruz. Mesleki deri hastalıkları, birçok ülkede en sık görülen meslek hastalıkları arasındadır ve çoğunlukla eller etkilenir.",
+    "İnşaatta çimento, atölyede kesme sıvısı ve yağ, boyada solvent, temizlikte deterjan; hepsi deriyi tahriş edebilir. Kimyasal ya da sürtünmeye dayalı hasar, deri bariyerinin bozulmasına yol açar.",
+    "Bu bariyer bozulunca, deri hem enfeksiyona hem alerjik tepkiye daha açık hâle gelir. Üstelik deriden giren maddeler vücuda yayılabilir. Bu yüzden deri sağlığı, sadece güzellik değil, iş sağlığı konusudur."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1605043607110-df2e2f642ef1?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Çimento ve inşaat ustasının elleri",
+   "bullets": [
+    "Yıllarca çıplak elle harç",
+    "Eller çatladı, kabardı",
+    "Hekim alerji ve tahriş saptadı"
+   ],
+   "steps": [
+    "Deriyle ilgili bir de inşaattan örnek vereyim. Ali usta, kaba inşaat ekibinde yıllardır harç karıyor ve sıva yapıyor. Eldiven kullanmıyor, çünkü 'elim işi daha iyi hissediyor'.",
+    "Zamanla elleri kurudu, çatladı ve kabarmaya başladı. Önce sabun ya da soğuk sanıp merhem sürdü, ancak şikâyetler geçmedi, işe girince arttı.",
+    "İşyeri hekimi, Ali ustayı muayene edip yetkili sağlık kuruluşuna yönlendirdi. Çimentodaki aşındırıcı ve alerjik bileşenlerin deri bariyerini bozduğu tespit edildi.",
+    "Ali ustaya uygun, uzun konçlu eldiven, koruyucu krem ve harçla temas sonrası yıkama alışkanlığı kazandırıldı. Ekip şantiyesinde de ıslak betonla çıplak temasın tehlikeli olduğu bir kez daha anlatıldı."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Deri hastalıkları",
+   "title": "Üç yaygın mesleki deri sorunu",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=1200",
+     "tag": "Tahriş dermatiti",
+     "title": "Kuru, çatlak",
+     "text": "Su, deterjan, solvent ve sürtünmeyle bariyer bozulur"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1777304610456-e9d6206b19a2?w=1200",
+     "tag": "Alerjik dermatit",
+     "title": "Kızarık, kaşıntılı",
+     "text": "Çimentodaki krom gibi maddelere duyarlılık gelişir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1754666104636-bd983a5ad660?w=1200",
+     "tag": "Yağ aknesi",
+     "title": "Siyah noktalar",
+     "text": "Kesme yağı ve gresle temas, gözenekleri tıkar"
+    }
+   ],
+   "steps": [
+    "Üç yaygın deri sorununa bakalım.",
+    "Birincisi tahriş dermatitidir. Sık sık su, deterjan ve solventle temas, deriyi kurutur ve çatlatır. Kimse alerjik olmasa da bu herkeste olabilir.",
+    "İkincisi alerjik dermatittir. Örneğin çimentodaki krom bileşiklerine zamanla duyarlılık gelişebilir. Bir kez gelişirse, minicik bir temas bile kızarıklık, kaşıntı ve kabarma yapar. Bu durum, işten uzaklaşmayı bile gerektirebilir.",
+    "Üçüncüsü yağ aknesidir. Kesme yağı, gres ve ham petrol türevleriyle teması olanlarda siyah noktalar ve sivilceler oluşur, özellikle kirli kıyafetlerle çalışılırsa sıklaşır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Deri koruma",
+   "title": "El bakımında doğru ve yanlış",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1757266705787-c319b6495b72?w=1200",
+     "ok": false,
+     "title": "Her işi çıplak elle",
+     "text": "Solventle yıkama, ıslak eldivenle çalışma, krem sürmeden iş"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758685848561-3658f433e6a0?w=1200",
+     "ok": true,
+     "title": "Doğru eldiven, doğru bakım",
+     "text": "İşe uygun eldiven, işten önce koruyucu krem, sonra nemlendirici"
+    }
+   ],
+   "steps": [
+    "Deri korumada neyi yanlış, neyi doğru yapıyoruz?",
+    "Yanlış tarafta üç alışkanlık var. Eldiven yerine çıplak elle çalışmak, elleri solventle temizlemek ve içi ıslanmış eldivenle saatlerce çalışmak. Islak eldiven içinde ter ve kimyasal birikir, tahrişi artırır.",
+    "Doğru tarafta, yaptığınız işe uygun eldiven var. Her eldiven her maddeye dayanmaz; lateks, nitril ya da neopren seçimi kimyasala göre yapılır. İşe başlamadan koruyucu krem sürülür, iş bitince ellerin nazikçe yıkanıp nemlendirilmesi ise bariyeri onarır.",
+    "Eldiven içi ıslandıysa değiştirin, eldivenleri çıkarırken dış yüzüne dokunmamaya dikkat edin ve kesik, yaralar varsa bunu mutlaka kapatın."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1666886573583-9839aafe43cf?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Servis hattında birlikte gelen belirtiler",
+   "bullets": [
+    "Birkaç kişide aynı şikâyet",
+    "Hepsi aynı vardiya, aynı hat",
+    "Bildirim ortamın düzelmesini sağladı"
+   ],
+   "steps": [
+    "Dördüncü ve son örnek olayımız. Bir metal kaplama tesisinde, aynı hatta çalışan üç kişi art arda öksürük, göz yanması ve ellerde kızarıklıktan yakınmaya başladı.",
+    "Biri 'bende alerji var', öteki 'bende nezle' dedi. Vardiya amiri Selin ise şikâyetlerin ortak olduğunu fark etti ve hepsini işyeri hekimine bildirdi.",
+    "Hekim, çalışanların hepsinin aynı hatta çalıştığını ve hattın havalandırma sisteminin eskidiğini fark etti. Ortam ölçümleri yapıldı; kimyasal buhar yoğunluğunun beklenenden yüksek olduğu görüldü.",
+    "Havalandırma yenilendi, kaplama banyosu kapalı sisteme alındı. Çalışanlara solunum ve deri koruyucuları verildi. Dersimiz şu: aynı yerde aynı belirtiler, bireysel bir hastalık değil, bir ortam sorunudur."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Erken belirtiler",
+   "title": "Belirtiyi görünce atılacak adımlar",
+   "items": [
+    {
+     "title": "Fark et",
+     "text": "Ne zaman başladı, nerede artıyor"
+    },
+    {
+     "title": "Söyle",
+     "text": "Amir, işyeri hekimi ya da çalışan temsilcisi"
+    },
+    {
+     "title": "Muayene",
+     "text": "Hekime işinizi ve maddeleri anlatın"
+    },
+    {
+     "title": "Önlem",
+     "text": "Ortam ve koruma yeniden gözden geçirilir"
+    }
+   ],
+   "steps": [
+    "Belirtilerle karşılaştığınızda ne yapacağız? Dört adımda özetleyelim.",
+    "Birinci adım, fark etmek. Belirti ne zaman başladı, işte mi artıyor, tatilde mi azalıyor? Bu üç sorunun cevabı hekime çok yardımcı olur.",
+    "İkinci adım, söylemek. Amirinize, işyeri hekiminize ya da çalışan temsilcinize. Belirtiyi saklamak, hem sizin hem arkadaşlarınızın zararına olur.",
+    "Üçüncü adım, muayene. Hekime sadece belirtiyi değil, hangi işi yaptığınızı, hangi maddeyle ve makineyle çalıştığınızı da anlatın.",
+    "Dördüncü adım, önlem. Gerekirse ortam ölçülür, havalandırma ve KKD gözden geçirilir. Bildirim sürecinde işyeri hekiminize ve amirinize destek olun. Hastalık meslek hastalığı olarak tespit edilirse, SGK bildirimi üç iş günü içinde yapılır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1666886573583-9839aafe43cf?w=2400",
+   "kicker": "Erken uyarı listesi",
+   "title": "Bunlardan biri varsa hekime söyleyin",
+   "bullets": [
+    "Kulak: çınlama, yüksek sesleri duymama, konuşmayı anlamama",
+    "Akciğer: geçmeyen öksürük, nefes darlığı, hırıltı",
+    "El ve kol: uyuşma, beyazlaşma, kavrama güçsüzlüğü",
+    "Deri: kızarıklık, çatlak, kaşıntı; sinir: baş ağrısı, unutkanlık"
+   ],
+   "steps": [
+    "Bu dersin pratik özetini bir liste hâlinde verelim. Bu listeyi aklınızda tutun ve bunlardan biri varsa erteleme yapmayın.",
+    "Kulakta çınlama, yüksek sesleri duymama ya da kalabalıkta konuşmayı anlamama.",
+    "Akciğerde üç haftadan uzun süren öksürük, nefes darlığı ve hırıltı. Özellikle işte artıp tatilde azalıyorsa.",
+    "Elde ve kolda uyuşma, parmaklarda beyazlaşma ve kavrama güçsüzlüğü. Derinizde kızarıklık, çatlama ve kaşıntı.",
+    "Sinir sisteminde ise tekrarlayan baş ağrısı, unutkanlık, iştahsızlık ve halsizlik. Bunların hiçbiri tek başına teşhis değildir. Ama hepsi, 'iş ortamımı da düşünmeliyim' demenizi sağlayacak ipuçlarıdır. Aynı belirtiyi birkaç kişide görüyorsanız, bu daha da güçlü bir uyarıdır ve mutlaka toplu olarak bildirilmelidir."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Sorumluluk",
+   "title": "Önlemede herkesin görevi",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1779034642860-914e59da762f?w=1200",
+     "title": "İşveren",
+     "text": "Ortamı ölçtürür, kaynakta önlem alır, KKD ve eğitim sağlar, muayeneyi yaptırır"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1627905646269-7f034dcc5738?w=1200",
+     "title": "İşyeri hekimi",
+     "text": "Muayene eder, ilişkiyi araştırır, gerekirse yetkili kuruluşa yönlendirir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1627905646269-7f034dcc5738?w=1200",
+     "title": "Çalışan",
+     "text": "Kuralı uygular, KKD'yi sürekli kullanır, belirtiyi hemen bildirir"
+    }
+   ],
+   "steps": [
+    "Bu hastalıklardan korunmak, tek başına birinin işi değil. Üç tarafın payı var.",
+    "İşveren, riskleri kaynağında azaltmak, ölçümleri yaptırmak, eğitim ve KKD sağlamak ve sağlık gözetimini yürütmekle yükümlüdür. Bunların hiçbiri çalışana yansıtılamaz.",
+    "İşyeri hekimi muayeneyi yapar, iş ile sağlık sorunu arasındaki ilişkiyi araştırır ve gerektiğinde yetkili sağlık kuruluşuna yönlendirir.",
+    "Siz de çalışan olarak kuralları uygulayın, KKD'nizi sürekli ve doğru kullanın, muayeneye gidin ve belirtiyi hemen bildirin. Bu üçü birleşince risk gerçek anlamda azalır. Biri eksik kaldığında, zincir en zayıf halkasından kopar; hastalanan çoğu zaman en önce çalışan olur."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1747999703278-ef065c39cb18?w=2400",
+   "kicker": "Pratik",
+   "title": "Yarın işe başlarken kendinize sorun",
+   "bullets": [
+    "Hangi toz, ses, titreşim, kimyasal var",
+    "Koruyucum yerinde ve sağlam mı",
+    "Yan tezgâhta belirti gösteren var mı"
+   ],
+   "steps": [
+    "Bitirirken küçük bir pratik görev. Yarın işe başlarken, işinize dört açıdan bakın.",
+    "Birincisi, bugün hangi etkenle karşılaşacağım? Toz mu, ses mi, titreşim mi, kimyasal mı? Etiketlere ve uyarı levhalarına bir göz atın.",
+    "İkincisi, koruyucum yerinde ve sağlam mı? Maskenin filtresi, kulaklığın pedi, eldivenin içi sağlam mı?",
+    "Üçüncüsü, çevremde belirti gösteren biri var mı? Sürekli öksüren, kulağını ovuşturan ya da ellerini kaşıyan bir arkadaşınız, sizin işyerinizdeki bir uyarı olabilir.",
+    "İşyerinize özgü riskleri ve önlemleri yüz yüze eğitimde uzmanınızla ayrıntılı olarak konuşacaksınız. Bu ders size ortak bir bakış sağladı."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1758691461990-03b49d969495?w=2400",
+   "kicker": "Kapanış",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Silika ve metal tozu akciğeri kalıcı etkiler; silikozisin tam tedavisi yoktur",
+    "Gürültüye bağlı işitme kaybı kalıcıdır; kulak koruyucusu sürekli takılmalıdır",
+    "Titreşim parmaklarda beyazlaşma ve uyuşma yapar; solvent ve metaller birikir",
+    "Deri korunur: uygun eldiven, solventle el yıkamama, koruyucu krem"
+   ],
+   "steps": [
+    "Dersi toparlayalım. Tehlikeli işlerde öne çıkan meslek hastalıklarını gördük.",
+    "Akciğerde silika, kaynak dumanı ve ahşap ya da boya tozu başlıca etkenlerdir. Silikozisin tam tedavisi yoktur, bu yüzden önlem şarttır.",
+    "Gürültüye bağlı işitme kaybı kalıcıdır; kulak koruyucusu gürültü sürdüğü sürece takılı kalmalıdır. Titreşim ellerde beyazlaşma ve uyuşma, belde ağrı yapar.",
+    "Solventler ve ağır metaller zamanla birikerek sinir sistemi, böbrek ve kan üzerinde etki edebilir. Deri sorunları ise çoğu zaman uygun eldiven, koruyucu krem ve solventle el yıkamamakla önlenir.",
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Cevaplarken bu derste gördüğünüz işyeri örneklerini hatırlayın. Bir sonraki derste buluşmak üzere, teşekkürler."
+   ]
+  }
+ ]
+}

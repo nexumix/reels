@@ -1,0 +1,672 @@
+{
+ "code": "tc_t3",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "3. Bölüm · Teknik Konular",
+ "title": "Parlama, patlama, yangın ve yangından korunma",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1712640379137-6d2532f887a7?w=2400",
+   "kicker": "3. Bölüm · Ders 3",
+   "title": "Parlama, patlama, yangın ve yangından korunma",
+   "subtitle": "Kıvılcımdan alevlere giden yolu birlikte keseceğiz",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste, tehlikeli ve çok tehlikeli işyerlerinde en ağır sonuçlara yol açabilen olaylardan birini konuşacağız: yangın, parlama ve patlama. Kaynak atölyesinden boya hattına, depodan fabrikaya kadar hemen her işyerinde bu risk bir yerlerde saklıdır.",
+    "İyi haber şu: yangınların büyük çoğunluğu küçük başlar ve nasıl başladığını bilen bir çalışan onları büyümeden durdurabilir. Bu derste yanmanın nasıl işlediğini, hangi yangına hangi söndürücünün kullanıldığını ve yangın anında nasıl davranmanız gerektiğini adım adım öğreneceksiniz."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Yanma ve patlama",
+     "text": "Yangın üçgeni, dörtgeni ve parlama"
+    },
+    {
+     "title": "Yangın sınıfları",
+     "text": "Hangi yangına hangi söndürücü"
+    },
+    {
+     "title": "Sıcak çalışma ve toz",
+     "text": "Kaynak, kesme ve toz patlaması"
+    },
+    {
+     "title": "Yangın anında",
+     "text": "Söndürücü kullanımı ve tahliye"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Bu ders dört ana başlıkta ilerleyecek.",
+    "İlk olarak yanmanın nasıl gerçekleştiğini, parlama ile patlamanın farkını ve yangın üçgeninin ardındaki mantığı göreceğiz.",
+    "İkinci olarak yangın sınıflarını ve her sınıfa uygun söndürücüyü öğreneceğiz. Yanlış söndürücü, yangını büyütebilir.",
+    "Üçüncü başlıkta sıcak çalışmaları, parlayıcı ve patlayıcı ortamları ve sanayide sık unutulan toz patlamasını konuşacağız.",
+    "Son olarak söndürücünün doğru kullanımını ve yangın çıktığında sizden beklenen davranışları çalışacağız. İşyerinize özgü riskleri ise yüz yüze eğitimde uzmanınızla ayrıca konuşacaksınız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1507048947301-7afc2aca0edc?w=2400",
+   "kicker": "Yanma nedir?",
+   "title": "Yanma, hızlı bir kimyasal tepkimedir",
+   "bullets": [
+    "Yangın: kontrolsüz ve süren yanma",
+    "Parlama: alevin çok hızlı yayılması",
+    "Patlama: genleşmenin ani ve şiddetli olması"
+   ],
+   "steps": [
+    "Önce üç kavramı birbirinden ayıralım, çünkü gündelik dilde sık karıştırılırlar. Yanma, bir maddenin oksijenle ısı ve ışık çıkararak tepkimeye girmesidir.",
+    "Bu tepkime kontrol altındaysa, örneğin bir fırında ya da ocakta, işimize yarar. Kontrolsüz ve kendi kendini besleyerek devam ettiğinde ise adı yangındır.",
+    "Parlamada, yanıcı buhar ya da gaz bulutu bir kıvılcımla tutuşur ve alev çok hızlı yayılır. Boya hazırlama odasında solvent buharının bir anda alev topu oluşturması gibi.",
+    "Patlamada ise gazların ani genleşmesi söz konusudur. Basınç dalgası oluşur, duvarları yıkabilir, camları kırabilir. Bu yüzden patlama, yangından çok daha az zaman bırakır."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1513460587394-905bb175a04c?w=2400",
+   "kicker": "Yangın üçgeni",
+   "value": "3 unsur",
+   "title": "Yanıcı madde, oksijen ve ısı bir araya gelmeden yangın çıkmaz",
+   "text": "Üçünden biri ortadan kalkarsa yanma durur. Yangından korunmanın temeli budur.",
+   "steps": [
+    "Yanmanın gerçekleşmesi için üç unsurun aynı anda bulunması gerekir: yanıcı madde, oksijen ve ısı. Buna yangın üçgeni diyoruz.",
+    "Yanıcı madde; ahşap, kâğıt, plastik, yağ, boya, solvent, doğalgaz gibi yanabilen her şey olabilir. Oksijen çoğu zaman havadan gelir. Isı ise bir kıvılcım, sıcak bir yüzey, sürtünme ya da elektrik arkı olabilir.",
+    "İşin güzel yanı, bu üçgenin tek bir kenarını bozmanız yeterlidir. Yanıcıyı uzaklaştırırsanız, oksijeni keserseniz ya da ısıyı düşürürseniz yangın söner. Yangından korunmanın bütün yöntemleri aslında bu üç kenardan birine saldırır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1483968049578-867b9ad94034?w=2400",
+   "kicker": "Yangın dörtgeni",
+   "title": "Yanma kendini besleyen bir zincirdir",
+   "bullets": [
+    "Dördüncü unsur: zincirleme tepkime",
+    "Alev, kendi ısısıyla yakıtı hazırlar",
+    "Kuru kimyevi toz bu zinciri keser",
+    "Yayılmayı yakıt, hava ve sıcaklık hızlandırır"
+   ],
+   "steps": [
+    "Bilim insanları yangını bazen üçgen yerine dörtgenle anlatır. Dördüncü kenar, zincirleme tepkimedir.",
+    "Yangın bir kez başladığında kendini besler. Alevin ısısı, yakındaki yanıcıyı ısıtıp yanmaya hazırlar, o da tutuşur ve alev büyür. Tıpkı domino taşları gibi bir tepkime zinciri oluşur.",
+    "Bazı söndürücüler, özellikle kuru kimyevi toz, bu zinciri doğrudan kırarak çok hızlı etki eder. Köpük ve su ise daha çok soğutma ve boğma yoluyla çalışır.",
+    "Yangının yayılma hızı üç şeye bağlıdır: çevredeki yakıtın miktarı, havanın akışı ve ortamın sıcaklığı. Bu yüzden atölyede açık duran kapı ya da yığılmış karton, yangını hızlandıran bir kolaylaştırıcıdır.",
+    "Özetle üçgen yangının başlaması için, dörtgen ise sürmesi için gerekenleri anlatır. Müdahale ederken hedefimiz, bu zincirin herhangi bir halkasını koparmaktır."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Söndürme yöntemleri",
+   "title": "Yangını üç yoldan söndürürüz",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1560517734-124ebe0ad826?w=1200",
+     "tag": "SOĞUTMA",
+     "title": "Isıyı düşürmek",
+     "text": "Su ve köpük yanan maddeyi soğutur, yanma sürdürülemez."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1661045542820-e0e02836be15?w=1200",
+     "tag": "BOĞMA",
+     "title": "Oksijeni kesmek",
+     "text": "Üzerini örtmek, köpük ya da CO2 ile havanın girmesini engellemek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=1200",
+     "tag": "AYIRMA",
+     "title": "Yakıtı uzaklaştırmak",
+     "text": "Gaz vanasını kapatmak, yanmayan malzemeyi alandan çekmek."
+    }
+   ],
+   "steps": [
+    "Yangını söndürmenin üç temel yolu var ve her biri üçgenin bir kenarına karşılık geliyor.",
+    "Birincisi soğutma. Isıyı düşürürsünüz. Su bu işte en iyisidir ve odun, kâğıt, kumaş gibi katı maddelerin yangınında çok etkilidir.",
+    "İkincisi boğma. Yanan yüzeyin oksijenle temasını keserseniz alev söner. Tavadaki yağın üstünü kapakla örtmek bunun en basit örneğidir. Köpük ve CO2 söndürücüler de bu şekilde çalışır.",
+    "Üçüncüsü ayırma, yani yakıtı yangından uzaklaştırmak. Doğalgaz borusundaki yangında önce vanayı kapatmak, deponuzda yanmamış paletleri güvenli mesafeye çekmek gibi. Bazen en etkili müdahale, söndürücüsüz yapılan budur."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Yangın sınıfları 1",
+   "title": "Yanan şeye göre sınıf değişir",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1694521787162-5373b598945c?w=1200",
+     "tag": "A SINIFI",
+     "title": "Katı maddeler",
+     "text": "Ahşap, kâğıt, karton, kumaş, lastik ve çoğu plastik yangınları."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1590006137741-5f5892ce5635?w=1200",
+     "tag": "B SINIFI",
+     "title": "Yanıcı sıvılar",
+     "text": "Benzin, solvent, boya, tiner, yağ ve alkol gibi sıvı yangınları."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1789303390930-06b04ffdba51?w=1200",
+     "tag": "C SINIFI",
+     "title": "Yanıcı gazlar",
+     "text": "Doğalgaz, LPG, asetilen gibi gazların yangınları."
+    }
+   ],
+   "steps": [
+    "Her yangın aynı değildir; yanan maddeye göre sınıflandırılır. Bunu bilmek, doğru söndürücüyü seçmenizi sağlar.",
+    "A sınıfı, katı maddelerin yangınıdır. Ahşap palet, karton, kumaş, kauçuk gibi. Mobilya atölyesinde ya da depoda en sık karşılaştığınız yangın budur ve su çoğunlukla işe yarar.",
+    "B sınıfı yanıcı sıvıların yangınıdır. Boya, tiner, solvent, benzin, yağ gibi. Burada suyu sıvının üstüne boşaltmak, yanan sıvıyı yayarak yangını büyütebilir. Köpük, kuru kimyevi toz ya da CO2 gerekir.",
+    "C sınıfı gazlardır: doğalgaz, LPG, asetilen. Gaz yangınında önce gaz akışı kesilir. Akış kesilmeden alevi söndürmek, gazın birikip daha tehlikeli bir patlamaya yol açmasına neden olabilir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1618840626133-54463084a141?w=2400",
+   "kicker": "Yangın sınıfları 2",
+   "title": "Metaller ve pişirme yağları özel sınıftır",
+   "bullets": [
+    "D sınıfı: magnezyum, alüminyum talaşı gibi metaller",
+    "Metal yangınına su ve köpük asla uygulanmaz",
+    "F sınıfı: mutfaktaki bitkisel ve hayvansal yağlar",
+    "Elektrik yangınında önce enerji kesilir"
+   ],
+   "steps": [
+    "İki sınıf daha var ve bunlar özellikle sanayide önem taşır.",
+    "D sınıfı yanıcı metallerdir: magnezyum, titanyum, alüminyum ve çinko talaşları ya da tozları gibi. Torna ve işleme atölyelerinde bu talaşlar görülebilir. Bu yangınlara su ya da köpük uygulanması şiddetli bir tepkimeye neden olabilir, özel metal yangını tozu gerekir.",
+    "F sınıfı, mutfaklardaki bitkisel ve hayvansal yağ yangınlarıdır. Yemekhane ve gıda üretim tesislerinde karşınıza çıkar. Özel söndürücü ya da yangın battaniyesi kullanılır.",
+    "Elektrik yangını ise ayrı bir sınıf gibi anılsa da aslında yanan malzeme yine katı ya da sıvıdır; fark, akım altında olmasıdır. Önce enerjiyi kesin, akım kesilene kadar da iletken olmayan bir söndürücü kullanın.",
+    "Bu dört sınıfı, A, B, C ve D ile F harflerini, bir çalışma kolaylığı olarak aklınızda tutun: söndürücüler üzerinde bu harfler, simgelerle birlikte yazılıdır ve hangi yangında kullanılabileceğini size söyler."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Doğru söndürücü",
+   "title": "Aynı yangın, farklı söndürücü",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1709992263975-aa3134ea261f?w=1200",
+     "ok": false,
+     "title": "Akım varken suyla müdahale",
+     "text": "Su iletkendir, çarpılma riski doğurur."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1595306394931-b35768661692?w=1200",
+     "ok": true,
+     "title": "Enerjiyi kes, CO2 kullan",
+     "text": "Şalteri kapatın, iletken olmayan söndürücü kullanın."
+    }
+   ],
+   "steps": [
+    "Bunu bir karşılaştırmayla pekiştirelim. Makinenin elektrik panosunda ya da bir motorda yangın çıktı.",
+    "Soldaki yanlış tavır: koşup bir kova suyla ya da hortumla müdahale etmek. Su elektriği iletir. Akım hâlâ varsa su bir iletken gibi sizi de devreye sokar ve ciddi bir elektrik çarpması yaşanır.",
+    "Sağdaki doğru tavır: eğer güvenle yapabiliyorsanız önce enerjiyi kesmek, ardından karbondioksit ya da kuru kimyevi tozlu söndürücü kullanmak. Bu söndürücüler elektriği iletmez. Enerjiyi kesemiyorsanız, uzak durun ve alarm verin."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1649836215936-41c76a724233?w=2400",
+   "kicker": "Söndürücü seçimi",
+   "title": "Söndürücü türü yangın sınıfına uymalı",
+   "bullets": [
+    "Su: katı madde yangınları, elektrik yokken",
+    "Köpük: katı ve sıvı yangınları",
+    "Kuru kimyevi toz: katı, sıvı ve gaz yangınları",
+    "CO2: elektrikli cihazlar ve küçük sıvı yangınları"
+   ],
+   "steps": [
+    "Şimdi söndürücü türlerine bakalım. Üzerlerindeki etiket, hangi sınıf için uygun olduğunu gösterir; müdahaleden önce o etiketi okumayı alışkanlık hâline getirin.",
+    "Su tipi söndürücü, katı madde yangınları için uygundur. Elektrikli ekipmanda ya da yanıcı sıvıda kullanılmaz.",
+    "Köpüklü söndürücü hem katı hem sıvı yangınlarında işe yarar. Köpük yüzeyi örter, oksijenle teması keser ve soğutur.",
+    "Kuru kimyevi toz, ABC tozu adıyla bilinir ve fabrikalarda en yaygın olanıdır. Katı, sıvı ve gaz yangınlarında etkilidir. Ancak kapalı mekânda toz havayı doldurur, görüşü bozar.",
+    "Karbondioksit söndürücü iz bırakmaz, iletken değildir. Bu yüzden panolar, bilgisayar ve elektronik cihazlar için idealdir. Açık alanda ve rüzgârda ise etkisi azalır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=2400",
+   "kicker": "Hazırlık",
+   "title": "Sıcak çalışma, yangının en sık sebebidir",
+   "bullets": [
+    "Kaynak, kesme, taşlama, lehim",
+    "Kıvılcım ve sıcak metal, yanıcıyı tutuşturur"
+   ],
+   "steps": [
+    "Şimdi tehlikeli ve çok tehlikeli işyerlerinin en özel konusuna geliyoruz: sıcak çalışma. Kaynak, oksijenle kesme, taşlama, havya ve lehim gibi kıvılcım, alev ya da yüksek ısı üreten bütün işler bu başlığa girer.",
+    "Sıcak çalışmanın yangın riski çok yüksektir, çünkü kıvılcımlar metrelerce uzağa saçılabilir. Gözünüzün görmediği bir çatlağa, kablo kanalına ya da zemindeki talaşa düşen bir kıvılcım, saatler sonra yangın başlatabilir.",
+    "Bu yüzden sıcak çalışma, her zaman planlı ve kontrollü yapılır. Gelişigüzel bir kaynak, bir anlık tembellikle büyük bir felakete dönüşebilir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Sıcak çalışma izni",
+   "title": "Sıcak çalışmada beş adım",
+   "items": [
+    {
+     "title": "İzin alın",
+     "text": "Yazılı sıcak çalışma izni olmadan başlamayın"
+    },
+    {
+     "title": "Alanı hazırlayın",
+     "text": "Yanıcıları taşıyın, kalanları örtün"
+    },
+    {
+     "title": "Söndürücü yanınızda",
+     "text": "Uygun söndürücü ve gözcü hazır olsun"
+    },
+    {
+     "title": "Çalışın",
+     "text": "Kıvılcımların gittiği yeri izleyin"
+    },
+    {
+     "title": "Bekleyin",
+     "text": "İş bitince en az bir süre alanı gözleyin"
+    }
+   ],
+   "steps": [
+    "Sıcak çalışma işlemi beş adımda yürür. Yönetmelikler ve işyeri prosedürleri ayrıntıları belirler, ancak mantığı hep aynıdır.",
+    "Birinci adım, izin almaktır. Çoğu işyerinde yazılı sıcak çalışma izni sistemi vardır; işi yapan, alanı bilen ve onaylayan kişi imza atar.",
+    "İkinci adım, alanı hazırlamaktır. Yanıcı maddeleri, boya kutularını, kartonları uzaklaştırın. Taşıyamadığınız şeyleri yanmaz örtüyle kapatın, zemindeki çatlakları ve boşlukları kapatın.",
+    "Üçüncü adımda uygun bir söndürücüyü iş yerinde, elinizin altında bulundurur ve mümkünse işi izleyen bir yangın gözcüsü görevlendirirsiniz.",
+    "Dördüncü adım işin kendisidir. Kıvılcımların nereye gittiğine dikkat edin, rüzgâr ve havalandırma yönünü hesaba katın.",
+    "Son adımda, iş bittikten sonra alanı bir süre izlersiniz, çünkü ısınmış metal ve için için yanan bir kor, sonradan alev alabilir. Süreyi iş yeri prosedürü belirler."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1776090188130-26c7253ff423?w=2400",
+   "kicker": "Örnek olay 1",
+   "title": "Mesai bitti, yangın yeni başlıyordu",
+   "bullets": [
+    "Taşlama sonrası alan kontrol edilmedi",
+    "Talaş yığını saatler sonra tutuştu"
+   ],
+   "steps": [
+    "Bir örnek olay anlatayım. Metal imalat atölyesinde Ahmet usta, mesai bitimine yakın bir kaynak ve taşlama işi yapıyor. İş bitince makineleri kapatıyor, çalışma alanına kısaca bakıp eve gidiyor.",
+    "Oysa taşlamadan çıkan kıvılcımlar, yakındaki köşede biriken yağlı talaş ve karton yığınına düşmüştü. Parlak bir alev yoktu; yalnızca için için yanan bir kor vardı. Vardiya amiri Selin akşam çıkarken hafif bir duman kokusu aldı ve alarmı çalıştırdı.",
+    "Yangın büyümeden söndürüldü; ama dikkat edin: asıl hata iş sonrası gözlemin yapılmaması ve çalışma alanında yanıcı birikintinin bulunmasıydı. Sıcak çalışma, bitirdiğiniz anda bitmez. İş sonrası izleme ve temizlik, işin bir parçasıdır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1493129922668-fcb1a8514643?w=2400",
+   "kicker": "Sıcak çalışma kuralları",
+   "title": "Gaz tüpleriyle çalışırken dikkat edilecekler",
+   "bullets": [
+    "Tüpler dik ve zincirle sabitlenir",
+    "Oksijen ve asetilen tüpleri ayrı tutulur",
+    "Hortum ve bağlantılar sızıntıya karşı kontrol edilir",
+    "Tüpler ısıdan, kıvılcımdan ve yağdan uzak durur"
+   ],
+   "steps": [
+    "Kaynak ve kesme işlerinde gaz tüpleri vardır ve onlar da kendi başlarına ayrı bir tehlikedir.",
+    "Tüpler her zaman dik durmalı ve zincirle ya da uygun bir arabaya sabitlenmelidir. Devrilen bir tüpün vanası kırılırsa, basınçlı gaz roket gibi fırlayabilir.",
+    "Oksijen tüpleri ile asetilen gibi yanıcı gaz tüplerini ayrı yerde, aralarında güvenli mesafe ya da yanmaz bir ayırıcı bırakarak saklayın. Oksijen, yağ ve gresle temas ederse kendiliğinden alevlenebilir; bu yüzden vana ve bağlantılara asla yağlı el ya da yağlı eldivenle dokunmayın.",
+    "Hortumları ve bağlantıları her kullanımdan önce çatlak ve sızıntı için kontrol edin. Bu kontrolü sabunlu su ile yapabilirsiniz, alevle asla. Sızıntı şüphesi varsa işi durdurun ve yetkiliye haber verin.",
+    "Tüplerin taşınmasında vana başlığını takılı tutun, tüpü yuvarlayarak ya da sürükleyerek değil, uygun arabayla taşıyın. Boş tüpleri de dolu gibi kabul edin, çünkü içinde artık gaz kalmış olabilir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1590006137741-5f5892ce5635?w=2400",
+   "kicker": "Parlama noktası",
+   "value": "Alt sınır",
+   "title": "Yanıcı buhar, havayla belli bir oranda karışınca patlayıcı olur",
+   "text": "Çok az olduğunda tutuşmaz, çok fazla olduğunda da tutuşmaz. Tehlikeli olan, aradaki orandır.",
+   "steps": [
+    "Parlama ve patlama konusunun kalbinde bir kavram var: patlama sınırları. Yanıcı bir gaz ya da buhar, havayla karıştığında yalnızca belli bir oran aralığında tutuşur.",
+    "Oran çok düşükse yanmaya yetecek kadar yakıt yoktur; buna alt patlama sınırının altı denir. Oran çok yüksekse de oksijen yetersizdir. Tehlikeli bölge, bu iki sınırın arasıdır. Kapalı bir odada dökülen solvent buharı yavaş yavaş bu aralığa girer, ve tek bir kıvılcım felaket demektir.",
+    "Ayrıca bir sıvının parlama noktası da önemlidir. Bu, sıvının üzerinde tutuşabilecek kadar buhar çıkardığı en düşük sıcaklıktır. Parlama noktası düşük olan tiner ve benzin gibi sıvılar oda sıcaklığında bile çok tehlikelidir. Güvenlik bilgi formunda bu değeri görebilirsiniz."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Patlayıcı ortam kaynakları",
+   "title": "Patlayıcı ortam nerelerde oluşur?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1626379481874-3dc5678fa8ca?w=1200",
+     "tag": "BOYA",
+     "title": "Boya ve tiner odaları",
+     "text": "Solvent buharı havaya karışır, kapalı ortamda birikir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=1200",
+     "tag": "DEPO",
+     "title": "Kimyasal ve gaz depoları",
+     "text": "Sızıntı ve dökülme, zemine çöken buhar oluşturur."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1773517458906-b2c7c94ad5b2?w=1200",
+     "tag": "KAZAN",
+     "title": "Kazan ve yakıt hatları",
+     "text": "Doğalgaz ve yakıt kaçakları kapalı alanda birikir."
+    }
+   ],
+   "steps": [
+    "Peki patlayıcı ortam nerelerde oluşur? İşyerinizde bu yerleri bildiğinizde, daha dikkatli yürürsünüz.",
+    "Birinci yer boya ve tiner uygulama alanlarıdır. Solvent buharı havaya karışır. Havalandırma yetersizse bu buhar birikir ve çalışanın ayağındaki bir statik kıvılcım yeter.",
+    "İkinci yer kimyasal ve yanıcı gaz depolarıdır. Dökülen ya da sızan sıvıların buharı çoğunlukla havadan ağırdır; zeminde ve çukurlarda birikir, gözle görülmez.",
+    "Üçüncü yer kazan daireleri ve yakıt hatlarıdır. Bir doğalgaz ya da LPG kaçağı kapalı alanda çok kısa sürede tehlikeli oranlara ulaşabilir. Bu ortamlarda cep telefonu, kıvılcım çıkaran alet ya da çakmak gibi ateşleyiciler yasaktır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1773517459405-67adee847117?w=2400",
+   "kicker": "Patlayıcı ortamlar",
+   "title": "Patlama riski olan alanlar önceden belirlenir",
+   "bullets": [
+    "İşveren patlamadan korunma dokümanı hazırlar",
+    "Alanlar tehlike derecesine göre bölgelere ayrılır",
+    "Bu alanlarda uygun işaretli ekipman kullanılır",
+    "Giriş yerlerinde uyarı levhaları bulunur"
+   ],
+   "steps": [
+    "Patlayıcı ortam, ülkemizde ayrı bir yönetmelikle düzenlenmiştir: Patlayıcı Ortamlarda Bulunan Çalışanların Sağlık ve Güvenliğinin Korunması Hakkında Yönetmelik.",
+    "Bu yönetmeliğe göre işveren, patlama riskini değerlendirir ve patlamadan korunma dokümanı hazırlar. Doküman; risklerin neler olduğunu, alınan önlemleri ve alanların sınıflandırılmasını içerir.",
+    "Alanlar, patlayıcı ortamın ne sıklıkla ve ne kadar süre bulunduğuna göre bölgelere ayrılır. Gaz ve buhar için bölge 0, 1 ve 2; toz için bölge 20, 21 ve 22 kullanılır. Rakam küçüldükçe tehlike artar.",
+    "Bu bölgelerde kullanılan elektrikli cihazlar ve aletler, kıvılcım çıkarmayacak şekilde özel olarak üretilmiş, uygun işaretli ekipmanlardır. Siz kendi başınıza sıradan bir cihazı bu alana sokmayın.",
+    "Girişlerde patlayıcı ortam uyarı levhası bulunur. O levhayı gördüğünüzde kıvılcım, çakmak, cep telefonu ve yetkisiz giriş gibi konuları kafanızda tazeleyin."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar neler öğrendik?",
+   "bullets": [
+    "Yangın için yanıcı, oksijen ve ısı gerekir",
+    "Yangın sınıfına uygun söndürücü seçilir",
+    "Elektrik yangınında önce enerji kesilir",
+    "Sıcak çalışma, izinle ve gözetimle yapılır"
+   ],
+   "steps": [
+    "Kısa bir ara verip buraya kadar öğrendiklerimizi toparlayalım.",
+    "Yangın üçgeni diyor ki: yanıcı madde, oksijen ve ısı bir arada olmalı. Birini ortadan kaldırırsanız yangın söner.",
+    "Yangın sınıfları yanan maddeye göre değişir ve söndürücüyü ona göre seçeriz. Yanlış seçim, yangını büyütebilir.",
+    "Elektrik yangınında önce enerjiyi keseriz ve suyla müdahale etmeyiz. İletken olmayan söndürücüler kullanırız.",
+    "Sıcak çalışma yazılı izinle, uygun söndürücüyle, alan hazırlığıyla ve iş sonrası gözlemle yapılır. Şimdi sanayide sıkça unutulan bir başka tehlikeye geçelim: toz."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1714504904786-b6732390b206?w=2400",
+   "kicker": "Toz patlaması",
+   "value": "Bir toz",
+   "title": "Havada asılı kalan yanıcı toz, bir kıvılcımla patlayabilir",
+   "text": "Un, şeker, ahşap, metal ve plastik tozları; hepsi uygun koşulda patlayıcıdır.",
+   "steps": [
+    "Bir yığın un yanmaz, değil mi? Ya da bir yığın ahşap tozu... Ama havada asılı kaldığında hikâye değişir. Toz bulutundaki her tanecik, oksijene çok geniş bir yüzeyle temas eder ve yanma saniyenin kesirlerinde gerçekleşir.",
+    "Un, şeker, nişasta, ahşap, kâğıt, plastik, alüminyum ve diğer metal tozları gibi pek çok yanıcı toz, uygun koşullarda patlayabilir. Gıda fabrikalarında, mobilya atölyelerinde, plastik ve metal işleme tesislerinde bu tehlike gerçektir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Toz patlaması",
+   "title": "Toz patlamasının beş koşulu",
+   "items": [
+    {
+     "title": "Yanıcı toz",
+     "text": "Un, ahşap, metal, plastik tozu"
+    },
+    {
+     "title": "Oksijen",
+     "text": "Havadaki oksijen"
+    },
+    {
+     "title": "Ateşleme",
+     "text": "Kıvılcım, sıcak yüzey, statik elektrik"
+    },
+    {
+     "title": "Havada dağılım",
+     "text": "Toz bulutu oluşması"
+    },
+    {
+     "title": "Kapalı hacim",
+     "text": "Silo, filtre, kanal, bina içi"
+    }
+   ],
+   "steps": [
+    "Toz patlamasını anlamanın yolu, beş koşulu bilmektir. Yangın üçgenine iki unsur eklenir.",
+    "Buna bazı kaynaklarda toz patlaması beşgeni de denir. Hadi sırayla bakalım.",
+    "Birincisi, yanıcı tozdur. İkincisi oksijen. Üçüncüsü ateşleme kaynağı: kıvılcım, sıcak bir rulman, statik elektrik, hatta kaynak.",
+    "Dördüncü koşul, tozun havada bulut hâlinde dağılmasıdır. Beşinci koşul ise bulutun kapalı ya da yarı kapalı bir hacimde bulunmasıdır: silo, toz toplama filtresi, kanal ya da tüm bina.",
+    "Bu beş koşuldan biri ortadan kalkarsa patlama gerçekleşmez. Tozun havaya karışmasını ya da ateşleme kaynağını engellemek, çoğu zaman en kolay yoldur.",
+    "Burada asıl sinsi tehlike, ikincil patlamadır. İlk küçük patlama, raflarda ve kirişlerde birikmiş tozu havaya kaldırır; bu bulut ikinci, çok daha büyük bir patlamaya yol açar."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1540340061722-9293d5163008?w=2400",
+   "kicker": "Örnek olay 2",
+   "title": "Küçük bir tutuşma, ardından büyük bir gürültü",
+   "bullets": [
+    "Kirişlerdeki toz tabakası fark edilmedi",
+    "İlk tutuşma, ikincil patlamayı tetikledi"
+   ],
+   "steps": [
+    "Bir mobilya atölyesine gidelim. Ahşap işleme bölümünde bir zımpara makinesi çalışıyor. Toz toplama sistemi yıllardır tam kapasite çalışmıyor, makinelerin üstündeki kirişler ince bir toz tabakasıyla kaplanmış.",
+    "Bir gün zımpara makinesinin motor yatağı aşırı ısınıyor ve toz tutuşuyor. Çalışan Mehmet küçük alevi görüp söndürücüyü alıyor, ama püskürtmenin basıncı, kirişlerdeki tozu havaya kaldırıyor. Ortam bir anda toz bulutuna dönüyor.",
+    "Sonuç: ikincil bir patlama ve ağır hasar. Ekip şanslıydı, çünkü Mehmet'in uyarısıyla çoğu kişi dışarı çıkmıştı. Dersimiz şu: toz birikintisi, yangın yükü demektir. Düzenli temizlik, yalnızca görüntü için değil, can güvenliği içindir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1598302936625-6075fbd98dd7?w=2400",
+   "kicker": "Toz patlamasından korunma",
+   "title": "Önce tozu kaynağında yakalayın",
+   "bullets": [
+    "Toz toplama ve havalandırma çalışır durumda tutulur",
+    "Birikmiş toz düzenli ve uygun yöntemle temizlenir",
+    "Ateşleme kaynakları ve statik elektrik kontrol edilir",
+    "Tozlu yerde sıkıştırılmış havayla süpürme yapılmaz"
+   ],
+   "steps": [
+    "Toz patlamasında korunma, sırayla şöyle düşünülür: önce tozun havaya karışmasını önle, sonra ateşleme kaynaklarını denetle, en sonda etkisini azaltacak önlemleri uygula.",
+    "Toz toplama ve havalandırma sistemleri, tozu oluştuğu yerde yakalamak için vardır. Filtreleri tıkalı ya da arızalı bir sistemle çalışmayın. Arıza varsa amirinize bildirin.",
+    "Yüzeylerde ve kirişlerde biriken tozu düzenli aralıklarla temizleyin. Ama bunu, tozu havaya kaldırmayan yöntemlerle yapın: endüstriyel, uygun tip bir süpürge gibi.",
+    "Sıkıştırılmış hava ile tozu üflemek, patlama için gereken bulutu bizzat sizin oluşturmanız demektir. Bunu hiçbir zaman yapmayın.",
+    "Motorların ve rulmanların aşırı ısınması, yapışık yağ, statik elektrik, kıvılcım ve açık alev ateşleme kaynaklarıdır. Bakım bu yüzden önemlidir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Yangın ekipmanları",
+   "title": "İşyerinizdeki yangın ekipmanlarını tanıyın",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1749197294336-8863979add71?w=1200",
+     "tag": "SÖNDÜRÜCÜ",
+     "title": "Taşınabilir söndürücü",
+     "text": "Küçük ve başlangıç yangınlarına ilk müdahale içindir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1560517734-124ebe0ad826?w=1200",
+     "tag": "DOLAP",
+     "title": "Yangın dolabı ve hidrant",
+     "text": "Büyük debili su sağlar; eğitimli kişi kullanır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1551897922-6a919947ae24?w=1200",
+     "tag": "ALARM",
+     "title": "Alarm ve ihbar butonu",
+     "text": "Herkesi uyarır, tahliyeyi ve itfaiyeyi başlatır."
+    }
+   ],
+   "steps": [
+    "Şimdi yangın ekipmanlarını tanıyalım. Bunların yerini işe başlar başlamaz öğrenin.",
+    "Taşınabilir söndürücüler, yangının henüz başlangıç aşamasındayken müdahale için vardır. Genellikle duvarda, kolay görünür ve ulaşılır yerde asılıdırlar. Önünü kapatmak, yasaktır.",
+    "Yangın dolabı ve hidrantlar büyük miktarda su sağlar. Bunları kullanmak için eğitim gerekir; hortumun basıncı bir insanı yere devirebilir.",
+    "Alarm butonları ve duman, ısı dedektörleri, sistemin gözleridir. Butonun yerini bilmek, yangını ilk gören sizseniz herkesin hayatını kurtarabilir. Söndürücülerin düzenli periyodik kontrolü ise ihtiyaç anında çalışmalarını sağlar."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Söndürücü kullanımı",
+   "title": "Söndürücüyü dört adımda kullanın",
+   "items": [
+    {
+     "title": "Çekin",
+     "text": "Emniyet pimini çekin"
+    },
+    {
+     "title": "Nişan alın",
+     "text": "Yanan maddenin tabanına yönelin"
+    },
+    {
+     "title": "Sıkın",
+     "text": "Kolu sıkarak boşaltın"
+    },
+    {
+     "title": "Süpürün",
+     "text": "Sağa sola tarayarak ilerleyin"
+    }
+   ],
+   "steps": [
+    "Söndürücü kullanımını dört kelimeyle hatırlayabilirsiniz: çek, nişan al, sık, süpür.",
+    "Önce emniyet pimini çekin. Pimi çektiğiniz anda söndürücü kullanıma hazırdır. Sonra hortumu ya da memeyi yanan maddenin ortasına değil, alevin tabanına, yani yakıtın bulunduğu noktaya doğrultun.",
+    "Ardından kolu sıkarak söndürücüyü boşaltmaya başlayın. Alevin üstüne ya da dumana değil, yakıta nişan almak, yangını gerçekten bitirir.",
+    "Son olarak memeyi sağa sola tarayarak alevi kenardan merkeze doğru süpürün. Yangın söndükten sonra da hemen uzaklaşmayın; birkaç dakika bekleyin ve yeniden tutuşma olup olmadığını gözleyin.",
+    "Küçük söndürücülerin dolum süresi çok kısadır, birkaç on saniye. Bu yüzden yangın yayılıyorsa zaman kaybetmeyin."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Söndürürken konumunuz",
+   "title": "Çıkışı arkanızda tutun",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1520033906782-1684d0e7498e?w=1200",
+     "ok": true,
+     "title": "Çıkış arkanızda",
+     "text": "Geri çekilme yolunuz açık kalır; yangın büyürse hemen çıkarsınız."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1561715608-5659baeccfb4?w=1200",
+     "ok": false,
+     "title": "Köşeye sıkışmak",
+     "text": "Yangın sizinle çıkış arasında kalırsa kaçış yolunuz kapanır."
+    }
+   ],
+   "steps": [
+    "Söndürürken nerede durduğunuz, ne yaptığınız kadar önemlidir.",
+    "Doğru olan, çıkışı arkanıza alarak durmaktır. Yangın büyürse, hiç dönmeden geri çekilirsiniz. Rüzgâr ya da hava akımı varsa, arkanız rüzgâra dönük olsun ki alev ve duman üzerinize gelmesin.",
+    "Yanlış olan ise yangın ile duvar ya da köşe arasında sıkışmaktır. Yangın yön değiştirir ve yolunuzu keserse, çıkış yolunuz kalmaz. Bu pozisyona asla girmeyin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1696910873421-b014de91f014?w=2400",
+   "kicker": "Ne zaman söndürmeyin?",
+   "title": "Bazen en akıllı davranış, uzaklaşmaktır",
+   "bullets": [
+    "Yangın size hâkim olacak kadar büyüdüyse",
+    "Yoğun duman ve patlama riski varsa"
+   ],
+   "steps": [
+    "Her yangını söndürmeye çalışmak zorunda değilsiniz; hatta bazen yapmamalısınız. Müdahale edebilmeniz için şu koşullar sağlanmalıdır: yangın başlangıç aşamasında ve küçük olmalı, elinizde uygun söndürücü bulunmalı, çıkışınız arkanızda ve açık olmalı, ve kendinizi güvende hissetmelisiniz.",
+    "Eğer yangın size hâkim olacak kadar büyüdüyse, yoğun duman çıkıyorsa, yanında gaz tüpü, boya, kimyasal gibi patlama riski taşıyan malzeme varsa ya da yangının ne olduğunu bilmiyorsanız, müdahale etmeyin. Alarm verin ve tahliye olun.",
+    "Unutmayın: hiçbir makine, ürün ya da stok, bir canın değerini taşımaz. Mal kurtarmak için canınızı tehlikeye atmayın."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1551897922-6a919947ae24?w=2400",
+   "kicker": "Yangın anında",
+   "title": "Yangın çıktığında sırayla şunları yapın",
+   "bullets": [
+    "Alarm verin, çevrenizdekileri uyarın",
+    "110 İtfaiye'yi ya da 112'yi arayın",
+    "Makineleri ve gazı güvenle kapatın, enerjiyi kesin",
+    "Asansör kullanmadan, çıkışlardan toplanma alanına gidin"
+   ],
+   "steps": [
+    "Yangın çıktığında panik, en büyük düşmanımızdır. Onu aşmak için bir sıra bilmek gerekir.",
+    "Birinci adım, alarm vermektir. Alarm butonuna basın ve çevrenizdeki herkesi sesli olarak uyarın. Yangını ilk fark eden kişi, çoğu zaman büyük farkı yaratır.",
+    "İkinci adım, itfaiyeyi aramaktır. İtfaiye için 110, genel acil durumlar için 112 numarası kullanılır. Adresi, ne yandığını ve yaralı olup olmadığını net söyleyin.",
+    "Üçüncü adım, eğer kendinizi riske atmadan yapabiliyorsanız, makineleri durdurmak, gaz vanasını kapatmak ve enerjiyi kesmektir. Böylece yangın beslenmez.",
+    "Dördüncü adım, tahliyedir. Asansör kullanmayın, çünkü elektrik kesilebilir ve duman asansör boşluğunda yayılır. Acil çıkış yönlendirmelerini izleyerek toplanma alanına gidin ve orada sayımı bekleyin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1744663835766-0f9970e7aa65?w=2400",
+   "kicker": "Duman",
+   "title": "Yangında asıl öldüren çoğu zaman dumandır",
+   "bullets": [
+    "Dumanda alçalın, zemine yakın hareket edin",
+    "Ağzınızı ve burnunuzu ıslak bezle kapatın"
+   ],
+   "steps": [
+    "Yangında insanlara en çok zarar veren şey çoğunlukla alev değil, dumandır. Duman zehirli gazlar içerir ve görüşü kapatarak yolunuzu şaşırtır.",
+    "Sıcak duman yükselir, bu yüzden zemine yakın hava daha temiz olur. Dumanlı bir koridordan geçmek zorundaysanız eğilin ya da emekleyin, ağzınızı ve burnunuzu mümkünse ıslak bir bezle kapatın.",
+    "Kapıyı açmadan önce elinizin tersiyle dokunun. Kapı sıcaksa arkasında yangın vardır, açmayın. Çıkış yolunuz kapalıysa, kapıyı kapalı tutun, kapı altını ıslak bezle kapatın ve pencereden yardım isteyin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1731983587570-99567f02f910?w=2400",
+   "kicker": "Örnek olay 3",
+   "title": "Çıkış kapısının önündeki paletler",
+   "bullets": [
+    "Acil çıkış yolu malzemeyle kapatılmıştı",
+    "Tahliye, gereğinden uzun sürdü"
+   ],
+   "steps": [
+    "Son örnek olayımız bir depodan. Vardiya sonunda gelen sevkiyat, acil çıkış kapısının önüne palet olarak yığılıyor. Herkes bir şekilde geçebildiği için kimse sorun görmüyor.",
+    "Bir gün istif alanında bir elektrik arızası nedeniyle duman çıkıyor ve alarm çalıyor. Çalışanlar ana çıkışa yöneliyor, ama orası kalabalık ve dumanlı. Alternatif çıkış, yani paletlerin arkasındaki acil çıkış kapısı, bir türlü açılamıyor.",
+    "Sonuçta herkes kurtuluyor, ama ağır duman zehirlenmeleri yaşanıyor. Burada hata, tek bir kişide değil; kimsenin 'ben bu paleti kaldırayım' dememesinde. Acil çıkışlar ve yangın ekipmanlarının önü, her zaman boş kalmalıdır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1576446470246-499c738d1c8e?w=2400",
+   "kicker": "Önleme",
+   "title": "Yangından korunmanın günlük alışkanlıkları",
+   "bullets": [
+    "Elektrik panolarının ve söndürücülerin önü boş kalsın",
+    "Yanıcı ve parlayıcı maddeler kapalı ve uygun yerde durur",
+    "Sigara yalnızca ayrılmış yerlerde içilir",
+    "Eksik, arızalı ekipmanı ve tehlikeyi hemen bildirin"
+   ],
+   "steps": [
+    "Yangınla mücadelenin en iyi yolu, hiç çıkmamasını sağlamaktır. Bunun için günlük küçük alışkanlıklar yeter.",
+    "Elektrik panolarının ve söndürücülerin önünü boş tutun. Panonun önüne konan bir palet, hem müdahaleyi zorlaştırır hem de ısınmayı artırır.",
+    "Yanıcı ve parlayıcı maddeleri kapalı kaplarda, etiketli ve ayrılmış yerlerde saklayın. İş yerinde sigara içmek yalnızca belirlenmiş alanlarda yapılır. Yağlı bezleri ve yanıcı atıkları kapaklı, metal kutulara atın.",
+    "Arızalı kablo, ısınan priz, kaçak yapan hortum ya da yerinde olmayan söndürücü gibi eksiklikleri hemen amirinize ya da iş güvenliği uzmanına bildirin. Yönetmelikler, işverene acil durum planı hazırlama, söndürme ekibi oluşturma ve tatbikat yaptırma görevi verir; siz de tatbikata katılmakla yükümlüsünüz.",
+    "İşyerinizin özel yangın riskleri ve acil durum planı, yüz yüze eğitimde uzmanınızla ayrıntılı konuşulacak. Burada öğrendiklerinizi, o konuşmanın temeli yapın."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1777304610456-e9d6206b19a2?w=2400",
+   "kicker": "Ders özeti",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Yanma için yanıcı, oksijen ve ısı birlikte gerekir",
+    "Söndürücü, yangın sınıfına uygun seçilir",
+    "Toz, boya buharı ve gaz patlama riski taşır",
+    "Önce alarm, sonra güvenli müdahale ya da tahliye"
+   ],
+   "steps": [
+    "Dersi toparlayalım. Yangın üçgeninin üç unsuru, yanıcı madde, oksijen ve ısıdır; birini kesen yangını durdurur.",
+    "Yangınlar yanan maddeye göre sınıflandırılır, söndürücüyü de ona göre seçeriz. Elektrik yangınında önce enerjiyi keser, suyla müdahale etmeyiz.",
+    "Boya buharı, gaz ve yanıcı tozlar, uygun koşullarda patlama yapar. Sıcak çalışmada izin, alan hazırlığı ve iş sonrası gözlem şarttır.",
+    "Yangın çıktığında önce alarm verir, 110 ya da 112'yi ararız. Küçük ve güvenli bir yangına çıkışı arkamıza alarak çek, nişan al, sık, süpür ile müdahale ederiz; aksi hâlde tahliye olur ve toplanma alanına gideriz.",
+    "Son olarak, işyerinizdeki güvenlik kültürünün sizinle başladığını unutmayın. Gördüğünüz her eksikliği bildirmek, bir yangını başlamadan bitirir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1749197294336-8863979add71?w=2400",
+   "kicker": "Kapanış",
+   "title": "Şimdi birkaç kısa soru sizi bekliyor",
+   "bullets": [],
+   "steps": [
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Yanıtlarken bu derste konuştuklarımızı hatırlamanız yeterli.",
+    "Bu hafta işyerinizde bir kez söndürücünüzün yerine, acil çıkışınıza ve alarm butonunuza bakın. Önünde engel var mı, etiketi okunuyor mu? Küçük bir bakış, büyük bir yangını önleyebilir. Teşekkürler, sağlıkla kalın."
+   ]
+  }
+ ]
+}

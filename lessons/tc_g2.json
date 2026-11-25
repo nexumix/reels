@@ -1,0 +1,698 @@
+{
+ "code": "tc_g2",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "1. Bölüm · Genel Konular",
+ "title": "Çalışma mevzuatı ile ilgili bilgiler (2)",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1694521787162-5373b598945c?w=2400",
+   "kicker": "1. Bölüm · Ders 2",
+   "title": "Çalışma mevzuatı ile ilgili bilgiler (2)",
+   "subtitle": "Tehlikeli ve çok tehlikeli işlere özgü yönetmelikler",
+   "steps": [
+    "Merhaba, tekrar hoş geldiniz. Geçen derste 6331 sayılı Kanunu, tehlike sınıflarını ve işverenin genel görevlerini konuştuk. Bu derste bir adım daha ileri gidiyoruz ve sizin işinize doğrudan dokunan özel yönetmelikleri tanıyacağız.",
+    "Çünkü kanun çatıyı kurar, ama iskelenin nasıl kurulacağını, forklift için hangi kontrollerin yapılacağını ya da gürültüde hangi seviyede kulaklık takılacağını yönetmelikler söyler. Hedefim, bu kuralları ezberletmek değil, işinizde nasıl karşınıza çıktığını göstermek."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Yapı işleri",
+     "text": "Düşme, iskele, kazı ve koordinasyon"
+    },
+    {
+     "title": "İş ekipmanları",
+     "text": "Makine, forklift, kaldırma araçları"
+    },
+    {
+     "title": "KKD ve kimyasallar",
+     "text": "Koruyucu donanım ve zararlı maddeler"
+    },
+    {
+     "title": "Gürültü ve titreşim",
+     "text": "Eylem değerleri ve korunma"
+    },
+    {
+     "title": "Belge ve eğitim",
+     "text": "Mesleki eğitim belgesi, MYK, eğitim yönetmeliği"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Bu derste beş başlığımız var.",
+    "İlk olarak yapı işlerinde iş sağlığı ve güvenliğini göreceğiz: yüksekte çalışma, iskele, kazı ve farklı firmaların birlikte çalıştığı sahalarda koordinasyon.",
+    "Sonra iş ekipmanları yönetmeliğini konuşacağız. Makine, forklift ve kaldırma araçları gibi ekipmanlarda işverenin ve sizin görevlerinizi ele alacağız.",
+    "Üçüncü başlıkta kişisel koruyucu donanım ve kimyasal maddelerle çalışma kurallarına bakacağız.",
+    "Dördüncü başlık gürültü ve titreşim. Hangi seviyede ne yapılır, hangi değerden sonra kulaklık zorunludur, bunları öğreneceğiz.",
+    "Son başlıkta mesleki eğitim belgesi zorunluluğunu, MYK belgesini ve yeni eğitim yönetmeliğinin sizi ilgilendiren yanlarını konuşacağız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1423592707957-3b212afa6733?w=2400",
+   "kicker": "Kanun ve yönetmelik",
+   "title": "Kanun çatıyı kurar, yönetmelik ayrıntıyı söyler",
+   "bullets": [
+    "6331 sayılı Kanun genel görevleri belirler",
+    "Yönetmelikler belirli konuyu ayrıntılandırır",
+    "Tehlikeli işlerde özel yönetmelikler çok önemlidir",
+    "İşveren ve çalışan ikisini de bilmek zorundadır"
+   ],
+   "steps": [
+    "Önce bir ayrım yapalım. Kanun, işverenin her tür önlemi alacağını söyler. Ama önlemin ne olacağını, hangi ölçüde ve hangi sıklıkla yapılacağını yönetmelikler belirler.",
+    "6331 sayılı Kanun genel görevleri koyar: risk değerlendirmesi yap, eğitim ver, önlem al, çalışanı koru.",
+    "Yönetmelikler ise belirli bir konuyu açar. Yapı işleri, iş ekipmanları, koruyucu donanım, kimyasal maddeler, gürültü ve titreşim, her biri ayrı bir yönetmeliğe sahip.",
+    "Tehlikeli ve çok tehlikeli işlerde bu özel yönetmeliklerin etkisi çok büyüktür. Çünkü kazalar çoğunlukla tam bu konularda yaşanır: yüksekten düşme, makineye kapılma, kimyasal maruziyet.",
+    "Hem işveren hem de siz bu kuralları bilmek zorundasınız. Bilmeyen kişi hem hakkını hem de görevini bilemez."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1694521787799-ad4ad241cb39?w=2400",
+   "kicker": "Yapı İşlerinde İSG Yönetmeliği",
+   "title": "Şantiyede herkesin payına düşen görev vardır",
+   "bullets": [
+    "Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği 2013 tarihlidir",
+    "İşveren alan düzenini, ekipmanı ve KKD'yi sağlar",
+    "Birden fazla firma varsa koordinatör görevlendirilir",
+    "Alt işveren koordinatörün talimatlarına uyar"
+   ],
+   "steps": [
+    "İnşaat sektörü, iş kazalarının en çok yaşandığı alanlardan biridir. Bu yüzden yapı işleri için ayrı bir yönetmelik var: Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği. Yönetmelik 5 Ekim 2013 tarihli Resmî Gazete'de yayımlandı.",
+    "Önce şantiyedeki görev dağılımına bakalım. Şantiyede kimin neyden sorumlu olduğu bilinmezse, kaza anında herkes başkasını gösterir.",
+    "İşveren, şantiye alanının düzenini ve temizliğini sağlar, malzeme ve atıkları yönetir, ekipmanın bakımını yaptırır ve kişisel koruyucu donanımı verir, kullanılmasını da sağlar.",
+    "Aynı alanda birden fazla işveren ya da alt işveren çalışıyorsa, işveren ya da proje sorumlusu bir ya da birden fazla koordinatör görevlendirir. Elektrikçi, kalıpçı ve demirci aynı katta çalışırken birbirine tehlike yaratmasın diye bu koordinasyon gerekir.",
+    "Alt işveren, koordinatörün uyarılarını ve talimatlarını dikkate almak zorundadır. Koordinatör görevlendirilmiş olması, işverenin sorumluluğunu kaldırmaz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1742112125567-3e8967bad60f?w=2400",
+   "kicker": "Planlama",
+   "title": "Önce plan, sonra iş",
+   "bullets": [
+    "Sağlık ve güvenlik planı hazırlanır",
+    "Bazı işler için ön bildirim yapılır"
+   ],
+   "steps": [
+    "Yapı işleri başlamadan önce yazılı bir plan hazırlanır. Buna sağlık ve güvenlik planı denir. Plan, işe başlamadan önce proje hazırlık aşamasında hazırlanır.",
+    "Bu planda şantiyedeki özel riskler ve önlemleri yazılıdır. Yüksek riskli işler varsa koordinatör, planda bu işlere özel tedbirlerin yer almasını sağlar.",
+    "Büyük işlerde ayrıca ön bildirim yapılır. İş 30 iş gününden uzun sürecek ve aynı anda 20'den fazla kişi çalışacaksa ya da iş 500 yevmiyeden fazlaysa, yapı işi başlamadan önce ilgili il müdürlüğüne bildirim gönderilir.",
+    "Bildirimin bilgilerini içeren levha da, şantiyede herkesin görebileceği açık bir yere asılır. Bu levha, şantiyenin kayıtlı olduğunu da gösterir. Şantiyeye girerken bu levhayı görmüşsünüzdür belki. Artık ne işe yaradığını biliyorsunuz."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1664662568348-24b1482b6354?w=2400",
+   "kicker": "Yüksekte çalışma",
+   "value": "1 metre",
+   "title": "Ana korkuluk, platformdan en az 1 metre yükseklikte olmalıdır",
+   "text": "Topuk levhası en az 15 cm, ara korkuluk açıklığı en fazla 47 cm olmalıdır. Korkuluk en az 125 kg yüke dayanmalıdır.",
+   "steps": [
+    "Yüksekten düşme, yapı işlerinde ölümlü kazaların başında gelir. Yönetmeliğe göre seviye farkı nedeniyle düşüp yaralanma ihtimali olan her çalışma, yüksekte çalışmadır. Yani iki metre, beş metre gibi bir alt sınıra bakmadan, düşme riski varsa yüksekte çalışıyorsunuz.",
+    "Korkuluğun ölçüleri de yönetmelikte yazılıdır. Ana korkuluk platformdan en az 1 metre yükseklikte, topuk levhası en az 15 santim ve ara korkuluk ile topuk levhası arasındaki boşluk en fazla 47 santim olmalıdır. Korkuluk, en az 125 kilogram yüke dayanmalıdır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1694521787673-28cbd8830ea5?w=2400",
+   "kicker": "Önce toplu, sonra kişisel",
+   "title": "Düşmeyi önlemenin sırası vardır",
+   "bullets": [
+    "Önce korkuluk, ağ ve platform gibi toplu önlemler",
+    "Mümkün değilse tam vücut kemeri ve yaşam hattı",
+    "Yüksekte iş ehil kişinin gözetiminde yapılır",
+    "Hava ve zemin koşulları işten önce kontrol edilir"
+   ],
+   "steps": [
+    "Yüksekte çalışmada bir öncelik sırası var ve bu çok önemli. Çünkü çoğu işyerinde ilk akla gelen şey emniyet kemeridir, ama sıra farklıdır.",
+    "Önce toplu koruma tedbirleri uygulanır: korkuluk, güvenlik ağı, platform ve kenar önlemleri. Toplu tedbir herkesi birlikte korur ve unutulmaz.",
+    "Toplu tedbir mümkün değilse kişisel tedbire geçilir: bağlantı noktaları, tam vücut kemeri ve yaşam hatları kullanılır. Kemer varsa, kancanın bir yere bağlı olması da şarttır. Boşta duran kanca korumaz.",
+    "Yüksekte çalışmalar, görevlendirilen ehil bir kişinin gözetiminde yapılır. Kuvvetli rüzgâr, yağmur ve buzlanma gibi hava şartlarında çalışma durdurulur ya da özel önlem alınır.",
+    "Bir işe başlamadan önce kendinize şunu sorun: düşersem beni ne tutar? Cevabınız yoksa, işe başlamayın ve durumu amirinize bildirin."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "İskele",
+   "title": "İskelede kontrol hiç bitmez",
+   "items": [
+    {
+     "title": "Kullanımdan önce",
+     "text": "Ehil kişi kontrol eder"
+    },
+    {
+     "title": "Haftada en az bir",
+     "text": "Düzenli kontrol yapılır"
+    },
+    {
+     "title": "Değişiklik sonrası",
+     "text": "Söküm ve ek yapılınca yeniden bakılır"
+    },
+    {
+     "title": "Olumsuz havada",
+     "text": "Rüzgâr, deprem ya da uzun ara sonrası"
+    }
+   ],
+   "steps": [
+    "İskele, şantiyenin en çok kullanılan ve en çok kaza yaşanan geçici yapısıdır. Yönetmelik, iskele için düzenli kontrolü zorunlu kılar.",
+    "Her iskele, kullanılmadan önce ehil bir kişi tarafından kontrol edilir. Kontrolü iskelede çalışan herhangi biri değil, bu işi bilen kişi yapar.",
+    "Sonra kontrol en az haftada bir tekrarlanır. İskele bugün sağlamdı diye, yarın da sağlamdır diye bir kural yoktur.",
+    "Üzerinde bir değişiklik yapıldığında, yani bir ek yapıldığında ya da bir parça söküldüğünde, iskele yeniden kontrol edilir.",
+    "Uzun süre kullanılmayan, kuvvetli rüzgâr ya da deprem gibi olumsuz şartlara maruz kalan iskele de yeniden kontrol edilir. Güvenli bulunmayan iskelede çalışılmaz. Geçit genişliği en az 60 santimdir ve korkuluk sistemi bulunmalıdır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Örnek olay 1",
+   "title": "Fasadı boyayan ekip",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1694521787162-5373b598945c?w=1200",
+     "ok": false,
+     "title": "Kontrolsüz iskele",
+     "text": "Perşembe günü kurulan iskelede kimse kontrol yapmıyor, korkuluk eksik."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1694521787673-28cbd8830ea5?w=1200",
+     "ok": true,
+     "title": "Ehil kişi kontrolü",
+     "text": "İskele kullanımdan önce kontrol ediliyor, eksik korkuluk tamamlanıyor."
+    }
+   ],
+   "steps": [
+    "Bir örnek olay. Bir apartman fasadını boyayan beş kişilik ekip, perşembe günü kurulan iskelede çalışmaya başlar. Ekip başı Hasan usta, geçen hafta kuruldu, sağlamdır, der.",
+    "Yanlış senaryoda hiç kontrol yapılmaz. Yan tarafta bir korkuluk eksiktir. Bir çalışan, malzeme almak için eğilirken dengesini kaybeder ve boşluktan aşağı sarkar. Neyse ki kendini son anda tutar. Bu ramak kala olay, bir kaza olabilirdi.",
+    "Doğru senaryoda ise iskele, kullanımdan önce ehil bir kişi tarafından kontrol edilir. Eksik korkuluk daha çalışma başlamadan tamamlanır. Hasan usta da kontrolün tarihini iskele üzerindeki etikete yazdırır. Kontrol yönetmeliğe uygundur ve herkes güvendedir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Kazı işleri",
+   "title": "Kazıda üç önemli kural",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1575281923032-f40d94ef6160?w=1200",
+     "tag": "Hazırlık",
+     "title": "Önce araştırma",
+     "text": "Bitişik yapılar ve yer altı hatları belirlenir, alan çevrilir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1694521787799-ad4ad241cb39?w=1200",
+     "tag": "Kontrol",
+     "title": "Her vardiya öncesi",
+     "text": "Yan yüzler ehil kişice kontrol edilir, yağmur sonrası da bakılır"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1694522362256-6c907336af43?w=1200",
+     "tag": "Yasak",
+     "title": "150 cm'den derin",
+     "text": "Alt oyularak üstten çökertme yasaktır"
+    }
+   ],
+   "steps": [
+    "Kazı çalışmaları da yönetmelikte ayrıca düzenlenmiştir. Çünkü toprak göçmesi saniyeler içinde ağır sonuç verir.",
+    "Önce hazırlık: kazının bitişik yapıları etkileyip etkilemeyeceği araştırılır, yer altı hatlarının, yani elektrik, doğal gaz ve su borularının yeri belirlenir. Meskûn yerlerde alan yeterli yükseklikte bir perdeyle çevrilir.",
+    "Kazının yan yüzleri her vardiyadan önce, patlatma sonrası, yağış, don ve kar sonrasında ehil kişi tarafından kontrol edilir. Şev açısı ve destekler zemin durumuna göre belirlenir.",
+    "150 santimden derin açık kazılarda, yan yüzeylerin altını oyup üstü çökertme yöntemi yasaktır. İş makinesinin hareket alanına da çalışan giremez. Makinenin kör noktasında durmak, kazaya davetiyedir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1742112125567-3e8967bad60f?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar neler öğrendik",
+   "bullets": [
+    "Yönetmelikler, kanunun ayrıntısını belirler",
+    "Yapı işlerinde koordinatör ve sağlık ve güvenlik planı vardır",
+    "Düşme riskinde önce toplu önlem, sonra kişisel önlem gelir",
+    "İskele kullanımdan önce ve haftada en az bir kontrol edilir",
+    "150 cm'den derin kazılarda altı oyularak çalışma yasaktır"
+   ],
+   "steps": [
+    "Kısa bir ara özet yapalım.",
+    "Yönetmelikler, kanunun genel görevlerini ayrıntılandırır.",
+    "Yapı işlerinde sağlık ve güvenlik planı hazırlanır, birden fazla firma varsa koordinatör görevlendirilir.",
+    "Düşmeye karşı önce korkuluk ve ağ gibi toplu önlemler, mümkün değilse kemer ve yaşam hattı kullanılır.",
+    "İskele kullanımdan önce ve en az haftada bir kontrol edilir.",
+    "Derin kazılarda göçüğe karşı önlem şarttır ve alttan oyma yapılmaz. Şimdi şantiyeden fabrikaya, atölyeye geçiyoruz: iş ekipmanlarına."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1668140736531-d23950307b3c?w=2400",
+   "kicker": "İş ekipmanları",
+   "title": "Makineyi kullanmadan önce makine sizi tanımalı",
+   "bullets": [
+    "Yönetmelik, iş ekipmanının güvenli kullanımını düzenler",
+    "İşveren işe uygun, bakımlı ekipman sağlar",
+    "Koruyucular ve acil durdurma çalışır halde olur",
+    "Kullanıcı yazılı talimat ve eğitim alır"
+   ],
+   "steps": [
+    "İş ekipmanı, işte kullanılan her türlü makine, alet, tesis ve cihazdır. Torna, pres, testere, forklift, vinç, matkap ve el aleti hepsi bu tanıma girer.",
+    "Bu yönetmeliğin mantığı basittir: ekipman işe uygun olmalı, bakımlı olmalı ve kullanan kişi onu tanımalıdır.",
+    "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliğine göre işveren, yapılacak işe uygun ve güvenli ekipman seçmek zorundadır. Ekipmanın bakımını yaptırır ve arızaları giderir.",
+    "Ekipmanın koruyucuları, acil durdurma düğmesi ve uyarı işaretleri yerinde ve çalışır olmalıdır. Koruyucuyu sökülmüş bir pres, bir kaza makinesine dönüşür.",
+    "Ekipmanı kullanacak çalışanın, ekipmanın güvenli kullanımı hakkında yeterli bilgi, talimat ve eğitimi alması gerekir. Hiç görmediğiniz bir makineye, kullanma talimatı olmadan başlamayın."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Kontrol ve bakım",
+   "title": "Ekipmanda üç önemli düzen",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=1200",
+     "tag": "Bakım",
+     "title": "Enerjiyi kesmek",
+     "text": "Bakım ve temizlikte makine durdurulur, enerjisi kesilir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1645736315000-6f788915923b?w=1200",
+     "tag": "Periyodik kontrol",
+     "title": "Yetkin kişiler",
+     "text": "Forklift ve kaldırma ekipmanları düzenli kontrol edilir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1740733448722-82e16d3468bb?w=1200",
+     "tag": "Kullanım",
+     "title": "Sadece yetkili",
+     "text": "Sadece eğitim ve yetki alan kişi kullanır"
+    }
+   ],
+   "steps": [
+    "Ekipman güvenliğinin üç temel düzeni var. Birincisi bakım sırasında enerjiyi kesmek.",
+    "Makinenin temizliğini ya da bakımını yaparken makine durdurulur ve enerji kesilir. Başkası yanlışlıkla çalıştırmasın diye şalter kilitlenir ya da uyarı etiketi asılır. Bu yöntem, kilitleme ve etiketleme olarak bilinir.",
+    "İkincisi, periyodik kontrol. Forklift, vinç, kaldırma ekipmanları ve basınçlı kaplar gibi bazı ekipmanlar, belirli aralıklarla yetkin kişilerce kontrol edilir ve sonuçlar raporlanır. Aralıklar ekipmanın türüne göre değişir.",
+    "Üçüncüsü, kullanım yetkisi. Forklifti, vinci ya da presi, eğitimini almamış kişiler kullanmaz. Siz de arkadaşınız istedi diye eğitimsiz olduğunuz bir ekipmana binmeyin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1770827730773-cc7848b2ee61?w=2400",
+   "kicker": "Örnek olay 2",
+   "title": "Forklift ve yaya yolu",
+   "bullets": [
+    "Depoda iş yoğunlaşıyor",
+    "Hız ve koridor kuralları unutuluyor"
+   ],
+   "steps": [
+    "İkinci örnek olay, bir depoda geçiyor. Yoğun bir gün. Forklift operatörü Kemal, sevkiyatı yetiştirmek için koridorlarda hızlanıyor. Yaya yolu çizgileri solmuş, kimse yenilememiş.",
+    "Bir an, köşeden gelen depo çalışanı Ayşe'yi son anda fark ediyor ve frene basıyor. Palet düşüyor, ama Ayşe yaralanmıyor.",
+    "Olay sonrasında vardiya amiri Selin, olayı bir ramak kala olarak kaydediyor. İnceleme şunu gösteriyor: forklifte günlük kontrol yapılmıyor, yaya yolu belirsiz ve hız sınırı yok.",
+    "Alınan önlemler şunlar: yaya yolları yeniden boyanıyor, hız sınırı konuyor, operatörlere günlük kontrol listesi veriliyor ve forklift periyodik kontrolleri düzenli takip ediliyor. Küçük bir olay, büyük bir kazayı önlemiş oluyor."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Koruyucu donanım",
+   "title": "KKD kullanımında doğru sıra",
+   "items": [
+    {
+     "title": "Risk belirlenir",
+     "text": "Önce tehlikenin kendisi azaltılır"
+    },
+    {
+     "title": "Gerekirse KKD seçilir",
+     "text": "Riske uygun ve CE işaretli"
+    },
+    {
+     "title": "Ücretsiz verilir",
+     "text": "İşveren karşılar"
+    },
+    {
+     "title": "Eğitim verilir",
+     "text": "Nasıl takılır, ne zaman değişir"
+    },
+    {
+     "title": "Kullanılır ve bakılır",
+     "text": "Hasarlıysa yenisi istenir"
+    }
+   ],
+   "steps": [
+    "Kişisel koruyucu donanım, yani KKD, çalışanı riske karşı koruyan her türlü araç ve gereçtir. Baret, gözlük, kulaklık, maske, eldiven, ayakkabı ve emniyet kemeri bunlardan bazıları.",
+    "Önce risk belirlenir. KKD'ler tehlikeyi ortadan kaldırmaz, sadece zararı azaltır. Bu yüzden önce tehlikenin kaynağında, örneğin makine korumasıyla ya da havalandırmayla önlem alınır. KKD, başka yolla önlenemeyen riskler için kullanılır.",
+    "Gerekliyse riske uygun KKD seçilir. Donanım CE işaretli olmalı, size uymalı ve konforlu olmalıdır. Çok büyük bir eldiven ya da sıkan bir gözlük kullanılmaz hale gelir.",
+    "KKD'yi işveren ücretsiz verir. Sizden para istenemez ve bedeli maaşınızdan kesilemez.",
+    "İşveren size nasıl kullanılacağını, ne zaman değiştirileceğini ve nasıl saklanacağını öğretir.",
+    "Sonra siz kullanırsınız. Hasar gördüğünde, yırtıldığında ya da süresi dolduğunda yenisini istersiniz. Baret çatlamışsa, tamir etmek yerine değiştirin."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "KKD örnekleri",
+   "title": "İşinize göre hangi KKD?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1651500963570-e2bfd5a4f94b?w=1200",
+     "tag": "Baş ve göz",
+     "title": "Baret ve gözlük",
+     "text": "Düşen cisim, kıvılcım ve parçacıklara karşı"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1643704169438-efd6d5707214?w=1200",
+     "tag": "Kulak",
+     "title": "Kulak koruyucu",
+     "text": "Presin, matkabın ve jeneratörün gürültüsüne karşı"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1599412227383-b7d4751c8765?w=1200",
+     "tag": "El",
+     "title": "Eldiven",
+     "text": "Kesik, kimyasal ve sıcak yüzeylere karşı, işe uygun tipte"
+    }
+   ],
+   "steps": [
+    "Birkaç yaygın KKD'ye bakalım. Önemli olan, her işin KKD'sinin aynı olmadığını bilmektir.",
+    "Baret ve gözlük, düşen cisimlere, kıvılcıma ve talaşa karşı korur. Taşlama yaparken gözlük, kaynakta ise kaynak maskesi gerekir.",
+    "Kulak koruyucu, yüksek gürültülü yerlerde işitme kaybını önler. Tek kullanımlık tıkaç mı, kulaklık mı kullanılacağı, gürültü düzeyine ve işe göre belirlenir.",
+    "Eldiven ise tehlikeye göre seçilir. Kesik koruyan eldiven, kimyasal koruyan eldivenin yerine geçmez. Dönen makinelerin başında ise eldiven bazen sıkışma riski yaratabilir. Bu yüzden riski bilerek seçin."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1617155093730-a8bf47be792d?w=2400",
+   "kicker": "Kimyasal maddeler",
+   "title": "Kimyasallarla çalışma kuralları",
+   "bullets": [
+    "Kimyasal Maddelerle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik",
+    "Önce risk değerlendirmesi ve mümkünse daha az zararlı madde",
+    "Etiket ve güvenlik bilgi formu mutlaka okunur",
+    "Depolama ve acil durum önlemleri şarttır"
+   ],
+   "steps": [
+    "Boya, solvent, temizlik ürünü, asit, yapıştırıcı ve yağlar kimyasal madde sayılır. Bunlarla çalışmak için ayrı bir yönetmelik var: Kimyasal Maddelerle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik.",
+    "İşveren önce risk değerlendirmesi yapar. Mümkünse tehlikeli maddenin yerine daha az tehlikeli olanı koyar. Bu yöntem, yani ikame, en etkili önlemlerden biridir.",
+    "Ambalajdaki etiket, size maddenin tehlikesini ve temel önlemleri söyler. Güvenlik bilgi formu ise ayrıntıları verir: ilk yardım, yangın durumu, dökülme önlemleri ve uygun KKD. Forma ulaşabileceğiniz yerin bilindiğinden emin olun.",
+    "Kimyasalların uygun yerde, uyumlu gruplar halinde ve etiketli saklanması gerekir. Bir kabı, içine başka madde koyduğunuz halde etiketsiz bırakmak çok tehlikeli bir alışkanlıktır.",
+    "Dökülme, sıçrama ya da solunma gibi acil durumlarda kimin ne yapacağı, önceden planlanır ve çalışanlara öğretilir."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Kimyasalda üç bilgi kaynağı",
+   "title": "Neye bakmalısınız?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1599412227383-b7d4751c8765?w=1200",
+     "title": "Etiket",
+     "text": "Tehlike işaretleri ve kısa uyarılar kabın üzerindedir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1468779036391-52341f60b55d?w=1200",
+     "title": "Güvenlik bilgi formu",
+     "text": "Ayrıntılı bilgi, ilk yardım ve dökülme önlemleri"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1700727448575-6f1680cd7d75?w=1200",
+     "title": "Eğitim ve talimat",
+     "text": "İşinize özgü kullanım kuralları yazılı olmalıdır"
+    }
+   ],
+   "steps": [
+    "Kimyasalla çalışırken üç bilgi kaynağını mutlaka bilin.",
+    "Birincisi etiket. Kutunun ya da şişenin üzerindeki tehlike işaretleri ve uyarı cümleleri size ilk bilgiyi verir. Okunmuyor ya da silinmişse, o madde kullanılmaz.",
+    "İkincisi güvenlik bilgi formu. Bu form, maddenin ayrıntılı bilgisini taşır ve işyerinde ulaşılabilir olmalıdır. Zehirlenme ya da yangın anında bakılacak yer burasıdır.",
+    "Üçüncüsü eğitim ve talimat. İşinize özgü kuralları yüz yüze eğitimde uzmanınızla ayrıntılı konuşacaksınız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1740733448722-82e16d3468bb?w=2400",
+   "kicker": "Çalışanın payı",
+   "title": "Yönetmelikler sizden de bir şey bekler",
+   "bullets": [
+    "Güvenli olmayan ekipmanı kullanmamak",
+    "Koruyucuları sökmemek ve değiştirmemek",
+    "Arıza ve eksiği hemen bildirmek",
+    "Eğitim ve talimatlara uymak"
+   ],
+   "steps": [
+    "Yönetmelikler yalnızca işverene görev yüklemez. Çalışanın da payına düşen sorumluluklar var, ve bunlar gündelik işlerde çok somuttur.",
+    "Güvenli olmadığını düşündüğünüz ekipmanı kullanmayın. Yağ sızdıran bir hidrolik hortum, açık kalmış bir elektrik panosu ya da çatlak bir taşlama taşı bunlara örnektir.",
+    "Makinenin koruyucularını sökmeyin, devre dışı bırakmayın. Hız kazanmak için çıkarılan her koruyucu, kazanın kapısını aralar.",
+    "Arıza ve eksiği hemen bildirin. Sözlü bildirdiyseniz, mümkünse yazılı ya da mesajla da kayda geçirin, böylece konu unutulmaz.",
+    "Eğitimlerde ve yazılı talimatlarda anlatılan kurallara uyun. Bu kurallar çoğunlukla bir önceki kazanın bedeli ödenerek yazılmıştır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1651500963570-e2bfd5a4f94b?w=2400",
+   "kicker": "Acil durum",
+   "title": "Kimyasal dökülmesinde ilk dakikalar",
+   "bullets": [
+    "Alanı boşalt, yetkiliye haber ver",
+    "Etikete ve forma bak, KKD olmadan müdahale etme"
+   ],
+   "steps": [
+    "Bir kimyasal varil devrildi ve zemine döküldü. İlk dakikalar çok önemlidir ve doğru davranış bellidir.",
+    "Önce kendinizi ve çevrenizdekileri uzaklaştırın, alanı boşaltın. Kaçan bir buhar varsa havalı yöne gidin. Sonra durumu hemen amirinize ve acil durum ekibine bildirin.",
+    "Müdahale etmeden önce etikete ve güvenlik bilgi formuna bakın. Doğru KKD olmadan, merak ederek ya da yardım etmek için yaklaşmayın. Kurtarmaya çalışırken ikinci kişinin de zarar görmesi, sık yapılan bir hatadır.",
+    "Bu konuda işyerinizin acil durum planında kimin ne yaptığı yazılıdır. Planı öğrenin ve tatbikatlara ciddiyetle katılın."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1598302936625-6075fbd98dd7?w=2400",
+   "kicker": "Gürültü",
+   "value": "85 dB(A)",
+   "title": "Üst etki değerinde kulak koruyucu kullanmak zorunludur",
+   "text": "Alt etki değeri 80 dB(A): koruyucu hazır bulundurulur. Sınır değeri 87 dB(A)'dır.",
+   "steps": [
+    "Şimdi gürültüye geçelim. Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik, gürültü düzeyi için iki eylem değeri ve bir sınır değeri koyar.",
+    "Alt etki değeri 80 desibel. Bu seviyede işveren, kulak koruyucuyu çalışana verir. Üst etki değeri 85 desibel, ve işte bu seviyede kulak koruyucu kullanmak zorunludur. Maruziyet sınır değeri ise 87 desibeldir."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Gürültü",
+   "title": "Üç değer, üç sonuç",
+   "items": [
+    {
+     "value": "80",
+     "unit": "dB(A)",
+     "label": "alt etki değeri: koruyucu hazır bulundurulur"
+    },
+    {
+     "value": "85",
+     "unit": "dB(A)",
+     "label": "üst etki değeri: koruyucu kullanımı zorunlu"
+    },
+    {
+     "value": "87",
+     "unit": "dB(A)",
+     "label": "maruziyet sınır değeri: aşılamaz"
+    }
+   ],
+   "steps": [
+    "Üç sayıyı birlikte görelim.",
+    "80 desibelde, işveren kulak koruyucuyu sağlar, işitme kontrolünü teklif eder ve sizi bilgilendirir.",
+    "85 desibelde kulak koruyucu kullanmak zorunludur. Ayrıca bu alanlar işaretlenir ve gürültüyü azaltmak için önlem programı uygulanır.",
+    "87 desibel ise sınır değeri. Kulak koruyucunun sağladığı azalma da hesaba katılarak, çalışanın maruziyeti bu sınırı aşamaz. Gürültü ölçümleri yetkin kişilerce yapılır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1694522362256-6c907336af43?w=2400",
+   "kicker": "Titreşim",
+   "title": "Titreşim de sessiz bir tehlikedir",
+   "bullets": [
+    "El ve kol titreşimi: matkap, taşlama, kırıcı",
+    "Tüm vücut titreşimi: iş makinesi, forklift, kamyon",
+    "Sınır ve eylem değerleri yönetmelikte belirlidir",
+    "Süre sınırlaması, bakım ve dinlenme araları önlemdir"
+   ],
+   "steps": [
+    "Titreşim, işyerlerinde gözden kaçan bir tehlikedir. Çalışanların Titreşimle İlgili Risklerden Korunmalarına Dair Yönetmelik bu konuyu düzenler.",
+    "El ve kol titreşimi, matkap, taşlama makinesi, kırıcı ve zımpara gibi el aletlerinde ortaya çıkar. Uzun süre maruz kalınca el ve parmaklarda uyuşma, kan dolaşımı ve eklem sorunları görülebilir.",
+    "Tüm vücut titreşimi ise iş makinesi, forklift ve ağır vasıta kullananlarda görülür. Özellikle bel ve omurga sağlığını etkiler.",
+    "Yönetmelik hem el-kol hem de tüm vücut için eylem ve sınır değerleri belirler ve işverenin ölçüm yaptırmasını ister.",
+    "Önlem olarak daha az titreşimli alet seçilir, bakımlı alet kullanılır, çalışma süresi sınırlanır ve dinlenme araları verilir. Parmaklarınız uyuşuyorsa bunu mutlaka işyeri hekimine söyleyin."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Örnek olay 3",
+   "title": "Pres atölyesinde kulaklık",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1668140736531-d23950307b3c?w=1200",
+     "ok": false,
+     "title": "Kulaklık takmamak",
+     "text": "Gürültü alışkanlık olur, kulaklık sıkıyor diye çıkarılır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1643704169438-efd6d5707214?w=1200",
+     "ok": true,
+     "title": "Kulaklığı takmak",
+     "text": "Bölge işaretli, kulaklık sürekli takılır, işitme kontrolü yapılır."
+    }
+   ],
+   "steps": [
+    "Üçüncü örnek olay. Bir pres atölyesinde on yıldır çalışan Mustafa usta, kulaklığı sıkıyor diye ya da alıştım artık diyerek takmıyor. Atölyenin ölçülen gürültüsü 90 desibel civarında.",
+    "Zamanla Mustafa usta, arkadaşlarının dediklerini duymakta zorlanıyor, kulağında çınlama başlıyor. İşitme kaybı, yavaş yavaş gelir ve geri dönmez. Fark ettiğinizde artık çok geç olabilir.",
+    "Doğru senaryoda alan işaretlenmiş, kulaklık kullanımı zorunlu hale getirilmiş, işe uygun ve rahat kulaklık seçilmiş ve periyodik işitme kontrolleri yapılıyor. Mustafa usta, emekli olduğunda da torunlarının sesini rahatça duyabiliyor. Kulağınızı korumak, emekliliğinize yatırımdır."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1758270705031-ebd46917a454?w=2400",
+   "kicker": "Mesleki eğitim",
+   "value": "Belge",
+   "title": "Bazı tehlikeli işlerde çalışmak için mesleki yeterlilik belgesi aranır",
+   "text": "Kapsamdaki işler, mesleki eğitim yönetmeliğinin Ek-1 çizelgesinde yer alır.",
+   "steps": [
+    "Şimdi başka bir konuya geliyoruz. Her tehlikeli işi herkes yapamaz. Tehlikeli ve çok tehlikeli sınıftaki bazı işleri yapabilmek için, işi yapabilecek yeterliliğe sahip olduğunuzu gösteren belge istenir.",
+    "Bu konu, Tehlikeli ve Çok Tehlikeli Sınıfta Yer Alan İşlerde Çalıştırılacakların Mesleki Eğitimlerine Dair Yönetmelikle düzenlenir. Yönetmeliğin Ek-1 çizelgesindeki işlerde fiilen çalıştırılacak kişilerin, yaptıkları işe uygun bir belgeye sahip olması gerekir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Geçerli belgeler",
+   "title": "Mesleki eğitim belgesi nedir?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1618771623063-6c3faa854a61?w=1200",
+     "tag": "Ustalık",
+     "title": "Ustalık belgesi",
+     "text": "3308 sayılı Mesleki Eğitim Kanununa göre alınmış belge"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758270704021-361c165d68fd?w=1200",
+     "tag": "Okul",
+     "title": "Meslek diploması",
+     "text": "Mesleki ve teknik eğitim veren okul ya da bölüm diploması"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1700727448575-6f1680cd7d75?w=1200",
+     "tag": "MYK",
+     "title": "MYK belgesi",
+     "text": "İlgili alanda Mesleki Yeterlilik Kurumunca verilen belge"
+    }
+   ],
+   "steps": [
+    "Hangi belgeler geçerli? Üç tane var, ve işinize uygun olması şart.",
+    "Birincisi, 3308 sayılı Mesleki Eğitim Kanununa göre alınmış ustalık belgesi. Çıraklıktan kalfalığa, oradan ustalığa uzanan yolun belgesi.",
+    "İkincisi, Milli Eğitim Bakanlığına bağlı mesleki ve teknik eğitim okullarından ya da üniversitelerin mesleki ve teknik eğitim veren bölümlerinden, ilgili alanda alınmış diploma.",
+    "Üçüncüsü, ilgili alanda alınmış MYK, yani Mesleki Yeterlilik Kurumu belgesi. Bazı meslekler için MYK belgesi zorunlu hale getirilmiştir. Bu durumda, kurumun mevzuatında belirtilen geçerli belge aranır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=2400",
+   "kicker": "MYK belgesi",
+   "title": "MYK belgesi zorunlu mesleklerde işveren ne yapar?",
+   "bullets": [
+    "MYK belgesi zorunlu meslekler tebliğlerle ilan edilir",
+    "İşveren işe alırken belgeyi kontrol eder",
+    "Alt işveren çalışanlarının belgelerini asıl işveren de izler",
+    "Belgesi olmayan çalışan o işte çalıştırılmaz"
+   ],
+   "steps": [
+    "MYK belgesi, bir mesleği yapabilme yeterliliğini gösteren belgedir. Mesleki Yeterlilik Kurumu, sınav yaparak belge verir.",
+    "Hangi mesleklerde MYK belgesinin zorunlu olduğu, Mesleki Yeterlilik Kurumu mevzuatı ve ilgili tebliğlerle belirlenir. Örnekler arasında inşaat, metal, elektrik ve doğal gaz gibi alanlardaki bazı meslekler vardır. Güncel listeye kurumun internet sitesinden bakabilirsiniz. İşyerinizin hangi meslekler için belge aradığını da amirinize ya da iş güvenliği uzmanınıza sorabilirsiniz.",
+    "İşveren, işe alırken belgeyi kontrol etmek zorundadır. Belgenin süresinin dolmadığından da emin olur.",
+    "Taşeron firma çalışanları için de durum aynıdır. Ana işveren olarak çalışan alt işveren çalışanlarının belge ve eğitimlerini kontrol eder.",
+    "Belgeniz yoksa ya da süresi dolduysa, bunu amirinize açıkça söyleyin ve yenileme sürecini sorun. Belgesiz çalışmak hem sizin hem işverenin hukuki sorumluluğunu doğurur."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Eğitim yönetmeliği",
+   "title": "Sizin sınıfınızda eğitim kuralları",
+   "items": [
+    {
+     "value": "12",
+     "unit": "saat",
+     "label": "tehlikeli: temel eğitim, 2 yılda bir tekrar"
+    },
+    {
+     "value": "16",
+     "unit": "saat",
+     "label": "çok tehlikeli: temel eğitim, yılda bir tekrar"
+    },
+    {
+     "value": "8",
+     "unit": "saat",
+     "label": "her iki sınıfta tekrar eğitimi en az"
+    },
+    {
+     "value": "60",
+     "unit": "puan",
+     "label": "başarılı sayılmak için sınavdan en az"
+    }
+   ],
+   "steps": [
+    "Şimdi 2 Nisan 2026 tarihli yeni eğitim yönetmeliğine dönelim. Rakamları birlikte tekrar edelim.",
+    "Tehlikeli işyerlerinde temel eğitim en az 12 ders saatidir ve en az 2 yılda bir tekrarlanır.",
+    "Çok tehlikeli işyerlerinde temel eğitim en az 16 ders saatidir ve her yıl tekrarlanır.",
+    "Tekrar eğitimleri, her iki sınıfta da en az 8 ders saatidir.",
+    "Temel eğitim sonunda yapılan sınavda 100 üzerinden en az 60 alan başarılı sayılır. İlk sınavda başarısız olan, en fazla iki kez daha girebilir. Yine başarısız olursa temel eğitimi yeniden alır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1758270704925-fa59d93119c1?w=2400",
+   "kicker": "Eğitimin yapısı",
+   "title": "Yeni yönetmelik, eğitimin nasıl verileceğini de belirler",
+   "bullets": [
+    "4. başlık tehlikeli ve çok tehlikelide yüz yüze verilir",
+    "Uzaktan eğitimde katılım ve sınav sonuçları kayda alınır",
+    "Eğitimde geçen süre çalışma süresinden sayılır",
+    "Eğitim maliyeti çalışana yansıtılamaz"
+   ],
+   "steps": [
+    "Yeni yönetmelik eğitimin biçimine de ayrıntı getirdi. Birkaç önemli noktayı vurgulayalım.",
+    "Temel eğitimin dördüncü konu başlığı, yani işe ve işyerine özgü riskler, tehlikeli ve çok tehlikeli işyerlerinde yüz yüze verilir. Bu online dersler ilk üç başlığı karşılar.",
+    "Uzaktan eğitimde sisteme giriş ve çıkış, tamamlama oranı ve sınav sonuçları kayıt altına alınır. Sistem, ileri sarma gibi öğrenmeyi bozan işlevlere izin vermemelidir. Yani dersi dikkatle izlemeniz beklenir.",
+    "Eğitimde geçen süre çalışma süresinden sayılır. Haftalık çalışma süresini aşarsa, aşan kısım fazla çalışma sayılır.",
+    "Eğitimin maliyeti çalışana yansıtılamaz. Ayrıca başarılı olanlara, Ek-2 örneğine uygun temel eğitim belgesi verilir ve özlük dosyasında saklanır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1758270704286-83476deb3bd1?w=2400",
+   "kicker": "Örnek olay 4",
+   "title": "İş değiştiren kaynakçı",
+   "bullets": [
+    "Yeni işyerinde yeni riskler var",
+    "Önceki belge geçerli, ama yeterli değil"
+   ],
+   "steps": [
+    "Son örnek olay, belge ve eğitim konusunda. Kaynakçı Orhan, bir çelik yapı atölyesinden başka bir şirkete geçiyor. Temel eğitim belgesi hâlâ elinde.",
+    "Yeni işveren belgeyi kontrol ediyor, ama burada durmuyor. Yönetmeliğe göre aynı işte başka işyerine geçen çalışan, dördüncü konu başlığında, yani yeni işyerine özgü risklerde yeniden eğitilir. Ayrıca işe başlama eğitimi de verilir.",
+    "Orhan yeni atölyede ilk gün yüz yüze, en az iki saatlik işe başlama eğitimini alıyor. Atölyenin kaynak dumanı çekme sistemi, gaz tüpü yerleri ve acil çıkışları gösteriliyor. Belge işe girişi kolaylaştırır, ama yeni işyerinin kendine özgü risklerini bilmek zorunludur."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1575281923032-f40d94ef6160?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Yapı işlerinde koordinasyon, iskele ve korkuluk kuralları vardır",
+    "İş ekipmanı güvenli, bakımlı ve eğitimli kişilerce kullanılır",
+    "KKD önlemin son halkasıdır ve ücretsiz verilir",
+    "Gürültüde 85 dB(A) ve üzerinde kulak koruyucu zorunludur",
+    "Bazı işlerde mesleki eğitim belgesi veya MYK belgesi aranır"
+   ],
+   "steps": [
+    "Dersin sonuna geldik. Kısa bir toparlama yapalım.",
+    "Yapı işlerinde plan, koordinatör, korkuluk, iskele kontrolü ve kazı güvenliği yönetmelikte ayrıntılıdır. Düşmede önce toplu önlem gelir.",
+    "İş ekipmanları güvenli, bakımlı ve eğitim almış kişilerce kullanılır. Bakım sırasında enerji kesilir.",
+    "KKD, önlemin son halkasıdır ve işveren tarafından ücretsiz verilir. Gürültüde 85 desibel ve üzerinde kulak koruyucu kullanmak zorunludur.",
+    "Bazı tehlikeli işlerde ustalık belgesi, meslek diploması ya da MYK belgesi aranır. Temel eğitimde ise tehlikeli sınıfta 12, çok tehlikeli sınıfta 16 ders saati vardır.",
+    "Her yönetmelik, bir kazanın acı dersinden sonra yazılmıştır ve sizin güvenliğiniz için vardır. Dersin sonunda birkaç kısa soru sizi bekliyor. Yönetmelikleri bilmek, hem sizi hem arkadaşlarınızı korur. Emniyetli çalışmalar dilerim."
+   ]
+  }
+ ]
+}

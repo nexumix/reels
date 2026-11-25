@@ -1,0 +1,676 @@
+{
+ "code": "tc_t2",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "3. Bölüm · Teknik Konular",
+ "title": "Elle kaldırma ve taşıma; ekranlı araçlarla çalışma",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?w=2400",
+   "kicker": "3. Bölüm · Ders 2",
+   "title": "Elle kaldırma ve taşıma; ekranlı araçlarla çalışma",
+   "subtitle": "Belinizi ve gözlerinizi koruyun",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste iki konuyu birlikte ele alacağız. Birincisi, depoda, şantiyede ya da üretim hattında her gün yaptığımız elle kaldırma ve taşıma işi. İkincisi, kontrol odalarında ve depo terminallerinde ekranlı araçlarla çalışma.",
+    "İkisi de ilk bakışta masum görünür. Ama bel fıtığı, boyun ağrısı, göz yorgunluğu ve kas iskelet rahatsızlıkları çoğunlukla bu sessiz işlerden doğar. Bu derste bedeninizi nasıl koruyacağınızı pratik örneklerle öğreneceğiz."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Elle taşıma riskleri",
+     "text": "Neden bel yaralanmaları bu kadar sık"
+    },
+    {
+     "title": "Kaçınma ve yardımcılar",
+     "text": "Önce mekanik, sonra elle"
+    },
+    {
+     "title": "Doğru kaldırma",
+     "text": "Teknik ve ekip kaldırması"
+    },
+    {
+     "title": "Ekranlı çalışma",
+     "text": "Duruş, mola ve göz sağlığı"
+    }
+   ],
+   "steps": [
+    "Önce dersin planına bakalım. Dört başlığımız var.",
+    "İlk olarak, elle taşımanın neden bu kadar riskli olduğunu ve yönetmeliğin ne istediğini göreceğiz.",
+    "Sonra, yükü hiç elle taşımamanın ya da en aza indirmenin yollarını, yani mekanik yardımcıları konuşacağız.",
+    "Üçüncü adımda, kaçınılmaz olduğunda doğru kaldırma tekniğini ve birkaç kişiyle kaldırmanın kurallarını öğreneceğiz.",
+    "Son olarak ekranlı araçlarla çalışmaya geçeceğiz: doğru duruş, mola ve göz sağlığı."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1740733448722-82e16d3468bb?w=2400",
+   "kicker": "Neden önemli",
+   "title": "Elle taşıma, bel ve sırt yaralanmalarının başlıca nedenidir",
+   "bullets": [
+    "Depo, inşaat, üretim ve lojistikte en sık yapılan işlerden biridir",
+    "Tek seferde ya da yıllar içinde biriken yüklenmeyle zarar verir",
+    "Bel, sırt, omuz, kol ve bilek en çok etkilenen bölgelerdir"
+   ],
+   "steps": [
+    "Elle taşıma, yani bir yükü kendi gücünüzle kaldırmak, indirmek, itmek, çekmek ya da taşımak, tehlikeli ve çok tehlikeli işyerlerinin en yaygın işlerinden biridir.",
+    "Depoda koli yüklemek, şantiyede çimento çuvalı taşımak, üretimde parça beslemek bunların hepsi elle taşımadır. Bu işler kamyona, forklifte ya da vinçe ihtiyaç duymadan yapıldığı için, kolayca sıradan görünür.",
+    "Oysa zarar iki biçimde gelir. Bazen tek bir yanlış hamlede bel tutulur. Çoğu zaman ise yıllarca biriken küçük yüklenmeler, bir gün omurgada kalıcı bir sorun olarak ortaya çıkar.",
+    "En çok etkilenen bölgeler bel ve sırttır, ama omuz, kol ve bilekte de kas ve tendon sorunları sık görülür. Bu yüzden elle taşımayı ciddiye almak, yalnızca ağır yük için değil, her yük için gereklidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1792019617210-10e775a3a642?w=2400",
+   "kicker": "Mevzuat",
+   "title": "Yönetmelik tek bir kilo sınırı vermez",
+   "bullets": [
+    "Elle Taşıma İşleri Yönetmeliği",
+    "Yükün ağırlığı ve ağırlık merkezi bilinmeli",
+    "Değerlendirme işe, ortama ve kişiye göre yapılır"
+   ],
+   "steps": [
+    "Elle taşıma konusunda sık sorulan soru şu: En fazla kaç kilo kaldırabilirim? Cevap çoğu zaman beklenenden farklıdır.",
+    "Elle Taşıma İşleri Yönetmeliği, sabit bir kilogram sınırı vermez. Çünkü aynı yük, farklı koşullarda çok farklı risk taşır. Yönetmelik, yükün ağırlığının ve ağırlık merkezinin bilinmesini ve çalışanların bu konuda bilgilendirilmesini ister.",
+    "Örneğin yirmi kiloluk bir koliyi zemin seviyesinden kaldırmak, yirmi kiloluk bir çuvalı bel hizasından bir metre taşımaktan çok daha zordur. Yük dengesizse ya da ağırlık merkezi bir yana kaymışsa risk daha da artar.",
+    "Bu yüzden işveren, işi, ortamı, yükü ve çalışanın durumunu birlikte değerlendirmek zorundadır. Sizin de 'Bu yükü tek başıma kaldırabilir miyim?' diye kendinize dürüstçe sormanız gerekir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Önlem sırası",
+   "title": "Elle taşımada önlem sırası",
+   "items": [
+    {
+     "title": "Hiç taşımayın",
+     "text": "İş organizasyonu ile elle taşımayı ortadan kaldırın"
+    },
+    {
+     "title": "Mekanik kullanın",
+     "text": "Transpalet, vinç, el arabası, konveyör"
+    },
+    {
+     "title": "Yükü hafifletin",
+     "text": "Daha küçük paketler, tutamak, düzenli yerleşim"
+    },
+    {
+     "title": "Eğitim ve KKD",
+     "text": "Doğru teknik, eldiven, çelik burunlu ayakkabı"
+    }
+   ],
+   "steps": [
+    "Yönetmelik bir sıra belirler. Önce elle taşımadan kaçınılmaya çalışılır, ancak kaçınılamıyorsa riski azaltacak düzenlemeler yapılır.",
+    "En iyi çözüm yükü hiç elle taşımamaktır. İşi organize ederek, malzemeyi kullanılacağı yere en yakın noktada depolamak ya da malı doğrudan paletle taşımak bunun yollarındandır.",
+    "Mümkün değilse mekanik yardımcılar kullanılır. Transpalet, el arabası, vinç, konveyör ya da kaldırma tablası, sırtınızın yerine çalışır.",
+    "Bunların hiçbiri uygulanamıyorsa yük hafifletilir. Büyük bir çuval yerine küçük çuvallar, tutamaklı kasalar ve kaldırmaya uygun yükseklikte raflar bu düzenin parçasıdır.",
+    "En sonda eğitim ve kişisel koruyucu donanım gelir. Doğru teknik ve çelik burunlu ayakkabı, eldiven gibi KKD'ler önemlidir ama diğer önlemlerin yerini tutmaz."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Mekanik yardımcılar",
+   "title": "Sırtınızın yerine çalışan araçlar",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1645736315000-6f788915923b?w=1200",
+     "tag": "Transpalet",
+     "title": "Paletli yükler",
+     "text": "Palet ve koli yığınlarını kaldırmadan, sürerek taşıma sağlar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1721673028717-23c15f9a02bc?w=1200",
+     "tag": "El arabası ve kasa",
+     "title": "Kısa mesafe",
+     "text": "Şantiyede çuval ve malzemeyi taşımak için; kaldırmayı azaltır"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1787422429941-b1966d776195?w=1200",
+     "tag": "Konveyör ve vinç",
+     "title": "Sürekli akış",
+     "text": "Ağır parçaları kaldırma ve aktarma işini makine yapar"
+    }
+   ],
+   "steps": [
+    "Mekanik yardımcılar, elle taşıma riskini en etkili azaltan araçlardır. Üç tanesine bakalım.",
+    "Transpalet, palet üzerindeki yükleri kaldırmadan taşımanızı sağlar. Yükü zemin seviyesinden kaldırmak zorunda kalmazsınız. Kullanırken hızınıza ve yükün devrilmemesine dikkat etmelisiniz.",
+    "El arabası ve kasalar, özellikle şantiye ve atölyelerde çuval, tuğla ve parça taşımak için kullanılır. Yükü taşıyan siz değil, tekerlek olur.",
+    "Konveyör ve vinç gibi sistemler ise ağır parçaların sürekli akışında kullanılır. Vinci yalnızca yetkili ve eğitimli kişi kullanır, ve asılı yükün altında asla durulmaz. İşyerinizde bu araçlar varsa kullanmaktan çekinmeyin; 'Hızlı olur' diye elle taşımak iyi bir tercih değildir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1664382953403-fc1ac77073a0?w=2400",
+   "kicker": "Risk faktörleri",
+   "title": "Elle taşımanın riskini belirleyen dört grup",
+   "bullets": [
+    "Yük: çok ağır, büyük, kavranması zor, dengesiz",
+    "İş: eğilme, dönme, uzak mesafe, tempo ve dinlenme eksikliği",
+    "Ortam: dar alan, kaygan ve engebeli zemin, sıcaklık, yetersiz ışık",
+    "Kişi: fiziksel yapının işe uymaması, uygun olmayan giysi ve ayakkabı, eğitim eksikliği"
+   ],
+   "steps": [
+    "Elle taşımanın riski tek bir şeye bağlı değildir. Yönetmelik, riski belirleyen faktörleri gruplar halinde sayar.",
+    "Birincisi yükün kendisidir. Çok ağır, çok büyük, tutması zor ya da içinde sıvı olduğu için dengesiz yük, riski artırır.",
+    "İkincisi işin gerektirdiği harekettir. Gövdeyi çok eğmek, döndürmek, yükü vücuttan uzakta tutmak, uzun mesafe taşımak ve dinlenmeden tempoyla çalışmak riski yükseltir.",
+    "Üçüncüsü çalışma ortamıdır. Dar geçit, kaygan ya da düz olmayan zemin, merdiven, yetersiz ışık ve aşırı sıcaklık dikkat ve denge gerektirir.",
+    "Dördüncüsü kişisel faktörlerdir. Fiziksel yapının işe uygun olmaması, uygun olmayan ayakkabı ya da giysi ve yeterli eğitimin bulunmaması bunlar arasındadır. Bu nedenle, belirli sağlık durumundaki çalışanlar için işyeri hekimiyle görüşülür."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Doğru teknik",
+   "title": "Yükü doğru kaldırmanın beş adımı",
+   "items": [
+    {
+     "title": "Yükü ve yolu görün",
+     "text": "Ağırlık, tutamak ve güzergâh uygun mu"
+    },
+    {
+     "title": "Ayakları açın",
+     "text": "Omuz genişliğinde, yüke yakın durun"
+    },
+    {
+     "title": "Dizleri bükün",
+     "text": "Sırt dik, bakış ileride"
+    },
+    {
+     "title": "Sıkı kavrayın",
+     "text": "Yükü vücuda yakın tutarak bacaklarla kalkın"
+    },
+    {
+     "title": "Dönmeyin",
+     "text": "Ayaklarınızla yön değiştirin"
+    }
+   ],
+   "steps": [
+    "Şimdi sıra kaldırma tekniğinde. Doğru tekniği beş adımda öğreneceksiniz.",
+    "Birinci adım, yüke dokunmadan önce bakmaktır. Yükün ağırlığı ve tutamak durumu uygun mu? Gideceğiniz yol açık mı, ineceğiniz yer hazır mı?",
+    "İkinci adımda, ayaklarınızı omuz genişliğinde açın ve yüke mümkün olduğunca yaklaşın. Denge buradan başlar.",
+    "Üçüncü adım, belden eğilmek yerine dizlerinizi bükmektir. Sırtınız doğal bir biçimde dik kalsın, bakışınız ileride olsun.",
+    "Dördüncü adımda yükü sıkı kavrayın, vücudunuza yakın tutun ve bacaklarınızla yukarı doğru kalkın. Kollar uzatılmış, yük vücuttan uzak olursa bel çok daha fazla yüklenir.",
+    "Beşinci adımda gövdenizi döndürmeyin; ayaklarınızla dönün. Yükü indirirken de aynı adımlar tersten uygulanır: dizlerinizi bükerek yavaşça bırakın."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Kaldırma tekniği",
+   "title": "Yerdeki kolinin kaldırılması",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1642756457381-930fdc1e2e2e?w=1200",
+     "ok": true,
+     "title": "Dizleri bükerek",
+     "text": "Sırt dik, yük vücuda yakın; bacaklar güç verir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1523543659209-5c57c05834aa?w=1200",
+     "ok": false,
+     "title": "Belden eğilerek",
+     "text": "Dizler düz, yük uzakta; bel yükün büyük kısmını taşır"
+    }
+   ],
+   "steps": [
+    "Şimdi iki yöntemi karşılaştıralım. Aynı koli, iki farklı kaldırma biçimi.",
+    "Doğru yöntemde çalışan yükün yanına çömelir, dizlerini bükerek sırtını dik tutar ve yükü vücuduna yakın alır. Bacak kasları, vücudun en güçlü kasları arasındadır; yükü onlar kaldırır.",
+    "Yanlış yöntemde çalışan, dizlerini düz tutup belden öne eğilir ve kolları uzatarak yükü alır. Bu duruşta bel kasları ve omurlar, yükün çok daha fazlasını taşımak zorunda kalır. Üstelik yük vücuttan uzak olduğu için kaldıraç etkisi artar. Bir de gövde dönerse risk daha da büyür. Aklınızda kalsın: dizleri bükün, sırtı dik tutun, yükü vücuda yakın alın."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1637665637343-d497d345ed2f?w=2400",
+   "kicker": "İstif ve raf düzeni",
+   "title": "Yükü doğru yere koymak, kaldırmayı kolaylaştırır",
+   "bullets": [
+    "Ağır ve sık kullanılan yükler bel ile omuz arası yükseklikte dursun",
+    "Çok yüksek ve çok alçak raflara hafif, nadir kullanılan malzeme konulsun",
+    "Yükü omuz hizası üstüne elle çıkarmayın; merdiven ya da platform kullanın",
+    "Geçitler açık, zemin düzgün ve aydınlık olsun"
+   ],
+   "steps": [
+    "Elle taşıma riskinin önemli bir kısmı, yükün nereye konduğuyla ilgilidir. İyi düzenlenmiş bir depo, çalışanın belini korur.",
+    "Ağır ve sık kullanılan malzemeler, bel ile omuz arasındaki yükseklikte durmalıdır. Böylece eğilmeden ve kollarınızı yükseltmeden alabilirsiniz.",
+    "Zemine yakın ya da omuz üstündeki raflara, daha hafif ve nadiren kullanılan malzemeyi koymak gerekir. Aksi halde ağır yükü yerden ya da yüksekten almak, belinizi ve omzunuzu zorlar.",
+    "Omuz hizasından yukarıdaki bir yükü, parmak ucunda yükselerek elle çekmeyin. Uygun bir merdiven, platform ya da kaldırma aracı kullanın. Sandalye ya da koli üzerine çıkmak çok tehlikelidir.",
+    "Geçitleri açık tutun, zemini temizleyin ve aydınlık bırakın. Taşıma güzergâhı üzerine bırakılan tek bir koli, bir başkasının yük taşırken takılıp düşmesine yol açabilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1793371930890-b1c6263844e5?w=2400",
+   "kicker": "Kontrol listesi",
+   "title": "Kaldırmadan önce kendinize beş soru sorun",
+   "bullets": [
+    "Yük ağır, büyük ya da dengesiz mi",
+    "Yolum açık ve zemin güvenli mi",
+    "Mekanik yardımcı ya da yardım var mı"
+   ],
+   "steps": [
+    "Elle bir şey kaldırmadan önce beş saniyelik bir kontrol yapmak, belinizi yıllarca koruyabilir. Beş soruyu hatırlayalım.",
+    "Birincisi, yük gerçekten ağır, büyük ya da dengesiz mi? İçinde sıvı olan bir kap ya da ağırlık merkezi bir yana kaymış bir parça beklediğinizden zor olabilir. Gerekirse önce hafifçe sallayıp ağırlığını yoklayın.",
+    "İkincisi, yolum açık ve zemin güvenli mi? Gideceğiniz yerde ıslaklık, kablo, merdiven ya da kapı eşiği var mı?",
+    "Üçüncüsü, mekanik bir yardımcı var mı? Yakındaki bir transpalet ya da el arabası, kaldırmayı gereksiz kılabilir.",
+    "Dördüncüsü ve beşincisi, yardıma ihtiyacım var mı? Gerekirse bir arkadaşınızdan yardım isteyin. Bu zayıflık değil, iş güvenliğidir.",
+    "Hepsine olumlu cevap veriyorsanız, doğru teknikle kaldırabilirsiniz. Bu beş soruyu her yeni yükte, kısa bir alışkanlık olarak tekrarlayın; zamanla sizin için bir saniyelik bir bakışa dönüşür. Bir tanesine bile 'hayır' diyorsanız, durun, düzeltin ve ondan sonra başlayın."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1681726267024-04427f16ad45?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Tek başına kaldırılan çuval",
+   "bullets": [],
+   "steps": [
+    "Bir inşaat şantiyesinde çalışan Hasan, öğle öncesi bir kamyondan çimento çuvallarını indiriyordu. Yanındaki arkadaşı başka bir işle meşguldü ve Hasan 'Ben hallederim' dedi.",
+    "Çuvalı belden eğilerek ve gövdesini yan tarafa çevirerek kaldırdığı anda belinde keskin bir ağrı hissetti. Birkaç gün istirahat gerekti ve daha sonra uzun süre ağır iş yapamadı.",
+    "Burada neler yapılabilirdi? Çuvallar daha küçük ambalajlarla gelebilirdi, kamyondan indirmek için bir kaldırma platformu ya da el arabası kullanılabilirdi, iki kişi birlikte çalışabilirdi. Hasan'ın dizlerini bükerek, dönmeden kaldırması da riski azaltırdı. Dersimiz şu: 'Ben hallederim' demek, belinizi tek başına riske atmak demektir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1793371930890-b1c6263844e5?w=2400",
+   "kicker": "Ekip kaldırması",
+   "title": "Yük tek kişiye fazla geliyorsa, ekip halinde kaldırın",
+   "bullets": [
+    "Bir kişi yönetsin: 'bir, iki, üç, kaldır' komutunu o versin",
+    "Boyları ve güçleri birbirine yakın kişilerle çalışın",
+    "Yük aynı anda, aynı tempoda kaldırılsın, taşınsın ve bırakılsın",
+    "Yol önceden kontrol edilsin, adımlar uyumlu atılsın"
+   ],
+   "steps": [
+    "Yük tek başınıza kaldıramayacağınız kadar ağır ya da büyükse, ekip halinde kaldırmak gerekir. Ama ekip kaldırması da bir düzen ister.",
+    "Önce bir kişiyi komut vermesi için belirleyin. 'Bir, iki, üç, kaldır' gibi net bir komutla herkes aynı anda hareket eder.",
+    "Mümkünse boy ve güç bakımından birbirine yakın kişilerle çalışın. Biri çok kısa, biri çok uzunsa yük bir tarafa kayar ve zorlayıcı hale gelir.",
+    "Yük aynı anda kaldırılmalı, aynı tempoda taşınmalı ve aynı anda bırakılmalıdır. Biri erken bırakırsa, kalan kişi ani yük alır ve yaralanabilir.",
+    "Taşımaya başlamadan önce yolu birlikte kontrol edin: dar geçit, kapı eşiği ya da merdiven var mı? Adımları uyumlu atın ve gerekirse durup yeniden tutuş alın."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1681726267024-04427f16ad45?w=2400",
+   "kicker": "Ara özet",
+   "title": "Elle kaldırma ve taşımada akılda kalanlar",
+   "bullets": [
+    "Önce elle taşımadan kaçının, sonra mekanik yardımcı kullanın",
+    "Yönetmelik sabit kilo sınırı vermez; yük, iş, ortam ve kişi birlikte değerlendirilir",
+    "Dizleri bükün, sırtı dik tutun, yükü vücuda yakın alın, dönmeyin",
+    "Ağır ya da hacimli yükü ekip halinde, bir komutla kaldırın"
+   ],
+   "steps": [
+    "Ekranlı araçlara geçmeden önce elle taşımayı kısaca özetleyelim.",
+    "Birincisi, elle taşımadan mümkün olduğunca kaçının. Olmuyorsa transpalet, el arabası ya da vinç gibi mekanik yardımcıları kullanın.",
+    "İkincisi, yönetmelik tek bir kilo sınırı vermez. Yükün, işin, ortamın ve kişinin durumu birlikte değerlendirilir.",
+    "Üçüncüsü, kaldırırken dizlerinizi bükün, sırtınızı dik tutun, yükü vücuda yakın alın ve gövdenizi döndürmeyin.",
+    "Dördüncüsü, yük ağırsa ya da hacimliyse ekip halinde, tek bir kişinin komutuyla çalışın. Şimdi ekranlı araçlarla çalışmaya geçelim."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1642756457381-930fdc1e2e2e?w=2400",
+   "kicker": "Taşırken",
+   "title": "Taşıma sırasında dikkat edilecek kurallar",
+   "bullets": [
+    "Yolu önceden kontrol edin: engel, ıslak zemin, kapı eşiği",
+    "Yükü vücuda yakın tutun; görüşünüzü kapatmasın",
+    "Yön değiştirirken ayaklarınızla dönün, gövdenizi bükmeyin",
+    "Mümkünse yükü itin; çekerek taşımak belinizi daha çok zorlar"
+   ],
+   "steps": [
+    "Kaldırma tekniği kadar, taşıma sırasındaki davranış da önemlidir. Dört kural var.",
+    "Birinci kural, yürüyeceğiniz yolu önceden görmektir. Zeminde ıslaklık, yağ, kablo ya da eşik varsa önce temizleyin ya da başka yol seçin. Kayarak ya da takılarak yük altında düşmek, ciddi yaralanmalara yol açar.",
+    "İkinci kural, yükü vücudunuza yakın tutmaktır. Yük görüşünüzü kapatıyorsa, taşımayı bırakın; ya yardım isteyin ya da yükü daha küçük parçalara ayırın.",
+    "Üçüncü kural, yön değiştirirken ayaklarınızla dönmenizdir. Gövdeyi yük taşırken bükmek bel için çok risklidir.",
+    "Dördüncü kural, el arabası ya da yük arabası kullanırken mümkünse yükü çekmek yerine itmektir. İterken vücut ağırlığınızı kullanırsınız ve bel daha az zorlanır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Araçla taşıma",
+   "title": "Palet ve el arabası kullanımı",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1779155413504-7608a08d4873?w=1200",
+     "ok": true,
+     "title": "Yük dengeli ve görünür",
+     "text": "Yük dengeli yerleştirilir, güzergâh açıktır, hız düşüktür"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1721673028717-23c15f9a02bc?w=1200",
+     "ok": false,
+     "title": "Aşırı yüklenmiş araba",
+     "text": "Yük görüşü kapatır, dengesizdir ve devrilebilir"
+    }
+   ],
+   "steps": [
+    "Mekanik yardımcı da yanlış kullanılırsa tehlikeli olabilir. İki örneğe bakalım.",
+    "Doğru kullanımda yük dengeli yerleştirilir, görüşü kapatmaz ve hız düşük tutulur. Güzergâh önceden kontrol edilmiştir, çevrede insan ve engel yoktur.",
+    "Yanlış kullanımda araba aşırı yüklenmiştir, yük yüksek yığılmıştır ve çalışan önünü göremez. Dönüşte yük devrilebilir, çalışan ayağını sıkıştırabilir ya da başkasına çarpabilir. Aracın taşıma kapasitesine uyun, yükü sabitleyin ve bozuk tekerlek ya da frenle çalışmayın; bunu bildirin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1787422429898-709636d27d1a?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Dar merdivende iki kişilik iş",
+   "bullets": [],
+   "steps": [
+    "Bir metal fabrikasında bakım ekibinden Selim ve arkadaşı, ağır bir motoru üst kata taşıyorlardı. Dar bir merdivenden çıkarken biri öne, diğeri arkaya geçti ve komut vermediler.",
+    "Selim ani bir adımla durunca arkadaşı yükü tek başına taşımak zorunda kaldı. Ayağı kaydı, motor sarsıldı. Neyse ki ikisi de tutunabildi ve kimse yaralanmadı. Ama bu bir ramak kala olaydı.",
+    "Doğrusu, bu iş için mekanik kaldırma ve taşıma düzeneği kullanmaktı. Elle yapmak zorunda kalınacaksa yol önceden kontrol edilmeli, bir kişi komut vermeli ve gerekirse ek kişi yardım etmeliydi. Ramak kala olayları da bildirin; onlar bir sonraki kazayı önleyen uyarılardır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1639313521811-fdfb1c040ddb?w=2400",
+   "kicker": "Ekranlı araçlar",
+   "title": "Ekran başındaki iş de bedeni yorar",
+   "bullets": [
+    "Kontrol odalarında vardiya boyunca izleme ve işlem yapılır",
+    "Depo terminallerinde okuma ve giriş sürekli tekrarlanır",
+    "Ekran, klavye ve fare başında saatlerce aynı duruş vardır"
+   ],
+   "steps": [
+    "Şimdi ikinci konumuza, ekranlı araçlarla çalışmaya geçiyoruz. Tehlikeli ve çok tehlikeli işyerlerinde de ekran başında çalışan çok sayıda insan var.",
+    "Enerji santralinin, fabrikanın ya da liman terminalinin kontrol odalarında, operatörler vardiya boyunca ekranları izler ve müdahale eder.",
+    "Depolarda terminal ve el bilgisayarlarıyla stok kontrolü ve sevkiyat girişi yapılır. Aynı hareketler gün boyu tekrarlanır.",
+    "Bu işlerde fiziksel efor yok gibi görünür ama sorun, hareketsizlik ve aynı duruştur. Boyun, omuz, bel, bilek ve gözler birlikte yorulur. Bu yüzden ekranlı çalışmanın da kendine özgü kuralları vardır."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1780299511230-099abe21bf38?w=2400",
+   "kicker": "Mola",
+   "value": "Periyodik",
+   "title": "İşveren, ekranlı çalışanlara periyodik ara verdirecek bir çalışma planı yapar",
+   "text": "Yönetmelik sabit dakika vermez; amaç, gözün ve bedenin yorulmadan dinlenmesidir",
+   "steps": [
+    "Ekranlı Araçlarla Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik, esas işi ekranlı araçlarla çalışmak olan kişiyi ekranlı araç çalışanı olarak tanımlar. Kontrol odası operatörleri çoğunlukla bu gruba girer.",
+    "Yönetmeliğe göre işveren, çalışma planını yaparken ekranlı araç çalışanlarının periyodik olarak ara vermesini ya da dönüşümlü olarak başka işlerde çalışmasını sağlar. Yönetmelikte sabit bir mola süresi yoktur; önemli olan, düzenli ve yeterli ara verilmesidir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Masa düzeni",
+   "title": "Ekran başında beş ayar",
+   "items": [
+    {
+     "title": "Ekranın üst kenarı",
+     "text": "Göz hizasında ya da biraz altında olsun"
+    },
+    {
+     "title": "Mesafe",
+     "text": "Kol boyu kadar uzak, ekrana dik bakın"
+    },
+    {
+     "title": "Sandalye",
+     "text": "Sırtı destekleyen, yüksekliği ayarlı"
+    },
+    {
+     "title": "Klavye ve fare",
+     "text": "Dirsek 90 derece, bilek düz"
+    },
+    {
+     "title": "Işık",
+     "text": "Yansıma ve parlama olmasın"
+    }
+   ],
+   "steps": [
+    "Ekran başındaki sorunların çoğu, küçük ayarlarla önlenir. Beş ayarı birlikte yapalım.",
+    "En önemlisi ekranın yüksekliğidir. Ekranın üst kenarı göz hizasında ya da biraz altında olmalıdır. Böylece başınızı öne ya da yukarı eğmeden bakabilirsiniz. Ekran çok yüksekse boyun geriye yatar, çok alçaksa öne eğilir.",
+    "Mesafe için ekranı bir kol boyu kadar uzağa yerleştirin ve ekrana dik bakın.",
+    "Sandalye ayarlanabilir olmalı. Sırtınız desteklensin, ayaklarınız yere tam bassın ve dizleriniz yaklaşık dik açıda olsun.",
+    "Klavye ve fareyi kullanırken dirsekleriniz yaklaşık 90 derece, bilekleriniz düz olsun. Bileklerinizi masaya yaslayıp bükmek, tekrar eden hareketle birleşince bilek rahatsızlığına yol açar.",
+    "Işık ise ekrana yansımamalı. Pencere arkada ya da yanda olacak şekilde ekranı konumlandırın ya da perde kullanın. Parlama göz yorgunluğunu artırır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Ekran yüksekliği",
+   "title": "Kontrol masasında duruş",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1674505921901-e54fe119f0a4?w=1200",
+     "ok": true,
+     "title": "Göz hizasında ekran",
+     "text": "Ekranın üst kenarı göz hizasında ya da biraz altında, boyun dik"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1766066014237-00645c74e9c6?w=1200",
+     "ok": false,
+     "title": "Çok yüksekte ekran",
+     "text": "Başı yukarı kaldırmak, boynu ve omuzları yorar"
+    }
+   ],
+   "steps": [
+    "Ekran yüksekliğini bir kez daha, iki karşılaştırmayla görelim.",
+    "Doğru kurulumda ekranın üst kenarı göz hizasında ya da biraz altındadır. Çalışanın başı doğal olarak hafif öne eğilir, boyun gevşektir, omuzlar rahattır.",
+    "Yanlış kurulumda ekran, bir rafa ya da duvara yakın, çok yüksektedir. Operatör başını sürekli yukarı kaldırır. Boyun kasları gerilir, omuz ve baş ağrısı başlar. Sadece birkaç hafta sonra kronik boyun ağrısı ortaya çıkabilir. Çoklu ekranlı masalarda ana ekranı karşınıza, ikinci ekranı yanlara yerleştirin."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Farklı iş yerleri",
+   "title": "Ekranlı çalışmanın üç yaygın durumu",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1639313521811-fdfb1c040ddb?w=1200",
+     "tag": "Kontrol odası",
+     "title": "Vardiyalı izleme",
+     "text": "Ekranları sürekli izlerken göz ve boyun yorulur; ekran ve ışık ayarı kritiktir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1664382953403-fc1ac77073a0?w=1200",
+     "tag": "Depo terminali",
+     "title": "Ayakta ve hareketli",
+     "text": "Terminali bel hizasında tutun, bileği bükmeyin, uzun süre aynı duruşta kalmayın"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1485965373059-f07657e9f841?w=1200",
+     "tag": "Üretim ofisi",
+     "title": "Planlama ve giriş",
+     "text": "Masa, sandalye ve klavye düzeni; sık kısa molalar verin"
+    }
+   ],
+   "steps": [
+    "Ekranlı çalışma her yerde aynı görünmez. Üç yaygın durum var.",
+    "Kontrol odasında operatör vardiya boyunca izleme yapar. Ekranlara uzun süre bakıldığı için göz yorgunluğu ve boyun gerginliği sık görülür. Ekranların konumu ve odanın ışığı bu yüzden çok önemlidir.",
+    "Depoda terminal ya da el bilgisayarı kullanan çalışan ayaktadır ve hareket halindedir. Cihazı bel hizasında tutup bileğini bükmeden okumalı, aynı duruşta uzun süre kalmamalıdır.",
+    "Üretim planlama ve sevkiyat ofislerinde çalışanlar ise daha çok masa başındadır. Burada masa, sandalye ve klavye düzeni ile kısa molalar belirleyicidir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1793207678703-41319a9c2a65?w=2400",
+   "kicker": "Göz sağlığı",
+   "title": "Gözleriniz de mola ister",
+   "bullets": [
+    "Uzun süre ekrana bakınca göz kırpma azalır, gözler kurur",
+    "Arada uzaklara bakmak göz kaslarını gevşetir",
+    "Yansıma ve parlama gözü daha fazla yorar",
+    "Yorgunluk, bulanık görme, baş ağrısı gibi belirtileri bildirin"
+   ],
+   "steps": [
+    "Ekranlı çalışmada en çok yorulan organlarımızdan biri gözlerimizdir.",
+    "Ekrana yoğunlaşınca göz kırpmayı unuturuz. Göz yüzeyi kurur, yanma ve batma başlar.",
+    "Çözüm basit: Arada bir ekrandan başınızı kaldırıp uzağa bakın. Sıkça önerilen bir yöntem, yirmi dakikada bir, yirmi saniye boyunca uzaktaki bir noktaya bakmaktır. Bu yönetmelikte yazan bir kural değil, yaygın bir öneridir; ama gözlere çok iyi gelir.",
+    "Ekrana yansıyan ışık ve parlama da gözü yorar. Ekran parlaklığını ortama göre ayarlayın, gerekirse parlama önleyici ya da perde kullanın.",
+    "Bulanık görme, baş ağrısı, gözde yanma ya da çift görme fark ederseniz bunu amirinize ve işyeri hekimine bildirin. Bu belirtiler çoğu zaman bir gözlük ihtiyacının ya da yanlış ayarın göstergesidir."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Göz muayenesi",
+   "title": "Ekranlı çalışmada göz muayenesi: kim ne yapar",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1792019617210-10e775a3a642?w=1200",
+     "title": "İşveren",
+     "text": "Muayeneyi sağlar; gerekirse işe uygun gözlük gibi araç verir; masrafı çalışana yansıtamaz"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1780299511230-099abe21bf38?w=1200",
+     "title": "İşyeri hekimi",
+     "text": "Muayene aralıklarını risk değerlendirmesine göre belirler"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1787422429898-709636d27d1a?w=1200",
+     "title": "Çalışan",
+     "text": "Muayeneye katılır; görme sorunlarını gecikmeden bildirir"
+    }
+   ],
+   "steps": [
+    "Yönetmelik ekranlı araçlarla çalışanlar için göz ve görme muayenesini de düzenler. Rollere bakalım.",
+    "İşveren, çalışan ekranlı araçla çalışmaya başlamadan önce, görme sorunu yaşandığında ve düzenli aralıklarla göz muayenesini sağlar. Muayene sonucunda gerekiyorsa işe uygun düzeltici araç ve gereç verir. Alınan önlemlerin maliyeti çalışana yansıtılamaz.",
+    "İşyeri hekimi, bu muayenelerin hangi aralıkla yapılacağını risk değerlendirmesine göre belirler.",
+    "Çalışan olarak sizin sorumluluğunuz, muayeneye katılmak ve görme sorununu fark ettiğinizde bunu bildirmektir. Zayıf görüşle ekranda çalışmaya devam etmek hem gözlerinizi hem de duruşunuzu bozar."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1485965373059-f07657e9f841?w=2400",
+   "kicker": "Eğitim ve katılım",
+   "title": "Ekranlı çalışmada işveren sizi bilgilendirir ve dinler",
+   "bullets": [
+    "Çalışanlar işe başlamadan önce ekranlı çalışma konusunda bilgilendirilir",
+    "Ara dinlenmeleri ve egzersizler eğitimin konuları arasındadır",
+    "Çalışanların ve temsilcilerinin görüşü alınır ve katılımları sağlanır"
+   ],
+   "steps": [
+    "Ekranlı araçlarla çalışma yönetmeliği, yalnızca ekipmanı değil, bilgilendirmeyi ve katılımı da düzenler.",
+    "İşveren, ekranlı araç çalışanlarını sağlık ve güvenlik konusunda bilgilendirir ve eğitir. Eğitim işe başlamadan önce ve çalışma koşullarında önemli bir değişiklik olduğunda verilir.",
+    "Eğitimin konuları arasında doğru duruş, ekranın ve masanın ayarı, ara dinlenmeleri ve egzersizler yer alır. Yani bu dersin konuları, yönetmelikte de sayılan konulardır.",
+    "Çalışanların ve temsilcilerinin görüşü alınır, katılımları sağlanır. Yani masanız, ışığınız ya da vardiya düzeniniz hakkında önerinizi söylemeniz, yönetmeliğin istediği bir şeydir.",
+    "Bir sorun gördüğünüzde bunu bir şikâyet gibi değil, önerinizi iletme hakkı olarak kullanın. Pek çok iyileştirme, çalışanın söylediği küçük bir gözlemle başlar. Örneğin bir ekranın yeri değişir, bir lamba perdelenir, bir terminale tutacak eklenir. Bu tür düzeltmeler maliyetsiz ya da düşük maliyetlidir ama sağlığınız için büyük fark yaratır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1534844978-b859e5a09ad6?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Gece vardiyasının boyun ağrısı",
+   "bullets": [],
+   "steps": [
+    "Bir kimya tesisinin kontrol odasında çalışan operatör Selin, gece vardiyalarında on iki saat boyunca ekranları izliyordu. Birkaç ay sonra sürekli boyun ağrısı ve baş ağrısı başlamıştı.",
+    "İşyeri hekimi, masanın düzenini inceledi. Üst ekran gereğinden yüksekteydi, Selin başını sürekli kaldırıyordu. Odada gece lambası ekrana yansıyordu ve Selin hiç ara vermeden çalışıyordu.",
+    "Çözüm, ekranların indirilmesi, parlamanın giderilmesi ve izleme görevinin başka bir operatörle dönüşümlü yapılması oldu. Birkaç hafta içinde şikâyetler azaldı. Küçük bir ayar, büyük sorunu çözebiliyor. Siz de ağrınızı 'iş böyle' diye kabullenmeyin ve bildirin."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Küçük hareketler",
+   "title": "Masa başında bir dakikalık hareketler",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1713947505684-25b9bf8d544f?w=1200",
+     "tag": "Boyun",
+     "title": "Yavaş ve hafif",
+     "text": "Başı yavaşça sağa ve sola çevirin; zorlamayın, nefes alın"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1613988753173-8db625c972c5?w=1200",
+     "tag": "Omuz",
+     "title": "Gevşetme",
+     "text": "Omuzları kulağa doğru kaldırıp yavaşça bırakın, birkaç kez tekrarlayın"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1766066014237-00645c74e9c6?w=1200",
+     "tag": "Bilek ve parmak",
+     "title": "Tekrar azaltma",
+     "text": "Bileği ve parmakları açıp kapayın, kollarınızı serbest sallayın"
+    }
+   ],
+   "steps": [
+    "Molayı sadece dinlenmek zannetmeyin. Birkaç basit hareket, yorgunluğu belirgin azaltır.",
+    "Boyun hareketlerinde başınızı yavaşça sağa ve sola çevirin. Hiçbir hareket ağrı vermemeli, zorlamayın.",
+    "Omuzlar için, kulaklarınıza doğru kaldırıp birkaç saniye tutun ve gevşeterek bırakın. Üç beş tekrar, omuz gerginliğini hafifletir.",
+    "Bilek ve parmaklar için, hareketleri yavaşça açıp kapayın ve ellerinizi serbest bırakın. Ayağa kalkıp birkaç adım yürümek de dolaşımı açar.",
+    "Bu hareketleri küçük bir mola sırasında, ekrana bakmadan yapın. Ağrı ya da uyuşma yaşıyorsanız bunun yerine işyeri hekimine başvurun."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Vardiya içinde",
+   "title": "Mola planı nasıl işler",
+   "items": [
+    {
+     "title": "Kısa aralar",
+     "text": "Sık ve kısa: ekrandan uzaklaşın"
+    },
+    {
+     "title": "Görev değişimi",
+     "text": "İzleme ve fiziksel işi dönüşümlü yapın"
+    },
+    {
+     "title": "Kalkıp yürüyün",
+     "text": "Dolaşımı açın, bedeni gevşetin"
+    },
+    {
+     "title": "Sorunu bildirin",
+     "text": "Ağrı, yorgunluk ve görme sorununu söyleyin"
+    }
+   ],
+   "steps": [
+    "Mola planı, vardiya düzeninin parçasıdır. Dört ilkeye bakalım.",
+    "Birincisi kısa ve sık aralardır. Saatlerce ara vermeden çalışıp sonra uzun dinlenmek yerine, ekrandan sık sık küçük molalarla uzaklaşın.",
+    "İkincisi, mümkünse görev değişimidir. İzleme işini fiziksel bir işle, dolaşma gerektiren bir görevle dönüşümlü yapmak, hem beden hem göz için iyidir.",
+    "Üçüncüsü, kalkıp yürümektir. Terminalde, depoda ya da kontrol odasında, ayakta birkaç dakika geçirmek dolaşımı hızlandırır.",
+    "Dördüncüsü, sorunu bildirmektir. Ağrı, yorgunluk ya da görme sorunu fark ederseniz amirinize ve işyeri hekimine söyleyin; plan buna göre düzenlenebilir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1787422429941-b1966d776195?w=2400",
+   "kicker": "Yüz yüze eğitim",
+   "value": "12 ve 16",
+   "title": "Tehlikeli sınıfta temel eğitim en az 12, çok tehlikelide en az 16 ders saatidir",
+   "text": "İşyerinize özgü taşıma işlerini ve ekranlı çalışma düzenini yüz yüze eğitimde uzmanınızla konuşacaksınız",
+   "steps": [
+    "Tehlikeli sınıftaki işyerlerinde temel İSG eğitimi en az 12 ders saati, çok tehlikeli sınıfta ise en az 16 ders saatidir. Eğitim tehlikelide iki yılda bir, çok tehlikelide her yıl yenilenir.",
+    "Bu online derste genel kuralları öğrendiniz. İşyerinizdeki gerçek taşıma işlerini, kullandığınız araçları ve kendi ekranlı çalışma düzeninizi ise yüz yüze eğitimde uzmanınızla birlikte konuşacaksınız. O gün kendi işinizden örneklerle gelin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1735494032948-14ef288fc9d3?w=2400",
+   "kicker": "Bugün kendinize sorun",
+   "title": "İşyerinizde bunları görüyor musunuz",
+   "bullets": [
+    "Yüke bakmadan kaldırıyor muyum",
+    "Ekranım göz hizasında mı",
+    "Düzenli ara veriyor muyum"
+   ],
+   "steps": [
+    "Dersi bitirmeden önce üç soruyu kendinize sorun. Yarın işyerinizde gerçekten arayın.",
+    "Birincisi, yüke bakmadan, yolu kontrol etmeden kaldırıyor muyum? Ağır bir yükü tek başıma kaldırmaya çalışıyor muyum? Mekanik bir yardımcı var mı?",
+    "İkincisi, ekranım göz hizasında mı? Üst kenarı göz hizamda ya da biraz altında mı?",
+    "Üçüncüsü, düzenli ara veriyor muyum? Yoksa ağrı ve yorgunluğu 'iş böyle' diye kabul mü ediyorum? Bunları görürseniz, amirinize ve işyeri hekimine bildirmekten çekinmeyin."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?w=2400",
+   "kicker": "Bu derste öğrendiklerimiz",
+   "title": "Kapanış özeti",
+   "bullets": [
+    "Önce elle taşımadan kaçının; mekanik yardımcıları kullanın",
+    "Dizleri bükün, sırtı dik tutun, yükü vücuda yakın alın, dönmeyin",
+    "Ekranın üst kenarı göz hizasında ya da biraz altında olsun",
+    "Düzenli kısa mola verin; göz ve beden sorunlarını bildirin"
+   ],
+   "steps": [
+    "Dersi toparlayalım. Elle taşıma, bel yaralanmalarının başlıca nedenidir. Önce elle taşımadan kaçının, sonra mekanik yardımcıları kullanın.",
+    "Elle kaldırmak zorundaysanız, yüke ve yola bakın, dizlerinizi bükün, sırtınızı dik tutun, yükü vücudunuza yakın alın ve gövdenizi döndürmeyin. Ağır yükte ekip halinde ve komutla çalışın.",
+    "Ekranlı çalışmada, ekranın üst kenarı göz hizasında ya da biraz altında olsun. Sandalye, klavye ve ışık düzenini ayarlayın.",
+    "İşveren periyodik ara verilmesini sağlamak ve göz muayenesini yaptırmakla yükümlüdür. Siz de molaları kullanın ve belirtileri bildirin.",
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Başarılar dileriz."
+   ]
+  }
+ ]
+}

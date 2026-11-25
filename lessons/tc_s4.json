@@ -1,0 +1,702 @@
+{
+ "code": "tc_s4",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "2. Bölüm · Sağlık Konuları",
+ "title": "Biyolojik ve psikososyal risk etmenleri",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1727091506038-5451111dc2fb?w=2400",
+   "kicker": "2. Bölüm · Ders 4",
+   "title": "Biyolojik ve psikososyal risk etmenleri",
+   "subtitle": "Gözle görülmeyen iki tehlike: mikroplar ve baskı",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste iş yerinde çoğu zaman gözden kaçan iki risk grubunu konuşacağız. Birincisi gözle görülmeyen canlılar, yani biyolojik etkenler: bakteri, virüs, mantar gibi. İkincisi psikososyal riskler: iş stresi, yorgunluk, mobbing ve şiddet.",
+    "Tehlikeli ve çok tehlikeli işlerde bunları ciddiye almak gerekir. Çünkü atıkla, kanalizasyonla ya da gıdayla çalışıyorsanız mikrop riski gerçektir. Ağır makineyle çalışıyorsanız da yorgun ve stresli bir zihin, kazaya davetiye çıkarır. Başlayalım."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Biyolojik etkenler",
+     "text": "Bakteri, virüs, mantar, parazit ve nerelerde karşılaşılır"
+    },
+    {
+     "title": "Korunma ve aşı",
+     "text": "Hijyen, KKD ve aşılar"
+    },
+    {
+     "title": "Psikososyal riskler",
+     "text": "İş stresi, vardiya, yorgunluk"
+    },
+    {
+     "title": "Mobbing ve şiddet",
+     "text": "Tanımı, etkisi ve başvuru yolları"
+    }
+   ],
+   "steps": [
+    "Dersimizi dört bölümde işleyeceğiz.",
+    "İlk bölümde biyolojik etkenlerin ne olduğunu ve atık, kanalizasyon, gıda ve temizlik işlerinde nasıl karşımıza çıktığını göreceğiz.",
+    "İkinci bölümde bu etkenlerden nasıl korunulur sorusuna bakacağız: hijyen, kişisel koruyucu donanım ve aşılar.",
+    "Üçüncü bölümde psikososyal riskleri, yani iş stresini, vardiyayı ve yorgunluğu, tehlikeli işlerde güvenliğe etkisiyle birlikte konuşacağız.",
+    "Son bölümde mobbing ve işyeri şiddetini, bunlarla karşılaşırsanız nereye başvuracağınızı anlatacağız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1765894518274-f53145743a46?w=2400",
+   "kicker": "Biyolojik etkenler",
+   "title": "Biyolojik etken: hastalık yapabilen canlılar",
+   "bullets": [
+    "Bakteriler ve virüsler",
+    "Mantarlar ve parazitler",
+    "Hayvan ve bitki kaynaklı zararlı maddeler",
+    "Etkenler risk gruplarına ayrılır"
+   ],
+   "steps": [
+    "Biyolojik etken, çalışanda hastalık, alerji ya da zehirlenme yapabilecek canlılara ve bunların ürünlerine verilen addır.",
+    "Bakteri ve virüsler en bilinenleridir. Tetanoz, hepatit B ve grip bu gruptandır. Sadece hasta insandan değil, atıktan, topraktan ve sudan da bulaşabilirler.",
+    "Mantarlar ve parazitler de önemlidir. Nemli yerlerdeki küfler solunum yolu alerjisi yapabilir, bazı parazitler ise su ve gıda yoluyla geçebilir.",
+    "Hayvan kaynaklı etkenler de var. Kemirgen idrarı ve dışkısı, kuş pislikleri, böcek ve haşereler birçok hastalığı taşıyabilir.",
+    "Bu etkenler, insanda hastalık yapma ve yayılma özelliklerine göre risk gruplarına ayrılır. Risk grubu yükseldikçe daha sıkı önlem gerekir. Neyle çalıştığınızı bilmeniz bu yüzden önemlidir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Nerelerde karşılaşırız?",
+   "title": "Üç iş kolunda biyolojik risk",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=1200",
+     "tag": "Atık ve kanalizasyon",
+     "title": "Atık ile çalışmak",
+     "text": "Çöp, geri dönüşüm ve kanalizasyon bakımında temas riski."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1770832161810-04cff861da2b?w=1200",
+     "tag": "Gıda",
+     "title": "Gıda üretimi",
+     "text": "Çiğ ürün, el temasıyla ve ortamla yayılan mikroplar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1645736315000-6f788915923b?w=1200",
+     "tag": "Temizlik ve bakım",
+     "title": "Temizlik, bakım",
+     "text": "Tuvalet, çöp, su sistemleri ve klima bakımı."
+    }
+   ],
+   "steps": [
+    "Biyolojik riskin sadece hastanelerde olduğunu düşünmeyin. Tehlikeli sınıftaki birçok işte de var. Üç örnek görelim.",
+    "Atık ve kanalizasyon işlerinde, atık torbasında kırık cam, iğne ya da paslı metal olabilir. Kanalizasyon hattında çalışırken, kemirgenlerin bulaştırdığı hastalıklar ve kirli suyla temas riski vardır.",
+    "Gıda üretiminde çiğ et, yumurta ve süt ürünlerindeki bakteriler, ellerle ve ekipmanla başka ürünlere taşınabilir. Hem çalışan hem tüketici açısından risk doğar.",
+    "Temizlik ve bakım işlerinde ise tuvalet temizliği, çöp toplama, havalandırma kanalları ve su sistemleri riskli olur. Örneğin bakımsız klima ya da sıcak su sistemleri, legionella gibi bakterilerin üremesine zemin hazırlayabilir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Bulaşma yolları",
+   "title": "Mikrop bize hangi kapıdan girer?",
+   "items": [
+    {
+     "title": "Deri ve yara",
+     "text": "Kesik, çizik, sıçrayan kirli su"
+    },
+    {
+     "title": "Solunum",
+     "text": "Toz, sprey, bulut halindeki damlacıklar"
+    },
+    {
+     "title": "Ağız",
+     "text": "Kirli el, yemek, sigara, su"
+    },
+    {
+     "title": "Kesici ve delici",
+     "text": "İğne, cam, paslı çivi, metal"
+    }
+   ],
+   "steps": [
+    "Korunmak için, mikrobun vücuda hangi yoldan girdiğini bilmek gerekir. Dört ana kapı var.",
+    "Birincisi deri ve yaralar. Küçük bir kesik ya da çatlak bile kirli suyla temasta kapı açar. Bu yüzden yaralarınızı su geçirmez pansumanla kapatın.",
+    "İkincisi solunum. Tozlu atık ya da küflü ortam, hava yoluyla mikrop ve spor taşıyabilir.",
+    "Üçüncüsü ağız. Kirli elle yemek yemek, su içmek ya da sigara içmek, mikrobu doğrudan ağıza götürür.",
+    "Dördüncüsü kesici ve delici aletlerle yaralanma. Tetanoz ve hepatit B gibi hastalıklar özellikle bu yoldan geçer.",
+    "Bu dört kapıyı kapatmak için hijyen, KKD ve düzenli sağlık takibi birlikte kullanılır. Hangi kapının sizin işinizde daha açık olduğunu bilirseniz, önleminizi de ona göre seçersiniz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1508935620299-047e0e35fbe3?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Atık torbasındaki sürpriz",
+   "bullets": [
+    "Torba elle sıkıştırıldı",
+    "Yara temizliği ve aşı kontrolü"
+   ],
+   "steps": [
+    "Bir geri dönüşüm tesisinde çalışan Hasan, ayrıştırma bandında torbaları elle sıkıştırarak yer açıyor. Bir gün torbanın içindeki kırık şişe parçası, eldivenini delip parmağını kesiyor. Hasan küçük bir kesik diye pansumanla işine devam ediyor.",
+    "Vardiya amiri Selin ise bunu fark ediyor. Hasan'ı işyeri hekimine gönderiyor. Hekim yarayı temizliyor, aşı kartına bakıyor ve eksik olan tetanoz aşısını yapıyor. Takip için de birkaç gün gözlem öneriyor.",
+    "Torbaların elle sıkıştırılması da bırakılıyor; yerine bir sıkıştırma ekipmanı kullanılıyor. Bu olayda ders şu: kesik küçük de olsa atıkla temasta ise bildirilir ve aşı durumu kontrol edilir. Önlem de kaynağından, yani elle sıkıştırmayı bırakarak alınır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?w=2400",
+   "kicker": "Dar ve kapalı yerler",
+   "title": "Kanalizasyon ve rögar işlerinde ek dikkat",
+   "bullets": [
+    "Kirli suyla temas ve kemirgen riski",
+    "Gaz ve oksijen sorunu olabilir",
+    "İzinsiz ve yalnız girilmez"
+   ],
+   "steps": [
+    "Kanalizasyon, rögar, çukur gibi yerlerde yalnızca mikrop değil, başka tehlikeler de vardır. Bu yüzden ek dikkat gerekir.",
+    "Kirli su ve çamurla temas, deri yaralarından ve ağızdan mikrop alma riskini artırır. Çalışırken bot, uzun koruyucu eldiven ve su geçirmez giysi kullanılır, çalışma sonrası yıkanılır.",
+    "Ayrıca bu yerlerde zehirli gaz birikebilir ya da oksijen azalabilir. Bu risk ayrı bir konudur; kapalı ortamlarda çalışma izin ve ölçüm ister. Hiçbir zaman izinsiz ve tek başına girmeyin.",
+    "Bir şeyler ters gittiğinde, kurtarmaya çalışmak için yardımsız girmeyin. Önce yardım çağırın. Ayrıntıları ilgili dersimizde ele alacağız."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1611694449252-02453c27856a?w=2400",
+   "kicker": "Aşılar",
+   "value": "Aşı",
+   "title": "Aşı, işyerindeki mikrop tehlikesine karşı bir koruma tekniğidir",
+   "text": "Tetanoz ve hepatit B gibi aşıları işyeri hekimi, işinize göre önerir; aşı kartınızı saklayın.",
+   "steps": [
+    "Aşı, biyolojik etkenlere karşı en güçlü korunma yöntemlerinden biridir. Özellikle yaralanma riski olan işlerde, tetanoz ve hepatit B aşılarının güncel olması çok önemlidir.",
+    "Hangi aşının sizin işiniz için gerekli olduğunu işyeri hekimi belirler. Aşı kartınızı saklayın ve tarihleri takip edin. Hekimine danışmadan kendi başına karar vermek yerine, sorularınızı muayenede sorun.",
+    "Aşıdan sonra hafif ateş ya da kol ağrısı olabilir, bu normal sayılır. Ciddi bir tepki yaşarsanız hekime başvurun. Kendinizi ve ailenizi korumak için aşıyı ertelememek en akıllıca yoldur."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1740733448722-82e16d3468bb?w=2400",
+   "kicker": "Bakım ve inşaat",
+   "title": "Küf, kemirgen, kuş pisliği ve su sistemleri",
+   "bullets": [
+    "Eski bina yıkımı ve çatı işlerinde kuş pisliği",
+    "Bodrum ve depolarda kemirgen izleri",
+    "Nemli duvarlarda küf",
+    "Klima ve sıcak su sistemlerinde bakteri"
+   ],
+   "steps": [
+    "Biyolojik riskler inşaat ve bakım işlerinde de karşımıza çıkar. Bunlar çoğu zaman beklenmedik yerlerdedir.",
+    "Eski bir binanın çatısını ya da tavan arasını temizlerken, kuru kuş pisliği tozuyla solunum yoluyla bazı etkenler vücuda girebilir. Bu tür işlerde toz çıkarmamak ve uygun solunum koruması kullanmak gerekir.",
+    "Depo ve bodrumlarda kemirgen izleri görürseniz çıplak elle temas etmeyin. Temizliği, ıslak yöntemle ve eldivenle yapın; süpürmek tozu havaya kaldırır.",
+    "Nemli duvarlardaki küf, uzun süre solunduğunda alerjik hastalıklara yol açabilir. Önce nemin kaynağı giderilmelidir.",
+    "Klima ve sıcak su sistemleri de bakım ister. Bakımsız sistemlerde bakteriler üreyebilir. Bu yüzden periyodik bakım ve temizlik, önleme programının bir parçasıdır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1596290618848-fcda233549e3?w=2400",
+   "kicker": "Hijyen uygulaması",
+   "title": "Mikroba karşı günlük beş alışkanlık",
+   "bullets": [
+    "Ellerinizi su ve sabunla en az 20 saniye yıkayın",
+    "Yaraları su geçirmez pansumanla kapatın",
+    "Yüzünüze, ağzınıza ve gözünüze eldivenle dokunmayın",
+    "İş kıyafetini ve botu iş yerinde bırakın",
+    "Yemek ve su içmeyi yalnızca temiz alanda yapın"
+   ],
+   "steps": [
+    "Biyolojik risklerden korunmanın temeli günlük hijyen alışkanlıklarıdır. Bunlar ucuz, basit ve çok etkilidir.",
+    "Birincisi el yıkama. Çalışmaya başlamadan önce, tuvaletten sonra, atıkla ya da kirli yüzeyle temastan sonra, yemekten önce ellerinizi yıkayın. Parmak aralarını, başparmakları ve tırnak diplerini de unutmayın.",
+    "İkincisi yaralar. Kesik ve çatlakları temiz tutun, su geçirmez pansumanla kapatın. Yara iltihaplanıyorsa ya da şişiyorsa hekime gidin.",
+    "Üçüncüsü yüze dokunmak. Eldivenli de olsanız, gözünüze, ağzınıza ve burnunuza dokunmayın. Çünkü mikroplar mukozalardan kolayca geçer.",
+    "Dördüncüsü kıyafet. İş kıyafeti ve botlarınızı işyerinde bırakın ya da ayrı torbada taşıyın, ailenize taşımayın.",
+    "Beşincisi yeme ve içme. Bunu yalnızca ayrılmış, temiz alanda ve elleriniz yıkanmışken yapın."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Gıda üretimi",
+   "title": "Hastayken gıda hattında çalışmak",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1770832161810-04cff861da2b?w=1200",
+     "ok": false,
+     "title": "Belirtiyi gizlemek",
+     "text": "İshal ya da kusmayla hatta çalışmak ürünü ve ekibi riske atar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1529386317747-0a2a51add902?w=1200",
+     "ok": true,
+     "title": "Bildir ve ara ver",
+     "text": "Amire söylenir, hekime gidilir, hat dışında görev verilir."
+    }
+   ],
+   "steps": [
+    "Gıda üretiminde bir ayrım çok önemli. Hastalık belirtisi olan çalışan, ürün ve ekip için bir kaynak olabilir.",
+    "Yanlış tavır, kusma ya da ishal gibi belirtileri gizleyip hatta çalışmaya devam etmektir. Mikroplar eller yoluyla ürüne geçer, binlerce kişi etkilenebilir. Aynı hatta çalışan arkadaşlarınız da hastalanır.",
+    "Doğrusu bildirmek ve ara vermek. Amirinize haber verin, hekime gidin, gerekirse gıdayla temas etmeyen bir işte görevlendirilin. Bu bir ceza değil, korunma önlemidir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Biyolojik risklerden korunma",
+   "title": "Önleme sırası biyolojik etkende de geçerli",
+   "items": [
+    {
+     "title": "Kaynağı yok et",
+     "text": "Atığı, nemi, haşereyi kaynağında gider"
+    },
+    {
+     "title": "Ayır, kapat",
+     "text": "Kapalı sistem, ayrı alan, mekanik araç"
+    },
+    {
+     "title": "Hijyen",
+     "text": "El yıkama, yara bakımı, temiz kıyafet"
+    },
+    {
+     "title": "Aşı",
+     "text": "Hekimin önerdiği aşılar güncel olsun"
+    },
+    {
+     "title": "KKD",
+     "text": "Eldiven, bot, maske, gözlük"
+    }
+   ],
+   "steps": [
+    "Önleme hiyerarşisini geçen dersten hatırlıyorsunuz. Biyolojik etkenlerde de aynı sıra geçerli. Şimdi onu mikroplara uygulayalım.",
+    "Önce kaynağı yok ederiz. Atık birikmesini önlemek, nem ve sızıntıyı gidermek, haşereyle mücadele etmek gibi.",
+    "Sonra ayırırız ve kapatırız: kapalı sistemler, atık için ayrı alan, elle yerine mekanik araç kullanımı.",
+    "Üçüncü adım hijyen. Ellerin yıkanması, yaraların kapatılması, iş kıyafetinin ayrı tutulması, yemek ve su içme alanının ayrı olması.",
+    "Dördüncüsü aşılar. Ve en son KKD: uygun eldiven, bot, gerekirse maske ve gözlük. Kirli eldivenle yüzünüze dokunmayın; çıkarırken de kirli yüzüne temas ettirmeyin.",
+    "Bu sıranın hepsi birlikte uygulanır. Yalnızca eldivene güvenip hijyeni ihmal eden biri, eldiveni çıkarırken ellerini kirletebilir ve riski kendi eliyle yemeğe ya da yüzüne taşır."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Kim ne yapar?",
+   "title": "Biyolojik risklerde sorumluluklar",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1775880303572-791fbbb73d32?w=1200",
+     "title": "İşveren",
+     "text": "Risk değerlendirmesi, KKD, aşı ve hijyen imkânı sağlar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1596290618848-fcda233549e3?w=1200",
+     "title": "İşyeri hekimi",
+     "text": "Aşı önerir, sağlık gözetimi yapar, bilgilendirir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1752650735615-9829d8008a01?w=1200",
+     "title": "Siz",
+     "text": "Hijyen kurallarını uygular, yaralanma ve belirtiyi bildirirsiniz."
+    }
+   ],
+   "steps": [
+    "Biyolojik riske karşı görev paylaşımı şöyle.",
+    "İşveren, biyolojik riskleri değerlendirir, kapalı sistem ya da araçla temas azaltır, KKD verir ve yıkanma, soyunma gibi imkânları sağlar. Aşılar için hekimle birlikte çalışır.",
+    "İşyeri hekimi hangi aşıların gerektiğini önerir, sağlık gözetimi yapar ve belirtilere göre çalışma şartlarını değerlendirir.",
+    "Siz ise hijyen kurallarına uyar, yaralanma ya da hastalık belirtilerini zamanında bildirirsiniz. Tek bir kişinin ihmali, tüm vardiyayı etkileyebilir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1787422429898-709636d27d1a?w=2400",
+   "kicker": "Ara özet",
+   "title": "Biyolojik etkenler: öğrendiklerimiz",
+   "bullets": [
+    "Bakteri, virüs, mantar ve parazitler biyolojik etkendir",
+    "Atık, kanalizasyon, gıda ve temizlikte risk yüksektir",
+    "Kesik ve yaralanmayı bildirin, aşı kartınızı güncel tutun",
+    "Önce kaynakta önlem, sonra hijyen, aşı ve KKD"
+   ],
+   "steps": [
+    "Biyolojik bölümün özetini yapalım.",
+    "Bakteri, virüs, mantar ve parazit gibi canlılar biyolojik risk etmenleridir. Gözle görülmezler ama hastalık yapabilirler.",
+    "Atık, kanalizasyon, gıda ve temizlik işlerinde bu risk özellikle yüksektir. Kesik ve çizikler giriş kapısıdır.",
+    "Küçük bir yaralanmayı bile bildirin, aşı kartınızı güncel tutun. Hastalık belirtisi varsa özellikle gıda işinde çalışmaya devam etmeyin.",
+    "Korunmada sıra yine aynı: önce kaynakta önlem, sonra hijyen, aşı ve en son KKD. Şimdi ikinci konumuza, yani çalışma hayatının görünmeyen yüküne, psikososyal risklere geçelim ve oradan devam edelim."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1778790508237-3c6cb00f152a?w=2400",
+   "kicker": "Psikososyal riskler",
+   "title": "İşin görünmeyen yükü",
+   "bullets": [
+    "Zihinsel ve duygusal baskı",
+    "Kazaların arkasındaki sessiz neden"
+   ],
+   "steps": [
+    "Şimdiye kadar bedene gelen riskleri konuştuk. Ama iş yalnızca bedenle yapılmaz; zihinle de yapılır. Psikososyal riskler, işin düzenlenmesinden ve çalışma ortamındaki ilişkilerden doğan, zihinsel ve duygusal yükü artıran etmenlerdir.",
+    "Bu riskler yaralanma gibi görünür değildir. Ama zamanla uyku sorunlarına, mide ve kalp rahatsızlıklarına, öfkeye, motivasyon kaybına ve en önemlisi dikkat dağınıklığına neden olur. Presin ya da forkliftin başındaki dikkatsizlik ise bedeli ağır bir kazaya dönüşebilir.",
+    "Bu nedenle psikososyal riskler, ruh sağlığı kadar iş güvenliği konusudur. İşyerinizde birine 'dikkat et' demek yetmez; dikkati bozan nedeni de çözmek gerekir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Psikososyal etmenler",
+   "title": "En sık karşılaşılan üç kaynak",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1787422429898-709636d27d1a?w=1200",
+     "tag": "İş yükü",
+     "title": "Aşırı iş yükü",
+     "text": "Yetişmeyen siparişler, sürekli fazla mesai, yoğun tempo."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758520145147-c30bc656f314?w=1200",
+     "tag": "Çalışma düzeni",
+     "title": "Vardiya, gece, uzun süre",
+     "text": "Uykusuzluk, dinlenememe, değişen çalışma saatleri."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758520144795-299f212ccba0?w=1200",
+     "tag": "İlişkiler",
+     "title": "Belirsizlik ve çatışma",
+     "text": "Net olmayan görev tanımı, kötü iletişim, destek eksikliği."
+    }
+   ],
+   "steps": [
+    "Psikososyal risk kaynaklarını üç başlıkta toplayabiliriz.",
+    "Birincisi aşırı iş yükü. Yapılabilecek olandan fazlasını sürekli beklemek, siparişin mutlaka yetişmesi baskısı ve sürekli fazla mesai.",
+    "İkincisi çalışma düzeni. Vardiya, gece çalışması, uzun süren çalışma saatleri ve yetersiz dinlenme. Beden saatiniz bozulur ve yorgunluk birikir.",
+    "Üçüncüsü iş ilişkileri ve belirsizlik. Görev tanımınız net değilse, kimin ne yaptığı belli değilse, amirle iletişim kopuksa ya da ekipten destek göremiyorsanız stres artar. Mobbing ve şiddet de bu grubun en ciddi türleridir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1784041321486-dc3f5c5a34f9?w=2400",
+   "kicker": "İş stresi",
+   "title": "Stres: baskı ile baş etme gücü arasındaki fark",
+   "bullets": [
+    "Bedende: baş ağrısı, uykusuzluk, mide ve kas gerginliği",
+    "Davranışta: sinirlilik, hata, işten kaçınma",
+    "Zihinde: dikkat dağınıklığı, unutkanlık"
+   ],
+   "steps": [
+    "İş stresi, işin gereklerinin kişinin başa çıkma gücünü aşmasıyla ortaya çıkar. Kısa süreli ve hafif stres işe yarar bile. Sorun, uzun süren ve çözülmeyen stres.",
+    "Bedende baş ağrısı, uykusuzluk, mide ve kas gerginliği olarak görülür. Çoğu kişi bunları işle ilişkilendirmez.",
+    "Davranışta sinirlilik, hata yapma artışı, iş arkadaşlarıyla gerginlik ve işe gelmek istememe şeklinde ortaya çıkar.",
+    "Zihinde ise dikkat dağınıklığı ve unutkanlık görülür. İşte iş güvenliğini doğrudan etkileyen kısım bu.",
+    "Bu belirtileri kendinizde ya da bir iş arkadaşınızda fark ederseniz, 'moral bozukluğu' deyip geçmeyin. Kısa bir sohbet, bir mola ya da hekimle görüşme, büyük bir sorunun önüne geçebilir. Stres utanılacak bir şey değildir, yönetilmesi gereken bir iş riskidir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Tehlikeli işte etkisi",
+   "title": "Stresten kazaya giden zincir",
+   "items": [
+    {
+     "title": "Baskı",
+     "text": "Yetişmeyen iş, tehdit, gerginlik"
+    },
+    {
+     "title": "Yorgunluk",
+     "text": "Uykusuzluk ve dinlenememe"
+    },
+    {
+     "title": "Dikkat kaybı",
+     "text": "Tepki yavaşlar, uyarıyı kaçırır"
+    },
+    {
+     "title": "Kısayol ve hata",
+     "text": "Koruyucu çıkarılır, kural atlanır"
+    }
+   ],
+   "steps": [
+    "Stresin güvenliğe etkisini bir zincir olarak düşünün.",
+    "Zincirin ilk halkası baskı. Teslim saati, amir sürekli bağırıyor ya da işten çıkarılma korkusu gibi.",
+    "İkinci halka yorgunluk. Stres uykuyu bozar, dinlenmeden gelen vardiya yorgunluğu artırır.",
+    "Üçüncü halka dikkat kaybı. Reaksiyon süreniz uzar, uyarıyı gözden kaçırırsınız.",
+    "Dördüncü halka kısayol ve hata. Çabuk bitirmek için koruyucuyu çıkarmak, kilitlemeyi atlamak. Ağır makinelerle çalışan bir işyerinde bu zincirin son halkası, yaralanma demektir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1776090188130-26c7253ff423?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Sipariş baskısı ve çıkarılan koruyucu",
+   "bullets": [
+    "Teslim tarihi sıkıştı",
+    "Koruyucu çıkarıldı, el sıkıştı"
+   ],
+   "steps": [
+    "Bir metal işleme atölyesinde, büyük bir sipariş yetişmeyecek. Müdür baskı yapıyor, fazla mesai kesintisiz uzuyor. Operatör Osman iki haftadır az uyuyor.",
+    "Bir gün Osman, işi hızlandırmak için presin koruyucusunu kaldırıyor. Yorgunluktan dikkati bir an dağılıyor ve eli presin altında sıkışıyor. Ağır bir yaralanma yaşıyor.",
+    "İncelemede asıl neden yalnızca Osman'ın hatası olmuyor. Gerçekçi olmayan sipariş planı, uzayan mesai ve baskı da zincirin halkaları. İşyeri planı yeniden düzenliyor, koruyucuların çıkarılmasını yasaklıyor ve baskıyla ilgili bildirim kanalı açıyor. Ders şu: Psikososyal riskleri çözmeden, güvenliği sadece uyarıyla sağlayamazsınız."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1765021690115-08b5a1e363c0?w=2400",
+   "kicker": "Vardiya ve gece",
+   "title": "Çalışma saati kanunda sınırlıdır",
+   "bullets": [
+    "Gece postası en fazla 7,5 saat",
+    "Ara dinlenme vardır"
+   ],
+   "steps": [
+    "Vardiya ve gece çalışması vücut saatini bozar. Bu nedenle kanun bazı sınırlar koyar. İş Kanunu'na göre gece dönemi 20.00 ile 06.00 arasıdır ve gece çalışması en fazla 7,5 saat olabilir.",
+    "Ayrıca işçiyi günde 11 saatten fazla çalıştırmak olmaz ve çalışma sırasında ara dinlenmesi verilmesi gerekir. Dört saate kadar sürenlerde 15 dakika, dört saati aşıp yedi buçuk saate kadar sürenlerde yarım saat, daha uzun süren işlerde ise en az bir saat.",
+    "Haftada en az 24 saat kesintisiz dinlenme de hakkınızdır. Bu sınırlar dinlenmeniz için konulmuştur. Gece çalışan biri sağlığının bozulduğunu raporla belgelerse, mümkünse gündüz işine verilmesi de gündeme gelir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1758520145147-c30bc656f314?w=2400",
+   "kicker": "Gece çalışması",
+   "value": "7,5 saat",
+   "title": "Gece postasında çalışma süresi en fazla 7,5 saattir",
+   "text": "Gece 20.00 ile 06.00 arasındaki dönemde çalışma bu süreyi aşamaz; dinlenme sağlık için şarttır.",
+   "steps": [
+    "Kanun gece çalışması için üst bir sınır koymuştur: en fazla yedi buçuk saat. Bu sınır, sağlığınızı ve güvenliğinizi korumak için vardır.",
+    "Uykusuz bir vardiyada hata ve kaza riski çok yükselir. Yorgunluğu normal saymayın. Gözleriniz kapanıyorsa, ağır makineyi kullanmayın ve amirinize bildirin.",
+    "Şunu da hatırlatayım: fazla çalışma yapılabilir ama sınırsız değildir ve işçinin onayı gerekir. Sürekli fazla mesai yorgunluk biriktirir; fazla mesaiyi yalnızca istisna olarak görmek, hem sağlığınız hem de güvenliğiniz içindir."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Yorgun vardiya",
+   "title": "Gözleri kapanan forklift operatörü",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1540340061722-9293d5163008?w=1200",
+     "ok": false,
+     "title": "Sessizce devam",
+     "text": "Yorgunlukla sürüşe devam etmek kazaya yol açar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1689942010216-dc412bb1e7a9?w=1200",
+     "ok": true,
+     "title": "Dur ve bildir",
+     "text": "Makineyi durdurur, amire söyler, dinlenme ve görev değişikliği ister."
+    }
+   ],
+   "steps": [
+    "Gece vardiyasının sonunda, forklift operatörü Ali'nin gözleri kapanıyor. Bir yanlış hareket, rafa çarpmak ya da yaya ezmek demek olabilir.",
+    "Yanlış olan, kimseye söylemeden devam etmek. Başkası fark etmediği sürece sorun yokmuş gibi görünür, ta ki kaza olana kadar.",
+    "Doğrusu ise forklifti güvenli yere çekmek, amire bildirmek ve kısa bir dinlenme ya da görev değişikliği istemek. Bir amir bunu cezalandırmamalı; çünkü güvenlik işten daha önce gelir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1765021690115-08b5a1e363c0?w=2400",
+   "kicker": "Yorgunluk",
+   "title": "Yorgunluğu fark edin ve önleyin",
+   "bullets": [
+    "Esneme, göz kapanması, dalgınlık işarettir",
+    "Ara vermek, kısa hareket ve su yardımcı olur",
+    "Uykuyu ve dinlenmeyi ciddiye alın"
+   ],
+   "steps": [
+    "Yorgunluk kaçınılmaz görünse de, fark edilip yönetilebilir.",
+    "İşaretlere bakın: sürekli esneme, gözlerin kapanması, aynı şeyi iki kez yapma, uyarıyı geç fark etme ve kısa süreli dalgınlık. Bunlar, bedenin 'dur' deme biçimidir.",
+    "İşaret varsa, ağır makineden uzaklaşın, kısa bir mola verin, hareket edin, su için ve amirinize söyleyin. Kahve geçici bir uyanıklık verir ama uykunun yerini tutmaz.",
+    "Uzun vadede ise vardiya dönüşünde yeterli uyumak, düzenli beslenmek ve dinlenme günlerini gerçekten dinlenerek geçirmek gerekir. Yorgunluk yönetimi hem sizin hem işverenin işidir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=2400",
+   "kicker": "Mobbing",
+   "title": "Mobbing: işyerinde sistemli psikolojik baskı",
+   "bullets": [
+    "Süreklidir, tek seferlik tartışma değildir",
+    "Hedef kişiyi yıldırmayı amaçlar",
+    "Kişinin sağlığını ve çalışmasını bozar"
+   ],
+   "steps": [
+    "Gelelim mobbing konusuna. Mobbing, işyerinde bir kişiye ya da gruba yönelik, sistemli ve sürekli yapılan psikolojik baskıdır.",
+    "Önemli olan süreklilik. Bir gün yaşanan gerginlik ya da bir tartışma mobbing sayılmaz. Mobbing belli bir süre devam eden, yıldırmayı amaçlayan davranışlardır.",
+    "Hedefteki kişi zamanla güvenini kaybeder, kaygılanır, uykusu bozulur ve işte hata yapar. Bu da güvenliğini doğrudan etkiler.",
+    "Mobbing yönetici tarafından, iş arkadaşları tarafından, hatta bazen ast tarafından uygulanabilir. Türk Borçlar Kanunu da işverene, çalışanın kişiliğini koruma ve onu psikolojik tacizden koruma yükümlülüğü getirir.",
+    "Şunu da ayırt etmek gerekir: amirin görev vermesi, iş kalitesiyle ilgili saygılı bir geri bildirim vermesi ya da kuralları hatırlatması mobbing değildir. Mobbing, bunların kişiyi yıldırmak için kötüye kullanılmasıdır."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Mobbing örnekleri",
+   "title": "Mobbing nasıl görünür?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1640101086894-7d70c3e70179?w=1200",
+     "tag": "Dışlama",
+     "title": "Yok sayma ve izole etme",
+     "text": "Toplantıdan, bilgiden ve ekip yemeğinden dışlama."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=1200",
+     "tag": "Haksız görev",
+     "title": "Alay, haksız yük",
+     "text": "Sürekli eleştirmek, işi elinden almak ya da ağır işe vermek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1768926968986-a88590ce5025?w=1200",
+     "tag": "Aşağılama",
+     "title": "Aşağılama ve tehdit",
+     "text": "Bağırmak, küçük düşürmek, işten atmakla korkutmak."
+    }
+   ],
+   "steps": [
+    "Mobbing kimi zaman bariz, kimi zaman çok incedir. Üç tipik görünümüne bakalım.",
+    "Dışlama ve yok sayma: Bilgi saklanır, selam verilmez, kişi toplantıya çağrılmaz, ekipten uzaklaştırılır.",
+    "Haksız görev ve alay: Kişiye sürekli gereksiz eleştiri yapılır, işi elinden alınır ya da yetkisinin çok altında ya da çok üstünde görevler verilir. Her hatası herkesin önünde dile getirilir.",
+    "Aşağılama ve tehdit: Bağırmak, küçük düşürücü şakalar, işten çıkarmakla korkutmak. Eğer yaşadığınız ya da gördüğünüz buna benziyorsa, bu normal bir iş stresi değildir. Mutlaka bildirin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1573497491208-6b1acb260507?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Tezgâhta aylarca süren dışlama",
+   "bullets": [
+    "Ustanın sürekli aşağılaması",
+    "Hatalar artınca durum fark edildi"
+   ],
+   "steps": [
+    "Bir mobilya atölyesinde yeni işe başlayan genç çırak Emre'yi, usta sürekli aşağılıyor. Aletleri vermiyor, hatalarını herkesin önünde söylüyor ve ona ayrı, ağır işler yüklüyor. Emre sesini çıkarmıyor.",
+    "Birkaç ay sonra Emre uykusuzluktan şikâyet etmeye, tezgâhta dalgın çalışmaya başlıyor. Bir gün testere başında dikkati dağılıyor ve parmağını ucuz atlatıyor.",
+    "Olaydan sonra işyeri hekimi ve vardiya amiri durumu konuşuyor. Ustaya uyarı yapılıyor, işyeri düzeni gözden geçiriliyor, Emre'ye de yetkili birimlere başvurabileceği anlatılıyor. Bu olay, psikososyal bir riskin bedensel bir kazaya nasıl dönüştüğünü gösteriyor.",
+    "Emre aylarca sustu; çünkü işini kaybetmekten korkuyordu. Oysa daha erken bildirseydi, hem kendisi hem atölye daha önce korunacaktı."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?w=2400",
+   "kicker": "İşyerinde şiddet",
+   "title": "Şiddet: sözlü, fiziksel ya da tehdit",
+   "bullets": [
+    "Müşteri, tedarikçi ya da iş arkadaşından gelebilir",
+    "Sözlü hakaret ve tehdit de şiddettir",
+    "Kendinizi korumak için önce uzaklaşın"
+   ],
+   "steps": [
+    "İşyeri şiddeti yalnızca yumruk atmak değildir. Hakaret, tehdit, küfür, korkutma, fiziksel saldırı hepsi şiddet sayılır.",
+    "Şiddet iş arkadaşlarından, amirlerden, müşterilerden, tedarikçilerden ya da dışarıdan gelen kişilerden olabilir. Sahada çalışan, nakliyede, depoda ve hizmet işlerinde bu risk daha fazladır.",
+    "Bir tehdit ya da saldırı olursa önce kendi güvenliğinizi düşünün. Karşılık vermeyin, mümkünse güvenli bir yere çekilin ve yardım isteyin. Gerekirse acil durumlarda 112'yi arayın.",
+    "Sonrasında durumu amirinize, çalışan temsilcinize ya da işyeri hekiminize bildirin ve olayı not edin. Ağır olaylarda hukuki yollar da vardır.",
+    "Şiddete tanık olan çalışanın görevi, mağdura destek olmak ve olayı bildirmektir. Susmak, sorunun tekrarlanmasına izin verir. İşveren de gerekli düzenlemeyi yaparak tekrarını önlemek zorundadır."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Nereye başvuracaksınız?",
+   "title": "Baskı ve mobbing karşısında adımlar",
+   "items": [
+    {
+     "title": "Kaydedin",
+     "text": "Tarih, saat, kişi, ne olduğu ve tanıklar"
+    },
+    {
+     "title": "Anlatın",
+     "text": "Amire, çalışan temsilcisine, hekime"
+    },
+    {
+     "title": "Yetkili birime",
+     "text": "İnsan kaynakları, İSG kurulu, işveren"
+    },
+    {
+     "title": "Resmi başvuru",
+     "text": "ALO 170 ve hukuki destek"
+    }
+   ],
+   "steps": [
+    "Mobbinge ya da şiddete uğrarsanız ya da tanık olursanız ne yapacaksınız? Dört adımı akılda tutun.",
+    "Önce kaydedin. Ne zaman, nerede, kim, ne söyledi ya da yaptı, kimler gördü? Not almak size hem güç hem de kanıt sağlar.",
+    "Sonra güvendiğiniz birine anlatın: amiriniz, çalışan temsilciniz ya da işyeri hekimi. Sorun amirdense, bir üst yönetime ya da insan kaynaklarına gidin.",
+    "Sonuç alamazsanız, İSG kuruluna, işverene ya da resmi kurumlara başvurabilirsiniz. Çalışma ve Sosyal Güvenlik Bakanlığı'nın ALO 170 hattı bu amaçla kullanılabilir. Hukuki haklarınız için avukat ya da sendikadan da destek alabilirsiniz.",
+    "Başvurduğunuz için kimse sizi cezalandıramaz; kanun, çalışanı bu konuda korur. Ayrıca bir arkadaşınızın mağdur olduğunu görürseniz, ona destek olun ve olayı bildirmesi için cesaretlendirin. Çoğu zaman mağdur, yalnız olmadığını bilmeye ihtiyaç duyar."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1743130940778-331440a204ae?w=2400",
+   "kicker": "Stresi azaltmak",
+   "title": "Çözüm: açık iletişim, makul yük, düzenli mola",
+   "bullets": [
+    "Açık iletişim ve net görev tanımı",
+    "Makul iş yükü ve gerçekçi planlama",
+    "Düzenli molalar ve yeterli dinlenme",
+    "Destek: ekip ve yönetim"
+   ],
+   "steps": [
+    "Psikososyal riskleri azaltmak için neler yapılır? Bunu biraz önce konuştuğumuz kaynaklara göre düşünün.",
+    "Açık iletişim ve net görev tanımı: Kimin neyi ne zaman yapacağı belli olursa belirsizlik azalır. Sorun yaşadığınızı rahat söyleyebilmek de önemli.",
+    "Makul iş yükü: Gerçekçi planlama yapmak, sürekli fazla mesaiye dayanmamak ve yetişmeyen işi yönetmek, yüksek stresin kaynağını azaltır.",
+    "Düzenli molalar ve yeterli dinlenme: Vardiya aralarında uyumak, işte kısa molalar vermek ve haftalık izni kullanmak, yorgunluğu önler.",
+    "Destek: Ekibin ve yönetimin yanınızda olduğunu bilmek en güçlü korunmadır. Gerekirse işyeri hekimine ya da uzmana stres konusunda danışabilirsiniz."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Kim ne yapar?",
+   "title": "Psikososyal risklerde görev dağılımı",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1779155413504-7608a08d4873?w=1200",
+     "title": "İşveren ve yönetim",
+     "text": "İş yükünü ve vardiyayı düzenler, mobbing ve şiddete izin vermez."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1455165814004-1126a7199f9b?w=1200",
+     "title": "Sağlık ve İSG ekibi",
+     "text": "Riski değerlendirir, destek ve yönlendirme sağlar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758518730037-a16581a040e8?w=1200",
+     "title": "Siz ve ekibiniz",
+     "text": "Saygılı davranır, yardım ister, gördüğünüzü bildirirsiniz."
+    }
+   ],
+   "steps": [
+    "Psikososyal riskler tek kişinin sorunu değildir. Herkesin payı var.",
+    "İşveren ve yönetim, iş yükünü ve vardiyayı makul düzenler, saygılı bir iş ortamı sağlar, mobbing ve şiddet iddialarını ciddiye alır.",
+    "İSG ekibi ve işyeri hekimi, riski değerlendirir, çalışanları dinler ve gerekirse destek birimlerine yönlendirir.",
+    "Siz ve ekip arkadaşlarınız da birbirinize saygılı davranır, zor durumdaki arkadaşınıza destek olur, gördüğünüz şiddeti ya da baskıyı bildirirsiniz. Sessizlik, sorunu büyütür."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1793371930890-b1c6263844e5?w=2400",
+   "kicker": "İşyerinizde nasıl görürsünüz?",
+   "title": "Bugün işyerinize bu gözle bakın",
+   "bullets": [
+    "Atık, kirli su ya da gıdayla temas noktası var mı?",
+    "Aşı kartım güncel mi, yaramı bildirdim mi?",
+    "Vardiyam ve molalarım yeterli mi?",
+    "Baskı ya da şiddet gördüğümde kime gideceğim?"
+   ],
+   "steps": [
+    "Şimdi dersi işyerinize taşıyalım. Dört soruyu kendinize sorun.",
+    "Birincisi: İşimde atıkla, kirli suyla, çiğ gıdayla ya da kemirgen izleriyle temas ediyor muyum? Evetse hijyen, KKD ve aşı konusunda neler yapılıyor?",
+    "İkincisi: Aşı kartım güncel mi? Son yaralanmamı ya da şikâyetimi bildirdim mi? Bilmiyorsanız işyeri hekimine sorun.",
+    "Üçüncüsü: Vardiya düzenim ve molalarım yeterli mi? Sürekli yorgun muyum? Dördüncüsü: Baskı ya da şiddet gördüğümde kime gideceğimi biliyor muyum? İşyerinize özgü riskleri yüz yüze eğitimde uzmanınızla konuşacaksınız; o toplantıya bu soruları götürün.",
+    "Küçük bir not: bu sorulara verdiğiniz cevapları not alırsanız, uzmanla görüşmeniz çok daha verimli geçer. İşyerinizdeki gerçek riskleri en iyi siz görürsünüz."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1775642547173-559e304822f9?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Bakteri ve virüsler biyolojik etkendir; hijyen, aşı ve KKD korur",
+    "Psikososyal riskler: aşırı iş yükü, vardiya, belirsizlik, mobbing, şiddet",
+    "Yorgunluk ve stres, tehlikeli işlerde kaza riskini artırır",
+    "Açık iletişim, makul iş yükü ve düzenli molalar stresi azaltır"
+   ],
+   "steps": [
+    "Dersin sonuna geldik. Kısaca toparlayalım.",
+    "Bakteri ve virüsler biyolojik risk etmenleridir. Atık, kanalizasyon, gıda ve temizlik işlerinde karşılaşırız. Korunmada hijyen, aşı ve uygun KKD kullanılır.",
+    "Aşırı iş yükü ve mobbing gibi etmenler psikososyal risk etmenleridir. Vardiya, gece çalışması, belirsiz görev tanımı ve şiddet de bunlara eklenir.",
+    "Yorgunluk ve stres dikkati azaltır; ağır makine ve forklift gibi işlerde kazaya yol açar. Açık iletişim, makul iş yükü ve düzenli molalar, iş stresini azaltmaya yardımcı olur.",
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Bu bilgileri hatırlayarak cevaplayabilirsiniz. Sağlıklı ve güvenli çalışmalar dilerim. Teşekkürler."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,618 @@
+{
+ "code": "tc_g7",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "1. Bölüm · Genel Konular",
+ "title": "Çalışma mevzuatı (3): birden fazla işverenin bulunduğu işyerleri",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1746364742672-c6383331b032?w=2400",
+   "kicker": "1. Bölüm · Ders 7",
+   "title": "Birden fazla işverenin bulunduğu işyerleri",
+   "subtitle": "Aynı alanda çalışan herkesin güvenliği ortak iştir",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste, tehlikeli ve çok tehlikeli işyerlerinde çok sık karşılaştığınız bir durumu konuşacağız: aynı yerde, farklı işverenlere bağlı pek çok kişinin birlikte çalışması.",
+    "Şantiyede kalıpçı, elektrikçi ve boyacı ayrı firmaların çalışanıdır. Fabrikada bakım yapan, yükleme yapan, temizlik yapan firmalar da öyle. Peki böyle bir ortamda güvenliği kim sağlar, size bir şey olursa kim sorumlu olur? Cevabı birlikte bulacağız."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Neden önemli?",
+     "text": "Kalabalık çalışma alanlarında riskler katlanır"
+    },
+    {
+     "title": "Asıl ve alt işveren",
+     "text": "Kim kime karşı, hangi konuda sorumlu"
+    },
+    {
+     "title": "Ortak çalışma alanı",
+     "text": "İşverenlerin iş birliği ve koordinasyonu"
+    },
+    {
+     "title": "Geçici iş ilişkisi",
+     "text": "Başka firmadan gelen çalışanın durumu"
+    },
+    {
+     "title": "Yapı işleri",
+     "text": "Koordinatör, plan ve ön bildirim"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Ders beş adımda ilerleyecek.",
+    "İlk adımda, birden fazla işverenin bulunduğu işyerlerinin neden ayrıca ele alındığını göreceğiz.",
+    "İkinci adımda asıl işveren ve alt işveren ilişkisini, bu ilişkide kimin neden sorumlu olduğunu konuşacağız.",
+    "Üçüncü adımda, aynı çalışma alanını paylaşan işverenlerin birbirine karşı görevlerini, yani iş birliği ve koordinasyonu inceleyeceğiz.",
+    "Dördüncü adım geçici iş ilişkisi: başka bir firma aracılığıyla gelen çalışanın durumu.",
+    "Son olarak, yapı işlerinde güvenlik ve sağlık koordinatörünün ne yaptığını ve bunun sizin için ne anlama geldiğini öğreneceğiz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1672954766589-49f0dd0e106f?w=2400",
+   "kicker": "Neden önemli?",
+   "title": "Kalabalık alanda riskler katlanır",
+   "bullets": [
+    "Farklı firmalar birbirinin işini ve tehlikesini bilmez",
+    "Aynı alanda eş zamanlı çalışma yeni riskler doğurur",
+    "Sorumluluk belirsiz kalırsa önlem de eksik kalır",
+    "Siz her zaman korunma hakkına sahipsiniz"
+   ],
+   "steps": [
+    "Önce neden bu derse ihtiyaç duyduğumuzu anlayalım. Tehlikeli ve çok tehlikeli işlerde çoğu zaman tek bir firma çalışmaz; bir sürü firma aynı alanı paylaşır.",
+    "Birinci sorun şu: her firma yalnızca kendi işini ve kendi tehlikesini bilir. Üst katta kaynak yapan ekip, alt katta boya yapan ekibin yanıcı çözücü kullandığını bilmeyebilir.",
+    "İkinci sorun, eş zamanlı çalışmanın yeni riskler doğurması. Tek başına zararsız olan iki iş yan yana yapıldığında tehlikeli hale gelebilir. Üstte yük kaldıran vinç ile altından geçen yaya yolunu düşünün.",
+    "Üçüncüsü, sorumluluğun dağılması. Herkes güvenliği bir başkasının işi sanırsa, hiç kimse önlem almamış olur.",
+    "Ama bilmeniz gereken önemli bir şey var: hangi firmaya bağlı olursanız olun, iş sağlığı ve güvenliği hakları sizin için aynıdır. Şimdi bu hakların işleyişine bakalım."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1774599730788-a74cd9253b56?w=2400",
+   "kicker": "Kimler karşımıza çıkar?",
+   "title": "Aynı alanı paylaşan farklı çalışanlar",
+   "bullets": [
+    "Asıl işveren ve alt işverenin çalışanları",
+    "Bakım, yükleme, temizlik yapan dış firmalar",
+    "Ziyaretçi ve tedarikçi şoförler"
+   ],
+   "steps": [
+    "Bu tür işyerlerinde kimlerle çalışıyoruz, önce onu sayalım.",
+    "Birincisi asıl işveren ve onun alt işverenleri. Örneğin bir inşaat firması, elektrik ve mekanik işlerini ayrı firmalara verebilir. Bu firmaların çalışanları aynı şantiyede çalışır.",
+    "İkincisi, fabrikaya belli aralıklarla gelen dış firmalar: makine bakımcıları, forklift servisi, temizlik ekipleri ve yükleme firmaları.",
+    "Üçüncüsü, ziyaretçiler ve tedarikçi şoförler. Onlar işyerinin tehlikelerini en az bilen kişilerdir ve çoğu zaman en kolay kazaya uğrayan da onlar olur. Yani işyerinde gördüğünüz her insan, güvenlik açısından hesaba katılmalıdır."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Üç temel durum",
+   "title": "Çok işverenli çalışmanın üç türü",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1786550765584-b2cd482610e8?w=1200",
+     "title": "Asıl-alt işveren",
+     "text": "Asıl işveren, işin bir bölümünü alt işverene verir"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1689942010216-dc412bb1e7a9?w=1200",
+     "title": "Ortak alan",
+     "text": "Farklı işverenler aynı çalışma alanını paylaşır"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1770822662868-4a612845fcdd?w=1200",
+     "title": "Geçici iş",
+     "text": "Çalışan, başka firmanın işyerinde çalıştırılır"
+    }
+   ],
+   "steps": [
+    "Mevzuat bu durumları üç ana başlıkta ele alır. Hangisinin sizin durumunuza uyduğunu bilmek önemli.",
+    "Birincisi, asıl işveren ile alt işveren ilişkisi. Asıl işveren işin bir bölümünü başka bir firmaya yaptırır ve o firmanın çalışanları da bu işyerinde çalışır.",
+    "İkincisi, aynı çalışma alanını paylaşan işverenler. Aralarında bir alt iş ilişkisi olmasa bile, sanayi sitesi ya da iş merkezi gibi yerlerde işverenlerin iş birliği yapması gerekir.",
+    "Üçüncüsü, geçici iş ilişkisi. Çalışan, kendi işvereninin değil, başka bir firmanın işyerinde ve onun yönetimi altında çalışır. Bu üçünü sırayla göreceğiz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1786550765584-b2cd482610e8?w=2400",
+   "kicker": "Asıl işveren-alt işveren",
+   "title": "İş Kanunu bu ilişkiyi nasıl tanımlar?",
+   "bullets": [
+    "Asıl işveren işin bir kısmını alt işverene verir",
+    "Alt işverenin çalışanları yalnızca bu işyerinde çalışır",
+    "Asıl işin bölünerek verilmesi sınırlıdır",
+    "Muvazaa varsa çalışanlar asıl işverenin sayılır"
+   ],
+   "steps": [
+    "Asıl işveren-alt işveren ilişkisi, 4857 sayılı İş Kanununda tanımlanmıştır. Önce tanıma bakalım.",
+    "Bir işveren, kendi işyerinde yürüttüğü işin bir bölümünü başka bir işverene verir. Bu ikinci işveren, yani alt işveren, işi yaparken çalışanlarını yalnızca bu işyerinde çalıştırır. İşte bu ilişkiye asıl işveren-alt işveren ilişkisi denir.",
+    "Kanun, asıl işin bölünerek alt işverenlere verilmesine sınırlama getirir. İşletmenin ve işin gereği ile teknolojik nedenler ya da uzmanlık gerektiren işler dışında asıl iş bölünerek verilemez.",
+    "Eğer bu ilişki asıl işverenin sorumluluktan kaçınmak için kurulmuş göstermelik bir düzense, buna muvazaa denir. Muvazaa halinde alt işverenin çalışanları, baştan itibaren asıl işverenin çalışanı sayılır.",
+    "Sizin için önemi şu: alt işveren çalışanı olarak çalışıyorsanız, haklarınızı ve güvenliğinizi sorgularken karşınızda iki muhatap olduğunu unutmayın. Biri sizin işvereniniz, diğeri işin yapıldığı yerin asıl işvereni. İkisinden de güvenlik bilgisi isteyebilirsiniz."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1770822662868-4a612845fcdd?w=2400",
+   "kicker": "Müteselsil sorumluluk",
+   "value": "Birlikte",
+   "title": "Asıl işveren, alt işverenin çalışanlarına karşı alt işverenle birlikte sorumludur",
+   "text": "İş Kanunu'na göre bu sorumluluk, o işyerinde çalışanlara ilişkin kanun ve iş sözleşmesinden doğan yükümlülükleri kapsar.",
+   "steps": [
+    "Çalışan olarak bilmeniz gereken en önemli kural şu: asıl işveren, alt işverenin çalışanlarına karşı yükümlülüklerden alt işverenle birlikte sorumludur. Hukukta buna müteselsil sorumluluk denir.",
+    "Bunun anlamı şu: alt işveren sorumluluğunu yerine getirmezse, bu işyerinde çalışan alt işveren çalışanı da haklarını asıl işverenden talep edebilir. Yani 'ben başka firmanın çalışanıyım, burada kimse bana karşı sorumlu değil' diye bir durum yoktur.",
+    "İş sağlığı ve güvenliği açısından da mantık aynıdır. Asıl işveren, kendi işyerinde yürüttüğü işlerde güvenlik bakımından gözü kapalı davranamaz."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Görev paylaşımı",
+   "title": "Asıl işveren ve alt işveren: kim ne yapar?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1760161306014-e2dcc13cbdf8?w=1200",
+     "title": "Asıl işveren",
+     "text": "Alanın risklerini bildirir, kuralları koyar, iş birliğini ve koordinasyonu sağlar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1564183063457-680b3759a5bd?w=1200",
+     "title": "Alt işveren",
+     "text": "Kendi çalışanlarını eğitir, KKD verir, işi güvenli planlar"
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1628147529780-36964fbb8d54?w=1200",
+     "title": "Çalışan",
+     "text": "İki tarafın kurallarına uyar, tehlikeyi hemen bildirir"
+    }
+   ],
+   "steps": [
+    "Peki sahada bu görev paylaşımı nasıl görünür? Üç taraf var.",
+    "Asıl işveren, işyerinin tehlikelerini ve kurallarını alt işverene bildirir, giriş çıkış ve iş izni gibi kuralları koyar, farklı firmaların birbirini tehlikeye atmamasını sağlar. Alt işverenin güvenlik gereklerine uyup uymadığını da gözetir.",
+    "Alt işveren ise kendi çalışanlarının işverenidir. Eğitimlerini verir, kişisel koruyucu donanımlarını sağlar, sağlık gözetimini yaptırır ve işini kendi risk değerlendirmesine göre güvenli planlar.",
+    "Çalışan olarak da hem kendi işvereninizin hem de içinde çalıştığınız işyerinin güvenlik kurallarına uymak zorundasınız. İkisi çelişiyorsa, hemen amirinize bildirin; daha güvenli olanı seçin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1689942010216-dc412bb1e7a9?w=2400",
+   "kicker": "Örnek olay 1",
+   "title": "Fabrikaya bakıma gelen firma",
+   "bullets": [
+    "Bakım ekibi enerji kilitlemesini bilmiyordu",
+    "Asıl işveren riskleri önceden anlatmadı",
+    "İş izni ve bilgilendirme yapılmalıydı"
+   ],
+   "steps": [
+    "Şimdi bir örnek olay dinleyelim. Bir gıda fabrikasında hat bakımı için dışarıdan gelen bir firmanın iki teknisyeni, sabah vardiyasında konveyör hattına çıkıyor. Hattın enerjisinin kesilip kilitlendiğini sanıyorlar; oysa kilitleme başka bir noktada yapılmış.",
+    "Teknisyenlerden biri kayışa elini uzattığı sırada hat bir anda hareket ediyor. Neyse ki yanındaki arkadaşı acil durdurma düğmesine basıyor ve ağır bir yaralanma yaşanmıyor. Ama olay çok kritik bir ramak kala.",
+    "Peki neden oldu? Fabrikanın asıl işvereni, dışarıdan gelen firmaya hangi hattın hangi şekilde enerjisizleştirileceğini anlatmamıştı. Yazılı bir iş izni de yoktu.",
+    "Ne yapılmalıydı? Bakım başlamadan önce fabrika yetkilisi ve bakım firması birlikte alanı gezmeli, tehlikeleri konuşmalı, kilitleme noktalarını göstermeli ve yazılı iş izniyle işi başlatmalıydı. Siz de dışarıdan gelen biriyseniz, 'bana bu alanın risklerini anlatır mısınız' diye sormaktan çekinmeyin."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1575230167650-dce335edc7f4?w=2400",
+   "kicker": "İSG kurulu",
+   "title": "Asıl işveren ve alt işveren için kurul kuralları",
+   "bullets": [
+    "Kurul oluşturma sayısına alt işverenin çalışanları da dahildir",
+    "Altı aydan uzun süren ilişkilerde ortak kurul esastır",
+    "Alt işverenler kurula temsilciyle katılır",
+    "Kurulda İSG konuları birlikte görüşülür"
+   ],
+   "steps": [
+    "Bir de kurul meselesi var. İSG kurulu, işyerinde güvenlik konularının birlikte konuşulup karara bağlandığı yerdir.",
+    "Kanunun bu konudaki kuralı şöyle işler: altı aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu işyerlerinde, kurul kurma yükümlülüğü hesaplanırken alt işverenlerin çalışanları da hesaba katılır. Kurul, asıl işveren ve alt işverenlerin ortak yapısı üzerinden kurulur.",
+    "Genel mantık şudur: aynı işyerinde çalışan herkes için tek bir kurul düzeni bulunur. Alt işverenlerin temsilcileri de bu kurulda yer alır ve alt işverenlerin çalışanlarının sorunları da orada konuşulur.",
+    "Sizin için anlamı şu: alt işveren çalışanı olsanız bile, güvenlikle ilgili sorununuzu çalışan temsilciniz aracılığıyla kurula taşıyabilirsiniz. Kurul toplantılarında alınan kararlar sizin güvenliğinizi de kapsar.",
+    "Bir not daha: kurul ve temsilci yapısı işyerinin büyüklüğüne ve çalışma süresine göre değişir. Sizin işyerinizde nasıl işlediğini yüz yüze eğitimde uzmanınızdan öğrenebilirsiniz."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1778074762022-c33cc42f79ae?w=2400",
+   "kicker": "Aynı çalışma alanını paylaşanlar",
+   "title": "İşverenlerin birbirine karşı görevleri",
+   "bullets": [
+    "İş birliği yapmak",
+    "Riskler konusunda birbirini bilgilendirmek",
+    "Koordinasyon sağlamak"
+   ],
+   "steps": [
+    "Şimdi 6331 sayılı Kanunun, aynı çalışma alanını birden fazla işverenin paylaştığı durumlar için koyduğu kurala geliyoruz. Bu kural çok önemli; çünkü araya bir asıl-alt işveren ilişkisi girmese bile uygulanır.",
+    "Kanun üç şey ister. Birincisi iş birliği: işverenler, iş sağlığı ve güvenliği önlemlerinin uygulanmasında birlikte hareket eder.",
+    "İkincisi bilgilendirme: işverenler, işlerinin getirdiği riskler ve aldıkları önlemler konusunda birbirlerini ve çalışan temsilcilerini bilgilendirir. Örneğin bir firma yüksekte kaynak yapacaksa, aşağıdaki firmaya bunu önceden bildirmelidir.",
+    "Üçüncüsü koordinasyon: mesleki risklerin önlenmesi ve korunma için işverenler birlikte çalışır. Yani önlemler birbirini tamamlayacak, çatışmayacak şekilde planlanır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1563166423-a78566af3dbe?w=2400",
+   "kicker": "Ortak alanlar",
+   "title": "İş merkezi ve sanayi sitesinde koordinasyon kimin işi?",
+   "bullets": [
+    "İş merkezi, sanayi sitesi, organize sanayi bölgesi gibi alanlar",
+    "Ortak alanların koordinasyonu yönetimin görevidir",
+    "Her işveren kendi işyerinden yine sorumludur",
+    "Yönetimin talimatlarına uymak önemlidir"
+   ],
+   "steps": [
+    "Peki işyerleri bir sanayi sitesinde ya da organize sanayi bölgesinde yan yana ise?",
+    "Kanun, iş merkezi, sanayi sitesi, organize sanayi bölgesi gibi ortak kullanılan alanlarda koordinasyon görevini o alanın yönetimine verir. Yönetim, ortak kullanılan yolların, otoparkların, yangın söndürme sistemlerinin ve acil çıkışların güvenliğini ve işverenler arası iş birliğini düzenler.",
+    "Ancak bu, her işverenin kendi işyerindeki sorumluluğunu ortadan kaldırmaz. Atölyenizdeki makine korumaları ve kişisel koruyucu donanım hâlâ sizin işvereninizin sorumluluğundadır.",
+    "Sizin için pratik sonuç: sitenin ya da bölgenin ortak kurallarına, örneğin araç hız sınırlarına, depolama yasaklarına ve acil durum toplanma alanlarına dikkat edin. Bunlar komşu atölyedeki herkesin güvenliği için konulmuştur.",
+    "Yönetim size doğrudan işveren değildir ama güvenlik konusunda koordinasyon yetkisi vardır. Bu nedenle site ya da bölge yönetiminin acil durum talimatlarını, kendi amirinizin talimatı gibi ciddiye alın."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Çalışma alanı paylaşımı",
+   "title": "Aynı alanda çalışırken doğru ve yanlış",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1645736315000-6f788915923b?w=1200",
+     "ok": false,
+     "title": "Sessiz çalışmak",
+     "text": "Üst katta sıcak iş yaparken altındaki ekibe haber vermeden başlamak."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1598299803204-b73796f43289?w=1200",
+     "ok": true,
+     "title": "Önceden haberleşmek",
+     "text": "Başlamadan alanı birlikte gezmek, sıcak iş ve yük kaldırma planını paylaşmak."
+    }
+   ],
+   "steps": [
+    "Bu iş birliği sahada nasıl görünür, iki farklı tablo üzerinden bakalım.",
+    "Yanlış olan: kendi işinizi yaparken yanınızdaki ya da altınızdaki ekibe hiçbir şey söylememek. Kıvılcım, düşen parça, kimyasal buharı gibi tehlikeler başka firmanın çalışanlarını etkiler ve onlar buna hazırlıksız yakalanır.",
+    "Doğru olan ise işe başlamadan önce haberleşmek. Alanı birlikte gezmek, kim ne zaman ve nerede çalışacak, hangi tehlikeli iş yapılacak, bunları konuşmak. Küçük bir toplantı, büyük bir kazayı önleyebilir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar neler öğrendik",
+   "bullets": [
+    "Çok işverenli çalışma: asıl-alt işveren, ortak alan, geçici iş",
+    "Asıl işveren, alt işverenin çalışanlarına karşı birlikte sorumludur",
+    "Aynı alanı paylaşan işverenler iş birliği, bilgilendirme, koordinasyon yapar",
+    "Ortak alanlarda koordinasyon yönetimin görevidir"
+   ],
+   "steps": [
+    "Dersin yarısına geldik. Kısaca toparlayalım.",
+    "Tehlikeli işyerlerinde farklı işverenlere bağlı çalışanlar çoğu zaman aynı alanda çalışır. Üç temel durum var: asıl işveren-alt işveren, ortak çalışma alanı ve geçici iş ilişkisi.",
+    "Asıl işveren, alt işverenin çalışanlarına karşı alt işverenle birlikte sorumludur. Yani alt işveren çalışanı olmak, korumasız olmak demek değildir.",
+    "Aynı çalışma alanını paylaşan işverenler iş birliği yapar, riskler konusunda birbirini bilgilendirir ve koordinasyonu sağlar. Sanayi sitesi gibi ortak alanlarda bu koordinasyonu yönetim yürütür.",
+    "Şimdi ikinci yarıda geçici iş ilişkisine ve şantiyelerdeki koordinatöre bakacağız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1564183063457-680b3759a5bd?w=2400",
+   "kicker": "Geçici iş ilişkisi",
+   "title": "Başka firmadan gelen çalışan",
+   "bullets": [
+    "Özel istihdam bürosu aracılığıyla kurulur",
+    "Çalışanı kullanıcı işveren yönetir ve denetler",
+    "Eğitim ve iş sağlığı güvenliği hakları eşittir",
+    "Çalışma koşulları doğrudan işe alınanlardan düşük olamaz"
+   ],
+   "steps": [
+    "Şimdi geçici iş ilişkisine geçelim. Bu ilişki, 4857 sayılı Kanunda düzenlenmiştir.",
+    "Geçici iş ilişkisinde çalışan, iş sözleşmesini bir özel istihdam bürosuyla ya da bir şirket grubu içinde yapar; ama fiilen başka bir işverenin, yani kullanıcı işverenin işyerinde çalışır. Kanun bu ilişkiyi yalnızca belli durumlarda mümkün kılar.",
+    "Çalışanı kullanıcı işveren yönetir. İşi o verir, denetimi o yapar. Bu nedenle sahadaki güvenlik talimatlarını da o verir.",
+    "Kanun, geçici işçiye kullanıcı işyerinde iş sağlığı ve güvenliği eğitimi ve sosyal hizmetler gibi konularda kadrolu çalışanlarla eşit imkân tanınmasını ister. Yani 'ben geçiciyim, eğitime ihtiyacım yok' diye bir şey yok.",
+    "Ayrıca geçici işçinin temel çalışma koşulları, doğrudan işe alınan benzer işte çalışanlardan daha düşük olamaz. Bu, güvenlik donanımı ve eğitim gibi konuları da kapsayan genel bir ilkedir.",
+    "Peki geçici çalışan olarak ne yapmalısınız? İlk gün işin riskleri, alan ve kullanacağınız ekipmanlar hakkında bilgi isteyin. Gerekli belgeniz yoksa, o işe başlamayın; bunu açıkça söyleyin."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1620388640785-892616248ec8?w=2400",
+   "kicker": "Örnek olay 2",
+   "title": "Sezonluk depoda geçici çalışan",
+   "bullets": [
+    "Yeni gelen forklift ehliyetli olduğunu söyledi",
+    "Operatör belgesi kontrol edilmedi",
+    "Önce kontrol, sonra görev verilmeli"
+   ],
+   "steps": [
+    "İkinci örnek olayımız bir lojistik depodan. Yılın en yoğun döneminde depo, özel istihdam bürosu aracılığıyla on kişilik bir ekip alıyor. İçlerinden Murat, forklift ehliyetli olduğunu söylüyor ve ilk gün sevkiyat bölgesinde yük taşımaya başlatılıyor.",
+    "Murat'ın ehliyeti var ama belgesi eskiymiş ve deponun dar koridorlarını hiç görmemiş. Köşeyi dönerken paletli yükü raflara çarpıyor. Raftaki koliler düşüyor; yanındaki hiçbir çalışan yaralanmıyor ama çok yakın bir durum yaşanıyor.",
+    "Burada kullanıcı işveren olan depo, geçici çalışana işe başlama eğitimi, alan tanıtımı ve operatör belgesi kontrolü yapmak zorundaydı. Büro ile depo bu sorumluluğu birbirine atmamalıydı.",
+    "Peki siz bu durumda olsanız ne yapardınız? İlk gün, işinizin gerektirdiği belgenin ve eğitimin kontrol edilmesini isteyin. Bu, kimseyi suçlamak değil, hepimizin güvenliği için yapılan bir kontroldür."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Yapı işleri",
+   "title": "Ne zaman ön bildirim gerekir?",
+   "items": [
+    {
+     "value": "30",
+     "unit": "iş günü",
+     "label": "bu süreyi aşan yapı işleri"
+    },
+    {
+     "value": "20",
+     "unit": "kişi",
+     "label": "aynı anda çalışan sayısı üstünde"
+    },
+    {
+     "value": "500",
+     "unit": "adam-gün",
+     "label": "toplam iş gücü gerekiyorsa"
+    }
+   ],
+   "steps": [
+    "Şimdi çok işverenli çalışmanın en yaygın olduğu yere, şantiyeye geliyoruz. Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği, bu işler için ek kurallar getirir. Önce ön bildirim kuralına bakalım.",
+    "İki ölçüt var ve ilki süre ve kişi sayısına bağlı. Yapı işi 30 iş gününden uzun sürecekse ve işin sürdüğü sırada aynı anda 20'den fazla kişi çalışacaksa, işin başlamasından önce bir bildirim yapılması gerekir.",
+    "İkinci ölçüt ise toplam iş gücü. Yani kaç kişinin aynı anda çalıştığına bakılmaksızın iş, toplam olarak 500 adam-günden fazla iş gücü gerektiriyorsa da aynı yükümlülük doğar.",
+    "Bildirim, ilgili çalışma ve istihdam il müdürlüğüne yapılır; şantiyenin adresi, işveren ve alt işverenler, koordinatörler, başlangıç ve bitiş tarihleri gibi bilgiler yer alır. Bu bilgiler şantiyede herkesin göreceği bir panoda da asılır. Ayrıca şantiyede birden fazla işveren ya da alt işveren çalışıyorsa, bir ya da daha fazla sağlık ve güvenlik koordinatörü atanır. Şimdi bu kişiyi tanıyalım."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Koordinatör",
+   "title": "Güvenlik ve sağlık koordinatörü ne yapar?",
+   "items": [
+    {
+     "title": "Plan hazırlar",
+     "text": "Sağlık ve güvenlik planını yapar"
+    },
+    {
+     "title": "Dosya tutar",
+     "text": "Sonraki işler için güvenlik dosyası hazırlar"
+    },
+    {
+     "title": "İş birliği sağlar",
+     "text": "İşverenler ve alt işverenler arasında koordinasyon"
+    },
+    {
+     "title": "Günceller",
+     "text": "Plan ve dosyayı iş ilerledikçe yeniler"
+    },
+    {
+     "title": "Kontrol eder",
+     "text": "Güvenlik denetimlerini ve izinsiz girişi önlemeyi koordine eder"
+    }
+   ],
+   "steps": [
+    "Koordinatörün görevleri iki aşamada ele alınır: projenin hazırlık aşaması ve uygulama aşaması.",
+    "Hazırlık aşamasında koordinatör, sağlık ve güvenlik planını hazırlar ya da hazırlanmasını sağlar. Plan, şantiyedeki riskleri, önlemleri, çalışma yöntemlerini, zamanlamayı ve kimin neyden sorumlu olduğunu gösterir.",
+    "Yine bu aşamada, yapı bittikten sonra temizlik, bakım, onarım ya da yıkım gibi işlerde işe yarayacak bir güvenlik ve sağlık dosyası hazırlar.",
+    "Uygulama aşamasında işverenler ve alt işverenler arasındaki iş birliğini sağlar, sonradan şantiyeye katılan firmalar dahil herkesin bilgilendirilmesine yardımcı olur.",
+    "Plan ve dosyayı, iş ilerledikçe ve koşullar değiştikçe güncel tutar.",
+    "Son olarak, gerekli güvenlik kontrollerinin yapılmasını koordine eder ve yetkisiz kişilerin şantiyeye girmesini önleyecek tedbirler alınmasını sağlar."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1599707254554-027aeb4deacd?w=2400",
+   "kicker": "Önemli ilke",
+   "value": "Devretmez",
+   "title": "Koordinatör atamak, işverenin ve alt işverenlerin sorumluluğunu ortadan kaldırmaz",
+   "text": "Yönetmeliğe göre işverenler ve alt işverenler, koordinatörün uyarı ve talimatlarını dikkate almak zorundadır.",
+   "steps": [
+    "Burada çok önemli bir ilkeyi vurgulayalım. Koordinatör atanması, işverenin, yapı yaptıranın ya da alt işverenlerin kendi sorumluluklarını ortadan kaldırmaz.",
+    "Yani 'bizim koordinatörümüz var, güvenlik onun işi' diyemezsiniz. Koordinatör, iş birliğini sağlayan kişidir; önlemi alacak olan hâlâ iş yapan işverendir.",
+    "Diğer yandan, işverenler ve alt işverenler koordinatörün uyarılarını, tespitlerini ve talimatlarını dikkate almak zorundadır. Kendi başına çalışan kişiler de buna dahildir. Şantiyede koordinatör ya da sağlık ve güvenlik görevlisi sizi uyardığında, bunu bir lütuf değil, kurallar gereği bir yükümlülük olarak görün."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1778074762022-c33cc42f79ae?w=2400",
+   "kicker": "Sağlık ve güvenlik planı",
+   "title": "Plan sizin için ne ifade eder?",
+   "bullets": [
+    "Şantiyedeki riskleri ve önlemleri gösterir",
+    "Hangi işi kimin ne zaman yapacağını belirler",
+    "Tüm işverenleri ve alt işverenleri bağlar",
+    "Güncel hâli şantiyede erişilebilir olmalı"
+   ],
+   "steps": [
+    "Sağlık ve güvenlik planı, yapı işlerinin en önemli belgelerinden biridir. Ama şantiyede çoğu çalışan bu planı hiç görmez. Oysa sizi doğrudan ilgilendirir.",
+    "Plan, tüm şantiyedeki riskleri ve bu risklere karşı alınacak önlemleri, çalışma yöntemlerini ve zamanlamayı gösterir. Yani vinç hareket ederken altında kimin ne işle uğraşacağı, bu planda düşünülür.",
+    "Planın en önemli özelliği, şantiyedeki bütün işverenleri, alt işverenleri ve kendi hesabına çalışanları kapsamasıdır. Kimse 'bu bizim işimiz değil' diyerek plandan çıkamaz.",
+    "Ayrıca iş ilerledikçe planın güncellenmesi gerekir. Şantiyenizde plan güncel mi, erişilebilir mi? Ustabaşınıza ya da sağlık ve güvenlik sorumlusuna sorun; en azından sizin işinizle ilgili bölümünü bilmek en doğal hakkınızdır.",
+    "Kısacası plan, şantiyedeki herkesin aynı sayfadan okuduğu ortak bir güvenlik haritasıdır. Haritayı bilmeyen birinin yolu kaybetmesi çok kolaydır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1636362006544-22445420703f?w=2400",
+   "kicker": "Örnek olay 3",
+   "title": "Kalıp ekibi ve iskele ekibi",
+   "bullets": [
+    "İki alt işveren aynı cephede çalışıyordu",
+    "İskele ekibi haber vermeden platformu değiştirdi",
+    "Koordinatör toplantısı yapılsaydı önlenirdi"
+   ],
+   "steps": [
+    "Üçüncü örnek olayımız bir konut şantiyesinden. Bir alt işveren kalıp ekibi, binanın cephesinde çalışıyor. Aynı cephede başka bir alt işveren de iskele ekibi, aynı gün iskele platformunu yeniden düzenliyor.",
+    "İskele ekibi, kalıpçılara haber vermeden bazı tahta platformları söküyor. Kalıpçı Ali usta, çalışma sırasında ayağını bastığı noktanın boş olduğunu son anda fark ediyor ve korkuluğa tutunarak kendini kurtarıyor. Allah'tan emniyet kemeri takılıydı.",
+    "Bu olayda sorun, iki ekibin işini birbirinden habersiz yapmasıydı. Yönetmelik tam da bu nedenle koordinatörü ve ortak planı zorunlu kılar.",
+    "Ne yapılmalıydı? Günlük koordinasyon toplantısında iskele değişikliği anlatılmalı, platformun kullanılmayacağı alan işaretlenmeli ve kalıpçılar bilgilendirilmeliydi. Siz de çalıştığınız yerde bir değişiklik fark ederseniz hemen bildirin; 'herkes zaten bilir' varsayımı çok pahalıya mal olur."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1530639834082-05bafb67fbbe?w=2400",
+   "kicker": "Çalışan açısından",
+   "title": "Birden fazla işveren varken haklarınız",
+   "bullets": [
+    "Eğitim ve KKD'yi kendi işvereniniz sağlar",
+    "Alanın riskleri hakkında bilgilendirilmek hakkınızdır",
+    "Ciddi ve yakın tehlikede çalışmaktan kaçınabilirsiniz",
+    "Güvenlik sorununu çalışan temsilciniz ve amirinize iletin"
+   ],
+   "steps": [
+    "Şimdi konuyu sizin gözünüzden bir kez daha görelim. Birden fazla işverenin olduğu bir işyerinde hangi hakları kullanabilirsiniz?",
+    "Birincisi eğitim ve kişisel koruyucu donanım. Bunları kendi işvereniniz sağlar. Ama çalıştığınız alanın riskleri hakkında, asıl işyerinden de bilgilendirilmeyi beklemek hakkınızdır.",
+    "İkincisi, ciddi ve yakın bir tehlikeyle karşılaştığınızda, gerekli önlemler alınana kadar çalışmaktan kaçınma hakkı. Bu hak, hangi firmaya bağlı çalışırsanız çalışın geçerlidir. Bu hakkı ve nasıl kullanıldığını çalışan haklarına ayrılan derste ayrıntılı göreceğiz.",
+    "Üçüncüsü, güvenlik sorunlarını iletme hakkı. Önce kendi amirinize, işler çözülmüyorsa çalışan temsilcinize başvurun. Çalışan temsilcisi işyerindeki diğer firma çalışanları adına da öneride bulunabilir.",
+    "Hak kullanmak sizi cezalandırılacak biri yapmaz. Kimse, güvenlik gerekçesiyle yaptığınız bir başvuru nedeniyle işten çıkarılma tehdidine maruz bırakılamaz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1672954766589-49f0dd0e106f?w=2400",
+   "kicker": "Talimat zinciri",
+   "title": "Sahada talimatı kimden alırsınız?",
+   "bullets": [
+    "İş talimatını kendi işvereninizin yetkilisinden alırsınız",
+    "Alanın güvenlik kurallarına asıl işveren koyar",
+    "Çelişki varsa daha güvenli olan seçilir",
+    "Şüphede çalışmayı durdurup sorarsınız"
+   ],
+   "steps": [
+    "Karışıklığın en sık yaşandığı konu talimat zinciridir. Kim size 'şunu yap' diyebilir, kimin söylediği daha önemlidir?",
+    "İş talimatını, yani ne yapacağınızı, kendi işvereninizin yetkili kişisinden, yani ustabaşınızdan, şefinizden alırsınız. Başka firmanın çalışanı size iş emri veremez.",
+    "Ama alanın güvenlik kurallarını, örneğin bu bölgeye hangi KKD ile girileceğini ya da hangi yolun kullanılacağını, çoğunlukla işyerinin asıl işvereni belirler. Bunlara hangi firmadan olursanız olun uymak zorundasınız.",
+    "İki talimat çelişirse, yani biri 'devam et', diğeri 'dur, tehlikeli' diyorsa, her zaman daha güvenli olanı seçin ve durumu amirinize bildirin.",
+    "Kuşku duyduğunuzda işi durdurup sormak, hata değildir; en doğru güvenlik davranışıdır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=2400",
+   "kicker": "Kaza olursa",
+   "title": "Alt işveren çalışanı olarak kazada ne yapılır?",
+   "bullets": [
+    "Önce güvenliği sağlayın, gerekirse 112'yi arayın",
+    "Kendi amirinize ve alan sorumlusuna haber verin",
+    "Olay yerini ve bilgileri koruyun"
+   ],
+   "steps": [
+    "Bir de kaza durumunu düşünelim. Çok işverenli bir yerde bir kaza olursa kime ne söylenir?",
+    "Önce herkesin güvenliği: gerekirse 112'yi arayın, ilk yardımı bilen birine haber verin, alanı güvenli hale getirin.",
+    "Hemen ardından olayı kendi amirinize ve işyerindeki alan sorumlusuna bildirin. Kazanın kayıtlara geçmesi sizin hakkınızı korur. Kazayı SGK'ya bildirme yükümlülüğü, çalışanın işvereninde, yani sizin iş sözleşmenizin tarafı olan işverendedir.",
+    "Olay yerindeki bilgileri korumaya çalışın: ne olduğunu, kimin gördüğünü ve saat kaçta olduğunu not edin. Bu bilgiler, kazanın nedeninin ve kimin sorumlu olduğunun anlaşılmasında çok önemlidir. Kaza sonrası hukuki süreci gelecek derslerde işleyeceğiz."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Giriş sürecinde",
+   "title": "Yeni bir işyerinde çalışmaya başlarken",
+   "items": [
+    {
+     "title": "Kayıt ve kimlik",
+     "text": "Giriş kartı ya da kayıt, ziyaretçi değil çalışan olarak"
+    },
+    {
+     "title": "Alan bilgisi",
+     "text": "Riskler, yasak bölgeler, acil çıkışlar"
+    },
+    {
+     "title": "İş izni",
+     "text": "Tehlikeli işlerde yazılı izin ve koşullar"
+    },
+    {
+     "title": "Acil durum",
+     "text": "Toplanma yeri, alarm ve iletişim numaraları"
+    },
+    {
+     "title": "İletişim",
+     "text": "Kimden talimat alacağınız ve kime bildireceğiniz"
+    }
+   ],
+   "steps": [
+    "Başka bir firmanın işyerine ilk girdiğinizde, aklınızda bir kontrol listesi olsun.",
+    "Birincisi kayıt ve kimlik. İşyerine giriş yaparken, size verilen kartı ya da kaydı ciddiye alın. Böylece acil durumda alanda kaç kişi olduğu doğru bilinir.",
+    "İkincisi alan bilgisi. İşyerinin riskleri, yasak bölgeleri, trafik düzeni ve acil çıkışları size anlatılmalı. Anlatılmadıysa sorun.",
+    "Üçüncüsü iş izni. Yüksekte, kapalı alanda, sıcak işte ya da enerji ile ilgili bir işe başlamadan yazılı izin ve koşulları bilmeniz gerekir.",
+    "Dördüncüsü acil durum bilgisi: alarmın sesi, toplanma yeri ve acil durum telefonları.",
+    "Beşincisi, iletişim: iş talimatını kimden alacağınızı ve bir tehlike gördüğünüzde kime haber vereceğinizi öğrenin."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1760161306014-e2dcc13cbdf8?w=2400",
+   "kicker": "Ortak iletişim",
+   "title": "Güvenli çalışmak için sahada iletişim",
+   "bullets": [
+    "Günlük başlangıç toplantılarına katılın",
+    "Vardiya ve iş değişikliklerinde bilgi aktarın",
+    "Tehlikeli bölgeleri işaretleyin ve haber verin",
+    "Anlamadığınız bir talimatı mutlaka sorun"
+   ],
+   "steps": [
+    "Bu işyerlerinde kazaların çoğunun ardında bir iletişim kopukluğu yatar. O yüzden iletişimi güçlü tutmak için birkaç basit alışkanlık edinelim.",
+    "Günlük başlangıç toplantılarına katılın. Burada o günkü işler, değişiklikler ve riskler konuşulur. Toplantıya gelmeyen bir ekibin, hangi alanın bugün kapalı olduğunu bilmesi mümkün değildir.",
+    "Vardiya ya da iş değişikliklerinde bilgi aktarın. Gece vardiyası, yarım kalmış bir işi gündüz ekibine açıkça anlatmalıdır.",
+    "Tehlikeli bölgeleri bantla ya da levhayla işaretleyin ve yanınızdaki firmaya da haber verin. Açık bir çukuru ya da kapatılmış bir yolu yalnızca siz biliyorsanız, güvenlik sağlanmış sayılmaz.",
+    "Ve en önemlisi, anlamadığınız bir talimatı sorun. Bir iki dakikalık sorgulama, saatler süren bir kurtarma çalışmasından çok daha iyidir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1781157080615-ffde66c035a5?w=2400",
+   "kicker": "Sizin işyeriniz",
+   "title": "Bu kuralları işyerinizde nerede görürsünüz?",
+   "bullets": [
+    "Giriş kartı, pano ve alan levhaları",
+    "İş izni formları ve toplantı tutanakları",
+    "Yüz yüze eğitimde özel riskler"
+   ],
+   "steps": [
+    "Şimdi dersin son bölümüne, işyerinize dönüp bakmaya geldik. Cevabını içinizden verin.",
+    "İşyerinizde sizden başka firmaların çalışanları var mı? Varsa, onların hangi alanda çalıştığını biliyor musunuz? Giriş kartı, bilgilendirme panosu ve alan levhaları bunun izleridir.",
+    "Tehlikeli bir iş yapılmadan önce yazılı iş izni alınıyor mu? Başka firmalarla yapılan koordinasyon toplantılarının tutanağı var mı? Bunlar iş birliği ve koordinasyon yükümlülüğünün sahadaki görünümüdür.",
+    "Bu temel eğitim online verildiği için işyerinize özgü riskler burada anlatılamıyor. Bunları, yüz yüze verilecek eğitimde iş güvenliği uzmanınızla konuşacaksınız. Şimdiden sorularınızı not alın."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Kısa karşılaştırma",
+   "title": "Sorumluluğu birbirine atmak ve paylaşmak",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1628147529780-36964fbb8d54?w=1200",
+     "ok": false,
+     "title": "Sorumluluğu atmak",
+     "text": "'Bu alan bizim değil' diyerek riski bildirmemek, uyarıları duymazdan gelmek."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1614127938540-a1139bee1841?w=1200",
+     "ok": true,
+     "title": "Sorumluluğu paylaşmak",
+     "text": "Riski bildirmek, uyarıları dikkate almak, ortak önlemi birlikte uygulamak."
+    }
+   ],
+   "steps": [
+    "Dersi bitirmeden önce, bu konuda sık görülen bir yanlışı ve doğrusunu bir kez daha görelim.",
+    "Yanlış tutum şudur: 'Bu bizim alanımız değil, başkası halleder.' Bu düşünceyle riski bildirmeyen, uyarıyı duymazdan gelen ve ortak önleme uymayan her taraf kazanın bir parçası olur.",
+    "Doğru tutum ise riski paylaşmaktır: gördüğünüz tehlikeyi ister kendi firmanızın isterse başkasının olsun hemen bildirmek, gelen uyarıları dikkate almak ve ortak önlemi birlikte uygulamak. Güvenlik, bölünen değil birleştirilen bir iştir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1774599730788-a74cd9253b56?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Asıl işveren, alt işverenin çalışanlarına karşı birlikte sorumludur",
+    "Aynı alanı paylaşan işverenler iş birliği, bilgilendirme ve koordinasyon yapar",
+    "Geçici işçi de eğitim ve güvenlik haklarından eşit yararlanır",
+    "Şantiyede koordinatör atanır; sorumluluk devredilmez",
+    "Hangi firmaya bağlı olursanız olun haklarınız aynıdır"
+   ],
+   "steps": [
+    "Dersimizin sonuna geldik. Öğrendiklerimizi son kez özetleyelim.",
+    "Tehlikeli işlerde birden fazla işverenin aynı yerde çalışması çok yaygındır. Asıl işveren, alt işverenin çalışanlarına karşı alt işverenle birlikte sorumludur.",
+    "Aynı çalışma alanını paylaşan işverenler iş sağlığı ve güvenliği konusunda iş birliği yapar, riskler hakkında birbirini bilgilendirir ve koordinasyon sağlar. Sanayi sitesi gibi ortak alanlarda koordinasyon yönetime aittir.",
+    "Geçici iş ilişkisinde de çalışan, eğitim ve güvenlik haklarından eşit biçimde yararlanır. Şantiyelerde ise güvenlik ve sağlık koordinatörü atanır; fakat bu atama, işverenlerin sorumluluğunu ortadan kaldırmaz.",
+    "Hangi firmaya bağlı çalışırsanız çalışın, güvenlik haklarınız aynıdır. Çekinmeyin, sorun, bildirin.",
+    "Dersin sonunda birkaç kısa soru sizi bekliyor. Anlattıklarımızı hatırlarsanız rahatlıkla cevaplayacaksınız. Bir sonraki ders iş kazası ve meslek hastalığından doğan hukuki sonuçlara devam edecek. Görüşmek üzere."
+   ]
+  }
+ ]
+}

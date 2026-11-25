@@ -51,7 +51,7 @@ def main(p):
                 if t in ("cards", "roles", "dodont") and (len(x.get("title", "")) > 26 or len(x.get("text", "")) > 110): err.append(f"{n}: öğe başlık<=26 / metin<=110")
         if t not in ("cover", "split", "stats", "cards", "roles", "check", "photo", "fact", "process", "dodont"): err.append(f"{n}: bilinmeyen tür")
     code = j.get("code", ""); m = re.match(r"az8_([gsto])\d", code); est = words / 2.02
-    tgt = TARGET[m.group(1)] if m else 0
+    tgt = TARGET[m.group(1)] if m else (1350 if re.match(r"tc_[gst]\d", code) else 0)
     print(f"{p}: {len(j.get('scenes', []))} sahne, {words} kelime, tahmini {est / 60:.1f} dk" + (f" (hedef {tgt / 60:.1f} dk, gereken kelime >= {int(tgt * 2.02 * 1.03)})" if tgt else ""))
     if tgt and est < tgt * 1.03: err.append(f"süre kısa: {int(tgt * 2.02 * 1.03) - words} kelime daha gerekli")
     photos = sum(1 for sc in j["scenes"] if sc.get("photo") or any(x.get("photo") for x in sc.get("items", [])))

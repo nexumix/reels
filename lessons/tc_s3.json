@@ -1,0 +1,698 @@
+{
+ "code": "tc_s3",
+ "course": "Temel İSG Eğitimi · Tehlikeli ve Çok Tehlikeli",
+ "section": "2. Bölüm · Sağlık Konuları",
+ "title": "Hastalıktan korunma prensipleri ve korunma tekniklerinin uygulanması",
+ "voice": {
+  "lang": "tr-TR",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "gender": "MALE"
+ },
+ "scenes": [
+  {
+   "type": "cover",
+   "photo": "https://images.unsplash.com/photo-1758518731706-be5d5230e5a5?w=2400",
+   "kicker": "2. Bölüm · Ders 3",
+   "title": "Hastalıktan korunma prensipleri ve korunma teknikleri",
+   "subtitle": "Önce kaynakta durdurun, sonra kendinizi koruyun",
+   "steps": [
+    "Merhaba, hoş geldiniz. Bu derste hastalıklardan nasıl korunacağımızı konuşacağız. Konumuz yalnızca grip ya da nezle değil. Toz, gürültü, kimyasal buhar gibi işinizden gelen sağlık risklerini, yani meslek hastalıklarına giden yolu nasıl kapatacağımızı göreceğiz.",
+    "Tehlikeli ve çok tehlikeli işyerlerinde bu konu gerçekten özellikle önemli. Çünkü kaynak dumanı, boya buharı, metal tozu ya da makine gürültüsüne her gün maruz kalıyorsanız, korunma bir tercih değil, günlük işin parçasıdır. Hazırsanız başlayalım."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Yol haritası",
+   "title": "Bu derste neler öğreneceğiz",
+   "items": [
+    {
+     "title": "Önleme hiyerarşisi",
+     "text": "Kaynakta yok etmeden KKD'ye beş basamak"
+    },
+    {
+     "title": "Ortam ölçümleri",
+     "text": "Gürültü, toz, kimyasal ve aydınlatma ölçümü"
+    },
+    {
+     "title": "Sağlık muayeneleri",
+     "text": "İşe giriş ve periyodik muayene, sıklıklar"
+    },
+    {
+     "title": "Hijyen",
+     "text": "Kişisel temizlik ve iş kıyafeti kuralları"
+    }
+   ],
+   "steps": [
+    "Önce yol haritamıza bakalım. Dersimiz dört bölümden oluşuyor.",
+    "Birinci bölümde korunmanın mantığını, yani önleme hiyerarşisini öğreneceğiz. Hangi önlem önce gelir, hangisi en son çare olur, bunu göreceğiz.",
+    "İkinci bölümde ortam ölçümlerini konuşacağız. Havadaki toz ya da gürültü seviyesi nasıl ölçülür, sonuçlar ne işe yarar?",
+    "Üçüncü bölümde işe giriş ve periyodik sağlık muayenelerini ele alacağız. Tehlikeli ve çok tehlikeli sınıfta bu muayeneler ne sıklıkla yapılır?",
+    "Son bölümde de hijyeni, yani kişisel temizlik alışkanlıklarını işyerinize uyarlayarak konuşacağız."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=2400",
+   "kicker": "Neden önemli?",
+   "title": "Meslek hastalıkları sessiz ve yavaş gelir",
+   "bullets": [
+    "Belirtiler yıllar sonra ortaya çıkabilir",
+    "Hastalık çoğu zaman geri dönmez",
+    "Önlemek, tedavi etmekten çok daha kolaydır"
+   ],
+   "steps": [
+    "İş kazası bir anda olur, herkes görür. Meslek hastalığı ise sessizce gelir. Bugün hissetmediğiniz bir etki, yıllar sonra karşınıza çıkabilir.",
+    "Mesela her gün kulağınıza gelen yüksek gürültü, ilk aylarda sizi rahatsız etmeyebilir. Ama kulaktaki hücreler yavaş yavaş zarar görür ve belirtiler çoğu zaman yıllar sonra fark edilir.",
+    "Kaybedilen işitme gibi birçok meslek hastalığında zarar geri dönmez. Akciğerdeki toz birikimi ya da deriye yerleşen bir alerji de benzer şekilde kalıcı olabilir.",
+    "İyi haber şu: bu hastalıkların büyük bölümü önlenebilir. Doğru sırayla alınan önlemler, hastalığı daha başlamadan durdurur. İşte o sırayı şimdi öğreneceğiz."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Maruziyet",
+   "title": "Hastalık riskini üç şey belirler",
+   "items": [
+    {
+     "value": "Şiddet",
+     "unit": "",
+     "label": "Etken ne kadar yoğun"
+    },
+    {
+     "value": "Süre",
+     "unit": "",
+     "label": "Ne kadar süre maruz kalıyorsunuz"
+    },
+    {
+     "value": "Kişi",
+     "unit": "",
+     "label": "Kişisel hassasiyet ve sağlık durumu"
+    }
+   ],
+   "steps": [
+    "Aynı ortamda çalışan iki kişiden biri hastalanıp diğeri hastalanmayabilir. Bunun nedeni, hastalık riskinin birkaç şeye bağlı olması.",
+    "Birincisi etkenin şiddeti. Havadaki toz ya da buhar ne kadar yoğunsa ya da ses ne kadar yüksekse risk o kadar büyüktür.",
+    "İkincisi süre. Aynı etkiye günde yarım saat maruz kalmak ile sekiz saat maruz kalmak çok farklıdır. Yıllar boyunca biriken etki de hesaba katılır.",
+    "Üçüncüsü kişiye bağlı faktörler: alerji, astım gibi mevcut hastalıklar, yaş ve genel sağlık durumu. İşte bu yüzden hem ortamı düzeltiriz hem de çalışanın sağlığını muayeneyle izleriz. Önleme iki ayak üzerinde durur."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Önleme hiyerarşisi",
+   "title": "Korunmanın beş basamağı",
+   "items": [
+    {
+     "title": "Kaynakta yok et",
+     "text": "Tehlikeyi tamamen ortadan kaldır"
+    },
+    {
+     "title": "İkame et",
+     "text": "Zararlı maddenin yerine daha güvenlisini koy"
+    },
+    {
+     "title": "Mühendislik önlemi",
+     "text": "Havalandırma, kapatma, makine koruyucusu"
+    },
+    {
+     "title": "İdari önlem",
+     "text": "Süre, rotasyon, eğitim, talimat"
+    },
+    {
+     "title": "KKD",
+     "text": "Son çare: kişisel koruyucu donanım"
+    }
+   ],
+   "steps": [
+    "Korunmada bir öncelik sırası var ve bu sıra mevzuatta da karşılığını bulur. Kanun, işverenden riskleri kaynağında önlemesini, tehlikeli olanı az tehlikeli olanla değiştirmesini ve toplu korunma önlemlerine kişisel korunma önlemlerinden önce yer vermesini ister.",
+    "Birinci basamak, tehlikeyi kaynağında yok etmek. Zehirli bir madde hiç kullanılmıyorsa, kimse ona maruz kalmaz. En güçlü önlem budur.",
+    "Yok edemiyorsanız ikinci basamağa geçersiniz: ikame. Yani tehlikeli olanı daha az tehlikeli olanla değiştirirsiniz. Solvent bazlı bir ürün yerine su bazlı bir ürün kullanmak gibi.",
+    "Üçüncü basamak mühendislik önlemleri. Tehlike duruyorsa onu çalışandan ayırırsınız: yerel havalandırma, kapalı sistem, makine koruyucusu, ses yalıtımı gibi.",
+    "Dördüncü basamak idari önlemler: çalışma sürelerini kısaltmak, görev rotasyonu, eğitim, yazılı talimat, uyarı levhaları ve bakım programları. Beşinci ve en son basamak ise kişisel koruyucu donanım yani KKD.",
+    "Bu beş basamağı bir merdiven gibi düşünün. Her zaman en yukarıdan başlarız. Bir basamakta yeterli koruma sağlanamıyorsa bir altındakiyle destekleriz. Ama aşağıdaki basamak, üstteki basamağın yerini tutmaz."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1758518730037-a16581a040e8?w=2400",
+   "kicker": "Neden bu sıra?",
+   "title": "Önlem sırası rastgele değildir",
+   "bullets": [
+    "Üst basamak herkesi aynı anda korur",
+    "Alt basamak çalışanın davranışına bağlıdır",
+    "Seçim risk değerlendirmesiyle yapılır"
+   ],
+   "steps": [
+    "Peki neden bu sıra? Çünkü üst basamaklar insan hatasına daha az bağımlıdır.",
+    "Tehlike kaynağında yok edildiğinde ya da emişle toplandığında, o ortamdaki herkes korunur. Kimsenin bir şey hatırlaması, takması ya da dikkat etmesi gerekmez.",
+    "Alt basamaklarda ise koruma çalışanın davranışına bağlıdır. Maskeyi takmak, kulaklığı çıkarmamak, talimata uymak gibi. İnsan yorulur, unutur, bazen rahatsız olur ve bırakır.",
+    "Hangi önlemin seçileceği, işyerinde yapılan risk değerlendirmesiyle belirlenir. Sizin gözleminiz, bu değerlendirmenin en önemli girdilerinden biridir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Üst basamaklar",
+   "title": "Önce işin kendisini değiştirin",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1714504904786-b6732390b206?w=1200",
+     "tag": "Yok etme",
+     "title": "Maddeyi bırakmak",
+     "text": "Gereksiz boya inceltici kullanımı sonlandırılır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1626379481874-3dc5678fa8ca?w=1200",
+     "tag": "İkame",
+     "title": "Daha güvenli ürün",
+     "text": "Solvent yerine su bazlı boya ya da yağ çözücü seçilir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1651500963570-e2bfd5a4f94b?w=1200",
+     "tag": "Mühendislik",
+     "title": "Kaynağında emiş",
+     "text": "Kaynak dumanı, çalışanın yüzüne ulaşmadan emilir."
+    }
+   ],
+   "steps": [
+    "Gelin bu üç üst basamağı atölyelerden örneklerle görelim.",
+    "Yok etme: Bir boya hattında, işin gerçekten gerektirmediği bir inceltici kullanılıyorsa, o maddeyi tamamen bırakmak en iyi çözümdür. Kullanılmayan kimyasalın çalışana zararı olmaz.",
+    "İkame: Parça yağ almada ağır bir solvent yerine su bazlı bir temizleyiciyle iş görülebiliyorsa, ürün değiştirilir. Tehlike azalır ama işin kalitesi bozulmaz. Bu karar için ürünün güvenlik bilgi formuna bakılır.",
+    "Mühendislik önlemi: Kaynak atölyesinde duman kaçınılmazsa, bu duman kaynak noktasının hemen yanındaki emiş kolu ile çalışan solumadan toplanır. Genel havalandırma da yardımcı olur ama kaynağında emiş çok daha etkilidir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1748640857973-93524ef0fe7d?w=2400",
+   "kicker": "İdari önlemler",
+   "title": "Düzen ve eğitimle riski azaltmak",
+   "bullets": [
+    "Maruziyet süresini kısaltmak, işi dönüşümlü yapmak",
+    "Yazılı talimat ve işaretleme",
+    "Bakım programı: filtre ve emiş düzenli kontrol edilir",
+    "Eğitim: doğru yöntemi herkes bilir"
+   ],
+   "steps": [
+    "Mühendislik önlemi mümkün olmadığında ya da tek başına yetmediğinde idari önlemler devreye girer. Bunlar işin organizasyonuyla ilgilidir.",
+    "Birincisi, maruziyet süresini azaltmak. Gürültülü presin başında bütün vardiyayı tek kişi geçirmez; görevler dönüşümlü yapılır.",
+    "İkincisi, yazılı talimat ve işaretleme. Gürültülü alan ya da kimyasal depolama bölgesi levhayla belli edilir. Kim neyi nasıl yapacağını bilir.",
+    "Üçüncüsü, bakım programı. Emiş kolunun filtresi dolmuşsa ya da fan arızalıysa, mühendislik önlemi kâğıt üzerinde kalır. Bu yüzden düzenli bakım şarttır.",
+    "Dördüncüsü eğitim. Aldığınız bu eğitimler de bir idari önlemdir. Ama unutmayın, tek başına eğitim, tehlikeyi ortadan kaldırmaz.",
+    "Sonuç olarak idari önlemler değerlidir ama kolay unutulur ve kişiye bağlıdır. Bu yüzden mümkün olduğunca mühendislik önlemleriyle birlikte uygulanırlar."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1766021736538-3208f2ad05f2?w=2400",
+   "kicker": "Unutmayın",
+   "value": "Son çare",
+   "title": "KKD, tehlikeyi yok etmez; yalnızca size ulaşmasını azaltır",
+   "text": "Önlem sırasında KKD en sonda gelir, çünkü tehlike yerinde durur ve her an hatalı kullanıma bağlıdır.",
+   "steps": [
+    "Kişisel koruyucu donanım, yani KKD, en son basamaktır. Neden en sonda? Çünkü KKD tehlikeyi ortadan kaldırmaz. Toz yine havadadır, gürültü yine vardır; yalnızca sizinle arasına bir bariyer girer.",
+    "Üstelik KKD ancak doğru seçilir, doğru takılır ve sürekli kullanılırsa korur. Yanlış ölçüdeki maske, kirli filtre ya da yarım takılan kulaklık sizi korumaz. Bu yüzden KKD, diğer önlemlerin yerine değil, onlara ek olarak kullanılır."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Toz örneği",
+   "title": "Tozlu taşlama işinde doğru ve yanlış",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=1200",
+     "ok": false,
+     "title": "Yalnızca maske",
+     "text": "Toz havada kalır; maske kirlenir, çalışan sürekli yorulur."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?w=1200",
+     "ok": true,
+     "title": "Emiş, sonra maske",
+     "text": "Yerel emiş tozu toplar, uygun maske kalan riske karşı korur."
+    }
+   ],
+   "steps": [
+    "Bir taşlama tezgâhını düşünün. İşveren sorunu çözmek için herkese toz maskesi dağıtıp bırakıyor. İlk bakışta mantıklı gibi.",
+    "Ama bu yaklaşım yanlış. Toz yine havada. Maske çabuk dolar, nefes almak zorlaşır, çalışan maskeyi indirir. Ayrıca atölyedeki diğer insanlar da aynı havayı solur.",
+    "Doğrusu şu: önce tezgâha yerel emiş takılır, toz kaynağında toplanır. Kalan küçük risk için de uygun filtreli maske kullanılır. Böylece hem çalışan hem atölye korunur."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1787422429898-709636d27d1a?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Boya atölyesinde Ahmet usta",
+   "bullets": [
+    "Kapı açık, havalandırma kapalı",
+    "Baş ağrısı ve baş dönmesi"
+   ],
+   "steps": [
+    "Ahmet usta, bir mobilya boyahanesinde yıllardır çalışıyor. Son zamanlarda öğleden sonra baş ağrısı ve baş dönmesi yaşıyor. Önce yorgunluğa veriyor, sonra evde geçtiğini görünce üzerinde durmuyor.",
+    "Vardiya amiri Selin, işyeri hekimine durumu aktarıyor. Yapılan ortam ölçümlerinde boya buharının, kabin havalandırması bozulduğu için yüksek çıktığı anlaşılıyor.",
+    "Aynı hafta işyeri hekimi, kabinde çalışan diğer üç kişiyi de muayene ediyor. Birinde hafif solunum şikâyeti çıkıyor ve çalışma yeri değiştiriliyor.",
+    "Fan tamir ediliyor, daha az uçucu bir boyaya geçiliyor ve çalışanlara kabin kullanımı yeniden anlatılıyor. Ahmet usta ise maskeyi tek çözüm sanmayı bıraktı. Dersimiz bu: belirtiyi söylemek, tehlikeyi kaynağında düzeltmenin ilk adımıdır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1623376550339-24a8815405d0?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Dolu filtre, boş güvence",
+   "bullets": [
+    "Maske aylardır değişmedi",
+    "Filtre doluydu, koku geliyordu"
+   ],
+   "steps": [
+    "İkinci bir olay: Bir otomotiv servisinde araç boyası püskürten Kemal, her gün gazlı bir maske takıyor. Ancak filtre aylardır değişmemiş. Bazen boya kokusunu hissediyor ama maske takılı olduğu için bunu normal sayıyor.",
+    "Bir gün işyeri hekimi periyodik muayenede solunum testinde düşüş görüyor. Yapılan incelemede filtrenin dolu olduğu ve kabin emişinin de zayıf çalıştığı ortaya çıkıyor.",
+    "Sonrasında filtre değişim takvimi yapıldı, emiş bakımı yeniden başladı, çalışanlara da kokuyu hissedince filtreyi değiştirmeleri öğretildi. Bu olay bize iki şey söylüyor: KKD tek başına yetmez ve bakımsız bir önlem, önlem sayılmaz."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1758691462123-8a17ae95d203?w=2400",
+   "kicker": "Ara özet",
+   "title": "Buraya kadar öğrendiklerimiz",
+   "bullets": [
+    "Sıra: yok etme, ikame, mühendislik, idari önlem, KKD",
+    "Toplu önlemler kişisel önlemlerden önce gelir",
+    "KKD son çaredir ve tek başına yeterli değildir",
+    "Belirti hissedince bildirmek önleme zincirinin parçasıdır"
+   ],
+   "steps": [
+    "Kısa bir ara özet yapalım.",
+    "Önleme sırası şöyle: kaynakta yok etme, daha az tehlikeliyle değiştirme, mühendislik önlemleri, idari önlemler ve en son KKD.",
+    "Genel kural, toplu korunma önlemlerinin kişisel önlemlerden önce gelmesidir. Çünkü toplu önlem herkesi aynı anda korur ve çalışanın hatasına bağlı değildir.",
+    "KKD gereklidir ama son çaredir. Tek başına kullanmak, kaynaktaki sorunu çözmez.",
+    "Ve son olarak, baş ağrısı, öksürük ya da kaşıntı gibi belirtilerinizi bildirmek, sorunun kaynağında çözülmesini sağlayabilir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1590006137741-5f5892ce5635?w=2400",
+   "kicker": "Ortam ölçümleri",
+   "title": "Havayı ve ortamı ölçmeden bilemeyiz",
+   "bullets": [
+    "Gürültü ve titreşim",
+    "Toz, duman ve kimyasal buhar",
+    "Aydınlatma",
+    "Sıcaklık, nem ve havalandırma"
+   ],
+   "steps": [
+    "Çalıştığınız ortamın sağlığa zararlı olup olmadığını göz ya da burunla anlayamayabilirsiniz. Birçok zararlı etken kokusuzdur ya da alıştıkça fark edilmez. Bu yüzden ortam ölçümleri yapılır.",
+    "Gürültü ve titreşim ölçülür. Makinelerin çıkardığı ses ve el aletlerinin titreşimi, işitme ve el-kol sağlığı için izlenir.",
+    "Toz, duman ve kimyasal buhar ölçülür. Havada bulunan madde miktarının sınır değerlerin altında kalıp kalmadığına bakılır.",
+    "Aydınlatma da ölçülür. Yetersiz ışık hem göz yorgunluğuna hem de kazalara neden olur.",
+    "Son olarak sıcaklık, nem ve havalandırma izlenir. Sıcak bir fırın ya da soğuk hava deposu, çalışanı farklı şekillerde zorlar."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Sorumluluklar",
+   "title": "Ölçüm sonucu kimin ne işi var?",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1792019617210-10e775a3a642?w=1200",
+     "title": "İşveren",
+     "text": "Ölçümleri yaptırır, sonuca göre önlem alır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1594718153856-41a79679d114?w=1200",
+     "title": "İSG uzmanı ve hekim",
+     "text": "Sonuçları yorumlar, önlem ve takip önerir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1784041321486-dc3f5c5a34f9?w=1200",
+     "title": "Siz, çalışan",
+     "text": "Kuralları uygular, değişiklik ve şikâyetleri bildirir."
+    }
+   ],
+   "steps": [
+    "Ölçüm yaptırmak tek başına yetmez. Önemli olan sonucun kullanılması. Kimin ne yaptığına bakalım.",
+    "İşveren, gerekli ortam ölçümlerinin yapılmasını sağlar. Sonuçlar sınırın üzerindeyse önlem almak da onun görevidir.",
+    "İşyerinizdeki iş güvenliği uzmanı ve işyeri hekimi, bu sonuçları yorumlar. Hangi önlem öncelikli, hangi çalışanlar daha yakından izlenmeli, onlar söyler.",
+    "Sizin göreviniz ise kurallara uymak ve ortamda bir değişiklik gördüğünüzde bildirmek. Örneğin yeni bir kimyasal başladıysa ya da makine eskisinden daha gürültülü çalışıyorsa, ölçümün yenilenmesi gerekebilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1780299511230-099abe21bf38?w=2400",
+   "kicker": "Uygulama",
+   "title": "Ölçüm sonucunu sorma hakkınız var",
+   "bullets": [
+    "Panoda ya da uzmandan öğrenin",
+    "Sınır aşılmışsa önlem ne?"
+   ],
+   "steps": [
+    "Pek çok çalışan yapılan ölçümlerin sonucunu hiç görmez. Oysa ortamınızla ilgili bilgi sahibi olma hakkınız var. Sonuçlara ve alınan önlemlere uzmanınızdan, işyeri hekiminizden ya da çalışan temsilcinizden ulaşabilirsiniz.",
+    "Merak ettiğiniz soruları bir kenara not edin. Sınır aşılmış mı? Aşılmışsa hangi önlem planlandı? Ne zaman yeniden ölçülecek? Bu soruları yüz yüze eğitimde uzmanınıza sorabilirsiniz; işyerinize özgü riskleri o eğitimde konuşacaksınız.",
+    "Unutmayın, ölçüm tek seferlik bir iş değildir. Yeni makine alındığında, üretim şekli değiştiğinde ya da şikâyet arttığında ölçümler yenilenir. Sizin gözleminiz, bu yenileme için en önemli işarettir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1666886573531-48d2e3c2b684?w=2400",
+   "kicker": "İşe giriş muayenesi",
+   "title": "Raporsuz işe başlatılmazsınız",
+   "bullets": [
+    "Tehlikeli ve çok tehlikeli işte işe uygunluk raporu şarttır",
+    "Rapor işyeri hekiminden alınır",
+    "Amaç: bu işin sizin sağlığınıza uygun olduğunu görmek"
+   ],
+   "steps": [
+    "Gelelim sağlık muayenelerine. İlki işe giriş muayenesi. Kanun, işverene çalışanı işe başlatmadan önce sağlık muayenesinden geçirme yükümlülüğü getirir.",
+    "Tehlikeli ve çok tehlikeli sınıfta bu çok önemli: işe uygunluğu belirten sağlık raporu olmadan çalışan işe başlatılamaz. Bu rapor işyeri hekiminden alınır.",
+    "Amacı sizi elemek değil. Amaç, o işin sizin sağlığınıza uygun olup olmadığını görmek. Mesela astımı olan biri boyahanede ya da tozlu bir ortamda çalışırsa, hastalığı ağırlaşabilir.",
+    "Bu muayene aynı zamanda bir başlangıç kaydıdır. İşe başlarkenki durumunuz kayıt altına alınır; ileride karşılaştırma yapılabilir. Örneğin işitmeniz başlangıçta normalse ve yıllar sonra düşme görülürse, nedeni aramak için elde sağlam bir kıyas olur. Raporda işe uygunluk dışında bir kısıtlama varsa, örneğin yüksekte ya da tozlu ortamda çalışmama gibi, işveren bunu görev dağılımında dikkate alır."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1624638760852-8ede1666ab07?w=2400",
+   "kicker": "Hangi durumlarda?",
+   "title": "Muayene yalnızca işe girişte değil",
+   "bullets": [
+    "İş değişikliği",
+    "Uzun süre uzaklaştıktan sonra dönüş",
+    "Çalışan talep ettiğinde"
+   ],
+   "steps": [
+    "Muayene yalnızca işe girişte yapılmaz. Yeni bir işe ya da yeni bir bölüme geçtiğinizde, yani iş değişikliğinde, yeniden değerlendirme yapılır. Çünkü yeni görevde maruz kalacağınız etkenler farklı olabilir.",
+    "İş kazası, meslek hastalığı ya da başka bir sağlık nedeniyle uzun süre işten uzak kaldıysanız, döndüğünüzde de muayene olursunuz.",
+    "Ayrıca kendi sağlığınızla ilgili bir endişeniz varsa, muayene talep edebilirsiniz. Bunun için çekinmeyin; hakkınızdır.",
+    "Muayeneye giderken işinizi ve çalıştığınız bölümü hekime anlatın. Hangi kimyasalla, hangi makineyle ne kadar süre çalıştığınızı bilen hekim, doğru testleri seçer ve sonuçları daha doğru yorumlar."
+   ]
+  },
+  {
+   "type": "stats",
+   "kicker": "Periyodik muayene",
+   "title": "En geç ne sıklıkla muayene?",
+   "items": [
+    {
+     "value": "5 yıl",
+     "unit": "",
+     "label": "Az tehlikeli"
+    },
+    {
+     "value": "3 yıl",
+     "unit": "",
+     "label": "Tehlikeli"
+    },
+    {
+     "value": "1 yıl",
+     "unit": "",
+     "label": "Çok tehlikeli"
+    }
+   ],
+   "steps": [
+    "İşe girişten sonra periyodik muayeneler başlar. Sıklık, işyerinin tehlike sınıfına göre değişir.",
+    "Az tehlikeli işyerlerinde en geç beş yılda bir. Sizin işyeriniz bu sınıfta değil, ama farkı görmek için söylüyorum.",
+    "Tehlikeli sınıftaki işyerlerinde en geç üç yılda bir muayene yapılır.",
+    "Çok tehlikeli sınıfta ise en geç yılda bir. Çünkü tehlike arttıkça sağlık üzerindeki etkiyi daha sık izlemek gerekir. İşyeri hekimi gerekli gördüğünde bu süreleri kısaltabilir; yani bunlar en uzun süredir."
+   ]
+  },
+  {
+   "type": "cards",
+   "kicker": "Muayenede neye bakılır?",
+   "title": "Muayene işinize göre şekillenir",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1628147529780-36964fbb8d54?w=1200",
+     "tag": "Gürültü",
+     "title": "İşitme testi",
+     "text": "Gürültülü işlerde işitme kaybı erken yakalanır."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1575920197509-2de60ffa1b0e?w=1200",
+     "tag": "Toz ve duman",
+     "title": "Akciğer testi",
+     "text": "Solunum fonksiyonu ve akciğer filmi istenebilir."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1598302936625-6075fbd98dd7?w=1200",
+     "tag": "Kimyasal",
+     "title": "Deri ve kan",
+     "text": "Kimyasal maruziyette deri kontrolü ve tahliller yapılır."
+    }
+   ],
+   "steps": [
+    "Periyodik muayenede herkese aynı testler yapılmaz. İşyeri hekimi, işinizdeki tehlikelere göre ne bakılacağını belirler.",
+    "Gürültülü bir ortamda çalışıyorsanız işitme testi yapılır. Böylece işitme kaybı henüz başlangıçtayken fark edilir ve işiniz ya da önlemler gözden geçirilebilir.",
+    "Toz, duman ya da buhar solunan işlerde akciğer fonksiyon testi yapılır. Gerekirse akciğer filmi de istenir.",
+    "Kimyasalla çalışıyorsanız deri muayenesi ve bazı kan tahlilleri gündeme gelir. Kısacası muayenenin amacı, çalışmanın sağlığınız üzerindeki etkilerini erken dönemde belirlemektir."
+   ]
+  },
+  {
+   "type": "fact",
+   "photo": "https://images.unsplash.com/photo-1666886573531-48d2e3c2b684?w=2400",
+   "kicker": "Maliyet",
+   "value": "Ücretsiz",
+   "title": "Muayene masrafı işverene aittir, size yansıtılamaz",
+   "text": "Sağlık gözetimi işverenin yükümlülüğüdür; muayene ve tetkik ücreti çalışandan istenemez.",
+   "steps": [
+    "Çok sık duyduğum bir soru var: muayene parasını ben mi ödeyeceğim? Hayır. Sağlık muayeneleri ve gerekli tetkikler işverenin sorumluluğundadır. Maliyeti çalışana yansıtılamaz.",
+    "Eğitim konusunda da aynı ilke geçerli: İSG eğitiminin süresi çalışma süresinden sayılır ve maliyeti size ait değildir. Hem muayeneye hem eğitime katılmak hakkınız ve görevinizdir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1575920197555-0e40a226bd05?w=2400",
+   "kicker": "Örnek olay",
+   "title": "Presçi Mehmet'in erken uyarısı",
+   "bullets": [
+    "Yıllık işitme testi",
+    "Kayıp erken fark edildi"
+   ],
+   "steps": [
+    "Mehmet, bir metal işleme atölyesinde presçi. Yıllık muayenesinde yapılan işitme testinde, yüksek seslerde hafif bir kayıp çıkıyor. Mehmet hiçbir şey hissetmediğini söylüyor.",
+    "İşyeri hekimi bu sonucu uzmanla paylaşıyor. Presin etrafına ses yalıtımı yapılıyor, gürültülü alanda kalma süreleri dönüşümlü hale getiriliyor ve Mehmet'e uygun kulaklık veriliyor.",
+    "Bir yıl sonraki testte kayıp ilerlememiş. Muayene olmasaydı, Mehmet işitme kaybını ancak sohbetleri anlamakta zorlandığında fark edecekti. Bu da bize periyodik muayenenin neden bu kadar değerli olduğunu gösteriyor.",
+    "Mehmet'in hikâyesindeki ikinci ders de şu: sonuç çıktıktan sonra işveren ve işyeri hekimi hızlı davrandı. Muayene, ancak önlemlerle birleşirse işe yarar."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=2400",
+   "kicker": "Sağlık bilgileriniz",
+   "title": "Muayene sonucu sizin hakkınızdır",
+   "bullets": [
+    "Sonuçlarınızı öğrenme hakkınız var",
+    "Sağlık bilgileriniz gizlidir",
+    "Belirti olunca beklemeden hekime gidin"
+   ],
+   "steps": [
+    "Muayene sonuçlarınız sizin sağlık bilginizdir. Neler bulunduğunu, ne anlama geldiğini hekimden öğrenebilirsiniz.",
+    "Kişisel sağlık verileri özel nitelikte bilgidir ve gizlidir. İşyeri hekimi sonucu, işe uygunluk konusunda gerekli olan kısmıyla işverene bildirir; teşhisinizi herkese açıklamaz.",
+    "Muayene dönemini beklemeyin. Öksürük, nefes darlığı, deride kaşıntı, kulakta çınlama gibi şikâyetleriniz başlarsa hemen işyeri hekiminize ya da uzmanınıza söyleyin. Erken bildirim, ilerlemeyi durdurabilir.",
+    "Periyodik muayene sonuçları ve ortam ölçümleri birlikte değerlendirilir. Birden fazla çalışanda benzer bulgu çıkıyorsa, bu ortamda bir sorun olduğunun işaretidir ve önlemler yeniden gözden geçirilir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Hijyen",
+   "title": "Kirli alandan temiz alana geçiş",
+   "items": [
+    {
+     "title": "İşi bitir",
+     "text": "Tezgâhta ya da sahada işinizi tamamlayın"
+    },
+    {
+     "title": "Ellerini yıka",
+     "text": "Su ve sabunla en az 20 saniye"
+    },
+    {
+     "title": "Kıyafeti ayır",
+     "text": "İş kıyafetini kirli alanda bırakın"
+    },
+    {
+     "title": "Yemek, içmek",
+     "text": "Yalnızca ayrılmış temiz alanda"
+    }
+   ],
+   "steps": [
+    "Şimdi hijyene geçelim. İşyerinde hijyen, zararlı maddelerin üstünüzden, ağzınıza, evinize ve ailenize ulaşmasını engelleyen alışkanlıklar bütünüdür.",
+    "Önce işi bitirin. Eldivenli bile olsanız, kirli eldiveni ağzınıza ya da yüzünüze götürmeyin.",
+    "Sonra ellerinizi su ve sabunla, parmak aralarını ve tırnak diplerini unutmadan, en az 20 saniye yıkayın. Solvent ya da gres gibi maddeleri temizlemek için çözücü kullanmayın; deriyi zedeler ve maddenin içeri geçmesine yardım eder.",
+    "Üçüncü olarak iş kıyafetini kirli alanda bırakın, mümkünse duş alın. Kıyafet eve taşınırsa ailenizi de etkileyebilir.",
+    "Yemek yeme, su içme ve sigara molası ise yalnızca bunun için ayrılmış, temiz alanlarda yapılmalı."
+   ]
+  },
+  {
+   "type": "dodont",
+   "kicker": "Yemek molası",
+   "title": "Mola öncesi doğru ve yanlış",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1596290618848-fcda233549e3?w=1200",
+     "ok": true,
+     "title": "Yıka, çıkar, otur",
+     "text": "Elleri yıkar, iş önlüğünü bırakır, yemekhanede yersiniz."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1747999703278-ef065c39cb18?w=1200",
+     "ok": false,
+     "title": "Tezgâhta atıştırmak",
+     "text": "Yağlı ya da tozlu elle yemek, zararlıyı ağıza taşır."
+    }
+   ],
+   "steps": [
+    "Mola saatine bakalım. Öğle arasında ikinci bir tehlike var: işten kalma maddenin yemeğe karışması.",
+    "Yanlış olan, tezgâhın başında, kirli ellerle ve iş kıyafetiyle yemek yemek. Kurşunlu boya, metal tozu ya da kimyasal artığı, yemeğinizle birlikte vücudunuza girebilir.",
+    "Doğrusu ise ellerinizi yıkamak, kirli önlüğü çıkarmak ve ayrılmış yemek alanında yemek. Bu iki dakikalık alışkanlık, birçok zehirlenmeyi önler."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1646082276009-bb35409086ed?w=2400",
+   "kicker": "Cilt koruması",
+   "title": "Eller işinizin aynasıdır",
+   "bullets": [
+    "Kızarıklık ve çatlak uyarıdır",
+    "Nemlendirici ve doğru eldiven"
+   ],
+   "steps": [
+    "Deri, kimyasalların vücuda girdiği en önemli kapıdır. Ellerinizde kızarıklık, kaşıntı, çatlak ya da soyulma varsa bu bir uyarıdır. Ciddiye alıp hekime gösterin.",
+    "Eldivenin işe uygun olması gerekir. Yağ için ayrı, kimyasal için ayrı eldiven kullanılır. Eldiveni çıkardıktan sonra ellerinizi yıkayıp nemlendirici sürmek, deriyi onarır. Eldivenin içi terlediğinde ya da içine madde girdiğinde değiştirin.",
+    "Bir de şunu unutmayın: kimyasal sıçradığında, hemen akan suyla yıkamak ve ürünün güvenlik bilgi formundaki ilk yardım talimatına bakmak gerekir. Bu formu bir sonraki derslerde de göreceğiz. Cildinizi koruyan en güçlü alışkanlık, temas olduğunda gecikmeden yıkamaktır."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1590006137741-5f5892ce5635?w=2400",
+   "kicker": "Güvenlik bilgi formu",
+   "title": "Kimyasalı tanımadan kullanmayın",
+   "bullets": [
+    "Etiket: tehlike simgeleri ve uyarılar",
+    "Güvenlik bilgi formu: korunma ve ilk yardım",
+    "Form çalışma alanında ulaşılabilir olmalı"
+   ],
+   "steps": [
+    "Kimyasal kullanan bir işyerinde hastalıktan korunmanın ilk adımı, ürünü tanımaktır. Bu iş için iki kaynağınız var.",
+    "Birincisi etiket. Üzerindeki tehlike simgeleri ve uyarı cümleleri, ürünün yakıcı mı, yanıcı mı, solunduğunda zararlı mı olduğunu kısaca söyler. Başka bir kaba aktarılan ürünün de etiketi olmalıdır.",
+    "İkincisi güvenlik bilgi formu. Ürünün tehlikelerini, hangi KKD ile kullanılacağını, dökülürse ne yapılacağını ve ilk yardımı anlatır.",
+    "Bu formun çalışanların ulaşabileceği yerde bulunması gerekir. Etiketini okumadığınız, formunu görmediğiniz ürünü kullanmayın; önce amirinize ya da uzmanınıza sorun."
+   ]
+  },
+  {
+   "type": "roles",
+   "kicker": "Kim ne yapar?",
+   "title": "Hijyen birlikte sağlanır",
+   "items": [
+    {
+     "photo": "https://images.unsplash.com/photo-1778074762022-c33cc42f79ae?w=1200",
+     "title": "İşveren",
+     "text": "Lavabo, duş, soyunma ve yemek alanını sağlar."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1758518731706-be5d5230e5a5?w=1200",
+     "title": "İşyeri hekimi",
+     "text": "Hijyen eğitimi verir, sağlık durumunu izler."
+    },
+    {
+     "photo": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200",
+     "title": "Siz",
+     "text": "Kuralları uygular, eksik gördüğünüzü bildirirsiniz."
+    }
+   ],
+   "steps": [
+    "Hijyen yalnızca sizin bireysel sorumluluğunuz değil. Herkesin payı var.",
+    "İşveren; temiz su, sabun, duş, soyunma dolabı ve ayrı yemek alanı gibi imkânları sağlamakla yükümlüdür. Sabun bitmişse, ya da yıkanacak yer yoksa, çalışandan hijyen beklemek haksızlıktır.",
+    "İşyeri hekimi ve diğer sağlık personeli hijyen eğitimi verir, sağlık gözetimini yürütür.",
+    "Siz de bu imkânları kullanır, kuralı uygular ve eksikleri bildirirsiniz. Birinin kuralı çiğnemesi, tüm ekibi riske sokabilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1578308175085-444a1fbea0fe?w=2400",
+   "kicker": "Korunmanın parçası",
+   "title": "Aşılar ve düzenli kontroller",
+   "bullets": [
+    "Tetanoz ve hepatit B gibi aşılar",
+    "Hekiminizin önerisini dinleyin"
+   ],
+   "steps": [
+    "Korunma tekniklerinden biri de aşıdır. Yaralanma riski olan, atık ya da kan ve vücut sıvılarıyla temas edebilen işlerde, örneğin temizlik ve bakım işlerinde, hekim hepatit B ve tetanoz gibi aşıları önerebilir.",
+    "Hangi aşının sizin işiniz için uygun olduğunu işyeri hekimi söyler. Bu konuyu bir sonraki derste, biyolojik etkenlerle birlikte daha ayrıntılı konuşacağız.",
+    "Aşı bir kez yapılıp unutulmaz. Bazı aşıların tekrar dozu vardır. Aşı kartınızı saklayın ve hekiminizle takvimi konuşun. Merak ettiğiniz her şeyi hekime sorun; doğru bilgi, doğru karar demektir."
+   ]
+  },
+  {
+   "type": "split",
+   "photo": "https://images.unsplash.com/photo-1455165814004-1126a7199f9b?w=2400",
+   "kicker": "İşyerinizde nasıl görürsünüz?",
+   "title": "Bugün işyerinize bu gözle bakın",
+   "bullets": [
+    "Gürültülü ya da tozlu yer var mı, önlem nedir?",
+    "Son muayene ne zaman yapıldı?",
+    "Yemek ve yıkanma alanı temiz mi, ayrı mı?"
+   ],
+   "steps": [
+    "Şimdi dersi işyerinize taşıyalım. Çalışırken şu üç soruyu kendinize sorun.",
+    "Birincisi: Burada gürültülü, tozlu ya da buharlı bir nokta var mı? Varsa önlem nedir, kaynağında mı yoksa yalnızca KKD ile mi?",
+    "İkincisi: Son sağlık muayenem ne zaman yapıldı? Çok tehlikeli sınıftaysanız en geç yılda, tehlikeli sınıftaysanız en geç üç yılda bir tekrar etmesi gerekir. Tarihi bilmiyorsanız sorun.",
+    "Üçüncüsü: Yıkanma ve yemek alanım temiz ve ayrı mı? Cevabınız hayırsa bunu bildirmek, kendiniz ve arkadaşlarınız adına yapabileceğiniz en kolay iyiliktir."
+   ]
+  },
+  {
+   "type": "process",
+   "kicker": "Belirti fark ederseniz",
+   "title": "Şikâyetiniz varsa dört adım",
+   "items": [
+    {
+     "title": "Not alın",
+     "text": "Ne zaman, nerede, hangi işte başladı"
+    },
+    {
+     "title": "Amire söyleyin",
+     "text": "Aynı gün sözlü ya da yazılı bildirin"
+    },
+    {
+     "title": "Hekime gidin",
+     "text": "İşyeri hekiminden muayene isteyin"
+    },
+    {
+     "title": "Önlemi izleyin",
+     "text": "Değişiklik yapıldı mı, sorun sürüyor mu"
+    }
+   ],
+   "steps": [
+    "Son olarak, bir sağlık şikâyetiniz olduğunda ne yapacağınıza bakalım. Bu dört adımı akılda tutun.",
+    "Önce kendinize not alın: şikâyet ne zaman başladı, hangi işte ve hangi ortamda artıyor? Hafta sonu geçiyor da pazartesi geri mi geliyor? Bu ayrıntı, hekime çok yardımcı olur.",
+    "Sonra amirinize ya da vardiya sorumlunuza söyleyin. Bildirmek şikâyetçilik değildir, yasal bir görevdir; çalışan, sağlığı için tehlike oluşturan durumları bildirmekle yükümlüdür.",
+    "Üçüncü adım işyeri hekimine gitmek. Ve dördüncü adım, önlem alındıktan sonra şikâyetin azalıp azalmadığını izlemek. Azalmıyorsa tekrar bildirin.",
+    "Bütün bu adımlarda sizi koruyan bir ilke var: sağlığınız için tehlike gördüğünüzde bildirdiğiniz için kimse sizi cezalandıramaz. Kanun, çalışanın bu konuda temsilcisine ve yetkililere başvurma hakkını güvence altına alır. Çekinmeyin, çünkü bildirilmeyen risk, büyüyen risktir. Bu dersin başından beri anlattığımız her önlem, sizin bildiriminizle başlayabilir."
+   ]
+  },
+  {
+   "type": "photo",
+   "photo": "https://images.unsplash.com/photo-1775642547173-559e304822f9?w=2400",
+   "kicker": "Yüz yüze eğitim",
+   "title": "İşyerinize özgü riskler orada konuşulacak",
+   "bullets": [
+    "Tehlikeli sınıf: en az 12 ders saati",
+    "Çok tehlikeli sınıf: en az 16 ders saati"
+   ],
+   "steps": [
+    "Bu derste genel prensipleri öğrendiniz. Ama hangi işyerinde hangi etken var, hangi ölçüm yapılmış, bunlar işyerine göre değişir. Tehlikeli ve çok tehlikeli işyerlerinde işe ve işyerine özgü riskler yüz yüze eğitimde verilir. Uzmanınızla işyerinize özgü riskleri orada konuşacaksınız.",
+    "Hatırlatayım: temel İSG eğitimi tehlikeli sınıfta en az 12 ders saati ve iki yılda bir, çok tehlikeli sınıfta en az 16 ders saati ve her yıl tekrarlanır.",
+    "Yani bu eğitim bir defalık değil. Bilgiler tazelenir, çünkü işyerindeki makine, kimyasal ve yöntemler zamanla değişir."
+   ]
+  },
+  {
+   "type": "check",
+   "photo": "https://images.unsplash.com/photo-1758518730037-a16581a040e8?w=2400",
+   "kicker": "Özet",
+   "title": "Bu derste öğrendiklerimiz",
+   "bullets": [
+    "Önce kaynakta yok et, sonra ikame, mühendislik, idari önlem ve KKD",
+    "Ortam ölçümleri görünmeyen riskleri görünür kılar",
+    "İşe giriş raporu, sonra çok tehlikelide en geç yılda bir muayene",
+    "El hijyeni, ayrı yemek alanı ve temiz iş kıyafeti korur"
+   ],
+   "steps": [
+    "Dersin sonuna geldik. Kısaca toparlayalım.",
+    "Korunmada öncelik sırası şöyle: tehlikeyi kaynağında yok etmek, daha az tehlikeliyle değiştirmek, mühendislik önlemleri, idari önlemler ve en son KKD.",
+    "Ortam ölçümleri, gürültü, toz ve kimyasal gibi gözle görülmeyen riskleri sayılarla gösterir; önlemler bu sonuçlara göre alınır.",
+    "Tehlikeli ve çok tehlikeli sınıfta işe uygunluk raporu olmadan işe başlanmaz. Periyodik muayene tehlikelide en geç üç yılda, çok tehlikelide en geç yılda bir yapılır ve masrafı işverene aittir. Amaç, çalışmanın sağlığınıza etkisini erken dönemde yakalamaktır.",
+    "Son olarak el hijyeni, ayrı yemek alanı ve temiz iş kıyafeti en basit ve en etkili korunma yöntemlerindendir. Dersin sonunda birkaç kısa soru sizi bekliyor. Bu bilgileri hatırlayarak cevaplayabilirsiniz. Bol sağlıklı çalışmalar dilerim. Teşekkürler."
+   ]
+  }
+ ]
+}
