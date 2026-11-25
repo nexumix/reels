@@ -1,0 +1,305 @@
+{
+ "out": "out/2026-11-25/aksam_tepeosgb.mp4",
+ "scrim": "#08295A",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/osgb.png",
+  "x": 64,
+  "y": 84,
+  "w": 230,
+  "end_w": 440,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/cf166bed-0030-451e-bc35-3660e24a92c0.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "tr-TR",
+  "gender": "MALE",
+  "voice": "tr-TR-Chirp3-HD-Achird",
+  "rate": 1.06,
+  "lines": [
+   "Diş kliniğinde en büyük risk ne? Hastanın değil, ekibin karşılaştığı üç tehlike.",
+   "Birincisi kesici delici alet yaralanmaları ve enfeksiyon. Atık kutusu, eldiven, maske, göz koruması ve aşı takibi şart.",
+   "İkincisi sterilizasyon ve kimyasallar. Otoklavın periyodik kontrolü, dezenfektanların doğru saklanması ve havalandırma önemli.",
+   "Üçüncüsü röntgen ve ergonomi. Radyasyondan korunma, uzun süre eğilerek çalışmanın bel ve boyuna yükü, düzenli sağlık gözetimi.",
+   "Klinik ve muayenehanelerde risk değerlendirmesi, İSG eğitimi, iş güvenliği uzmanı ve işyeri hekimi hizmeti bizden. Kadıköy'den Ataşehir'e, Şişli'den Beşiktaş'a yanınızdayız. Profildeki WhatsApp butonuna dokunun ya da bizi arayın. Numaralarımız ekranda."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1643660527190-4f401370f788?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 4.5,
+   "elements": [
+    {
+     "text": "SAĞLIK · BÖLÜM 2",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Diş kliniğinde en büyük risk ne?",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 100,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1771442873038-dda05b6ca447?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "1 · KESİCİ-DELİCİ VE ENFEKSİYON",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Bir anlık yaralanma",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 100,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Atık kutusu, eldiven, maske, göz koruması ve aşı takibi şart.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1752842936213-143c9456e6ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "2 · STERİLİZASYON VE KİMYASAL",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Otoklav ve dezenfektan",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 100,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Periyodik kontrol, doğru saklama ve havalandırma.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1643660527076-726d42bb1a06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "3 · RÖNTGEN VE ERGONOMİ",
+     "x": 96,
+     "y": 880,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Radyasyon ve duruş",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#F28C0F",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Röntgen alanında korunma",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Bel, boyun ve el bileği yükü",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Düzenli sağlık gözetimi",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1642844613096-7b743b7d9915?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 7.5,
+   "elements": [
+    {
+     "text": "Kliniğin ekibiyle güvende",
+     "x": 72,
+     "y": 800,
+     "w": 936,
+     "size": 80,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ara  +90 216 434 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 50,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 1.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "WhatsApp  +90 532 138 51 54",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.8
+    },
+    {
+     "text": "+90 850 305 40 19 · info@tepeosgb.com",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 34,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.2
+    },
+    {
+     "text": "Profildeki WhatsApp butonuna dokun",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "semi",
+     "color": "#F28C0F",
+     "at": 2.6
+    },
+    {
+     "text": "Yorumlara “KLİNİK” yaz, sana dönelim",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 38,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.0
+    }
+   ]
+  }
+ ]
+}
