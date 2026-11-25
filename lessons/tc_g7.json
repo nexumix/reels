@@ -202,17 +202,17 @@
    "kicker": "İSG kurulu",
    "title": "Asıl işveren ve alt işveren için kurul kuralları",
    "bullets": [
-    "Kurul oluşturma sayısına alt işverenin çalışanları da dahildir",
-    "Altı aydan uzun süren ilişkilerde ortak kurul esastır",
-    "Alt işverenler kurula temsilciyle katılır",
-    "Kurulda İSG konuları birlikte görüşülür"
+    "Her biri kurul kurmakla yükümlüyse ayrı ayrı kurul kurar",
+    "Ayrı kurullar arasında koordinasyonu asıl işveren sağlar",
+    "Kurul kurması gerekmeyen taraf kurula yetkili temsilci atar",
+    "Toplam çalışan elliyi aşıyorsa asıl işveren koordinasyonunda ortak kurul kurulur"
    ],
    "steps": [
-    "Bir de kurul meselesi var. İSG kurulu, işyerinde güvenlik konularının birlikte konuşulup karara bağlandığı yerdir.",
-    "Kanunun bu konudaki kuralı şöyle işler: altı aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu işyerlerinde, kurul kurma yükümlülüğü hesaplanırken alt işverenlerin çalışanları da hesaba katılır. Kurul, asıl işveren ve alt işverenlerin ortak yapısı üzerinden kurulur.",
-    "Genel mantık şudur: aynı işyerinde çalışan herkes için tek bir kurul düzeni bulunur. Alt işverenlerin temsilcileri de bu kurulda yer alır ve alt işverenlerin çalışanlarının sorunları da orada konuşulur.",
-    "Sizin için anlamı şu: alt işveren çalışanı olsanız bile, güvenlikle ilgili sorununuzu çalışan temsilciniz aracılığıyla kurula taşıyabilirsiniz. Kurul toplantılarında alınan kararlar sizin güvenliğinizi de kapsar.",
-    "Bir not daha: kurul ve temsilci yapısı işyerinin büyüklüğüne ve çalışma süresine göre değişir. Sizin işyerinizde nasıl işlediğini yüz yüze eğitimde uzmanınızdan öğrenebilirsiniz."
+    "Bir de kurul meselesi var. İSG kurulu, işyerinde güvenlik konularının birlikte konuşulup karara bağlandığı yerdir. Altı aydan fazla süren asıl işveren-alt işveren ilişkisinde kanun bu konuyu ayrıca düzenler.",
+    "İlk durum: asıl işveren de alt işveren de kendi çalışan sayısına göre kurul kurmakla yükümlüyse, her biri kendi kurulunu ayrı ayrı oluşturur.",
+    "Bu ayrı kurulların birlikte çalışmasını ve kararların uygulanmasını sağlamak, yani iş birliği ve koordinasyon, asıl işverenin görevidir.",
+    "İkinci durum: taraflardan yalnız biri kurul kurmakla yükümlüyse, kurul kurması gerekmeyen taraf, o kurula koordinasyon için vekâleten yetkili bir temsilci atar. Böylece alt işveren çalışanlarının sorunları da kurulda konuşulur.",
+    "Üçüncü durum: ikisi de tek başına kurul kurmakla yükümlü değilse ama toplam çalışan sayıları elliyi aşıyorsa, asıl işverenin koordinasyonunda ortak bir kurul oluşturulur. Sizin için anlamı şu: alt işveren çalışanı olsanız bile, güvenlikle ilgili sorununuzu çalışan temsilciniz aracılığıyla kurula taşıyabilirsiniz."
    ]
   },
   {
