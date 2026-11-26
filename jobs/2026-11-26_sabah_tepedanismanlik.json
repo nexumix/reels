@@ -29,7 +29,7 @@
  },
  "scenes": [
   {
-   "photo": "https://images.unsplash.com/photo-1631856956771-bd96b2bd71f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "photo": "https://images.unsplash.com/photo-1621261027519-a71ac66d5a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
    "fit": "cover",
    "dur": 4.5,
    "elements": [
