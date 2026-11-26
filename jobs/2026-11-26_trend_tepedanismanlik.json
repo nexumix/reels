@@ -1,0 +1,311 @@
+{
+ "out": "out/2026-11-26/trend_tepedanismanlik.mp4",
+ "scrim": "#08295A",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/danismanlik.png",
+  "x": 64,
+  "y": 84,
+  "w": 300,
+  "end_w": 560,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/f45ba913-bcf1-4c29-96cf-24e424e1936b.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "tr-TR",
+  "gender": "MALE",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "rate": 1.06,
+  "lines": [
+   "Sibirya soğukları geldi. Sıcaklık değişimi ölçümleri etkileyebilir. Cihazların hâlâ doğru ölçüyor mu? Bilmen gereken üç şey.",
+   "Bir: sıcaklık ölçerler. Depo, soğuk oda ve araç termometreleri kalibre değilse ürün ve kayıtların risk altında.",
+   "İki: basınç göstergeleri. Kazan, kompresör ve hatlardaki manometreler kışın daha çok yük altında.",
+   "Üç: takvim. Cihaz listesi, kalibrasyon tarihleri ve geçerli sertifikalar, İso 9001 denetiminde ilk bakılan kayıtlardandır.",
+   "Kalibrasyon ve periyodik kontrol planınızı birlikte yapalım. Profildeki WhatsApp butonuna dokunun ya da bizi arayın. Numaralarımız ekranda."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1760306520835-3d4f6cf985aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 4.5,
+   "elements": [
+    {
+     "text": "TREND · SİBİRYA SOĞUKLARI",
+     "x": 96,
+     "y": 900,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Ayaz geldi: cihazın doğru ölçüyor mu?",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 92,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    },
+    {
+     "text": "Sıcaklık değişimi ölçümü etkileyebilir. 3 kontrol:",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.2
+    }
+   ],
+   "fit": "cover"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1634029859881-fe1baa100909?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "1 · SICAKLIK ÖLÇERLER",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Soğuk zincir",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Depo, soğuk oda ve araç termometreleri kalibre değilse ürün risk altında.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1598370025936-0856434d26e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "2 · BASINÇ GÖSTERGELERİ",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Manometreler",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Kazan, kompresör ve hatlardaki göstergeler kışın daha çok yük altında.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1585366958403-bacb4c36a1a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "3 · KALİBRASYON TAKVİMİ",
+     "x": 96,
+     "y": 880,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Sertifika güncel mi?",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Cihaz listesi ve tarihleri",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Geçerli kalibrasyon sertifikası",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "ISO 9001 denetimine hazır kayıt",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1742163962100-0694339f2d57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7.5,
+   "elements": [
+    {
+     "text": "Kalibrasyon planını birlikte yapalım",
+     "x": 72,
+     "y": 800,
+     "w": 936,
+     "size": 84,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ara  +90 216 434 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 50,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 1.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "WhatsApp  +90 532 138 51 54",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.8
+    },
+    {
+     "text": "+90 850 305 40 19 · info@tepedanismanlik.com.tr",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 34,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.2
+    },
+    {
+     "text": "Profildeki WhatsApp butonuna dokun",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "semi",
+     "color": "#F28C0F",
+     "at": 2.6
+    },
+    {
+     "text": "Yorumlara “KALİBRASYON” yaz, sana dönelim",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 38,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.0
+    }
+   ]
+  }
+ ]
+}
