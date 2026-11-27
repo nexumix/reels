@@ -1,0 +1,315 @@
+{
+ "out": "out/2026-11-27/aksam_tepeosgb.mp4",
+ "scrim": "#08295A",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/osgb.png",
+  "x": 64,
+  "y": 84,
+  "w": 230,
+  "end_w": 440,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/bc6720a7-d15c-4800-9743-100aca812a13.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "tr-TR",
+  "gender": "MALE",
+  "voice": "tr-TR-Chirp3-HD-Achird",
+  "rate": 1.06,
+  "lines": [
+   "Oto serviste en büyük risk ne? Atölyede üç risk var.",
+   "Bir: lift ve kriko. Aracın altına girmeden önce kilit, takoz ve sehpa. Liftin periyodik kontrolü güncel olmalı.",
+   "İki: egzoz gazı. Kapalı atölyede motor çalışırken karbonmonoksit birikir; egzoz emme hortumu ve havalandırma şart.",
+   "Üç: yakıt, akü ve yangın. Yakıt ve yağ kapalı kapta, akü şarjı havadar alanda, söndürücü el altında.",
+   "Oto servisler genellikle tehlikeli sınıfta; iş güvenliği uzmanı ve risk değerlendirmesi yükümlülüğü var. İkitelli'den Kartal'a, profildeki WhatsApp butonuna dokunun ya da bizi arayın. Numaralarımız ekranda."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1723099971299-3789db53604c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 4.5,
+   "fit": "cover",
+   "elements": [
+    {
+     "text": "SEKTÖR · OTO SERVİS",
+     "x": 96,
+     "y": 880,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Oto serviste en büyük risk ne?",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 92,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    },
+    {
+     "text": "Atölyede 3 risk:",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.2
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1588690059832-892e68524ecc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6,
+   "fit": "cover",
+   "elements": [
+    {
+     "text": "1 · LİFT VE KRİKO",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Aracın altında",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 100,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Kilit, takoz, sehpa. Liftin periyodik kontrolü güncel olsun.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1727413433599-496949ef8196?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6,
+   "fit": "cover",
+   "elements": [
+    {
+     "text": "2 · EGZOZ GAZI",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Görünmez tehlike",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 100,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Kapalı atölyede karbonmonoksit birikir: emme hortumu + havalandırma.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1604656329788-e66ad1dfe01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6,
+   "fit": "cover",
+   "elements": [
+    {
+     "text": "3 · YAKIT, AKÜ, YANGIN",
+     "x": 96,
+     "y": 860,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Yangına hazır mısın?",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 92,
+     "font": "head",
+     "color": "#F28C0F",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Yakıt ve yağ kapalı kapta",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Akü şarjı havadar alanda",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Söndürücü el altında",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1637640125496-31852f042a60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7.5,
+   "fit": "cover",
+   "elements": [
+    {
+     "text": "Atölyen güvende olsun",
+     "x": 72,
+     "y": 800,
+     "w": 936,
+     "size": 84,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ara  0216 434 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 50,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 1.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "WhatsApp  0532 138 51 54",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.8
+    },
+    {
+     "text": "0850 305 40 19 · info@tepeosgb.com",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 36,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.2
+    },
+    {
+     "text": "Profildeki WhatsApp butonuna dokun",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "semi",
+     "color": "#F28C0F",
+     "at": 2.6
+    },
+    {
+     "text": "Yorumlara “SERVİS” yaz, sana dönelim",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 38,
+     "font": "body",
+     "color": "#FFFFFF",
+     "at": 3.0
+    }
+   ]
+  }
+ ]
+}

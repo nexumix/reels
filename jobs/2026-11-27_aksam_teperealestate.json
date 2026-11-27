@@ -1,0 +1,315 @@
+{
+ "out": "out/2026-11-27/aksam_teperealestate.mp4",
+ "scrim": "#010923",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/realestate.png",
+  "x": 64,
+  "y": 84,
+  "w": 190,
+  "end_w": 380,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/e775bb75-6a4f-45ba-b7cd-59ddd62e6f85.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "tr-TR",
+  "gender": "FEMALE",
+  "voice": "tr-TR-Chirp3-HD-Achernar",
+  "rate": 1.08,
+  "lines": [
+   "Klinik ya da muayenehane için mekân mı arıyorsun? İmzadan önce şu üç şeye bak.",
+   "Bir: erişim. Zemin kat ya da asansörlü bina, rampalı giriş. Hastan kapıda zorlanmamalı.",
+   "İki: ruhsata uygunluk. Binanın iskanı ve kullanım amacı sağlık ruhsatı şartlarına uyuyor mu, kiralamadan önce kontrol et.",
+   "Üç: ulaşım ve otopark. Toplu taşımaya yakınlık, park yeri ve görünür tabela alanı hastaya ulaşmanı kolaylaştırır.",
+   "Kliniğe uygun mekânı birlikte bulalım. Mülkün böyle bir yerse sen de bize yaz. Profildeki WhatsApp butonuna dokun ya da ara, numaralarımız ekranda."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1728342057953-94bfad8f0e7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 4.5,
+   "fit": "cover",
+   "elements": [
+    {
+     "text": "KLİNİK · MUAYENEHANE",
+     "x": 96,
+     "y": 880,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Klinik için mekân mı arıyorsun?",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 92,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    },
+    {
+     "text": "İmzadan önce 3 şeye bak:",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#F2EEE4",
+     "at": 1.2
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1781967653799-17f67ba208e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6,
+   "fit": "cover",
+   "elements": [
+    {
+     "text": "1 · ERİŞİM",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Kapıda zorlanmasın",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 100,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Zemin kat ya da asansörlü bina, rampalı giriş.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#F2EEE4",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1762146828422-50a8bd416d3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6,
+   "fit": "cover",
+   "elements": [
+    {
+     "text": "2 · RUHSATA UYGUNLUK",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "İskan ve kullanım amacı",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 100,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Sağlık ruhsatı şartlarına uyuyor mu? Kiralamadan önce kontrol.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#F2EEE4",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1711574254532-ffb4d05976a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6,
+   "fit": "cover",
+   "elements": [
+    {
+     "text": "3 · ULAŞIM VE OTOPARK",
+     "x": 96,
+     "y": 860,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Hasta kolay ulaşsın",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 92,
+     "font": "head",
+     "color": "#E3B33F",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Toplu taşımaya yakın",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Park yeri",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Görünür tabela alanı",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1760623141792-9791419f18ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7.5,
+   "fit": "cover",
+   "elements": [
+    {
+     "text": "Doğru mekânı birlikte bulalım",
+     "x": 72,
+     "y": 800,
+     "w": 936,
+     "size": 80,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ara  0533 192 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 50,
+     "font": "bold",
+     "color": "#010923",
+     "at": 1.2,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "0850 305 40 19",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.8
+    },
+    {
+     "text": "Profildeki WhatsApp butonuna dokun",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "semi",
+     "color": "#E3B33F",
+     "at": 2.2
+    },
+    {
+     "text": "Yorumlara “KLİNİK” yaz, sana dönelim",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 38,
+     "font": "body",
+     "color": "#FFFFFF",
+     "at": 2.6
+    },
+    {
+     "text": "İSG desteği: @tepeosgb",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 34,
+     "font": "body",
+     "color": "#F2EEE4",
+     "at": 3.0
+    }
+   ]
+  }
+ ]
+}
