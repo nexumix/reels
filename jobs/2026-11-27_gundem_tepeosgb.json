@@ -1,0 +1,363 @@
+{
+ "out": "out/2026-11-27/gundem_tepeosgb.mp4",
+ "scrim": "#08295A",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/osgb.png",
+  "x": 64,
+  "y": 84,
+  "w": 230,
+  "end_w": 440,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/cf166bed-0030-451e-bc35-3660e24a92c0.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "tr-TR",
+  "gender": "MALE",
+  "voice": "tr-TR-Chirp3-HD-Achird",
+  "rate": 1.08,
+  "lines": [
+   "Çalışma Bakanlığı'ndan yüksekte güvenli çalışma için farkındalık buluşması!",
+   "İş Sağlığı ve Güvenliği Genel Müdürlüğü, İntes ve Ankara Sanayi Odası iş birliğiyle, yirmi altı Kasım'da Ankara'da sektör paydaşları bir araya geldi.",
+   "Buluşmada inşaat iş kazaları, işverenin yasal yükümlülükleri, düşmeyi önleyici sistemler ve iskele ile kalıp güvenliği ele alındı.",
+   "Şantiyenizde bugün kontrol edin: korkuluk ve kenar koruması tam mı, emniyet kemeri sağlam bir noktaya bağlı mı, çalışanlar eğitimini aldı mı?",
+   "Risk değerlendirmesi ve yüksekte çalışma eğitimi için profildeki WhatsApp butonuna dokunun ya da bizi arayın. Numaralarımız ekranda."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1758798349125-5c297b18b8b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 5,
+   "elements": [
+    {
+     "text": "GÜNDEM · ÇSGB İSGGM",
+     "x": 96,
+     "y": 980,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Yüksekte güvenli çalışma buluşması",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 100,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1790731018920-2889f69facc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6.5,
+   "elements": [
+    {
+     "text": "NE OLDU?",
+     "x": 96,
+     "y": 860,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Paydaşlar Ankara’da buluştu",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "26 Kasım · İSGGM, İNTES ve ASO",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "İnşaat sektörüne farkındalık",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ],
+   "fit": "cover"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1779456371317-9807ff4a9fef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 9,
+   "elements": [
+    {
+     "text": "NELER KONUŞULDU?",
+     "x": 96,
+     "y": 820,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Düşmeyi önlemek",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "İşverenin yasal yükümlülükleri",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Düşmeyi önleyici sistemler",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "İskele ve kalıp güvenliği",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ],
+   "fit": "cover"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1776397280297-7654582c7fe1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6.5,
+   "elements": [
+    {
+     "text": "NE YAPMALI?",
+     "x": 96,
+     "y": 820,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Şantiyende bugün kontrol et",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#F28C0F",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Korkuluk ve kenar koruması tam mı?",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Emniyet kemeri sağlam noktada mı?",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Yüksekte çalışma eğitimi var mı?",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ],
+   "fit": "cover"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1773946818437-5b2d9039f3d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7,
+   "elements": [
+    {
+     "text": "Yüksekte güvenli çalışma için bize ulaş",
+     "x": 72,
+     "y": 800,
+     "w": 936,
+     "size": 88,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ara  0216 434 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 50,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 1.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "WhatsApp  0532 138 51 54",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.8
+    },
+    {
+     "text": "0850 305 40 19 · info@tepeosgb.com",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 36,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.2
+    },
+    {
+     "text": "Profildeki WhatsApp butonuna dokun",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "semi",
+     "color": "#F28C0F",
+     "at": 2.6
+    },
+    {
+     "text": "Yorumlara “YÜKSEKTE” yaz, sana dönelim",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 38,
+     "font": "body",
+     "color": "#FFFFFF",
+     "at": 3.0
+    }
+   ]
+  }
+ ]
+}

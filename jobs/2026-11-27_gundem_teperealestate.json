@@ -1,0 +1,352 @@
+{
+ "out": "out/2026-11-27/gundem_teperealestate.mp4",
+ "scrim": "#010923",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/realestate.png",
+  "x": 64,
+  "y": 84,
+  "w": 190,
+  "end_w": 380,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/e775bb75-6a4f-45ba-b7cd-59ddd62e6f85.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "tr-TR",
+  "gender": "FEMALE",
+  "voice": "tr-TR-Chirp3-HD-Achernar",
+  "rate": 1.08,
+  "lines": [
+   "Ev ve arsa sahipleri dikkat! Emlak vergisinin ikinci taksiti için son gün otuz Kasım.",
+   "Emlak Vergisi Kanunu'na göre vergi iki taksitte ödeniyor. İkinci taksitin süresi otuz Kasım Pazartesi günü doluyor.",
+   "Konut, arsa ve işyeri sahiplerini ilgilendiriyor. Süresinde ödenmeyen borca gecikme zammı işliyor; yükümlülük kiracının değil, mülk sahibinin.",
+   "Borcunuzu e-Devlet'ten ya da belediyenizin e-belediye sisteminden sorgulayın. Muafiyet şartları için belediyenize danışın.",
+   "Mülkünüzün vergi, aidat ve kira takibini bize bırakın. Profildeki WhatsApp butonuna dokunun ya da bizi arayın. Numaralarımız ekranda."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1625201212921-1c5e5557d451?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 5,
+   "elements": [
+    {
+     "text": "GÜNDEM · EMLAK VERGİSİ",
+     "x": 96,
+     "y": 980,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.2,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Emlak vergisinde son gün 30 Kasım!",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 100,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1605822105816-76b7cfd71142?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6.5,
+   "elements": [
+    {
+     "text": "NE OLDU?",
+     "x": 96,
+     "y": 860,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "İkinci taksit Kasım’da ödenir",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Son gün: 30 Kasım 2026 Pazartesi",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Dayanak: Emlak Vergisi Kanunu",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ],
+   "fit": "cover"
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1619218070141-bcfeb8b93074?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 9,
+   "elements": [
+    {
+     "text": "KİMİ ETKİLER?",
+     "x": 96,
+     "y": 820,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Konut, arsa ve işyeri sahibini",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Geç ödemede gecikme zammı işler",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Yükümlülük mülk sahibinindir",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Hissedar kendi payı oranında öder",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1533592584442-d4c03ec1afd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6.5,
+   "elements": [
+    {
+     "text": "NE YAPMALI?",
+     "x": 96,
+     "y": 820,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Borcunu bugün sorgula",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#E3B33F",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "e-Devlet veya e-belediye",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Belediye veznesi / anlaşmalı banka",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Muafiyet şartını belediyene sor",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1635403868664-179c789560a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7,
+   "elements": [
+    {
+     "text": "Mülkünün takibini bize bırak",
+     "x": 72,
+     "y": 800,
+     "w": 936,
+     "size": 88,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ara  0533 192 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 50,
+     "font": "bold",
+     "color": "#010923",
+     "at": 1.2,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "0850 305 40 19",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.8
+    },
+    {
+     "text": "Profildeki WhatsApp butonuna dokun",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "semi",
+     "color": "#E3B33F",
+     "at": 2.2
+    },
+    {
+     "text": "Yorumlara “VERGİ” yaz, sana dönelim",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 38,
+     "font": "body",
+     "color": "#FFFFFF",
+     "at": 2.6
+    }
+   ],
+   "fit": "cover"
+  }
+ ]
+}

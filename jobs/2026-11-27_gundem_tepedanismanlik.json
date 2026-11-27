@@ -1,0 +1,360 @@
+{
+ "out": "out/2026-11-27/gundem_tepedanismanlik.mp4",
+ "scrim": "#08295A",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/danismanlik.png",
+  "x": 64,
+  "y": 84,
+  "w": 300,
+  "end_w": 560,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/bc6720a7-d15c-4800-9743-100aca812a13.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "tr-TR",
+  "gender": "MALE",
+  "voice": "tr-TR-Chirp3-HD-Charon",
+  "rate": 1.08,
+  "lines": [
+   "Sanayide yeşil dönüşüm için TÜBİTAK destek çağrısı açık. Ön kayıt için son tarih otuz Aralık!",
+   "Bin sekiz yüz otuz iki, Sanayide Yeşil Dönüşüm çağrısı dokuz Kasım'da açıldı. Ön kayıt otuz Aralık'a, proje başvurusu dört Ocak'a kadar.",
+   "KOBİ'ler ve büyük ölçekli sanayi kuruluşları başvurabiliyor. Elektrik ve su tasarrufu, atık azaltımı ve yeşil teknoloji projeleri öncelikli.",
+   "Ön kaydı süre dolmadan yapın, enerji, su ve atık hedeflerinizi ölçülebilir kurun. Şartları resmî çağrı duyurusundan kontrol edin.",
+   "Proje hazırlığında destek için profildeki WhatsApp butonuna dokunun ya da bizi arayın. Numaralarımız ekranda."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1726169118922-920faf36bd1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 5,
+   "elements": [
+    {
+     "text": "HATIRLATMA · TÜBİTAK",
+     "x": 96,
+     "y": 980,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Sanayide yeşil dönüşüme destek",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 100,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1684183528807-271f52406d3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6.5,
+   "elements": [
+    {
+     "text": "NE OLDU?",
+     "x": 96,
+     "y": 860,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "1832 · 2026-3 çağrısı açık",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ön kayıt son gün: 30 Aralık 2026",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Proje gönderimi: 4 Ocak 2027",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1710189605189-9b7e94dc04cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 9,
+   "elements": [
+    {
+     "text": "KİMİ ETKİLER?",
+     "x": 96,
+     "y": 820,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "KOBİ ve büyük işletmeyi",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Elektrik ve su tasarrufu",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Atık azaltma, geri dönüşüm",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Yenilikçi yeşil teknolojiler",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1763315156830-07870b159121?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6.5,
+   "elements": [
+    {
+     "text": "NE YAPMALI?",
+     "x": 96,
+     "y": 820,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Projeni şimdi hazırla",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#F28C0F",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ön kaydı süre dolmadan yap",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Enerji, su, atık hedefini ölç",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Şartları resmî duyurudan kontrol et",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1610651043590-5f837b5cb336?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 7,
+   "elements": [
+    {
+     "text": "Yeşil dönüşüm projen için bize ulaş",
+     "x": 72,
+     "y": 800,
+     "w": 936,
+     "size": 88,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ara  0216 434 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 50,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 1.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "WhatsApp  0532 138 51 54",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.8
+    },
+    {
+     "text": "0850 305 40 19 · info@tepedanismanlik.com.tr",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 36,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.2
+    },
+    {
+     "text": "Profildeki WhatsApp butonuna dokun",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "semi",
+     "color": "#F28C0F",
+     "at": 2.6
+    },
+    {
+     "text": "Yorumlara “YEŞİL” yaz, sana dönelim",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 38,
+     "font": "body",
+     "color": "#FFFFFF",
+     "at": 3.0
+    }
+   ]
+  }
+ ]
+}
