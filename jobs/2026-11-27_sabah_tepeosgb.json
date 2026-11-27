@@ -29,7 +29,7 @@
  },
  "scenes": [
   {
-   "photo": "https://images.unsplash.com/photo-1760963301666-582b92218a19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "photo": "https://images.unsplash.com/photo-1760970237216-17a474403b5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
    "fit": "cover",
    "dur": 4.5,
    "elements": [
@@ -105,7 +105,7 @@
    ]
   },
   {
-   "photo": "https://images.unsplash.com/photo-1700832082200-af7deeb63d9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "photo": "https://images.unsplash.com/photo-1763070282954-c6f7c27d6ffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
    "fit": "cover",
    "dur": 6,
    "elements": [
