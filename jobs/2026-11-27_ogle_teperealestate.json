@@ -1,0 +1,333 @@
+{
+ "out": "out/2026-11-27/ogle_teperealestate.mp4",
+ "scrim": "#010923",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/realestate.png",
+  "x": 64,
+  "y": 84,
+  "w": 190,
+  "end_w": 380,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/e775bb75-6a4f-45ba-b7cd-59ddd62e6f85.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "tr-TR",
+  "gender": "FEMALE",
+  "voice": "tr-TR-Chirp3-HD-Achernar",
+  "rate": 1.08,
+  "lines": [
+   "Evini satmak mı istiyorsun? Yılbaşından önce ya da sonra, ilk adım aynı.",
+   "En sık hata, evin değerini tahminle belirlemek. İlan aylarca bekler, pazarlık uzar, zaman kaybedersin.",
+   "Tepe Real Estate evini ücretsiz değerlendirir. Konuma, kata, bina yaşına ve bölgedeki gerçek satışlara bakarız.",
+   "Sonra süreci biz yönetiriz: profesyonel çekim ve ilan, ciddi alıcı eleme ve tapuya kadar takip.",
+   "Evinin değerini öğrenmek için profildeki WhatsApp butonuna dokun ya da bizi ara. Numaralarımız ekranda."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1689526723548-bde180de4ba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 4.5,
+   "elements": [
+    {
+     "text": "SATILIK EV · İSTANBUL",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Evini satmak mı istiyorsun?",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 92,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1648624219254-1adcd4e49bc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "EN SIK HATA",
+     "x": 96,
+     "y": 880,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Değeri tahmin etmek",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "İlan aylarca bekler",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Pazarlık uzar",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Zaman kaybedersin",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1752937878411-84d3c68ccb76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "TEPE REAL ESTATE",
+     "x": 96,
+     "y": 880,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Ücretsiz değerleme",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Konum, kat, bina yaşı ve bölgedeki gerçek satışlarla evinin değerini netleştiriyoruz.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#F3EBD6",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1657841961001-9fe2eb8c8088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "SATIŞ SÜRECİ",
+     "x": 96,
+     "y": 880,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Süreci biz yönetelim",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Profesyonel çekim ve ilan",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Ciddi alıcı eleme",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Tapuya kadar takip",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1668583029303-2d5b95e471bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 7,
+   "elements": [
+    {
+     "text": "Evinin değerini öğren.",
+     "x": 72,
+     "y": 800,
+     "w": 936,
+     "size": 84,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ara  0533 192 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 50,
+     "font": "bold",
+     "color": "#010923",
+     "at": 1.2,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "0850 305 40 19",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.8
+    },
+    {
+     "text": "Profildeki WhatsApp butonuna dokun",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "semi",
+     "color": "#E3B33F",
+     "at": 2.2
+    },
+    {
+     "text": "Yorumlara “DEĞERLEME” yaz, sana dönelim",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 38,
+     "font": "body",
+     "color": "#FFFFFF",
+     "at": 2.6
+    }
+   ]
+  }
+ ]
+}
