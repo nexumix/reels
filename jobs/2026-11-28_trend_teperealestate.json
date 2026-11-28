@@ -1,0 +1,371 @@
+{
+ "out": "out/2026-11-28/trend_teperealestate.mp4",
+ "scrim": "#010923",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/realestate.png",
+  "x": 64,
+  "y": 84,
+  "w": 190,
+  "end_w": 380,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/e775bb75-6a4f-45ba-b7cd-59ddd62e6f85.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "tr-TR",
+  "gender": "FEMALE",
+  "voice": "tr-TR-Chirp3-HD-Achernar",
+  "rate": 1.08,
+  "lines": [
+   "İstanbul'a fırtına uyarısı var. Peki fırtına hasarını DASK öder mi?",
+   "Hayır. DASK zorunlu deprem sigortasıdır. Fırtına hasarlarını karşılamaz.",
+   "Çatı, cam ve balkon hasarları için ayrı bir konut sigortası gerekir. Teminatları tek tek oku, yenileme tarihini kaçırma.",
+   "Kiracıysan hasarı hemen fotoğrafla ve ev sahibine yazılı haber ver. Ev sahibiysen sigortana süresinde başvur.",
+   "Mülkünün DASK ve sigorta takibini biz yapalım. Profildeki WhatsApp butonuna dokun ya da bizi ara. Numaralarımız ekranda."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1542221777328-f6a98e2eb4fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 4.5,
+   "elements": [
+    {
+     "text": "TREND · FIRTINA UYARISI",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Fırtına hasarını DASK öder mi?",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 92,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1518976024611-28bf4b48222e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "1 · DASK",
+     "x": 96,
+     "y": 880,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "DASK sadece deprem",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Zorunlu deprem sigortası",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Fırtına hasarı kapsam dışı",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Poliçeni kontrol et",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1711299700039-b6df3b7627e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "2 · KONUT SİGORTASI",
+     "x": 96,
+     "y": 880,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Fırtına için ayrı poliçe",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Çatı, cam, balkon hasarı",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Teminatları tek tek oku",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Yenileme tarihini kaçırma",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1501186758051-167ca3c0fde8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "3 · KİRACI & EV SAHİBİ",
+     "x": 96,
+     "y": 880,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Hasarı hemen bildir",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 96,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Fotoğrafla kayıt al",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Ev sahibine yazılı haber",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Sigortaya süresinde başvur",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1795173441923-2d2747e4bb17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 7,
+   "elements": [
+    {
+     "text": "DASK ve sigorta takibi bizde.",
+     "x": 72,
+     "y": 800,
+     "w": 936,
+     "size": 84,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ara  0533 192 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 50,
+     "font": "bold",
+     "color": "#010923",
+     "at": 1.2,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "0850 305 40 19",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.8
+    },
+    {
+     "text": "Profildeki WhatsApp butonuna dokun",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "semi",
+     "color": "#E3B33F",
+     "at": 2.2
+    },
+    {
+     "text": "Yorumlara “DASK” yaz, sana dönelim",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 38,
+     "font": "body",
+     "color": "#FFFFFF",
+     "at": 2.6
+    }
+   ]
+  }
+ ]
+}
