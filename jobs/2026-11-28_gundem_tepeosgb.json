@@ -249,7 +249,7 @@
      "w": 936,
      "size": 96,
      "font": "head",
-     "color": "#F28C0F",
+     "color": "#FFFFFF",
      "at": 0.5,
      "anim": "up"
     },
@@ -305,7 +305,7 @@
    "fit": "cover"
   },
   {
-   "photo": "https://images.unsplash.com/photo-1618607779902-5e491bf83477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "photo": "https://images.unsplash.com/photo-1701254962217-eacae7823519?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
    "dur": 7,
    "elements": [
     {

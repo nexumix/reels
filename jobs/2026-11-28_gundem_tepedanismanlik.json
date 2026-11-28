@@ -32,7 +32,7 @@
  },
  "scenes": [
   {
-   "photo": "https://images.unsplash.com/photo-1763560956421-b3e4083e9fc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "photo": "https://images.unsplash.com/photo-1766368535977-8216b26d226f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
    "dur": 5,
    "elements": [
     {
@@ -65,7 +65,7 @@
    "fit": "cover"
   },
   {
-   "photo": "https://images.unsplash.com/photo-1766368535977-8216b26d226f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "photo": "https://images.unsplash.com/photo-1646154034833-d10291080448?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
    "dur": 8,
    "elements": [
     {
