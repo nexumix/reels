@@ -1,0 +1,305 @@
+{
+ "out": "out/2026-11-28/sabah_tepeosgb.mp4",
+ "scrim": "#08295A",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/osgb.png",
+  "x": 64,
+  "y": 84,
+  "w": 230,
+  "end_w": 440,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/cf166bed-0030-451e-bc35-3660e24a92c0.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "tr-TR",
+  "gender": "MALE",
+  "voice": "tr-TR-Chirp3-HD-Achird",
+  "rate": 1.05,
+  "lines": [
+   "Ekibinin iş sağlığı ve güvenliği eğitimi en son ne zaman yapıldı? Yıl bitmeden kontrol et.",
+   "Eğitimler tehlike sınıfına göre tekrarlanır: çok tehlikelide yılda en az bir, tehlikelide iki yılda bir, az tehlikelide üç yılda bir.",
+   "Yeni başlayan çalışana işe başlamadan önce, iş ya da ekipman değiştiğinde ve uzun aradan dönenlere de eğitim gerekir.",
+   "Katılım listesi, sertifika ve eğitim kayıtları eksiksiz olsun. Denetimde bunlar istenir.",
+   "Eğitim planını yıl bitmeden birlikte tamamlayalım. Profildeki WhatsApp butonuna dokun ya da bizi ara; numaralarımız ekranda."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1652303518379-c0ef1c9fb2b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 4.5,
+   "elements": [
+    {
+     "text": "İSG EĞİTİMİ · YIL SONU",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Ekibinin İSG eğitimi kaç yıl önceydi?",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 88,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1759922378275-32d7ca8bbcca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "TEKRAR SÜRESİ",
+     "x": 96,
+     "y": 880,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Tehlike sınıfına göre",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 92,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Çok tehlikeli: yılda en az 1",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Tehlikeli: 2 yılda en az 1",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Az tehlikeli: 3 yılda en az 1",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#F28C0F40",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1755549746563-a7c0a391af36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "KİMLER İÇİN?",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Yeni başlayana da",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "İşe başlamadan önce, iş veya ekipman değişince ve uzun aradan dönüşte eğitim gerekir.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1778113048525-387745cbbc6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "BELGE & KAYIT",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 0.3,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Kayıtlar eksiksiz",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#F28C0F",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Katılım listesi, sertifika ve eğitim kayıtları dosyada hazır olsun.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1623217625065-57de1710475f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 7,
+   "elements": [
+    {
+     "text": "Eğitim planını yıl bitmeden tamamla.",
+     "x": 72,
+     "y": 800,
+     "w": 936,
+     "size": 80,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Ara  +90 216 434 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 50,
+     "font": "bold",
+     "color": "#08295A",
+     "at": 1.2,
+     "pill": "#F28C0F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "WhatsApp  +90 532 138 51 54",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.8
+    },
+    {
+     "text": "+90 850 305 40 19 · info@tepeosgb.com",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 36,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.2
+    },
+    {
+     "text": "Profildeki WhatsApp butonuna dokun",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "semi",
+     "color": "#F28C0F",
+     "at": 2.6
+    },
+    {
+     "text": "Yorumlara “EĞİTİM” yaz, sana dönelim",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 38,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,295 @@
+{
+ "out": "out/2026-11-28/sabah_teperealestate_en.mp4",
+ "scrim": "#010923",
+ "transition": 1.0,
+ "logo": {
+  "src": "tools/logos/realestate.png",
+  "x": 64,
+  "y": 84,
+  "w": 190,
+  "end_w": 380,
+  "end_y": 330
+ },
+ "music": {
+  "src": "https://cdn.orshot.com/library/music/e775bb75-6a4f-45ba-b7cd-59ddd62e6f85.m4a",
+  "volume": 0.15
+ },
+ "tts": {
+  "lang": "en-US",
+  "gender": "FEMALE",
+  "voice": "en-US-Chirp3-HD-Achernar",
+  "rate": 1.05,
+  "lines": [
+   "Own a flat in Istanbul? Short-term or long-term letting: which one really fits you?",
+   "Short-term stays need a fully furnished, guest-ready home, regular cleaning and check-ins, and an official permit for tourist rentals.",
+   "Long-term letting means steady occupancy, carefully screened tenants, and a clear written lease.",
+   "Either way, we handle it: professional photos, the listing, tenant screening, the contract and the handover, even while you're abroad.",
+   "Not sure which one fits your flat? Tap the WhatsApp button on our profile, or give us a call. Our numbers are on the screen."
+  ]
+ },
+ "scenes": [
+  {
+   "photo": "https://images.unsplash.com/photo-1698870157085-11632d2ddef8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 4.5,
+   "elements": [
+    {
+     "text": "ISTANBUL · FOREIGN OWNERS",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.2,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Short-term or long-term letting?",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 92,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.0,
+     "anim": "fade"
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1749703824872-3548e51ebdf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "SHORT-TERM",
+     "x": 96,
+     "y": 880,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Short stays",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Fully furnished & guest-ready",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 1.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Cleaning & check-ins",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    },
+    {
+     "text": "Official permit required",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 46,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.6,
+     "pill": "#E3B33F38",
+     "pad": [
+      26,
+      14
+     ],
+     "radius": 18
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1662059360215-f727513c534b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "LONG-TERM",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Long-term tenants",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Steady occupancy, carefully screened tenants and a clear written lease.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1561111283-8eff0e921cf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 6,
+   "elements": [
+    {
+     "text": "WE HANDLE IT",
+     "x": 96,
+     "y": 960,
+     "w": 900,
+     "size": 32,
+     "font": "bold",
+     "color": "#010923",
+     "at": 0.3,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "Fully managed",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 104,
+     "font": "head",
+     "color": "#E3B33F",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Photos, listing, screening, contract and handover, even while you're abroad.",
+     "x": 72,
+     "y": "auto",
+     "w": 900,
+     "size": 44,
+     "font": "body",
+     "color": "#EAF1FB",
+     "at": 1.8
+    }
+   ]
+  },
+  {
+   "photo": "https://images.unsplash.com/photo-1628936969837-e3afd8427bd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "fit": "cover",
+   "dur": 7,
+   "elements": [
+    {
+     "text": "Let's find the right plan.",
+     "x": 72,
+     "y": 800,
+     "w": 936,
+     "size": 80,
+     "font": "head",
+     "color": "#FFFFFF",
+     "at": 0.5,
+     "anim": "up"
+    },
+    {
+     "text": "Call  +90 533 192 83 73",
+     "x": 96,
+     "y": "auto",
+     "w": 900,
+     "size": 50,
+     "font": "bold",
+     "color": "#010923",
+     "at": 1.2,
+     "pill": "#E3B33F",
+     "pad": [
+      24,
+      12
+     ]
+    },
+    {
+     "text": "+90 850 305 40 19",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 44,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 2.2
+    },
+    {
+     "text": "Tap the WhatsApp button on our profile",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "semi",
+     "color": "#E3B33F",
+     "at": 2.6
+    },
+    {
+     "text": "Comment “LET” and we'll reach out",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 38,
+     "font": "semi",
+     "color": "#FFFFFF",
+     "at": 3.0
+    }
+   ]
+  }
+ ]
+}
