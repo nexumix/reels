@@ -20,12 +20,12 @@
   "voice": "tr-TR-Chirp3-HD-Achird",
   "rate": 1.06,
   "lines": [
-   "Binan yeni yangın kurallarına hazır mı? Yeni Bina Yangın Yönetmeliği yirmi yedi Kasım'da Resmî Gazete'de yayımlandı.",
-   "Eski yönetmeliğin yerini aldı. Yapım, kullanım, bakım ve denetim aşamalarının tamamını kapsıyor.",
-   "İşverenleri, site ve bina yöneticilerini, fabrika, depo ve ofisleri ilgilendiriyor. Belirli yapılarda yangın ekipleri ve yılda bir tahliye tatbikatı öngörülüyor; mevcut binalara uyum süresi var.",
-   "Tepe OSGB olarak dört adımda yanınızdayız: yangın risk analizi, acil durum planı güncellemesi, yangın ekibi eğitimi ve raporlu tahliye tatbikatı.",
-   "Sahada deneyimli iş güvenliği uzmanlarımız, işyeri hekimimiz ve eğitim ekibimizle tüm süreci tek çatı altında yönetiyoruz. İş güvenliğinin tepe noktası.",
-   "Uyum süresini son güne bırakmayın. Profildeki WhatsApp butonuna dokunun ya da bizi arayın, numaralarımız ekranda."
+   "Binan yeni yangın kurallarına hazır mı? Yeni Bina Yangın Yönetmeliği Resmî Gazete'de.",
+   "Eski yönetmelik yürürlükten kalktı. Yapımdan denetime her aşama yenilendi.",
+   "Belirli yapılarda yangın ekibi ve yılda bir tahliye tatbikatı öngörülüyor. Mevcut binalara uyum süresi var.",
+   "Tepe OSGB dört adımda uyumu sağlar: risk analizi, acil durum planı, yangın ekibi eğitimi ve raporlu tatbikat.",
+   "Deneyimli uzman, işyeri hekimi ve eğitim ekibi tek çatı altında. İş güvenliğinin tepe noktası.",
+   "Uyum süresini son güne bırakma. Hemen ara ya da profildeki WhatsApp butonuna dokun."
   ]
  },
  "scenes": [
@@ -219,8 +219,8 @@
    ]
   },
   {
-   "photo": "https://images.unsplash.com/photo-1584636633466-e1146b0c3518?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
-   "dur": 7,
+   "photo": "https://images.unsplash.com/photo-1731566838752-7113e0153d2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "dur": 6.5,
    "fit": "cover",
    "elements": [
     {
@@ -317,7 +317,7 @@
   },
   {
    "photo": "https://images.unsplash.com/photo-1683834022148-aa7f72749a3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
-   "dur": 7,
+   "dur": 6,
    "fit": "cover",
    "elements": [
     {
@@ -397,12 +397,12 @@
    ]
   },
   {
-   "photo": "https://images.unsplash.com/photo-1794171448758-bbe15816a74e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
+   "photo": "https://images.unsplash.com/photo-1648908542597-1ef84471d2bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=85&w=1600",
    "dur": 7.5,
    "fit": "cover",
    "elements": [
     {
-     "text": "Uyum süresini son güne bırakma",
+     "text": "Binanı birlikte hazırlayalım",
      "x": 72,
      "y": 800,
      "w": 936,
@@ -411,6 +411,16 @@
      "color": "#FFFFFF",
      "at": 0.5,
      "anim": "up"
+    },
+    {
+     "text": "Hemen ara, yol haritanı çıkaralım",
+     "x": 72,
+     "y": "auto",
+     "w": 936,
+     "size": 40,
+     "font": "semi",
+     "color": "#F28C0F",
+     "at": 0.9
     },
     {
      "text": "Ara  0216 434 83 73",
