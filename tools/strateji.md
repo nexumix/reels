@@ -5,6 +5,10 @@
 
 Amaç: milyonlarca izlenme, takip + yorum, yeni müşteri (telefon / WhatsApp / e-posta).
 
+> **28.11.2026 KULLANICI KARARI — İNGİLİZCE DURDURULDU:** İngilizce yayınlar hiçbir hesapta ilgi çekmedi → TÜM slotlar (sabah dahil, pazartesi OSGB dahil) TÜRKÇE. Aşağıdaki "Takvim" ve "EMLAK İNGİLİZCE AÇILARI" bölümlerindeki EN kuralları iptal; yabancı müşteri açıları (gurbetçi, yabancıya satış/kiralama) gerekirse Türkçe anlatılır. İngilizce yoruma yanıt yine İngilizce olabilir.
+
+> **28.11.2026 KULLANICI GERİ BİLDİRİMİ (KESİN):** (1) Danışmanlık reels'leri kötü gidiyor → Tepe Danışmanlık içeriklerinin ÇOĞUNLUĞU para / yatırım teşvikleri / hibe-destek programları (KOSGEB, kalkınma ajansları, TÜBİTAK, Eximbank, ihracat destekleri) / marka-patent tescili olacak; ISO ve diğer hizmetler haftada en fazla 1-2 kez, mümkünse "destek/kazanç" açısıyla. Tutar/oran/limit ASLA yazılmaz (kural 2). (2) Tüm hesaplarda stil: daha şık, premium, kurumsal, ilgi çekici; videonun sonunda NET yönlendirme ("Hemen ara, yol haritanı çıkaralım" + telefon/WhatsApp). Tepe tecrübesini vurgula (uydurma sayı yok; kuruluş yılı/müşteri sayısı kullanıcıdan gelirse kullan). (3) OSGB: Yeni Bina Yangın Yönetmeliği serisine yüklen; tutan sektör serileri (diş kliniği, kuaför) devam bölümleri.
+
 ## KESİN KURALLAR (ihlal = paylaşma)
 1. Ahlaksız, siyasi, ırkçı, dini, tartışmalı içerik YOK (gündem, parti, dini gün, ünlü kişi yok).
 2. FİYAT YOK: hiçbir tutar, ücret, TL/USD/EUR, indirim oranı, "ucuz/uygun fiyat", yatırım tutarı eşiği (ör. vatandaşlık tutarı) yazılmaz.
